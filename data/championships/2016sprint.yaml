@@ -1,0 +1,39 @@
+year: 2016
+type: Sprint
+results:
+  - category: Damen -15
+    valid: true
+    result:
+      - {name: Laura Wiedemayer}
+      - {name: Nilla Bogensperger}
+      - {name: Kerstin Mödlhammer}
+  - category: Herren -15
+    valid: true
+    result:
+      - {name: Leon Ebster}
+      - {name: Peter Ebster}
+      - {name: Tim Lechner}
+  - category: Damen 16-
+    valid: true
+    result:
+      - {name: Andrea Strasser}
+      - {name: Birgit Eisl}
+      - {name: Karin Hillebrand}
+  - category: Herren 16-
+    valid: true
+    result:
+      - {name: Christian Wartbichler}
+      - {name: Manuel Gassner}
+      - {name: Samuel Markel}
+  - category: Damen 55-
+    valid: true
+    result:
+      - {name: Heidi Bordihn}
+      - {name: Eva Breitschädel}
+      - {name: Brigitte Müller}
+  - category: Herren 55-
+    valid: true
+    result:
+      - {name: Jakob Buchberger}
+      - {name: Karl Hackl}
+      - {name: Horst Mayer}      

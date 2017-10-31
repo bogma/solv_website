@@ -1,0 +1,27 @@
+year: 2007
+type: Sprint
+results:
+  - category: Damen -15
+    valid: true
+    result:
+      - {name: Alexander Breitfellner}
+      - {name: Sabine Stütz}
+      - {name: Bianca Erlinger}
+  - category: Herren -15
+    valid: true
+    result:
+      - {name: Lukas Scharnagl}
+      - {name: Kilian Mayer}
+      - {name: Mathias Wartbichler}
+  - category: Damen 16-
+    valid: true
+    result:
+      - {name: Elisa Elstner}
+      - {name: Lucie Rothauer}
+      - {name: Anna Elstner}
+  - category: Herren 16-
+    valid: true
+    result:
+      - {name: Christian Wartbichler}
+      - {name: Franz Helminger}
+      - {name: Wolfgang Kampel}

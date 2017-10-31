@@ -1,0 +1,27 @@
+year: 1999
+type: Staffel
+results:
+  - category: Damen
+    valid: true
+    result:
+      - {name: [Birgit Eisl, Christine Müller]}
+      - {name: [Julia Helminger, Traude Bischof]}
+      - {name: [Ingrid Simader, Brigitte Müller]}
+  - category: Herren
+    valid: true
+    result:
+      - {name: [Richard Gathercole, Norbert Helminger]}
+      - {name: [Franz Wirth, Leopold Tonka]}
+      - {name: [Thomas Umundum, Wolfgang Kampel]}
+  - category: Damen -17
+    valid: true
+    result:
+      - {name: [Ina Simader, Christina Propst]}
+      - {name: [Elisabeth Ebner, Melanie Sinnhofer]}
+      - {name: [Franziska Rogl, Stefanie Rogl]}
+  - category: Herren 35-
+    valid: true
+    result:
+      - {name: [Franz Wirth, Leopold Tonka]}
+      - {name: [Franz Helminger, Leo Müller]}
+      - {name: [Horst Mayer, Hartwig Rogl]}

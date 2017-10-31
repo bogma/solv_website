@@ -1,0 +1,24 @@
+year: 2012
+type: Sprint
+results:
+  - category: Damen -15
+    valid: false
+    note: nur Henndorfer am Start
+  - category: Herren -15
+    valid: true
+    result:
+      - {name: Florian Meier}
+      - {name: Simon Leitner}
+      - {name: M. Mikstetter + B. Pichler}
+  - category: Damen 16-
+    valid: true
+    result:
+      - {name: Lucie Rothauer}
+      - {name: Christine Gathercole}
+      - {name: Lisa Pesendorfer}
+  - category: Herren 16-
+    valid: true
+    result:
+      - {name: Christian Wartbichler}
+      - {name: Manuel Gassner}
+      - {name: Laurenz Elstner}

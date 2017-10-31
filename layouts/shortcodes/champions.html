@@ -1,0 +1,10 @@
+{{ range .Page.Site.Data.championships }}
+    <h3>Meister {{ .year }} im {{ .type }}</h3>
+    {{ range .results }}
+        <b>{{ .category }}</b>
+        {{ range $index, $element := .result }}
+            {{ $c := add $index 1 }}
+            <li>{{ $c }}. {{ $element.name }}</li>
+        {{ end }}
+    {{ end }}
+{{ end }}

@@ -1,0 +1,21 @@
+year: 2014
+type: Sprint
+results:
+  - category: Herren -15
+    valid: true
+    result:
+      - {name: Felix Ausweger}
+      - {name: Roman Schütz}
+      - {name: Florian Maier}
+  - category: Damen 16-
+    valid: true
+    result:
+      - {name: Lucie Rothauer}
+      - {name: Andrea Strasser}
+      - {name: Birgit Kern}
+  - category: Herren 16-
+    valid: true
+    result:
+      - {name: Markus König}
+      - {name: Manuel Gassner}
+      - {name: Mathias Kreuzer}

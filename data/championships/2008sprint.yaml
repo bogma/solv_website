@@ -1,0 +1,27 @@
+year: 2008
+type: Sprint
+results:
+  - category: Damen -15
+    valid: true
+    result:
+      - {name: Irina Mayer}
+      - {name: Saskia Kupfner}
+      - {name: Julia Obermann}
+  - category: Herren -15
+    valid: true
+    result:
+      - {name: Simon Rheinfrank}
+      - {name: Clemens Schütz}
+      - {name: Christoph Schlager}
+  - category: Damen 16-
+    valid: true
+    result:
+      - {name: Lucie Rothauer}
+      - {name: Christine Gathercole}
+      - {name: Edith Müller}
+  - category: Herren 16-
+    valid: true
+    result:
+      - {name: Norbert Helminger}
+      - {name: Robert Merl}
+      - {name: Franz Helminger}

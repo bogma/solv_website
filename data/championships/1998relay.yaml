@@ -1,0 +1,15 @@
+year: 1998
+type: Staffel
+results:
+  - category: Damen
+    valid: true
+    result:
+      - {name: [Andrea Eisl, Christine Müller]}
+      - {name: [Birgit Eisl, Edith Müller]}
+      - {name: [Heda Kusynova, Eva Bermadinger]}
+  - category: Herren
+    valid: true
+    result:
+      - {name: [Felix Breitschädel, Tobias Breitschädel]}
+      - {name: [Richard Gathercole, Norbert Helminger]}
+      - {name: [Edi Böhm, Jakob Buchberger]}

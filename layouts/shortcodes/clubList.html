@@ -1,0 +1,8 @@
+{{ range .Site.Data.clubs.club }}
+{{ $c := . }}
+<tr>
+    <td>{{$c.name}}</td>
+    <td>{{$c.board}}</td>
+    <td>{{$c.membercount}}</td>
+</tr>
+{{ end }}

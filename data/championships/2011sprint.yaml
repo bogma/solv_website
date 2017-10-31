@@ -1,0 +1,27 @@
+year: 2011
+type: Sprint
+results:
+  - category: Damen -15
+    valid: true
+    result:
+      - {name: Maria Prähauser}
+      - {name: Ana Rakovic}
+      - {name: Yvonne Kupfner}
+  - category: Herren -15
+    valid: true
+    result:
+      - {name: Roman Schütz}
+      - {name: Felix Ausweger}
+      - {name: Stefan Rainer}
+  - category: Damen 16-
+    valid: true
+    result:
+      - {name: Christine Gathercole}
+      - {name: Karin Hillebrand}
+      - {name: Edith Müller}
+  - category: Herren 16-
+    valid: true
+    result:
+      - {name: Robert Merl}
+      - {name: Norbert Helminger}
+      - {name: Markus König}

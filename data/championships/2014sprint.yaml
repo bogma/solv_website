@@ -1,0 +1,27 @@
+year: 2014
+type: Sprint
+results:
+  - category: Damen -15
+    valid: true
+    result:
+      - {name: Laura Wiedemayer}
+      - {name: Nilla Bogensperger}
+      - {name: Kerstin Mödlhammer}
+  - category: Herren -15
+    valid: true
+    result:
+      - {name: Stefan Rainer}
+      - {name: Samuel Markel}
+      - {name: Tobias Aigner}
+  - category: Damen 16-
+    valid: true
+    result:
+      - {name: Lucie Rothauer}
+      - {name: Andrea Strasser}
+      - {name: Heda Perner}
+  - category: Herren 16-
+    valid: true
+    result:
+      - {name: Robert Merl}
+      - {name: Christian Wartbichler}
+      - {name: Lukas Scharnagl}

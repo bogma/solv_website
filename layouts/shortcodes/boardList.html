@@ -1,0 +1,10 @@
+{{ range .Site.Data.board.person }}
+{{ $p := . }}
+<tr>
+    <td>{{$p.name}}</td>
+    <td>{{$p.position}}</td>
+    <td>{{$p.address1}}<br/>{{$p.address2}}</td>
+    <td>{{$p.phone}}</td>
+    <td>{{$p.email}}</td>
+</tr>
+{{ end }}
