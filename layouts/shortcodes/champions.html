@@ -1,20 +1,24 @@
 <script src="/js/isotope.pkgd.min.js" async></script>
-<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/isotope.css">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/champions.css">
 
 <div class="grid" data-isotope='{ "itemSelector": ".grid-item", "layoutMode": "fitRows" }'></div>
 <div class="grid">
-  <div class="grid-item">A</div>
-  <div class="grid-item grid-item--width2">B</div>
-  <div class="grid-item">C</div>
-</div>
 
 {{ range .Page.Site.Data.championships }}
-    <h3>Meister {{ .year }} im {{ .type }}</h3>
+    {{ $y := .year }}
+    {{ $t := .type }}
+    {{ $n := .name }}
     {{ range .results }}
-        <b>{{ .category }}</b>
+    <div class="element-item {{ $t }}">
+        <h3 class="name">{{ $n }}</h3>
+        <p class="cat">{{ .category }}</p>
+        <p class="year">{{ $y }}</p>
         {{ range $index, $element := .result }}
             {{ $c := add $index 1 }}
-            <li>{{ $c }}. {{ $element.name }}</li>
+            <p>{{ $c }}. {{ $element.name }}</p>
         {{ end }}
+    </div>
     {{ end }}
 {{ end }}
+
+</div>
