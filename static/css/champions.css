@@ -4,11 +4,11 @@
 .element-item {
   position: relative;
   float: left;
-  width: 200px;
-  height: 100px;
+  width: 300px;
+  height: 200px;
   margin: 5px;
   padding: 10px;
-  background: #888;
+  background: rgb(236, 231, 231);
   color: #262524;
 }
 
@@ -17,34 +17,25 @@
   padding: 0;
 }
 
-.element-item .nameold {
-  position: absolute;
-
-  left: 10px;
-  top: 60px;
-  text-transform: none;
-  letter-spacing: 0;
-  font-size: 12px;
-  font-weight: normal;
-}
-
 .element-item .name {
-  position: absolute;
+  position: relative;
+  padding: 5px;
   left: 10px;
-  top: 0px;
-  font-size: 42px;
+  top: 10px;
+  font-size: 32px;
   font-weight: bold;
   color: white;
 }
 
 .element-item .cat {
-  position: center;
+  position: relative;
   font-size: 12px;
   font-weight: bold;
 }
 
 .element-item .year {
   position: absolute;
+  font-weight: bold;
   right: 8px;
   top: 5px;
 }
@@ -56,5 +47,6 @@
   font-size: 12px;
 }
 
-.element-item.relay   { background: #F00; background: hsl(   0, 100%, 50%); }
-.element-item.sprint  { background: #F80; background: hsl(  36, 100%, 50%); }
+.element-item .name.relay   { background: #F00; background: hsl(   0, 100%, 50%); }
+.element-item .name.sprint  { background: #F80; background: hsl(  36, 100%, 50%); }
+.element-item .name.general  { background: rgb(255, 251, 0); background: rgb(217, 255, 0); }

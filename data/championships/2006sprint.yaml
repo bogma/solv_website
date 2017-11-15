@@ -1,5 +1,6 @@
 year: 2006
-type: Sprint
+type: sprint
+name: Sprint
 results:
   - category: Damen -15
     valid: true

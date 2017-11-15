@@ -1,5 +1,6 @@
 year: 2000
-type: Staffel
+type: relay
+name: Staffel
 results:
   - category: Damen
     valid: true

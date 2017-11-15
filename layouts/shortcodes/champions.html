@@ -9,13 +9,43 @@
     {{ $t := .type }}
     {{ $n := .name }}
     {{ range .results }}
-    <div class="element-item {{ $t }}">
-        <h3 class="name">{{ $n }}</h3>
+    <div class="element-item">
+        <h3 class="name {{ $t }}">{{ $n }}</h3>
         <p class="cat">{{ .category }}</p>
         <p class="year">{{ $y }}</p>
         {{ range $index, $element := .result }}
             {{ $c := add $index 1 }}
-            <p>{{ $c }}. {{ $element.name }}</p>
+            {{ if eq $c 1 }}
+                <p class="gold">
+                    {{ if eq $t "relay" }}
+                        {{ range $element.name }}
+                            {{ . }} / 
+                        {{ end }}
+                    {{ else }}
+                        {{ $element.name }}
+                    {{ end }}
+                </p>
+            {{ else if eq $c 2 }}
+                <p class="silver">
+                    {{ if eq $t "relay" }}
+                        {{ range $element.name }}
+                            {{ . }} / 
+                        {{ end }}
+                    {{ else }}
+                        {{ $element.name }}
+                    {{ end }}
+                </p>
+            {{ else if eq $c 3 }}
+                <p class="bronze">
+                    {{ if eq $t "relay" }}
+                        {{ range $element.name }}
+                            {{ . }} / 
+                        {{ end }}
+                    {{ else }}
+                        {{ $element.name }}
+                    {{ end }}
+                </p>
+            {{ end }}            
         {{ end }}
     </div>
     {{ end }}
