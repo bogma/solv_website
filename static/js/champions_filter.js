@@ -1,8 +1,13 @@
 // init Isotope
 var $grid = $('.grid').isotope({
     itemSelector: '.element-item',
-    layoutMode: 'fitRows'
-  });
+    layoutMode: 'fitRows',
+    getSortData: {
+      name: '.year'
+    },
+    sortBy: ['year'],
+    sortAscending: false
+  }).isotope('updateSortData');
   // filter functions
   var filterFns = {
     // show if number is greater than 50
