@@ -5,24 +5,24 @@ results:
   - category: Damen -15
     valid: true
     result:
-      - {pos: 1, name: Laura Wiedemayer}
-      - {pos: 1, name: Nilla Bogensperger}
-      - {pos: 3, name: Kerstin Mödlhammer}
+      - {pos: 1, name: Laura Wiedemayer
+      - {pos: 1, name: Nilla Bogensperger
+      - {pos: 3, name: Kerstin Mödlhammer
   - category: Herren -15
     valid: true
     result:
-      - {name: Peter Ebster}
-      - {name: Wilhelm Josef}
-      - {name: Königstorfer Jonas}
+      - name: Peter Ebster
+      - name: Wilhelm Josef
+      - name: Königstorfer Jonas
   - category: Damen 16-
     valid: true
     result:
-      - {name: Andrea Strasser}
-      - {name: Karin Hillebrand}
-      - {name: Daniela Buchberger}
+      - name: Andrea Strasser
+      - name: Karin Hillebrand
+      - name: Daniela Buchberger
   - category: Herren 16-
     valid: true
     result:
-      - {name: Manuel Gassner}
-      - {name: Markus König}
-      - {name: Matthias Kreuzer}
+      - name: Manuel Gassner
+      - name: Markus König
+      - name: Matthias Kreuzer

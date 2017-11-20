@@ -5,18 +5,18 @@ results:
   - category: Herren -15
     valid: true
     result:
-      - {name: Simon Rheinfrank}
-      - {name: Felix Ausweger}
-      - {name: Philipp Hackl}
+      - name: Simon Rheinfrank
+      - name: Felix Ausweger
+      - name: Philipp Hackl
   - category: Damen 16-
     valid: true
     result:
-      - {name: Christine Gathercole}
-      - {name: Edith Müller}
-      - {name: Nicole Kucher}
+      - name: Christine Gathercole
+      - name: Edith Müller
+      - name: Nicole Kucher
   - category: Herren 16-
     valid: true
     result:
-      - {name: Franz Helminger}
-      - {name: Thomas Rothauer}
-      - {name: Florian Elstner}
+      - name: Franz Helminger
+      - name: Thomas Rothauer
+      - name: Florian Elstner

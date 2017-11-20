@@ -5,24 +5,24 @@ results:
   - category: Damen -15
     valid: true
     result:
-      - {name: Yvonne Kupfner}
-      - {name: Angela Pesendorfer}
-      - {name: Stefanie Kral}
+      - name: Yvonne Kupfner
+      - name: Angela Pesendorfer
+      - name: Stefanie Kral
   - category: Herren -15
     valid: true
     result:
-      - {name: Mario Mikstetter}
-      - {name: Tobias Aigner}
-      - {name: Stefan Rainer}
+      - name: Mario Mikstetter
+      - name: Tobias Aigner
+      - name: Stefan Rainer
   - category: Damen 16-
     valid: true
     result:
-      - {name: Andrea Strasser}
-      - {name: Christine Gathercole}
-      - {name: Margit Elstner}
+      - name: Andrea Strasser
+      - name: Christine Gathercole
+      - name: Margit Elstner
   - category: Herren 16-
     valid: true
     result:
-      - {name: Markus König}
-      - {name: Matthias Kreuzer}
-      - {name: Erkka Harju-Säntti}
+      - name: Markus König
+      - name: Matthias Kreuzer
+      - name: Erkka Harju-Säntti

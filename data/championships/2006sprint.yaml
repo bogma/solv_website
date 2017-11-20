@@ -5,24 +5,24 @@ results:
   - category: Damen -15
     valid: true
     result:
-      - {name: Alexander Breitfellner}
-      - {name: Sabine Stütz}
-      - {name: Marianne Wörndl}
+      - name: Alexander Breitfellner
+      - name: Sabine Stütz
+      - name: Marianne Wörndl
   - category: Herren -15
     valid: true
     result:
-      - {name: Kevin Hackl}
-      - {name: Simon Rheinfrank}
-      - {name: Laurenz Elstner}
+      - name: Kevin Hackl
+      - name: Simon Rheinfrank
+      - name: Laurenz Elstner
   - category: Damen 16-
     valid: true
     result:
-      - {name: Lucie Rothauer}
-      - {name: Christine Gathercole}
-      - {name: Anna Elstner}
+      - name: Lucie Rothauer
+      - name: Christine Gathercole
+      - name: Anna Elstner
   - category: Herren 16-
     valid: true
     result:
-      - {name: Christian Wartbichler}
-      - {name: Manuel Wiesberger}
-      - {name: Wolfgang Kampel}
+      - name: Christian Wartbichler
+      - name: Manuel Wiesberger
+      - name: Wolfgang Kampel
