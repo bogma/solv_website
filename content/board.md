@@ -9,6 +9,7 @@ menu:
     identifier: "board"
 ---
 <table>
+    <thead>
     <tr>
         <td>Name</td>
         <td>Funktion</td>
@@ -16,5 +17,8 @@ menu:
         <td>Telefon</td>
         <td>E-Mail</td>
     </tr>
+    </thead>
+    <tbody>
     {{< boardList >}}
+    </tbody>
 </table>

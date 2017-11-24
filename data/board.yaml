@@ -1,0 +1,90 @@
+person:
+  - position: Obmann
+    name: Franz Nagele
+    address1: Unterfeldstraße 15
+    address2: A-5071 Wals
+    phone: 0662/855508
+    email: franz.nagele@aon.at
+  - position: Obmann Stellvertreter
+    name: Eva Breitschädel
+    address1: Grafenwies 4
+    address2: A-5302 Henndorf
+    phone: 0664/4245042
+    email: breitschaedel@aon.at
+  - position: Kassier
+    name: Julia Helminger
+    address1: Walserstraße 91
+    address2: A-5071 Wals
+    phone: 0662/850109
+    email: julia.helminger@gmail.com
+  - position: Kassier
+    name: Jakob Buchberger
+    address: ''
+    phone: 0680/2063608
+    email: buchberger.j@xlink.at
+  - position: Schriftführer
+    name: Brigitte Müller
+    address1: Hausstattstraße 33
+    address2: A-5302 Henndorf
+    phone: 06214/8544
+    email: BrigitteMueller@gmx.at
+  - position: Schriftführer
+    name: Horst Mayer
+    address1: Waidach 146a
+    address2: A-5421 Adnet
+    phone: 0699/11492084
+    email: horst.mayer@schule.at
+  - position: Rechnungsprüfer
+    name: Rosemarie Nowotny
+    address1: Thurnbergstraße 19
+    address2: A-5412 Puch
+    phone: 0662/626793
+    email: guenter.nowotny@aon.at
+  - position: Rechnungsprüfer
+    name: Daniela Rogl
+    address1: Sportplatzstraße 10/7
+    address2: A-5202 Neumarkt
+    phone: 06216/7100
+    email: rogl@gmx.at
+  - position: Rechnungsprüfer
+    name: Hartwig Rogl
+    address1: Sportplatzstraße 19
+    address2: A-5202 Neumarkt
+    phone: 06216/7100
+    email: rogl@gmx.at
+  - position: Pressereferent
+    name: Florian Elstner
+    address1: Drosselstraße 9A
+    address2: A-5302 Henndorf
+    phone: 06214/7907
+    email: felstner@mac.com
+  - position: Jugendreferent
+    name: Markus König
+    address1: Postwegsiedlung 24a
+    address2: A-5202 Neumarkt
+    phone: 0660/1681352
+    email: kington@gmx.at
+  - position: Seniorenreferent
+    name: Eduard Böhm
+    address1: Waldburgergasse 46a
+    address2: A-5026 Salzburg - Aigen
+    phone: 0662/623227
+    email: boehm.buero@six.at
+  - position: Vereinsvertreter
+    name: Leo Müller
+    address1: Hausstattstraße 33
+    address2: A-5302 Henndorf
+    phone: 06214/8544
+    email: leo.mueller@sbg.at
+  - position: Vereinsvertreter
+    name: Horst Mayer
+    address1: Waidach 146a
+    address2: A-5421 Adnet
+    phone: 0699/11492084
+    email: horst.mayer@schule.at
+  - position: Vereinsvertreter
+    name: Franz Wirth
+    address1: Eugen Müller Straße 69
+    address2: A-5020 Salzburg
+    phone: 0662/433807
+    email: frwirth@gmx.at
