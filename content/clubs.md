@@ -10,10 +10,14 @@ menu:
     identifier: "clubs"
 ---
 <table>
-    <tr>
-        <td>Verein</td>
-        <td>Obmann/Stellvertreter</td>
-        <td># Mitglieder</td>
-    </tr>
-    {{< clubList >}}
+    <thead>
+        <tr>
+            <th>Verein</th>
+            <th>Obmann/Stellvertreter</th>
+            <th># Mitglieder</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{< clubList >}}
+    </tbody>
 </table>

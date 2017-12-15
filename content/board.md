@@ -8,17 +8,18 @@ menu:
     name: "Vorstand"
     identifier: "board"
 ---
+
 <table>
     <thead>
-    <tr>
-        <td>Name</td>
-        <td>Funktion</td>
-        <td>Anschrift</td>
-        <td>Telefon</td>
-        <td>E-Mail</td>
-    </tr>
+        <tr>
+            <th>Name</th>
+            <th>Funktion</th>
+            <th>Anschrift</th>
+            <th>Telefon</th>
+            <th>E-Mail</th>
+        </tr>
     </thead>
     <tbody>
-    {{< boardList >}}
+        {{< boardList >}}
     </tbody>
 </table>

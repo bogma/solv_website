@@ -9,13 +9,20 @@
     <button data-filter=".relay">Staffel</button>
 </div>
 
+<p>
+    <select class="filters-select">
+      <option value="2000">2000</option>
+      <option value="2017">2017</option>
+    </select>
+</p>
+
 <div class="grid">
 {{ range .Page.Site.Data.championships }}
     {{ $y := .year }}
     {{ $t := .type }}
     {{ $n := .name }}
     {{ range .results }}
-    <div class="element-item {{ $t }}">
+    <div class="element-item {{ $t }} {{ $y }}">
         <h3 class="name {{ $t }}">{{ $n }}</h3>
         <p class="cat">{{ .category }}</p>
         <p class="year">{{ $y }}</p>

@@ -11,9 +11,9 @@ var $grid = $('.grid').isotope({
   // filter functions
   var filterFns = {
     // show if number is greater than 50
-    numberGreaterThan50: function() {
-      var number = $(this).find('.number').text();
-      return parseInt( number, 10 ) > 50;
+    yearIs: function(y) {
+      var number = $(this).find('.year').text();
+      return parseInt( number ) == y;
     },
     // show if name ends with -ium
     ium: function() {
@@ -35,4 +35,9 @@ var $grid = $('.grid').isotope({
       $buttonGroup.find('.is-checked').removeClass('is-checked');
       $( this ).addClass('is-checked');
     });
+  });
+
+  // bind filter on select change
+  $('.filters-select').on( 'change', function() {
+    $grid.isotope({ filter: this.value });
   });
