@@ -1,8 +1,19 @@
 baseURL = "/"
 languageCode = "de-de"
 title = "SOLV"
-theme = "blackburn"
+theme = "solv-one"
 
 [permalinks]
 	post = "/:year/:month/:filename/"
 	code = "/:filename/"
+
+[params]
+	# Date and time formatting, see https://gohugo.io/functions/format/
+	time_format_RFC3339 = "2006-01-02T15:04:05Z07:00"
+	time_format_RFC822 = "Mon, 02 Jan 2006 15:04:05 -0700" 
+	time_format_default = "Jan 2, 2006"
+
+	description = """
+  Let&rsquo;s&nbsp;Encrypt is a free, automated, and open certificate
+  authority brought to you by the non-profit Internet Security Research Group (ISRG).
+"""

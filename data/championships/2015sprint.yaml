@@ -5,9 +5,12 @@ results:
   - category: Damen -15
     valid: true
     result:
-      - {pos: 1, name: Laura Wiedemayer
-      - {pos: 1, name: Nilla Bogensperger
-      - {pos: 3, name: Kerstin Mödlhammer
+      - pos: 1
+        name: Laura Wiedemayer
+      - pos: 1
+        name: Nilla Bogensperger
+      - pos: 3
+        name: Kerstin Mödlhammer
   - category: Herren -15
     valid: true
     result:
