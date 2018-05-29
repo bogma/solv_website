@@ -49,4 +49,4 @@ Temporary Items
 # ==========================
 # Custom
 # ==========================
-themes/
+themes/[a-r]*/
