@@ -1,12 +1,12 @@
 ---
 title: "Vorstand des Salzburger Orientierungslaufverband"
 date: 2017-09-22T21:45:00+02:00
-tpye: "page"
-showBreadcrumb: "true"
 menu:
   main:
-    name: "Vorstand"
+    weight: 20
+    name: "Über uns"
     identifier: "board"
+    parent: "solv"
 ---
 
 <table>

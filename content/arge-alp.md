@@ -1,13 +1,13 @@
 ---
 title: "ARGE Alp"
-date: 2017-12-15T17:46:00+02:00
 tpye: "page"
 showBreadcrumb: "true"
 menu:
   main:
     name: "ARGE Alp"
-    weight: 1001
+    weight: 120
     identifier: "argealp"
+    parent: solv
 ---
 
 - <a href="http://www.orienteering-lombardia.it/argealp2015" target="_blank">2015 Lombardei</a>

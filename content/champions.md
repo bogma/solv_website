@@ -7,6 +7,7 @@ menu:
   main:
     name: "Meister"
     identifier: "champions"
+    parent: events
 ---
 
 {{< champions >}}

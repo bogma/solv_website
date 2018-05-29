@@ -1,8 +1,37 @@
 baseURL = "/"
 languageCode = "de-de"
 title = "SOLV"
-theme = "blackburn"
+theme = "solv"
 
 [permalinks]
 	post = "/:year/:month/:filename/"
 	code = "/:filename/"
+
+[[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "solv"
+    name = "SOLV"
+    url = "/about/"
+    weight = 20
+
+[[menu.main]]
+    identifier = "events"
+    name = "CUP & Meisterschaften"
+    url = "/events/"
+    weight = 30
+
+     # This appears at the top of the sidebar above params.intro.header.
+  # A width of less than 100px is recommended from a design perspective.
+  [params.intro.pic]
+    src       = "/img/solv_logo_1.png"
+    # Sets Image to be a cirlce
+    circle    = false
+    # Sets Image to be Future Imperfect's hexagon
+    imperfect = true
+    width     = ""
+    alt       = "Hugo Future Imperfect"

@@ -1,14 +1,15 @@
 ---
-title: "Vereine des Salzburger Orientierungslaufverband"
+title: "OL Karten in Salzburger"
 date: 2017-09-22T21:45:00+02:00
-tpye: "page"
-showBreadcrumb: "true"
 menu:
   main:
-    name: "Vereine"
-    weight: 50
-    identifier: "clubs"
+    name: "Karten"
+    weight: 110
+    identifier: "maps"
+    parent: "solv"
 ---
+
+# Vereine des Salzburger Orientierungslaufverband
 <table>
     <thead>
         <tr>
