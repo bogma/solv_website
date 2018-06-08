@@ -2,7 +2,7 @@
 title: "Partnerschaft Trentino"
 date: 2017-12-15T17:45:00+02:00
 tpye: "page"
-showBreadcrumb: "true"
+top_graphic: 1
 menu:
   main:
     name: "Partnerschaft"
@@ -10,8 +10,7 @@ menu:
     identifier: "partnership"
     parent: solv
 ---
-
-![image alt text](/img/sbg_trento_wappen.jpg)
+{{< figure src="/images/sbg_trento_wappen.jpg" class="floatleft" >}}
 
 Am **2. Oktober 1981** hatten der **Salzburger Landeshauptmann Dr. Wilfried Haslauer** und der **Präsident der Autonomen Provinz Trentino Dr. Flavio Mengoni** in der Salzburger Residenz das **Partnerschaftsabkommen** unterzeichnet. Das entsprechende Durchführungsübereinkommen wurde am 22. Mai 1982 im Castello Buonconsiglio in Trient feierlich unterzeichnet. Dabei wurden zunächst eine enge Zusammenarbeit der Archivare, der Austausch von Archivaren, die Zusammenarbeit zwischen den Universitäten, insbesondere den romanischen und germanistischen Instituten, ein Erfahrungsaustausch über die Musikausbildung, der Austausch von Kammermusik- und Volksmusikensemblen, eine Zusammenarbeit bei den Amateurfilmwochen, insbesondere bei den Arge Alp- Bergfilmfestivals Trient und Salzburg, ein Künstleraustausch, ein Schüleraustausch und Sprachkurse vereinbart.
 

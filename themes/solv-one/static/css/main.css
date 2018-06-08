@@ -2,13 +2,6 @@
 
 .statsgraph { display: block; text-align: center; max-width: 100%; width: 100%; }
 
-/* Open Sans @font-face kit */
-@font-face { font-family: 'Open Sans'; src: url("/fonts/OpenSans-Light.eot"); src: url("/fonts/OpenSans-Light.eot?#iefix") format("embedded-opentype"), url("/fonts/OpenSans-Light.woff") format("woff"), url("/fonts/OpenSans-Light.ttf") format("truetype"), url("/fonts/OpenSans-Light.svg#OpenSansLight") format("svg"); font-weight: 300; font-style: normal; }
-
-@font-face { font-family: 'Open Sans'; src: url("/fonts/OpenSans-Regular.eot"); src: url("/fonts/OpenSans-Regular.eot?#iefix") format("embedded-opentype"), url("/fonts/OpenSans-Regular.woff") format("woff"), url("/fonts/OpenSans-Regular.ttf") format("truetype"), url("/fonts/OpenSans-Regular.svg#OpenSansRegular") format("svg"); font-weight: 400; font-style: normal; }
-
-@font-face { font-family: 'Open Sans'; src: url("/fonts/OpenSans-Bold.eot"); src: url("/fonts/OpenSans-Bold.eot?#iefix") format("embedded-opentype"), url("/fonts/OpenSans-Bold.woff") format("woff"), url("/fonts/OpenSans-Bold.ttf") format("truetype"), url("/fonts/OpenSans-Bold.svg#OpenSansBold") format("svg"); font-weight: bold; font-style: normal; }
-
 /*!
 Pure v0.6.0
 Copyright 2014 Yahoo! Inc. All rights reserved.
@@ -500,11 +493,36 @@ body { font-family: "Open Sans", Helvetica, Arial, sans-serif; font-size: 16px; 
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
 
+h2 {clear: left;}
+
 /** Images */
 img { max-width: 100%; vertical-align: middle; }
 
 /** Figures */
 figure > img { display: block; }
+
+figure.pressinfo {
+  float: right;
+  width: 50%;
+  text-align: center;
+  font-style: italic;
+  font-size: small;
+  text-indent: 0;
+} 
+figure.pressinfo > img { border: thin silver solid; margin: 0.5em; padding: 0.5em; }
+
+figure.floatleft {
+  float: left;
+  width: 20%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 0.5em;
+}
+
+figure.floatleft > img { border: thin silver solid; margin: 0.5em; padding: 0.5em; width: 80%; display: block; margin-left: auto; margin-right: auto; }
+
 
 figcaption { font-size: 14px; }
 

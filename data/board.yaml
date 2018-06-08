@@ -1,11 +1,11 @@
 person:
-  - position: Obmann
+  - position: Präsident
     name: Franz Nagele
     address1: Unterfeldstraße 15
     address2: A-5071 Wals
     phone: 0662/855508
     email: franz.nagele@aon.at
-  - position: Obmann Stellvertreter
+  - position: Vizepräsident
     name: Eva Breitschädel
     address1: Grafenwies 4
     address2: A-5302 Henndorf
@@ -70,19 +70,19 @@ person:
     address2: A-5026 Salzburg - Aigen
     phone: 0662/623227
     email: boehm.buero@six.at
-  - position: Vereinsvertreter
+  - position: Vereinsvertreter (ASKÖ Henndorf)
     name: Leo Müller
     address1: Hausstattstraße 33
     address2: A-5302 Henndorf
     phone: 06214/8544
     email: leo.mueller@sbg.at
-  - position: Vereinsvertreter
+  - position: Vereinsvertreter (SSV Hallein)
     name: Horst Mayer
     address1: Waidach 146a
     address2: A-5421 Adnet
     phone: 0699/11492084
     email: horst.mayer@schule.at
-  - position: Vereinsvertreter
+  - position: Vereinsvertreter (HSV Wals)
     name: Franz Wirth
     address1: Eugen Müller Straße 69
     address2: A-5020 Salzburg

@@ -1,10 +1,7 @@
 {{ range .Site.Data.board.person }}
 {{ $p := . }}
 <tr>
-    <td>{{$p.name}}</td>
-    <td>{{$p.position}}</td>
-    <td>{{$p.address1}}<br/>{{$p.address2}}</td>
-    <td>{{$p.phone}}</td>
-    <td>{{$p.email}}</td>
+    <td class="column-1">{{$p.name}}</td>
+    <td class="column-2">{{$p.position}}</td>
 </tr>
 {{ end }}

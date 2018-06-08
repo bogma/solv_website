@@ -2,15 +2,17 @@ baseURL = "/"
 languageCode = "de-de"
 title = "SOLV"
 theme = "solv-one"
+copyright = "SOLV"
+
 
 [permalinks]
 	post = "/:year/:month/:filename/"
 	code = "/:filename/"
 
 [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
+    identifier = "post"
+    name = "Posts"
+    url = "/post/"
     weight = 10
 
 [[menu.main]]
@@ -25,13 +27,14 @@ theme = "solv-one"
     url = "/events/"
     weight = 30
 
+[[menu.main]]
+    identifier = "impressum"
+    name = "Impressum"
+    url = "/impressum/"
+    weight = 40
+
 [params]
 	# Date and time formatting, see https://gohugo.io/functions/format/
 	time_format_RFC3339 = "2006-01-02T15:04:05Z07:00"
 	time_format_RFC822 = "Mon, 02 Jan 2006 15:04:05 -0700" 
 	time_format_default = "Jan 2, 2006"
-
-	description = """
-  Let&rsquo;s&nbsp;Encrypt is a free, automated, and open certificate
-  authority brought to you by the non-profit Internet Security Research Group (ISRG).
-"""

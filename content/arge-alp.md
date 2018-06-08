@@ -1,7 +1,7 @@
 ---
 title: "ARGE Alp"
 tpye: "page"
-showBreadcrumb: "true"
+top_graphic: 1
 menu:
   main:
     name: "ARGE Alp"
