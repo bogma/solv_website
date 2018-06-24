@@ -1,8 +1,9 @@
 {{ range .Site.Data.clubs.club }}
 {{ $c := . }}
 <tr>
-    <td>{{$c.name}}</td>
-    <td>{{$c.board}}</td>
-    <td>{{$c.membercount}}</td>
+    <td> {{ if isset $c "website" }} <a href="http://{{$c.website}}"><b>{{$c.name}}</b></a> {{ else }} <b>{{$c.name}}</b> {{ end }} </td>
+    <td> {{ if isset $c "logo" }} <img src="{{$c.logo}}" alt="Logo {{$c.short}}" style="display:block;margin-left:auto;margin-right:auto;"> {{ end }}</td>
+    <td> {{ range $c.board }} {{ $n := . }} {{$n.name}} <br/> {{ end }} </td>
+    <td> {{$c.membercount}} </td>
 </tr>
 {{ end }}

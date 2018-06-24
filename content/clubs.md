@@ -16,6 +16,7 @@ menu:
     <thead>
         <tr>
             <th>Verein</th>
+            <th/>
             <th>Obmann/Stellvertreter</th>
             <th># Mitglieder</th>
         </tr>
