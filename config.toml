@@ -1,9 +1,8 @@
 baseURL = "/"
 languageCode = "de-de"
 title = "SOLV"
-theme = "solv-one"
+theme = "solv-two"
 copyright = "SOLV"
-
 
 [permalinks]
 	post = "/:year/:month/:filename/"
@@ -12,13 +11,13 @@ copyright = "SOLV"
 [[menu.main]]
     identifier = "post"
     name = "Posts"
-    url = "/post/"
+    url = "/posts/"
     weight = 10
 
 [[menu.main]]
     identifier = "solv"
     name = "SOLV"
-    url = "/about/"
+    url = "/about-ol/"
     weight = 20
 
 [[menu.main]]

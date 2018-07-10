@@ -12,16 +12,4 @@ menu:
     parent: "solv"
 ---
 
-<table class="tablepress">
-    <thead>
-        <tr>
-            <th>Verein</th>
-            <th/>
-            <th>Obmann/Stellvertreter</th>
-            <th># Mitglieder</th>
-        </tr>
-    </thead>
-    <tbody>
-        {{< clubList >}}
-    </tbody>
-</table>
+{{< clubList >}}

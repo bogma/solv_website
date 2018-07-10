@@ -1,0 +1,33 @@
+<header class="site-header">
+  <a id="skiplink" href="#main-content">{{ i18n "header_skip_nav" }}</a>
+  <div uk-grid>
+    <nav class="uk-navbar-container" id="menu" uk-navbar>
+      <div class="uk-navbar-left">
+        <a href="{{ .Site.Home.RelPermalink }}" class="uk-navbar-item uk-logo" >
+          <img view src="/images/solv-logo.svg" class="uk-margin-small-right" uk-svg />SOLV
+        </a>
+      </div>
+      <div class="uk-navbar-right">
+        <ul class="uk-navbar-nav">
+          {{ range .Site.Menus.main }}
+          <li>
+            <a href="{{ .URL }}">{{ .Name }}</a>
+            {{ if .HasChildren }}
+            <div class="uk-navbar-dropdown">
+              <ul class="uk-nav uk-navbar-dropdown-nav">
+                {{ range .Children }}
+                <li>
+                  <a href="{{ .URL }}">{{ .Name }}</a>
+                </li>
+                {{ end }}
+              </ul>
+            </div>            
+            {{ end }}
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+    </nav>
+  </div>
+</header>
+<div id="main-content"></div>

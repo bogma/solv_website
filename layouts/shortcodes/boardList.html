@@ -1,7 +1,17 @@
-{{ range .Site.Data.board.person }}
-{{ $p := . }}
-<tr>
-    <td class="column-1">{{$p.name}}</td>
-    <td class="column-2">{{$p.position}}</td>
-</tr>
-{{ end }}
+<table class="uk-table uk-table-divider">
+    <!-- <thead>
+        <tr>
+            <th>Name</th>
+            <th>Funktion</th>
+        </tr>
+    </thead> -->
+    <tbody>
+        {{ range .Site.Data.board.person }}
+        {{ $p := . }}
+        <tr>
+            <td>{{$p.name}}</td>
+            <td>{{$p.position}}</td>
+      </tr>
+      {{ end }}
+    </tbody>
+</table>

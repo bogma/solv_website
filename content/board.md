@@ -16,14 +16,4 @@ Der SOLV veranstaltet Salzburger Meisterschaften, die Salzburg-Cup Serie sowie d
 
 Im Rahmen der ARGE Alp Sport vertritt eine Mannschaft des SOLV das Land Salzburg beim jährlichen Wettstreit der Alpen-Regionen.
 
-<table class="tablepress">
-    <!-- <thead>
-        <tr>
-            <th>Name</th>
-            <th>Funktion</th>
-        </tr>
-    </thead> -->
-    <tbody>
-        {{< boardList >}}
-    </tbody>
-</table>
+{{< boardList >}}

@@ -7,7 +7,7 @@ menu:
   main:
     weight: 10
     parent: solv
-    identifier: about_ol
+    identifier: about-ol
 ---
 
 Orientierungslauf - wie das Wort schon sagt, besteht der Orientierungslauf aus Orientieren und Laufen. Neben der physischen Voraussetzung sich einigermaßen schnell durch unwegsames Gelände bewegen zu können, muss auch der Geist und das Hirn mitspielen.
