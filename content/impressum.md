@@ -1,7 +1,12 @@
 ---
 title: "Impressum"
 date: 2018-05-30T00:00:00+02:00
-
+menu:
+  main:
+    weight: 200
+    name: "Impressum"
+    identifier: "impressum"
+    parent: "solv"
 ---
 
 Informationspflicht laut §5 E-Commerce Gesetz, §14 Unternehmensgesetzbuch, §63 Gewerbeordnung und Offenlegungspflicht laut §25 Mediengesetz.

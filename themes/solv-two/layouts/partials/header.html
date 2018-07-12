@@ -1,17 +1,17 @@
-<header class="site-header">
+<header>
   <a id="skiplink" href="#main-content">{{ i18n "header_skip_nav" }}</a>
-  <div uk-grid>
-    <nav class="uk-navbar-container" id="menu" uk-navbar>
+  <div class="uk-container">
+    <nav class="uk-navbar-container" id="menu" data-uk-navbar>
       <div class="uk-navbar-left">
         <a href="{{ .Site.Home.RelPermalink }}" class="uk-navbar-item uk-logo" >
-          <img view src="/images/solv-logo.svg" class="uk-margin-small-right" uk-svg />SOLV
+          <!-- <img view src="/images/solv-logo-horizontal.svg" class="uk-margin-small-right" uk-svg /> -->SOLV
         </a>
       </div>
-      <div class="uk-navbar-right">
+      <div class="uk-navbar-right uk-visible@m">
         <ul class="uk-navbar-nav">
           {{ range .Site.Menus.main }}
           <li>
-            <a href="{{ .URL }}">{{ .Name }}</a>
+            <a href="{{ .URL }}">{{ .Name }} {{ if .HasChildren }}<span data-uk-icon="icon: triangle-down"></span>{{ end }}</a>
             {{ if .HasChildren }}
             <div class="uk-navbar-dropdown">
               <ul class="uk-nav uk-navbar-dropdown-nav">
@@ -21,13 +21,16 @@
                 </li>
                 {{ end }}
               </ul>
-            </div>            
+            </div>
             {{ end }}
           </li>
           {{ end }}
+          <li class="uk-hidden@m"><a class="uk-navbar-toggle" data-uk-toggle data-uk-navbar-toggle-icon href="#offcanvas-nav"></a></li>
         </ul>
       </div>
     </nav>
   </div>
 </header>
 <div id="main-content"></div>
+
+

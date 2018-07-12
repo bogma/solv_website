@@ -16,7 +16,7 @@ copyright = "SOLV"
 
 [[menu.main]]
     identifier = "solv"
-    name = "SOLV"
+    name = "Verband"
     url = "/about-ol/"
     weight = 20
 
@@ -25,12 +25,6 @@ copyright = "SOLV"
     name = "CUP & Meisterschaften"
     url = "/events/"
     weight = 30
-
-[[menu.main]]
-    identifier = "impressum"
-    name = "Impressum"
-    url = "/impressum/"
-    weight = 40
 
 [params]
 	# Date and time formatting, see https://gohugo.io/functions/format/
