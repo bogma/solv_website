@@ -13,6 +13,7 @@
     <script src="{{ "js/uikit-icons.min.js" | relURL }}"></script>
     <link rel="stylesheet" href="{{ "css/additional.css" | relURL }}">
     <link rel="canonical" href="{{ .Permalink }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ "images/solv-logo-16x16.png" | relURL }}">
     {{ with .Site.Home.OutputFormats.Get "RSS" -}}
     <link rel="{{ .Rel }}" href="{{ .Permalink }}" type="application/rss+xml" title="SOLV Blog Feed" />
     {{ end  }}
