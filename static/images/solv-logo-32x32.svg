@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 32 32">
+  <path id="ring" d="M 16 16 m -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0" fill-opacity="1" fill="lightgray" stroke="black" stroke-width="3" />
+  <path id="upper-triangle" d="M 10 22 L 22 10 h-12 z" fill-opacity="1" fill="white" stroke-width="1" />
+  <path id="lower-triangle" d="M 10 22 L 22 10 v12 z" fill-opacity="1" fill="orange" stroke-width="1" />
+  <path id="needle" d="M 10 22 L 22 10" stroke="black" stroke-width="3" />
+  <path id="mark-n" d="M 16 2 v4" stroke="black" stroke-width="3" />
+  <path id="mark-s" d="M 16 30 v-4" stroke="black" stroke-width="3" />
+  <path id="mark-e" d="M 2 16 h4" stroke="black" stroke-width="3" />
+  <path id="mark-w" d="M 30 16 h-4" stroke="black" stroke-width="3" />
+</svg>
