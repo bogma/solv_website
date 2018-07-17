@@ -4,6 +4,7 @@
 		<h1 class="post-title">{{ .Title }}</h1>
 		<p class="post-meta">{{ .Date.Format $.Site.Params.time_format_default }}{{ with .Params.author }} • {{ . }}{{ end }}{{ with .Params.meta }} • {{ . }}{{ end }}</p>
 	</header>
+	SINGLE
 	<article class="post-content">
 		{{ .Content }}
 	</article>
