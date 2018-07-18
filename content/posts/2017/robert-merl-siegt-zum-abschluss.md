@@ -5,7 +5,8 @@ draft: true
 series: ["Presseinfo"]
 info_year: 2017
 info_number: 8
-place_date: ""
+info_place: "Henndorf, Peking"
+info_date: 2017-10-24
 ---
 
 # Henndorfer Robert Merl zum Abschluss des OL-Weltcups 7\. mit der Mixed-Sprint-Staffel

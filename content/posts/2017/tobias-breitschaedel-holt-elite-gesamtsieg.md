@@ -2,10 +2,16 @@
 title: "Tobias Breitschädel holt Elite-Gesamtsieg"
 date: 2018-05-31T18:07:39+02:00
 draft: true
-top_graphic: 2
+layout: pressinfo
 tags: ["Presseinfo"]
 info_year: 2017
 info_number: 10
+info_place: "Henndorf, Peking"
+info_date: 2017-10-24
+
+resources:
+- name: "test"
+  src: "images/pi_2017_10-1.jpg"
 ---
 
 {{< figure src="/images/pressinfo/pi_2017_10-1.jpg" caption="Elite-Gesamtsieger MTBO: Tobias Breitschädel" class="pressinfo" >}}
