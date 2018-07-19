@@ -9,7 +9,18 @@
 	</div>	
 	<!-- large image -->
 
-	{{ range .Page.Resources }}
+	<p>test 1</p>
+	{{ with .Resources.ByType "image" }}
+	<div >
+	{{ range . }}
+		<img src="{{ .RelPermalink }}">
+	{{ end }}
+	</div>
+	{{ end }}
+
+	<p>test 2</p>
+
+	{{ range .Resources }}
 		<p>{{ .Name }}"</p>
 	{{ end }}
 
