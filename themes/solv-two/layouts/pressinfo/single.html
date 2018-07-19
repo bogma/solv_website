@@ -1,0 +1,43 @@
+{{ define "main" }}
+<section class="uk-section uk-article">
+	<div class="uk-container uk-container-small">
+		<h2 class="uk-text-bold uk-h1 uk-margin-remove-adjacent uk-margin-remove-top">{{ .Title }}</h2>
+		<p class="uk-article-meta">{{ .Params.info_place }} • {{ .Params.info_date }}</p>
+		<p class="uk-text-lead">{{ .Params.lead }}</p>
+		<p class="uk-article-meta">Written on {{ .Date.Format $.Site.Params.time_format_default }}. Posted in 
+			<a href="#">Blog</a>
+			<span data-uk-icon="icon: future"></span>
+			Takes 7 min reading.
+		</p>
+		<p class="post-meta">{{ .Date.Format $.Site.Params.time_format_default }}{{ with .Params.author }} • {{ . }}{{ end }}{{ with .Params.meta }} • {{ . }}{{ end }}</p>
+	</div>
+
+	<!-- large image -->
+	{{ with .Resources.ByType "image" }}
+	<div class="uk-container uk-section">
+		<div class="uk-position-relative uk-visible-toggle uk-light" data-uk-slideshow="ratio: 7:3; animation: push; min-height: 270;">
+			<ul class="uk-slideshow-items">
+			{{ range . }}
+				<li>
+					<img src="{{ .RelPermalink }}" alt="" data-uk-cover>
+					<div class="uk-position-bottom uk-position-medium uk-text-center uk-light">
+					<h3 class="uk-margin-remove">Sed consequat urna.</h3>
+					<p class="uk-margin-remove uk-visible@s">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+					</div>
+				</li>
+			{{ end }}
+			</ul>
+			<a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" data-uk-slidenav-previous="ratio: 1.5" data-uk-slideshow-item="previous"></a>
+			<a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" data-uk-slidenav-next="ratio: 1.5" data-uk-slideshow-item="next"></a>
+		</div>
+	</div>
+	{{ end }}
+	<!-- /large image -->
+	
+	<!-- text -->
+	<div class="uk-container uk-container-small">
+		{{ .Content }}
+	</div>
+	<!-- text -->
+</section>
+{{ end }}

@@ -2,12 +2,10 @@
 title: "Kinder Und Anfängertraining"
 date: 2018-06-12T21:18:03+02:00
 draft: true
-type: pressinfo
 series: ["Presseinfo"]
-info_year: 2017
-info_number: 1
 info_date: 
-info_place: ""
+info_place: "Eine Initiative von junggebliebenen Familien bietet in den folgenden Monaten im Großraum der Stadt Salzburg Trainings für Kinder und Anfänger an."
+lead: ""
 ---
 
 Eine Initiative von junggebliebenen Familien bietet in den folgenden Monaten im Großraum der Stadt Salzburg Trainings für Kinder und Anfänger an.
@@ -29,5 +27,5 @@ Weitere Termine werden zeitgerecht veröffentlicht.
 
 Viel Vergnügen beim Kennenlernen des Orientierungslaufes!
 
-Franz Nagele 
+Franz Nagele
 PRÄSIDENT SOLV
