@@ -1,5 +1,5 @@
 {{ define "main" }}
-post list
+blog list
 <div class="blog">
   <ul class="post-list">
     {{ $posts := where .Site.RegularPages "Type" "in" (slice "posts") }}
