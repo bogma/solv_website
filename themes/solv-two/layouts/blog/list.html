@@ -1,25 +1,56 @@
 {{ define "main" }}
-blog list
-<div class="blog">
-  <ul class="post-list">
-    {{ $posts := where .Site.RegularPages "Type" "in" (slice "posts") }}
-    {{ range $posts }}
-    <li>
-      <span class="post-meta">{{ .Date.Format $.Site.Params.time_format_default }}</span>
-      <h2>
-      <a class="post-link" href="{{ .Permalink }}">{{ .Title }}</a>
-      </h2>
-      {{ with .Params.excerpt }}
-      {{ . | markdownify }}
-      {{ else }}
-      {{ .Summary }}
-      {{ end }}
-      <p><a href="{{ .Permalink }}">{{ i18n "read_more" }}</a></p>
-    </li>
-    {{ end }}
-  </ul>
-  {{ with .Site.Home.OutputFormats.Get "RSS" -}}
-  <p class="rss-subscribe">{{ i18n "subscribe_rss" . | safeHTML }}</p>
-  {{ end  }}
+<div class="uk-section uk-section-default">
+  <div class="uk-container">
+    <div class="uk-grid" data-ukgrid>
+      <div class="uk-width-2-3@m">
+        <h4 class="uk-heading-line uk-text-bold"><span>Latest Posts</span></h4>  <ul class="post-list">
+        {{ $posts := where .Site.RegularPages "Type" "in" (slice "posts") }}
+        {{ range $posts }}
+        <article>
+            <header>
+                <h2 class="uk-margin-remove-adjacent uk-text-bold uk-margin-small-bottom"><a title="{{ .Title }}" class="uk-link-reset" href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                <p class="uk-article-meta">Written on {{ .Date.Format $.Site.Params.time_format_default }}. Posted in <a href="#">Blog</a> | <span data-uk-icon="icon: future"></span> Takes 7 min reading.</p>
+              </header>
+              <!-- <figure>
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAEsCAYAAAA7Ldc6AAADuUlEQVR4nO3BgQAAAADDoPlTX+AIVQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMA3p/4AAaxRls8AAAAASUVORK5CYII=" data-src="https://picsum.photos/800/300/?random=1" width="800" height="300"  alt="Alt text" class="lazy" data-uk-img>
+                <figcaption class="uk-padding-small uk-text-center uk-text-muted">Caption of the image</figcaption>
+              </figure> -->
+              <p>
+              {{ with .Params.excerpt }}
+                {{ . | markdownify }}
+              {{ else }}
+                {{ .Summary }}
+              {{ end }}
+              </p>
+              <a href="{{ .Permalink }}" title="{{ i18n "read_more" }}" class="uk-button uk-button-default uk-button-small">{{ i18n "read_more" }}</a>
+              <hr/>
+        </article>
+        {{ end }}
+        {{ with .Site.Home.OutputFormats.Get "RSS" -}}
+        <p class="rss-subscribe">{{ i18n "subscribe_rss" . | safeHTML }}</p>
+        {{ end  }}
+      </div>
+      <div class="uk-width-1-3@m">
+        <h4 class="uk-heading-line uk-text-bold"><span>About Us</span></h4>
+        <div class="uk-tile uk-tile-small uk-tile-muted uk-border-rounded">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in.
+        </div>
+        <h4 class="uk-heading-line uk-text-bold"><span>Archive</span></h4>
+        <ul class="uk-list">
+        <li><a href="">March</a></li>
+        <li><a href="">February</a></li>
+        <li><a href="">January</a></li>
+        <li><a href="">December <small>(2017)</small></a></li>
+        <li><a href="">November <small>(2017)</small></a></li>
+        <li><a href="">October <small>(2017)</small></a></li>
+        <li><a href="">September <small>(2017)</small></a></li>
+        <li><a href="">August <small>(2017)</small></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>
 {{ end }}

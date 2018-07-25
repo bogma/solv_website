@@ -2,8 +2,10 @@
 <html lang="en">
   {{ partial "head" . }}
   <body>
-    {{ partial "header" . }}
-    {{ block "main" . }}{{ end }}
-    {{ partial "footer" . }}
+    <div class="uk-offcanvas-content">
+      {{ partial "header" . }}
+      {{ block "main" . }}{{ end }}
+      {{ partial "footer" . }}
+    </div>
   </body>
 </html>
