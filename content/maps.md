@@ -11,4 +11,4 @@ menu:
     parent: "solv"
 ---
 
-Hier sollte eine Übersicht über die Karten angezeigt werden.
+Hier soll eine Übersicht über die Karten angezeigt werden.

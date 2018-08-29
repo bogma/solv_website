@@ -2,7 +2,6 @@
 title: "Topresultate für Robert Merl bei Militär-WM"
 date: 2017-08-01T00:00:00+02:00
 draft: true
-series: ["Presseinfo"]
 author:
 info_date: 2017-07-16T00:00:00+02:00
 info_place: "Henndorf, Vitipalu (EST)"

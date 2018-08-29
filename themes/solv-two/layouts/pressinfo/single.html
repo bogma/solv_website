@@ -1,15 +1,10 @@
 {{ define "main" }}
 <section class="uk-section uk-article">
 	<div class="uk-container uk-container-small">
-		<h2 class="uk-text-bold uk-h1 uk-margin-remove-adjacent uk-margin-remove-top">{{ .Title }}</h2>
-		<p class="uk-article-meta">{{ .Params.info_place }} • {{ .Params.info_date }}</p>
-		<p class="uk-text-lead">{{ .Params.lead }}</p>
-		<p class="uk-article-meta">Written on {{ .Date.Format $.Site.Params.time_format_default }}. Posted in 
-			<a href="#">Blog</a>
-			<span data-uk-icon="icon: future"></span>
-			Takes 7 min reading.
-		</p>
-		<p class="post-meta">{{ .Date.Format $.Site.Params.time_format_default }}{{ with .Params.author }} • {{ . }}{{ end }}{{ with .Params.meta }} • {{ . }}{{ end }}</p>
+		{{ partial "article_header" . }}
+		<p class="uk-article-meta">{{ .Params.info_location }} • {{ .Params.info_date }}</p>
+		<p class="uk-text-lead">{{ .Summary | markdownify }}</p>
+		<!-- <p class="post-meta">{{ .Date.Format $.Site.Params.time_format_default }}{{ with .Params.author }} • {{ . }}{{ end }}{{ with .Params.meta }} • {{ . }}{{ end }}</p> -->
 	</div>
 
 	<!-- large image -->
@@ -36,7 +31,7 @@
 	
 	<!-- text -->
 	<div class="uk-container uk-container-small">
-		{{ .Content }}
+		{{ replace .Content .Summary "" | markdownify }}
 	</div>
 	<!-- text -->
 </section>

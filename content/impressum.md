@@ -1,5 +1,5 @@
 ---
-title: "Impressum"
+title: "Impressum, Haftungsausschluss, Datenschutz"
 date: 2018-05-30T00:00:00+02:00
 menu:
   main:
@@ -9,24 +9,42 @@ menu:
     parent: "solv"
 ---
 
+## Impressum
+
 Informationspflicht laut §5 E-Commerce Gesetz, §14 Unternehmensgesetzbuch, §63 Gewerbeordnung und Offenlegungspflicht laut §25 Mediengesetz.
 
-**ZVR:** 375267959
-
-**Organschaftliche Vertreter**
-
-Präsident: Franz Nagele
-
-Vizepräsident: Eva Breitschädel
-
-5071 Wals
-
-**Tel.:**
-
-**E-Mail:** office(at)solv.at
-
-**Vereinszweck:**
-Organisation und Förderung des Orientierungslaufsports im Land Salzburg.
+<table class="uk-table uk-table-divider uk-table-striped">
+    <tbody>
+        <tr>
+            <td>Name</td>
+            <td>Salzburger Orientierungslaufverband</td>
+        </tr>
+        <tr>
+            <td>Kurzbezeichnung</td>
+            <td>SOLV</td>
+        </tr>
+        <tr>
+            <td>ZVR-Zahl</td>
+            <td>375267959</td>
+        </tr>
+        <tr>
+            <td>Organschaftliche Vertreter</td>
+            <td>Präsident: Franz Nagele<br/>Vizepräsident: Eva Breitschädel</td>
+        </tr>
+        <tr>
+            <td>Sitz</td>
+            <td>Österreich, Salzburg, 5071 Wals</td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>office(at)solv.at</td>
+        </tr>
+        <tr>
+            <td>Vereinszweck</td>
+            <td>Organisation und Förderung des Orientierungslaufsports im Land Salzburg</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Haftung für Inhalte dieser Webseite
 
@@ -37,14 +55,6 @@ Unsere Webseite enthält Links zu anderen Webseiten für deren Inhalt wir nicht 
 
 ## Urheberrechtshinweis
 Alle Inhalte dieser Webseite (Bilder, Fotos, Texte, Videos) unterliegen dem Urheberrecht. Falls notwendig, werden wir die unerlaubte Nutzung von Teilen der Inhalte unserer Seite rechtlich verfolgen.
-
-## Bildernachweis
-Die Bilder, Fotos und Grafiken auf dieser Webseite sind urheberrechtlich geschützt.
-
-Die Bilderrechte liegen bei den folgenden Fotografen und Unternehmen:
-
-- Fotograf 1
-- Fotograf 1
 
 # Datenschutzerklärung
 

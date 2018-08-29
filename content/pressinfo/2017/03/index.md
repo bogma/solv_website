@@ -3,12 +3,16 @@ title: "Topresultate für Robert Merl bei Militär-WM"
 date: 2018-06-19T00:00:00+02:00
 draft: true
 author:
-series: ["Presseinfo"]
-info_date: 2017-06-12T00:00:00+02:00
-info_place: "Hamina (FIN)"
+categories: ["Presseinfo"]
+tags: ["International"]
+info:
+  date: 2017-06-12T00:00:00+02:00
+  location: "Hamina (FIN)"
 
-lead: "In den Wäldern um Hamina in Finnland fanden ab 12.6.2017 die diesjährigen Militärweltmeisterschaften unter schwierigen Geländeverhältnissen und unter wechselnden Wetterbedingungen statt."
 ---
+In den Wäldern um Hamina in Finnland fanden ab 12.6.2017 die diesjährigen Militärweltmeisterschaften unter schwierigen Geländeverhältnissen und unter wechselnden Wetterbedingungen statt.
+
+<!--more-->
 
 Zuerst ein 7. Platz in der Mitteldistanz:
 Allen voran konnte sich der Henndorfer Robert Merl trotz Verletzung unter 160 gestarteten Herren mit einem sensationellen 7. Rang erstmals in den Top 10 einer Militär-WM klassieren. Mit einem Rückstand von zirka zwei Minuten und einem technisch guten Lauf sichert er damit auch eine gute Ausgangsposition für die Mannschaftswertung. "Es lief für mich bis auf ein paar kleine Fehler im Postenraum optimal! Dies ist ein guter Beginn der wichtigsten Wettkämpfe dieser Saison." Militärweltmeister wurde nach 2013 der Este Timo Sild vor Olli-Markus Taiwainen und Miika Kirmula – beide aus Finnland.

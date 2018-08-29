@@ -2,14 +2,18 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: true
+author: ""
 type: pressinfo
-series: ["Presseinfo"]
-info_year: {{ now.Year }}
-info_number: 1
-info_date: {{ now.Year }}-01-01
-info_place: "Henndorf, "
+catetories: [ "Presseinfo" ]
+tags: []
+info:
+  location: "Henndorf, "
+  date: {{ .Date }}
+
 ---
 
-{{< figure src="/images/pressinfo/<image>" caption="<caption>" class="pressinfo" >}}
+summary text
 
-Pressinfotext
+<!--more-->
+
+more text

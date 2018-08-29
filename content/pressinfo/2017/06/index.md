@@ -2,7 +2,6 @@
 title: "Starker 25. Platz von Robert Merl zum Auftakt der 3. Runde des OL-Weltcups und Platz 10 bei der Staffel in Lettland"
 date: 2017-08-01T00:00:00+02:00
 draft: true
-series: ["Presseinfo"]
 author:
 info_date: 
 info_place: "Henndorf, Cesis (LAT)"

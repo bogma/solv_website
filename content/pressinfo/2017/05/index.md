@@ -2,7 +2,6 @@
 title: "Drei Top-Ten Ergebnisse für Tobias Breitschädel bei EM und WM"
 date: 2017-08-01T00:00:00+02:00
 draft: true
-series: ["Presseinfo"]
 author:
 info_date: 
 info_place: "Henndorf"

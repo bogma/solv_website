@@ -2,7 +2,6 @@
 title: "Henndorfer Robert Merl zum Abschluss des OL-Weltcups 7. mit der Mixed-Sprint-Staffel"
 date: 2017-10-03T00:00:00
 draft: true
-series: ["Presseinfo"]
 info_year: 2017
 info_number: 8
 info_place: "Henndorf, Grindelwald (SUI)"

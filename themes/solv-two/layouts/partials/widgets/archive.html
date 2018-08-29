@@ -1,0 +1,8 @@
+<h4 class="uk-heading-line uk-text-bold"><span>Archive</span></h4>
+{{ range .Site.Pages.GroupByDate "2006" }}
+  {{ $year := .Key }}
+  {{ if gt $year 2000 }}
+    {{ $url := printf "%s" $year }}
+    <li><a href="{{ $url | relURL }}">{{ $year }}</a></li>
+  {{ end }}
+{{ end }}

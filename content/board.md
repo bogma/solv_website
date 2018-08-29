@@ -12,8 +12,8 @@ menu:
 
 Der SOLV (Salzburger Orientierungslaufverband) ist die Dachorganisation der [OL-Vereine](/clubs) in Salzburg.
 
-Der SOLV veranstaltet Salzburger Meisterschaften, die Salzburg-Cup Serie sowie den Salzburger Schulcup nach. Er erlässt die Wettkampfordnung, führt die Rangliste, und koordiniert den Salzburger Regionalkader.
+Der SOLV veranstaltet Salzburger Meisterschaften, die Salzburg-Cup Serie sowie den Salzburger Schulcup. Er erlässt die Wettkampfordnung, führt die Rangliste, und koordiniert den Salzburger Regionalkader.
 
-Im Rahmen der ARGE Alp Sport vertritt eine Mannschaft des SOLV das Land Salzburg beim jährlichen Wettstreit der Alpen-Regionen.
+Im Rahmen der [ARGE Alp Sport](/arge-alp) vertritt eine Mannschaft des SOLV das Land Salzburg beim jährlichen Wettstreit der Alpen-Regionen.
 
-{{< boardList >}}
+{{< boardTable >}}

@@ -1,8 +1,12 @@
 baseURL = "/"
 languageCode = "de-de"
-title = "SOLV"
+title = "Salzburger Orientierungslauf Verband"
 theme = "solv-two"
 copyright = "SOLV"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
 
 [permalinks]
 	post = "/:year/:month/:filename/"
@@ -32,3 +36,10 @@ copyright = "SOLV"
 	time_format_RFC3339 = "2006-01-02T15:04:05Z07:00"
 	time_format_RFC822 = "Mon, 02 Jan 2006 15:04:05 -0700" 
 	time_format_default = "Jan 2, 2006"
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    recent_articles = true
+    categories = true
+    tags = true
+    tag_cloud = true

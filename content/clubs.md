@@ -12,4 +12,4 @@ menu:
     parent: "solv"
 ---
 
-{{< clubList >}}
+{{< clubTable >}}
