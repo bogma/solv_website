@@ -1,13 +1,14 @@
 ---
-title: "Topresultate für Robert Merl bei Militär-WM"
-date: 2017-08-01T00:00:00+02:00
-draft: true
-author:
-info_date: 2017-07-16T00:00:00+02:00
-info_place: "Henndorf, Vitipalu (EST)"
-
-lead: "Das Gelände der heutigen Mitteldistanz in Vitipalu war durch ein sehr spannendes Kurvenbild mit vielen Senken und Hügeln gekennzeichnet, wobei das in Estland allgegenwärtige sehr dichte Grün die Sicht stark einschränkte und den Kompass einmal mehr zum wichtigsten Freund macht."
+title: "Starker 20. Platz bei Orientierungslauf WM für Robert Merl über die Mitteldistanz"
+date: 2017-07-06T00:00:00+02:00
+draft: false
+author: ""
+categories: ["Presseinfo"]
+tags: ["International"]
+location: "Henndorf, Vitipalu (EST)"
 ---
+
+Das Gelände der heutigen Mitteldistanz in Vitipalu war durch ein sehr spannendes Kurvenbild mit vielen Senken und Hügeln gekennzeichnet, wobei das in Estland allgegenwärtige sehr dichte Grün die Sicht stark einschränkte und den Kompass einmal mehr zum wichtigsten Freund macht.
 
 Kein Wunder, dass ziemlich viele Fehler gemacht wurden – das österreichische Team schlug sich dabei aber erfreulich gut.
 

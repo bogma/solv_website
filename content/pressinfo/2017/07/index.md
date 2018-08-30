@@ -1,13 +1,17 @@
 ---
 title: "Medaillenregen für Henndorf Orienteering bei Mannschaftsmeisterschaften"
-date: 2017-08-03T00:00:00+02:00
-draft: true
-author:
-info_date: 
-info_place: "Henndorf, Bad Leonfelden (OÖ)"
+date: 2017-09-03T00:00:00+02:00
+draft: false
+author: ""
+categories: ["Presseinfo"]
+tags: ["Austria Cup"]
+location: "Henndorf, Bad Leonfelden (OÖ)"
 
-lead: "Zwei spannende Wettkämpfe eröffneten dieses Wochenende (2.-3.9.2017) die nationale Herbstsaison im Orientierungslauf. Die Staatsmeisterschaft über die Mitteldistanz und die Mannschaftsmeisterschaft, bei der jeweils ein Team von 3 Läuferinnen oder Läufern Teile einer gemeinsamen Gesamtstrecke bewältigen muss, dafür aber nur einen Chip zur Zeitnehmung und Kontrolle mit hat."
 ---
+
+Zwei spannende Wettkämpfe eröffneten dieses Wochenende (2.-3.9.2017) die nationale Herbstsaison im Orientierungslauf. Die Staatsmeisterschaft über die Mitteldistanz und die Mannschaftsmeisterschaft, bei der jeweils ein Team von 3 Läuferinnen oder Läufern Teile einer gemeinsamen Gesamtstrecke bewältigen muss, dafür aber nur einen Chip zur Zeitnehmung und Kontrolle mit hat.
+
+<!--more-->
 
 Die Spannung bei diesem Wettkampf liegt also vor allem bei der guten freien Einteilung der Teilabschnitte und genauen Übergabepunkte für die einzelnen Teammitglieder.Dabei konnte sich auch ein kleines Salzburger Team sehr zufriedenstellend in Szene setzen.
 

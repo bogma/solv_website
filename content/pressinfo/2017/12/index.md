@@ -1,13 +1,16 @@
 ---
 title: "Sensationeller Sieg von Robert Merl zum Auftakt der Park World Tour in China!"
-date: 2017-10-25T00:00:00+02:00
-draft: true
-tags: ["Presseinfo"]
-info_place: "Henndorf, Peking"
-info_date: 2017-10-24
-lead: "Die China Park World Tour im Orientierungslauf begann am Dienstag mit einem Sprint im Roten Tempel von Huairou – eine Stunde nördlich von Peking. Bei den fünf Einladungsbewerben ist auch ASKÖ Henndorf Orienteering Athlet Robert Merl mit dabei."
+date: 2017-10-24T00:00:00+02:00
+draft: false
+categories: ["Presseinfo"]
+tags: ["International"]
+location: "Henndorf, Peking"
 
 ---
+
+Die China Park World Tour im Orientierungslauf begann am Dienstag mit einem Sprint im Roten Tempel von Huairou – eine Stunde nördlich von Peking. Bei den fünf Einladungsbewerben ist auch ASKÖ Henndorf Orienteering Athlet Robert Merl mit dabei.
+
+<!--more-->
 
 Ihm gelang der perfekte Start in die diesjährigen Park World Tour Rennen. Er kam mit den vielen Ecken, Durchgängen, Stiegen und auch kurzen Waldpassagen in und rund um die Tempelanlage sehr gut zurecht und holte sich sensationell den Tagessieg in dem hochkarätigen Teilnehmerfeld. Den zweiten Platz belegte ebenfalls überraschend sein Nationalteamkollege Gernot Kerschbaumer (HSV Pinkafeld). Platz drei ging an den Litauer Jonas Vytautas Gvildys.
 

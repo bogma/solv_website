@@ -1,13 +1,15 @@
 ---
 title: "Henndorfer Robert Merl zum Abschluss des OL-Weltcups 7. mit der Mixed-Sprint-Staffel"
-date: 2017-10-03T00:00:00
-draft: true
-info_year: 2017
-info_number: 8
-info_place: "Henndorf, Grindelwald (SUI)"
-info_date: 2017-10-01T00:00:00
-lead: "Am idyllisch gelegenen Hauptplatz von Grindelwald ging heute mit der Sprintstaffel der letzte große internationale Wettkampf der Saison über die Bühne."
+date: 2017-10-01T00:00:00
+draft: false
+author: ""
+categories: ["Presseinfo"]
+tags: ["International"]
+location: "Henndorf, Grindelwald (SUI)"
 ---
+Am idyllisch gelegenen Hauptplatz von Grindelwald ging heute mit der Sprintstaffel der letzte große internationale Wettkampf der Saison über die Bühne.
+
+<!--more-->
 
 Vor zahlreich angereisten Schweizer Fans und der herrlichen Kulisse der Eiger Nordwand bestätigte die schwedische Mannschaft, die bereits vor dem abschließenden Wettkampf die Nationenwertung für sich entscheiden konnten, ihre gute Jahresleistung und gewann vor Norwegen und Lokalmatador Schweiz. Österreich 1 mit dem Henndorfer Robert Merl erlief sich einen guten 7. Rang.
 

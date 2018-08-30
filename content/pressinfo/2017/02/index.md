@@ -1,13 +1,11 @@
 ---
 title: "4x Gold und 3x Bronze"
-date: 2017-11-05T00:00:00+02:00
-draft: true
+date: 2017-03-18T00:00:00+02:00
+draft: false
 author: ""
 catetories: [ "Presseinfo" ]
 tags: ["Austria Cup"]
-info:
-  location: "Henndorf, Klagenfurt"
-  date: 2017-05-06T00:00:00+02:00
+location: "Henndorf, Klagenfurt"
 
 ---
 

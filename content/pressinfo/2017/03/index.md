@@ -1,13 +1,11 @@
 ---
 title: "Topresultate für Robert Merl bei Militär-WM"
-date: 2018-06-19T00:00:00+02:00
-draft: true
-author:
+date: 2017-06-19T00:00:00+02:00
+draft: false
+author: ""
 categories: ["Presseinfo"]
 tags: ["International"]
-info:
-  date: 2017-06-12T00:00:00+02:00
-  location: "Hamina (FIN)"
+location: "Hamina (FIN)"
 
 ---
 In den Wäldern um Hamina in Finnland fanden ab 12.6.2017 die diesjährigen Militärweltmeisterschaften unter schwierigen Geländeverhältnissen und unter wechselnden Wetterbedingungen statt.

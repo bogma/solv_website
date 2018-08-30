@@ -1,13 +1,17 @@
 ---
 title: "Starker 25. Platz von Robert Merl zum Auftakt der 3. Runde des OL-Weltcups und Platz 10 bei der Staffel in Lettland"
-date: 2017-08-01T00:00:00+02:00
-draft: true
-author:
-info_date: 
-info_place: "Henndorf, Cesis (LAT)"
+date: 2017-08-28T00:00:00+02:00
+draft: false
+author: ""
+categories: ["Presseinfo"]
+tags: ["International"]
+location: "Henndorf, Cesis (LAT)"
 
-lead: "Die 3. Runde des Orientierungslauf-Weltcups startete am 25.08.2017 mit der Mitteldistanz im grünen und dicht bewachsenen Wald nahe Cesis (Lettland). 90 Damen und 119 Herren begaben sich auf eine sehr anspruchsvolle Bahn."
 ---
+
+Die 3. Runde des Orientierungslauf-Weltcups startete am 25.08.2017 mit der Mitteldistanz im grünen und dicht bewachsenen Wald nahe Cesis (Lettland). 90 Damen und 119 Herren begaben sich auf eine sehr anspruchsvolle Bahn.
+
+<!--more-->
 
 Bei fast jedem Posten gab es kleine Routenwahlen. Oft musste entschieden werden, ob man sich durch das dichte Grün kämpft oder nicht lieber eine Umlaufroute durch den gut zu belaufenen Wald gewählt wird. Das Dickicht beschränkte die Sicht sehr stark, wodurch viel auf den Kompass vertraut wurde. Auf der Schlussschlaufe rund um das zielnahe Skigebiet mussten noch einmal die letzten physischen Reserven mobilisiert werden.
 

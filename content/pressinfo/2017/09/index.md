@@ -1,13 +1,15 @@
 ---
 title: "Starke Jugend des ASKÖ Henndorf wird Österreichischer Meister in der OL-Staffel!"
 date: 2017-10-08T00:00:00
-draft: true
-info_year: 2017
-info_number: 9
-info_place: "Henndorf, Grindelwald (SUI)"
-info_date: 2017-10-08T00:00:00
-lead: "Peter Ebster, Leon Ebster und Jonas Königstorfer vom ASKÖ Henndorf Orienteering zeigten am Wochenende ihr Können und krönten ihre noch junge sportliche Karriere mit dem Orientierungslauf ÖM Titel in der H-16 Kategorie."
+draft: false
+categories: ["Presseinfo"]
+tags: ["Austria Cup"]
+location: "Henndorf, Mannersdorf im Leithagebirge"
 ---
+
+Peter Ebster, Leon Ebster und Jonas Königstorfer vom ASKÖ Henndorf Orienteering zeigten am Wochenende ihr Können und krönten ihre noch junge sportliche Karriere mit dem Orientierungslauf ÖM Titel in der H-16 Kategorie.
+
+<!--more-->
 
 Mit tollen Läufen nicht nur durch den dichten Wald bei Mannersdorf im Leithagebirge, sondern auch durch Gräben und Steinbrüche konnten sie sich sensationell vor OLT Transdanubien und OLC Wienerwald durchsetzen. Geeint nach dem Lauf meinten sie: "Wir hatten nicht mit einer Medaille gerechnet, aber dass wir jetzt sogar ganz oben stehen dürfen freut uns umso mehr!" "Gerade für unseren Nachwuchs ist es wichtig solche Erfolge kurz vor der Winterpause zu erringen, um die Motivation in den kalten, dunklen Wintermonaten hoch zu halten", sagte der stolze Jugendtrainer Markus König.
 

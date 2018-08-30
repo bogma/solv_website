@@ -1,21 +1,10 @@
 <header class="article-header">
+    <span class="uk-label">{{ .Type }}</span>
     <h2 class="uk-margin-remove-adjacent uk-text-bold uk-margin-small-bottom">
         <a title="{{ .Title }}" class="uk-link-reset" href="{{ .Permalink }}">
             {{ .Title }}
         </a>
     </h2>
-    {{ if isset .Params "categories" }}
-    {{ $categoriesLen := len .Params.categories }}
-    {{ if gt $categoriesLen 0 }}
-    <div>
-        {{ range $k, $v := .Params.categories }}
-        {{ $url := printf "categories/%s" (. | urlize | lower) }}
-        <span class="uk-label">{{ . }}</span>
-        {{ if lt $k (sub $categoriesLen 1) }}&middot;{{ end }}
-        {{ end }}
-    </div>
-    {{ end }}
-    {{ end }}
     <div class="uk-article-meta">
         {{ if not .Params.nodateline }}
         <div>
@@ -29,7 +18,7 @@
             {{ with .Site.Data.l10n.articles.readingtime }}{{.}}{{end}}
         </div>
         {{ end }}
-
+<!--
         {{ if isset .Params "categories" }}
             {{ $categoriesLen := len .Params.categories }}
             {{ if gt $categoriesLen 0 }}
@@ -43,7 +32,7 @@
             </div>
             {{ end }}
         {{ end }}
-
+-->
         {{ if isset .Params "tags" }}
             {{ $tagsLen := len .Params.tags }}
             {{ if gt $tagsLen 0 }}

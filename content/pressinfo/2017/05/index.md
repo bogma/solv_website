@@ -1,13 +1,16 @@
 ---
 title: "Drei Top-Ten Ergebnisse für Tobias Breitschädel bei EM und WM"
 date: 2017-08-01T00:00:00+02:00
-draft: true
-author:
-info_date: 
-info_place: "Henndorf"
-
-lead: "Die erste Saisonhälfte des Henndorfer Mountainbikers Tobias Breitschädel war mit zahlreichen Top-Platzierung gespickt. National verteidigte Breitschädel seinen Staatsmeistertitel über die Mitteldistanz in Welten bei Fürstenfeld/Stmk souverän vor seinen Nationalteamkollegen Schachinger (OÖ) und Rief (Stmk)"
+draft: false
+author: ""
+categories: ["Presseinfo"]
+tags: ["International", "MTBO"]
+location: "Henndorf"
 ---
+
+Die erste Saisonhälfte des Henndorfer Mountainbikers Tobias Breitschädel war mit zahlreichen Top-Platzierung gespickt. National verteidigte Breitschädel seinen Staatsmeistertitel über die Mitteldistanz in Welten bei Fürstenfeld/Stmk souverän vor seinen Nationalteamkollegen Schachinger (OÖ) und Rief (Stmk).
+
+<!--more-->
 
 Mit Silber in seiner Paradedisziplin Sprint und Bronze über die Langdistanz prolongierte der einstige Läufer eine eindrucksvolle Rekordserie in dieser Disziplin: es waren seine Medaillen 21 bis 23 bei Staatsmeisterschaften in Serie.
 

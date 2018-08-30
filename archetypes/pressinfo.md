@@ -3,12 +3,9 @@ title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 author: ""
-type: pressinfo
 catetories: [ "Presseinfo" ]
 tags: []
-info:
-  location: "Henndorf, "
-  date: {{ .Date }}
+location: "Henndorf, "
 
 ---
 
