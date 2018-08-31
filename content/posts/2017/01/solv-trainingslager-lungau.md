@@ -8,39 +8,37 @@ draft: true
 
 Im Rahmen der Partnerschaft mit Trentino findet dieses Jahr ein SOLV Traniningslager im Lungau statt. Die Trainings sind für jede Alters- und Könnerstufe, **auch für Anfänger**!
 
-Zeit: Freitag, 14.4.2017 bis Montag, 17.4.2017 = Osterwochenende
-Ort: Mauterndorf, Lungau
-Unterkunft: Gästehaus Mauser-Mühlthaler ab Freitag,
-Gästehaus „Die Villa“ ab Samstag
-Kursleitung: Eva Breitschädel
-Trainer: Christian Breitschädel, Markus König,
-Planung und Helfer im Gelände: Martin Lejsek und Roland Kohlbacher
-Hinweis: Da die „Villa“ erst ab Samstag frei ist, stehen nur eine begrenzte Anzahl an
-(Mehrbett) -zimmern im Haupthaus zur Verfügung. Diese sollten vorwiegend
-mit Jugendlichen belegt werden. Für Helfer und Fahrer ist noch Platz
-vorhanden. Für die (erwachsenen) Teilnehmer stehen dann unbeschränkt
-Zimmer ab Samstag zur Verfügung.
-Kosten: ASKÖ, bzw. SOLV Mitglieder:
-Freitag bis Montag*:
-Jugendliche bis 15 Jahre € 105,-
-Jugendliche 15-17 Jahre € 120,-
-Erwachsene: € 142,-
-Samstag bis Montag**:
-Jugendliche bis 15 Jahre € 80,-
-Jugendliche 15-17 Jahre € 90,-
-Erwachsene: € 108,-
-*Dies beinhaltet: 3x Unterkunft mit Vollpension, Beginn mit dem AE,
-** Dies beinhaltet: 2x Unterkunft mit Vollpension, Beginn mit dem ME,
-Trainings, Kartenkosten, Trainer- Helferarbeit, Wettkampf Nenngeld
-Anreise: Freitag Nachmittag selbständig, nach Absprache, bzw. mit dem ASKÖ
-Vereinsbus, je nach Verfügbarkeit.
-Teilnehmer: Alle SOLV Mitglieder sind herzlich eingeladen!!
-Ausrüstung: genügend OL Ausrüstung, Wechselwäsche, Regen- Kälteschutz, SI ..
-Gute Laune und viel Motivation!
-„Leckerbissen“: Um die gute Freundschaft Trentino-Salzburg weiter zu verstärken ist am
-Samstag Abend ein stimmungsvolles, uriges Ritteressen im Schloss
+ |
+---|---
+Zeit: | Freitag, 14.4.2017 bis Montag, 17.4.2017 = Osterwochenende |
+Ort: | Mauterndorf, Lungau |
+Unterkunft: | Gästehaus Mauser-Mühlthaler ab Freitag
+ |Gästehaus „Die Villa“ ab Samstag|
+Kursleitung: | Eva Breitschädel|
+Trainer: | Christian Breitschädel, Markus König|
+Planung und Helfer im Gelände: | Martin Lejsek und Roland Kohlbacher|
+Hinweis: | Da die „Villa“ erst ab Samstag frei ist, stehen nur eine begrenzte Anzahl an (Mehrbett)-zimmern im Haupthaus zur Verfügung. Diese sollten vorwiegend mit Jugendlichen belegt werden. Für Helfer und Fahrer ist noch Platz vorhanden. Für die (erwachsenen) Teilnehmer stehen dann unbeschränkt Zimmer ab Samstag zur Verfügung.|
+Kosten: | ASKÖ, bzw. SOLV Mitglieder:
+ |Freitag bis Montag*:
+ |Jugendliche bis 15 Jahre € 105,-
+ |Jugendliche 15-17 Jahre € 120,-
+ |Erwachsene: € 142,-
+ |Samstag bis Montag**:
+ |Jugendliche bis 15 Jahre € 80,-
+ |Jugendliche 15-17 Jahre € 90,-
+ |Erwachsene: € 108,-
+ |*Dies beinhaltet: 3x Unterkunft mit Vollpension, Beginn mit dem AE,
+ |** Dies beinhaltet: 2x Unterkunft mit Vollpension, Beginn mit dem ME,
+ |Trainings, Kartenkosten, Trainer- Helferarbeit, Wettkampf Nenngeld
+Anreise: | Freitag Nachmittag selbständig, nach Absprache, bzw. mit dem ASKÖ Vereinsbus, je nach Verfügbarkeit.
+Teilnehmer: | Alle SOLV Mitglieder sind herzlich eingeladen!!
+Ausrüstung: | genügend OL Ausrüstung, Wechselwäsche, Regen- Kälteschutz, SI ..
+ |Gute Laune und viel Motivation!
+„Leckerbissen“: | Um die gute Freundschaft Trentino-Salzburg weiter zu verstärken ist am Samstag Abend ein stimmungsvolles, uriges Ritteressen im Schloss
 Mauterndorf geplant. Gedacht für alle ab 16 Jahre, Kosten allerdings + €13,-
+
 Detailliertes Programm erfolgt Ende März - es könnte wie folgt aussehen:
+
 Freitag Nachmittag (Abend), Samstag Vormittag und Nachmittag und Sonntag Nachmittag
 jeweils Trainingseinheiten in unmittelbarer Nähe der Unterkunft, ev. Fr. Abend ein Nachtlauf.
 Trainings jeweils immer für Anfänger, Fortgeschrittene und Experten. Einheiten mit
