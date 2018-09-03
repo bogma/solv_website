@@ -2,6 +2,15 @@
 title: "SOLV-Trainingslager - im Rahmen der Partnerschaft mit dem Trentino"
 date: 2017-02-05T10:51:51+02:00
 draft: true
+resources:
+- src: "*/yummy-cupcake.jpg"
+  title: "Yummy Cupcake"
+  name: cupcake-1
+- src: "*/shiny-cupcake.jpg"
+  title: "Shiny Glaze"
+- src: "*/*.jpg"
+  params: 
+    credits: Myself the cook!
 ---
 
 # Einladung und Ausschreibung
