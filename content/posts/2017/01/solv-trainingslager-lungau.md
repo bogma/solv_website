@@ -2,6 +2,15 @@
 title: "Einladung und Ausschreibung: SOLV-Trainingslager - im Rahmen der Partnerschaft mit dem Trentino"
 date: 2017-02-05T10:51:51+02:00
 draft: true
+resources:
+- src: "*/yummy-cupcake.jpg"
+  title: "Yummy Cupcake"
+  name: cupcake-1
+- src: "*/shiny-cupcake.jpg"
+  title: "Shiny Glaze"
+- src: "*/*.jpg"
+  params: 
+    credits: Myself the cook!
 ---
 
 Im Rahmen der Partnerschaft mit Trentino findet dieses Jahr ein SOLV Traniningslager im Lungau statt. Die Trainings sind für jede Alters- und Könnerstufe, **auch für Anfänger**!

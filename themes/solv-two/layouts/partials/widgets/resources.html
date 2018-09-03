@@ -1,0 +1,14 @@
+hello1 {{ . }}
+{{ $r := .Resources }}
+{{ with $r }}
+   res {{.}}
+{{ end }}
+{{ with .Resources }}
+    hello2
+    <div>
+    {{ range . }}
+        hello
+		<a src="{{ .RelPermalink }}">{{ .Title }}</a>
+	{{ end }}
+	</div>
+{{ end }}
