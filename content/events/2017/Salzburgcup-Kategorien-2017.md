@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
+title: "S-Cup Kategorien 2017"
+date: 2017-01-01
 draft: true
 ---
 

@@ -1,14 +1,16 @@
-hello1 {{ . }}
-{{ $r := .Resources }}
-{{ with $r }}
-   res {{.}}
-{{ end }}
 {{ with .Resources }}
-    hello2
-    <div>
-    {{ range . }}
-        hello
-		<a src="{{ .RelPermalink }}">{{ .Title }}</a>
-	{{ end }}
-	</div>
+<div>
+  <h4 class="uk-heading-line uk-text-bold"><span>Dokumente</span></h4>
+  {{ range . }}
+  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  <p>Metadata</p>
+  <ul>
+    <li>Name: {{ .Name }}</li>
+    {{ range $k, $v := .Params}}
+    <li>{{ $k | title }}: {{ $v }}</li>
+    {{ end }}
+  </ul>
+  {{ end }}
+
+</div>
 {{ end }}

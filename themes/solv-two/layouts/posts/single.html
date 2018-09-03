@@ -1,15 +1,15 @@
 {{ define "main" }}
 <div class="uk-container">
-    <div class="uk-grid" data-ukgrid>
-      <div class="uk-width-2-3@m">
-        <article>
-          {{ partial "article_header" .}}
-		  {{ .Content }}
-        </article>
-      </div>
-      <div class="uk-width-1-3@m">
-        {{ partial "widgets/resources" . }}
-	  </div>
-	</div>
+  <div class="uk-grid" data-ukgrid>
+    <div class="uk-width-2-3@m">
+      <article>
+        {{ partial "article_header" .}}
+        {{ .Content }}
+      </article>
+    </div>
+    <div class="uk-width-1-3@m">
+      {{ partial "widgets/resources" . }}
+    </div>
+  </div>
 </div>
 {{ end }}
