@@ -6,12 +6,12 @@
     {{ if .IsHome }}
     <meta name="description" content="{{ .Site.Params.description }}">
     {{ end }}
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
+    <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans"> -->
     <link rel="stylesheet" href="{{ "css/uikit.min.css" | relURL }}" />
-    <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}" />
     <script src="{{ "js/uikit.min.js" | relURL }}"></script>
     <script src="{{ "js/uikit-icons.min.js" | relURL }}"></script>
-    <link rel="stylesheet" href="{{ "css/additional.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/cards.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/additional.css" | relURL }}" />
     <link rel="canonical" href="{{ .Permalink }}">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ "images/solv-logo-16x16.png" | relURL }}">
     {{ with .Site.Home.OutputFormats.Get "RSS" -}}
