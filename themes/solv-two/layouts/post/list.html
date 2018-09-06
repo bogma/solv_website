@@ -2,7 +2,7 @@
 post list
 <div class="blog">
   <ul class="post-list">
-    {{ $posts := where .Site.RegularPages "Type" "in" (slice "posts") }}
+    {{ $posts := where .Site.RegularPages "Type" "in" (slice "post") }}
     {{ range $posts }}
     <li>
       <span class="post-meta">{{ .Date.Format $.Site.Params.time_format_default }}</span>

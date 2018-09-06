@@ -1,29 +1,26 @@
 ---
-title: "01"
-date: 2017-12-01T16:18:57+02:00
+title: "02"
+date: 2017-02-01T16:20:57+02:00
 draft: true
-id: 0
 anne_id: 0
-event_name: "x. Salzburger Sportvoglcup 2018"
-event_date: 2017-03-18T12:00:00+02:00
+event_name: "2. Salzburger Sportvoglcup 2017"
+event_date: 2017-03-25T14:00:00
 event_form: Individual
-cup:
-  - sbgcup
-  - schcup
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" 
-official_course: "Markus König"
-official_event: "Markus König"
-official_inspection: "Leo Tonka"
+implementation: "HSV Wals" 
+official_course: "Franz Nagele"
+official_event: "Franz Nagele"
+official_inspection: "Franz Helminger"
 entry_receiver_anne: true
 entry_receiver_email: leo.mueller@sbg.at
-entry_closing_date: -7
-meeting_point: "Samstag, 18. März 2017 – ab 13.00 Uhr - Schulzentrum Neumarkt/Wallersee - Lageplan < ... Google Maps> oder GPS: 47.9420154,13.220623"
-map: "Neumarkt West, 1:5.000, AE 5m, Stand Februar 2017"
+entry_closing_date: -3
+meeting_point: "Samstag, 25. März 2017 – ab 13:00 Uhr Sporthalle Schwarzenbergkaserne
+< ... Google Maps>"
+map: "Schwarzenbergkaserne: M 1:5.000, AE 2,5m, Stand März 2017, Format A3"
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: ""
+hints: "	Hinweise und Läuferinformation sind ab 21. März auf der [Homepage des HSV Wals](www.orientierungslauf-wals.at), auf der [Website des SOLV](www.ol-sbg.at) und ANNE ersichtlich"
 
 ---
 

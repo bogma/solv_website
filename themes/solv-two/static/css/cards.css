@@ -62,16 +62,16 @@
 .uk-subnav li.uk-active:nth-child(5) a {
 	background-color:#E84DF0;
 }
-.posts-card .uk-card {
+.post-card .uk-card {
 	border-top-color: #1E87F0;
 }
-.posts-card .uk-card .cat-txt {
+.post-card .uk-card .cat-txt {
 	color: #1E87F0;
 }
-.events-card .uk-card {
+.event-card .uk-card {
 	border-top-color: #8630F0;
 }
-.events-card .uk-card .cat-txt {
+.event-card .uk-card .cat-txt {
 	color: #8630F0;
 }
 .pressinfo-card .uk-card {
