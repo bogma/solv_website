@@ -2,6 +2,7 @@
 title: "S-Cup Kategorien 2017"
 date: 2017-01-01
 draft: true
+event_meta: true
 ---
 
 Einteilung der Salzburgcup Kategorien und Bahnen der Saison 2017.

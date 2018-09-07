@@ -3,8 +3,9 @@ date: 2017-02-01T16:18:57+02:00
 draft: true
 anne_id: 0
 event_name: "1. Salzburger Sportvoglcup 2017"
-event_date: 2017-03-18T12:00:00+02:00
+event_date: 2017-03-18T14:00:00
 event_form: Individual
+event_location: "Neumarkt"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orientieering" 

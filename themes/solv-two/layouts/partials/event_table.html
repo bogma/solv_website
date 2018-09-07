@@ -1,0 +1,16 @@
+<table class="uk-table uk-table-divider uk-table-striped">
+    <tbody>
+        <tr><td>Veranstalter</td><td>{{ .Params.organiser | default "SOLV" }}</td></tr>
+        <tr><td>Durchführung</td><td>{{ .Params.implementation | default "" }}</td></tr>
+        <tr><td>Treffpunk</td><td>{{ .Params.meeting_point | default "" }}</td></tr>
+        <tr><td>Start</td><td>{{ .Params.start }}</td></tr>
+        <tr><td>Wettkampfleiter</td><td>{{ .Params.official_event }}</td></tr>
+        <tr><td>Bahnleger</td><td>{{ .Params.official_course }}</td></tr>
+        <tr><td>Kontrolle</td><td>{{ .Params.official_inspection }}</td></tr>
+        <tr><td>Karte</td><td>{{ .Params.map }}</td></tr>
+        <tr><td>Postenbeschreibung</td><td>{{ .Params.control_point_description }}</td></tr>
+        <tr><td>Wettkampfart</td><td>{{ .Params.control_point_description }}</td></tr>
+        <tr><td>Nennungen</td><td>{{ .Params.control_point_description }}</td></tr>
+        <tr><td>Informationen</td><td>{{ .Params.hints | markdownify }}</td></tr>
+    </tbody>
+</table>

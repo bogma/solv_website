@@ -6,6 +6,7 @@ anne_id: 0
 event_name: "2. Salzburger Sportvoglcup 2017"
 event_date: 2017-03-25T14:00:00
 event_form: Individual
+event_location: "Schwarzenbergkaserne"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "HSV Wals" 
@@ -20,7 +21,7 @@ meeting_point: "Samstag, 25. März 2017 – ab 13:00 Uhr Sporthalle Schwarzenber
 map: "Schwarzenbergkaserne: M 1:5.000, AE 2,5m, Stand März 2017, Format A3"
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: "	Hinweise und Läuferinformation sind ab 21. März auf der [Homepage des HSV Wals](www.orientierungslauf-wals.at), auf der [Website des SOLV](www.ol-sbg.at) und ANNE ersichtlich"
+hints: "Hinweise und Läuferinformation sind ab 21. März auf der [Homepage des HSV Wals](www.orientierungslauf-wals.at), auf der [Website des SOLV](www.ol-sbg.at) und ANNE ersichtlich"
 
 ---
 
