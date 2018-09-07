@@ -4,7 +4,7 @@
     <div class="uk-grid" data-ukgrid>
       <div class="uk-width-2-3@m">
         <h4 class="uk-heading-line uk-text-bold"><span>Latest Posts</span></h4>
-        {{ $blog := where .Site.RegularPages "Type" "in" (slice "post" "pressinfo" "event")}}
+        {{ $blog := where .Site.RegularPages "Type" "in" (slice "event")}}
         <!-- TODO: filter ? -->
         <div class="uk-grid uk-grid-medium uk-child-width-1-1@xl uk-grid-match js-filter" data-uk-grid="masonry: true" data-uk-sortable="handle: .drag-icon">
         {{ range $blog }}
