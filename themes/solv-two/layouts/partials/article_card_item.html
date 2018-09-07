@@ -1,3 +1,8 @@
+{{ if eq .Type "event" }}
+{{ if not (eq .Params.event_general true)}}
+  {{ partial "event_card_item" . }}
+{{ end }}
+{{ else }}
 <div class="{{.Type}}-card">
     <div class="uk-card uk-card-small uk-card-default">
         <!-- card header -->
@@ -74,3 +79,4 @@
         </div>
     </div>
 </div>
+{{ end }}
