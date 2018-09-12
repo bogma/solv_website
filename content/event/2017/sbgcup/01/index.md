@@ -1,27 +1,48 @@
 ---
+title: "1. Salzburger Sportvoglcup 2017"
 date: 2017-02-01T16:18:57+02:00
 draft: true
+skeleton: false
 anne_id: 0
-event_name: "1. Salzburger Sportvoglcup 2017"
-event_date: 2017-03-18T14:00:00
-event_form: Individual
-event_location: "Neumarkt"
+event:
+  name: ""
+  date: 2017-03-18T14:00:00Z
+  form: "Normaler OL"
+  location: "Neumarkt"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orientieering" 
-official_course: "Markus König"
-official_event: "Markus König"
-official_inspection: "Leo Tonka"
-entry_receiver_anne: true
-entry_receiver_email: leo.mueller@sbg.at
-entry_closing_date: -7
-meeting_point: "Samstag, 18. März 2017 – ab 13.00 Uhr - Schulzentrum Neumarkt/Wallersee - Lageplan < ... Google Maps> oder GPS: 47.9420154,13.220623"
-map: "Neumarkt West, 1:5.000, AE 5m, Stand Februar 2017"
+official:
+  course: "Markus König"
+  event: "Markus König"
+  inspection: "Leo Tonka"
+course_lenghts: []
+entry:
+  receiver_anne: true
+  receiver_email: "leo.mueller@sbg.at"
+  closing_date_days: -7
+meeting:
+  point: "Schulzentrum Neumarkt/Wallersee"
+  time_minutes: -60
+  location: [47.9420154, 13.220623]
+map:
+  name: "Neumarkt West"
+  scale: "1:5.000"
+  equidistance: "5m"
+  update: "Februar 2017"
+  format: ""
 control_point_description: "Auf der Karte und zur Selbstentnahme"
-timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: ""
+hints: "**Nachmeldungen** für Schnupperklassen kein Problem; für Sportvoglcupläufer in geringem Umfang möglich, aber mit einem Aufpreis von € 1,-"
 
 ---
+### Startgeld
+
+- bis D/H -15 und OL: € 3,-
+- ab D/H 16-: € 4,50
+
+### Zeitnehmung
+
+SPORTIdent; SI-Air+ (touch free) aktiviert.
 
 ### Allgemeines
 
@@ -34,4 +55,5 @@ hints: ""
 - Privatgrundstücke dürfen nicht betreten werden.
 
 ### Hinweis des SOLV
+
 Für die Jahreswertung des SOLV-Cup werden nur SOLV-Mitglieder berücksichtigt!

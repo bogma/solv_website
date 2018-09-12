@@ -1,0 +1,16 @@
+{{ if .Params.entry.receiver_anne }}
+Anmeldung bis spätestens <b>
+        {{ $mtime := time .Params.event.date }}
+        {{ $duration := time.Duration "hour" (mul .Params.entry.closing_date_days 24) }}
+        {{ $mtime2 := $mtime.Add ($duration) }}
+        {{ dateFormat .Site.Params.time_format_default $mtime2 }}
+    </b> über 
+    {{ if eq .Params.anne_id 0 }}
+    <a href="http://www.oefol.at/anne">ANNE</a>.
+    {{ else }}
+    <a href="http://www.oefol.at/anne?p=1&q=3&id={{.Params.anne_id}}">ANNE</a>.
+    {{ end }}
+{{ end }}
+{{ if not (eq .Params.entry.receiver_email "") }}
+In Ausnahmefällen direkt an <a href="mailto:{{.Params.entry.receiver_email}}">{{.Params.entry.receiver_email}}</a> mit Name, Klasse, Geburtsjahr, Verein und SI-Nummer.
+{{ end }}
