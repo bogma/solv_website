@@ -1,39 +1,45 @@
 - name: Gmoawald
   area: Seekirchen
-  coordinates: 
+  coordinates:
+    - system: google
+      datum: 47.882381, 13.134988
   year_origin:
   date_actual: 2012
   cartography: Martin Lejsek
 - name: Seekirchen Stadt
   area: Seekirchen
   coordinates: 
+    - system: google
+      datum: 47.895228, 13.127132
   year_origin:
   date_actual: 2017
   cartography: Martin Lejsek
 - name: Abtenau Ort
   area: Abtenau
-  cooordinates: (BMN 451400, 269400)
+  cooordinates:
+    - system: google
+      datum: 47.564436, 13.345614
+    - system: BMN
+      datum: 451400, 269400
   year_origin:
   date_actual: 3/2010
   cartography: Martin Lejsek
 - name: Höllgraben
   area: Eugendorf
-  cooordinates: (BMN 433380, 302500)
+  cooordinates:
+    - system: google
+      datum: 47.864704, 13.109431
+    - system: BMN
+      datum: 433380, 302500
   year_origin:
   date_actual: 2011
   cartography: Martin Lejsek
 - name: Gastagwirt
   area: Eugendorf
   cooordinates:
+    - system: google
+      datum: 47.870576, 13.140649
   year_origin:
   date_actual: 11/2010
   cartography: Martin Lejsek
-- name: 
-  area: Henndorf
-  cooordinates:
-  year_origin:
-  date_actual: 
-  cartography: Martin Lejsek
-  submaps: Weiland, Fenninger Spitz, Vogltenn, Henndorf Ort
-  remarks: Henndorf+Weiland (enthält auch FenningerSpitz) FenningerSpitz ist 2013 aktualisiert worden -> in Henndorf Weiland einarbeiten
 
