@@ -16,7 +16,7 @@
   cartography: Martin Lejsek
 - name: Abtenau Ort
   area: Abtenau
-  cooordinates:
+  coordinates:
     - system: google
       datum: 47.564436, 13.345614
     - system: BMN
@@ -26,7 +26,7 @@
   cartography: Martin Lejsek
 - name: Höllgraben
   area: Eugendorf
-  cooordinates:
+  coordinates:
     - system: google
       datum: 47.864704, 13.109431
     - system: BMN
@@ -36,7 +36,7 @@
   cartography: Martin Lejsek
 - name: Gastagwirt
   area: Eugendorf
-  cooordinates:
+  coordinates:
     - system: google
       datum: 47.870576, 13.140649
   year_origin:
