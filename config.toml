@@ -48,4 +48,5 @@ enableGitInfo = true
     tag_cloud = true
 
 [outputs]
+    page = ["HTML", "JSON"]
     section = ["HTML", "JSON"]

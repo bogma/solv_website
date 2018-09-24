@@ -1,5 +1,0 @@
-[
-    {{ range $posts := where .Site.RegularPages "Type" "in" (slice "post" "event" "pressinfo") }}
-    {{ $posts.Title | jsonify }} ,
-    {{ end }}
-]
