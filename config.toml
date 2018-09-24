@@ -46,3 +46,6 @@ enableGitInfo = true
     categories = true
     tags = true
     tag_cloud = true
+
+[outputs]
+    section = ["HTML", "JSON"]
