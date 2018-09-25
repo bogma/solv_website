@@ -1,16 +1,33 @@
-{{ with .Resources }}
+
 <div>
-  <h4 class="uk-heading-line uk-text-bold"><span>Dokumente</span></h4>
-  {{ range . }}
-  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-  <p>Metadata</p>
+  <h4 class="uk-heading-line uk-text-bold"><span>Infos</span></h4>
+  {{ with .Resources.Match "infos/*" }}
   <ul>
-    <li>Name: {{ .Name }}</li>
-    {{ range $k, $v := .Params}}
-    <li>{{ $k | title }}: {{ $v }}</li>
-    {{ end }}
+  {{ range . }}
+    <li>
+      {{.ResourceType}}
+      {{.MediaType.Suffixes}}
+      {{ if (intersect .MediaType.Suffixes (slice "pdf" "html")) }}
+      <img src="/icons/if_{{.ResourceType}}.png">
+      {{ end }}
+      <a href="{{ .RelPermalink }}">{{ .Title | default .Name }}</a></li>
+  {{ end }}
   </ul>
   {{ end }}
-
+  <h4 class="uk-heading-line uk-text-bold"><span>Results</span></h4>
+  {{ with .Resources.Match "results/*" }}
+  <ul>
+  {{ range . }}
+    <li>
+      {{.ResourceType}}
+      {{.MediaType.Suffixes}}
+      {{ if (intersect .MediaType.Suffixes (slice "pdf" "html")) }}
+      <img src="/icons/if_{{.ResourceType}}.png">
+      {{ end }}
+      <a href="{{ .RelPermalink }}">{{ .Title | default .Name }}</a>
+    </li>
+  {{ end }}
+  </ul>
+  {{ end }}
 </div>
-{{ end }}
+

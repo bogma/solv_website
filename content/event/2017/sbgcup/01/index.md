@@ -34,6 +34,17 @@ map:
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 hints: "**Nachmeldungen** für Schnupperklassen kein Problem; für Sportvoglcupläufer in geringem Umfang möglich, aber mit einem Aufpreis von € 1,-"
 
+resources:
+- src: "**/aus**.*"
+  title: "Ausschreibung"
+- src: "**/start**.*"
+  title: "Startliste"
+
+- src: "**/resu**.*"
+  title: "Ergebnisse"
+- src: "**/split**.*"
+  title: "Splits"
+
 ---
 ### Startgeld
 
