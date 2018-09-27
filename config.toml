@@ -28,8 +28,26 @@ enableGitInfo = true
 [[menu.main]]
     identifier = "events"
     name = "CUP & Meisterschaften"
-    url = "/events/"
+    url = "/event/"
     weight = 30
+
+[[menu.main]]
+    identifier = "current-cup"
+    name = "Stand Salzburg Cup"
+    url = "/event/2017/sbgcup.pdf"
+    parent = "events"
+
+[[menu.main]]
+    identifier = "current-cup1"
+    name = "Stand Salzburg Cup 1"
+    url = "/event/2017/rangliste-salzburg-cup-2017"
+    parent = "events"
+
+[[menu.main]]
+    identifier = "current-cup2"
+    name = "Stand Salzburg Cup 2"
+    url = "/2017/SbgCup-2017.html"
+    parent = "events"
 
 [params]
     description = "SOLV website"
