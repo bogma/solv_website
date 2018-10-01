@@ -1,17 +1,17 @@
 ul.events {
-    margin: 0;
-    padding: 32px;
-    background: rgb(229, 130, 130);
+  margin: 0;
+  padding: 32px;
+  background: rgb(229, 130, 130);
+}  
+ul.events.li {
+  list-style-type: none;
+  padding: 0 0 24px;
+  overflow: hidden;
+}
     
-    li {
-      list-style-type: none;
-      padding: 0 0 24px;
-      overflow: hidden;
-    }
-    
-    a { color: #00CCFF; }
+ul.events.li.a { color: #00CCFF; }
 
-    p {
+ul.events.li.p {
       margin: 0;
       padding-bottom: 4px;
       white-space: nowrap;
@@ -28,7 +28,7 @@ ul.events {
       background: #cca;
       text-align: center;
       color: #555;
-      
+    }
       .month {
         display: block;
         text-transform: uppercase;
@@ -37,5 +37,3 @@ ul.events {
       .day {
         font-size: 1.25rem;
       }
-    }
-}

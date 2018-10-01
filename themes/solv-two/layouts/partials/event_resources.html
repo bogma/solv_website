@@ -2,32 +2,11 @@
 <div>
   <h4 class="uk-heading-line uk-text-bold"><span>Infos</span></h4>
   {{ with .Resources.Match "infos/*" }}
-  <ul>
-  {{ range . }}
-    <li>
-      {{.ResourceType}}
-      {{.MediaType.Suffixes}}
-      {{ if (intersect .MediaType.Suffixes (slice "pdf" "html")) }}
-      <img src="/icons/if_{{.ResourceType}}.png">
-      {{ end }}
-      <a href="{{ .RelPermalink }}">{{ .Title | default .Name }}</a></li>
+    {{ partial "event_resources_list" . }}
   {{ end }}
-  </ul>
-  {{ end }}
-  <h4 class="uk-heading-line uk-text-bold"><span>Results</span></h4>
+  <h4 class="uk-heading-line uk-text-bold"><span>Ergebnisse</span></h4>
   {{ with .Resources.Match "results/*" }}
-  <ul>
-  {{ range . }}
-    <li>
-      {{.ResourceType}}
-      {{.MediaType.Suffixes}}
-      {{ if (intersect .MediaType.Suffixes (slice "pdf" "html")) }}
-      <img src="/icons/if_{{.ResourceType}}.png">
-      {{ end }}
-      <a href="{{ .RelPermalink }}">{{ .Title | default .Name }}</a>
-    </li>
-  {{ end }}
-  </ul>
+    {{ partial "event_resources_list" . }}
   {{ end }}
 </div>
 

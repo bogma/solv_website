@@ -1,15 +1,6 @@
 <header class="article-header">
-    {{ if eq .Type "event" }}
-        <span class="uk-label uk-label-warning">{{ .Type }}</span>
-    {{ else if eq .Type "pressinfo" }}
-        <span class="uk-label uk-label-success">{{ .Type }}</span>
-    {{ else }}
-        <span class="uk-label uk-label-default">{{ .Type }}</span>
-    {{ end }}
     <h2 class="uk-margin-remove-adjacent uk-text-bold uk-margin-small-bottom">
-        <a title="{{ .Title }}" class="uk-link-reset" href="{{ .Permalink }}">
-            {{ .Title }}
-        </a>
+        {{ .Title }}
     </h2>
     <div class="uk-article-meta">
         {{ if not .Params.nodateline }}

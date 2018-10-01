@@ -35,17 +35,17 @@ control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
 hints: "Hinweise und Läuferinformation sind ab 21. März auf der [Homepage des HSV Wals](http://www.orientierungslauf-wals.at), auf der [Website des SOLV](http://www.ol-sbg.at) und ANNE ersichtlich"
 
-
 resources:
-- src: "**/aus**.*"
+- src: "**/aus**"
   title: "Ausschreibung"
-- src: "**/start**.*"
+- src: "**/start**"
   title: "Startliste"
-
-- src: "**/resu**.*"
+- src: "**/resu**"
   title: "Ergebnisse"
-- src: "**/split**.*"
+- src: "**/split**"
   title: "Splits"
+- src: "**/laeu**"
+  title: "Läuferinfo"
 ---
 
 ### Allgemeines
