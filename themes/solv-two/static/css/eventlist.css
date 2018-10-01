@@ -1,0 +1,40 @@
+/*
+ * Custom article date style
+ */
+ .sv-event {
+    /* Socialbuttons offset */
+    /* Featured article image offset */
+}
+.sv-event .sv-event-content {
+    position: relative;
+    background: #000507;
+}
+.sv-event .sv-event-content .sv-event-date-true {
+    margin-left: 60px;
+}
+.sv-event .sv-event-date-true .sv-event-date {
+    position: absolute;
+    top: 5px;
+    left: -60px;
+    width: 35px;
+    padding: 5px;
+    border-radius: 2px;
+    background: #dc5537;
+    color: #ffffff;
+    line-height: 18px;
+    text-align: center;
+}
+.sv-event .sv-event-date-true .sv-event-date .sv-event-date-day {
+    display: block;
+    font-size: 11px;
+}
+.sv-event .sv-event-date-true .sv-event-date .sv-event-date-year {
+    display: block;
+    font-size: 15px;
+}
+.sv-event .tm-socialbuttons {
+    margin-left: 60px;
+}
+.sv-event .sv-event-featured-image {
+    margin: -25px -25px 25px -25px;
+}
