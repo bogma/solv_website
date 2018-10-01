@@ -1,0 +1,13 @@
+<ul>
+    {{ range . }}
+    <li>
+        {{ if (intersect .MediaType.Suffixes (slice "pdf")) }}
+        <img src="/icons/if_{{.ResourceType}}.png">
+        {{ end }}
+        {{ if eq .ResourceType "" }}
+        <img src="/icons/if_html.png">
+        {{ end }}
+        <a href="{{ .RelPermalink }}">{{ .Title | default .Name }}</a>
+    </li>
+    {{ end }}
+</ul>

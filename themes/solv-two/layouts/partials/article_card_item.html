@@ -39,12 +39,10 @@
                 {{ with .Resources.ByType "image" }}
                 {{ if and (gt (len .) 0) (not (eq (index . 0) ""))}}
                     <div class="uk-card-media">
-                        <div class="uk-inline-clip">
                         {{ range first 1 . }}
-                            {{ $image := .Resize "x300" }}
-                            <img width="300" height="100" class="lazy" data-src="{{ $image.RelPermalink }}" data-uk-img alt="" src="img/transp.gif" uk-img>
-                        {{ end }}
+                        <div class="uk-background-contain uk-height-medium uk-panel uk-flex uk-flex-center uk-flex-middle" style="background-image: url({{ .RelPermalink }});">
                         </div>
+                        {{ end }}
                     </div>
                 {{ end }}
                 {{ end }}

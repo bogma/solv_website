@@ -4,7 +4,7 @@ title = "Salzburger Orientierungslauf Verband"
 theme = "solv-two"
 copyright = "SOLV - Powered by [Hugo](//gohugo.io)"
 enableGitInfo = true
-ignoreFiles = [ "\\.fou$"]
+ignoreFiles = [ "\\.xml$", "\\.excl$"]
 
 [taxonomies]
     tag = "tags"
@@ -33,22 +33,25 @@ ignoreFiles = [ "\\.fou$"]
     weight = 30
 
 [[menu.main]]
-    identifier = "current-cup"
+    identifier = "cup-current"
     name = "Stand Salzburg Cup"
-    url = "/event/2017/sbgcup.pdf"
+    url = "/2017/sbgcup.pdf"
     parent = "events"
+    weight = 1000
 
 [[menu.main]]
-    identifier = "current-cup1"
-    name = "Stand Salzburg Cup 1"
-    url = "/event/2017/rangliste-salzburg-cup-2017"
+    identifier = "cup-archive"
+    name = "Archiv"
+    url = ""
     parent = "events"
+    weight = 1010
 
 [[menu.main]]
-    identifier = "current-cup2"
-    name = "Stand Salzburg Cup 2"
-    url = "/2017/SbgCup-2017.html"
+    identifier = "cup-archive-2016"
+    name = "Salzburg Cup 2016"
+    url = "/2016/sbgcup.pdf"
     parent = "events"
+    weight = 1020
 
 [params]
     description = "SOLV website"
