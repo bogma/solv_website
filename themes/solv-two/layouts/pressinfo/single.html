@@ -9,12 +9,12 @@
 
 	<!-- large image -->
 	{{ with .Resources.ByType "image" }}
-	<div class="uk-container uk-section">
+	<div class="uk-container uk-section"><div class="uk-background-contain">
 		<div class="uk-position-relative uk-visible-toggle uk-light" data-uk-slideshow="ratio: 7:3; animation: push; min-height: 270;" uk-height-viewport="expand: true">
-			<ul class="uk-slideshow-items">
+			<ul class="uk-slideshow-items" >
 			{{ range . }}
 				<li>
-					<img src="{{ .RelPermalink }}" alt="" data-uk-cover>
+					<img src="{{ .RelPermalink }}" style="height: 100%" alt="" data-uk-cover>
 					{{ if .Title }}
 					<div class="uk-position-bottom uk-position-medium uk-text-center uk-light">
 					<h3 class="uk-margin-remove">{{.Title}}</h3>
@@ -26,7 +26,7 @@
 			<a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" data-uk-slidenav-previous="ratio: 1.5" data-uk-slideshow-item="previous"></a>
 			<a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" data-uk-slidenav-next="ratio: 1.5" data-uk-slideshow-item="next"></a>
 		</div>
-	</div>
+	</div></div>
 	{{ end }}
 	<!-- /large image -->
 	
