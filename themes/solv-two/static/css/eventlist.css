@@ -10,12 +10,11 @@
     background: #000507;
 }
 .sv-event .sv-event-content .sv-event-date-true {
-    margin-left: 60px;
+    margin-left: 0px;
 }
 .sv-event .sv-event-date-true .sv-event-date {
-    position: absolute;
     top: 5px;
-    left: -60px;
+    left: 0px;
     width: 35px;
     padding: 5px;
     border-radius: 2px;
@@ -31,9 +30,6 @@
 .sv-event .sv-event-date-true .sv-event-date .sv-event-date-year {
     display: block;
     font-size: 15px;
-}
-.sv-event .tm-socialbuttons {
-    margin-left: 60px;
 }
 .sv-event .sv-event-featured-image {
     margin: -25px -25px 25px -25px;
