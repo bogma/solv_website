@@ -1,37 +1,39 @@
 ---
-title: "x. Salzburger Sportvoglcup 2018"
-date: 2018-09-30T13:41:42+02:00
+title: "3. Salzburger Sportvoglcup 2017"
+date: 2017-02-01T16:20:57+02:00
 draft: true
 skeleton: true
 anne_id: 0
 event:
   name: ""
-  date: 2018-09-30T13:41:42+02:00
+  date: 2017-04-17T10:00:00+02:00
   form: "Normaler OL"
-  location: ""
-cup: "sbgcup/schcup"
+  location: "St. Andrä im Lungau"
+cup: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" 
+implementation: "ASKÖ Henndorf Orientieering" 
 official:
-  course: ""
-  event: ""
-  inspection: ""
-course_lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
+  course: "Roland Kohlbacher"
+  event: "Roland Kohlbacher"
+  inspection: "Martin Lejsek"
+course:
+  valid: true
+  lenghts: [["Neulinge","1,7 km"], ["Kurz","2,7 km"], ["Mittel","4,0 km"], ["Lang","6,0 km"]]
 entry:
   anne: true
   email: leo.mueller@sbg.at
-  closing_date_days: -7
+  closing_date_days: -5
 meeting:
-  point: ""
+  point: "Sportplatz St. Andrä im Lungau"
   time_minutes: -60
-  location: [0.0,0.0]
+  location: [47.1463436,13.790836]
 map:
-  name: ""
-  scale: "1:10.000"
+  name: "Passeggen"
+  scale: "1:7.500"
   equidistance: "5m"
-  update: "März 2006"
-  format: ""
+  update: "März 2017"
+  format: "A4"
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
 hints: ""

@@ -1,42 +1,44 @@
 ---
-title: "2. Salzburger Sportvoglcup 2017"
-date: 2017-02-01T16:20:57+02:00
+title: "x. Salzburger Sportvoglcup 2018"
+date: {{ .Date }} # date of creation of the file
 draft: true
-skeleton: false
-anne_id: 1928
+skeleton: true
+anne_id: 0
 event:
-  name: "2. Salzburger Sportvoglcup 2017"
-  date: 2017-03-25T14:00:00
-  form: "Normaler OL  mit längeren Bahnen auf einer Sprintkarte"
-  location: "Schwarzenbergkaserne"
-cup: "sbgcup"
+  name: ""
+  date: {{ .Date }} # date/start time of event
+  form: "Normaler OL"
+  location: ""
+cup: "sbgcup/schcup" # remove one of the 2 options
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "HSV Wals" 
-official:
-  course: "Franz Nagele"
-  event: "Franz Nagele"
-  inspection: "Franz Helminger"
+implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove one of the 3 options
+official: # names of course setter, event organizer and inspector
+  course: ""
+  event: ""
+  inspection: ""
 course:
-  valid: true
-  lenghts: [["Neulinge","2,2 km"], ["Kurz","3 km"], ["Mittel","4,7 km"], ["Lang","6,3 km"]]
+  valid: false # set to true when the course lenghts are final
+  lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
-  receiver_anne: true
-  receiver_email: leo.mueller@sbg.at
-  closing_date_days: -3
+  anne: true # if true, a link to ANNE will be provided
+  email: leo.mueller@sbg.at
+  closing_date_days: -7 # x days from event->date
 meeting:
-  point: "Sporthalle Schwarzenbergkaserne"
-  time_minutes: -60
-  location: [47.7937865,12.977217]
+  point: ""
+  time_minutes: -60 # x minutes from event->date
+  location: [0.0,0.0]
 map:
-  name: "Schwarzenbergkaserne"
-  scale: "1:5.000"
-  equidistance: "2,5m"
-  update: "März 2017"
-  format: "A3"
+  name: ""
+  scale: "1:10.000"
+  equidistance: "5m"
+  update: "März 2006"
+  format: ""
+  hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: "Hinweise und Läuferinformation sind ab 21. März auf der [Homepage des HSV Wals](http://www.orientierungslauf-wals.at), auf der [Website des SOLV](http://www.ol-sbg.at) und ANNE ersichtlich"
+hints: ""
+greetings: "" # Der Verein wünscht Euch ...
 
 resources:
 - src: "**/aus**"

@@ -19,15 +19,15 @@
         <tr><td>Wettkampfleiter</td><td>{{ .Params.official.event }}</td></tr>
         <tr><td>Bahnleger</td><td>{{ .Params.official.course }}</td></tr>
         <tr><td>Kontrolle</td><td>{{ .Params.official.inspection }}</td></tr>
-        <tr><td>Karte</td><td>{{ .Params.map.name }} / M {{ .Params.map.scale }} / AE {{ .Params.map.equidistance }} / Stand {{ .Params.map.update }}{{if not (eq .Params.map.format "")}} / {{.Params.map.format}} {{end}}</td></tr>
+        <tr><td>Karte</td><td>{{ .Params.map.name }} / M {{ .Params.map.scale }} / AE {{ .Params.map.equidistance }} / Stand {{ .Params.map.update }}{{if not (eq .Params.map.format "")}} / {{.Params.map.format}} {{end}}{{if not (eq .Params.map.hints "")}} / {{.Params.map.hints}} {{end}}</td></tr>
         <tr><td>Postenbeschreibung</td><td>{{ .Params.control_point_description }}</td></tr>
         <tr>
             <td>Bahndaten</td>
             <td>
-                {{ if eq (len .Params.course_lenghts) 0 }}
+                {{ if or (not .Params.course.valid) (eq (len .Params.course.lenghts) 0) }}
                     Noch nicht bekannt.
                 {{ else }}
-                    {{ range $i, $c := .Params.course_lenghts }}
+                    {{ range $i, $c := .Params.course.lenghts }}
                         {{ if $i }} / {{ end }}
                         {{ index $c 0 }} - {{ index $c 1 }} 
                     {{ end }}

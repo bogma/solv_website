@@ -9,6 +9,7 @@ event:
   date: 2017-03-18T14:00:00Z
   form: "Normaler OL"
   location: "Neumarkt"
+cup: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orientieering" 
@@ -16,7 +17,9 @@ official:
   course: "Markus König"
   event: "Markus König"
   inspection: "Leo Tonka"
-course_lenghts: []
+course:
+  valid: false
+  lenghts: []
 entry:
   receiver_anne: true
   receiver_email: "leo.mueller@sbg.at"

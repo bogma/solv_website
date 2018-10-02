@@ -1,14 +1,14 @@
 ---
-title: "2. Salzburger Sportvoglcup 2017"
+title: "5. Salzburger Sportvoglcup 2018"
 date: 2017-02-01T16:20:57+02:00
 draft: true
-skeleton: false
-anne_id: 1928
+skeleton: true
+anne_id: 0
 event:
-  name: "2. Salzburger Sportvoglcup 2017"
-  date: 2017-03-25T14:00:00
-  form: "Normaler OL  mit längeren Bahnen auf einer Sprintkarte"
-  location: "Schwarzenbergkaserne"
+  name: "5. Salzburger Sportvoglcup 2018 (Nachtrag)"
+  date: 2017-10-28T13:30:00+02:00
+  form: "Normaler OL"
+  location: "Siezenheim, Militärübungsplatz"
 cup: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
@@ -19,24 +19,25 @@ official:
   inspection: "Franz Helminger"
 course:
   valid: true
-  lenghts: [["Neulinge","2,2 km"], ["Kurz","3 km"], ["Mittel","4,7 km"], ["Lang","6,3 km"]]
+  lenghts: [["Neulinge","2,3 km"], ["Kurz","4,7 km"], ["Mittel","5,4 km"], ["Lang","7,5 km"]]
 entry:
-  receiver_anne: true
-  receiver_email: leo.mueller@sbg.at
-  closing_date_days: -3
+  anne: true
+  email: leo.mueller@sbg.at
+  closing_date_days: -5
 meeting:
-  point: "Sporthalle Schwarzenbergkaserne"
+  point: "Siezenheim, Militärübungsplatz, Westende der Oberaustraße"
   time_minutes: -60
-  location: [47.7937865,12.977217]
+  location: [47.801953, 12.974879]
 map:
-  name: "Schwarzenbergkaserne"
-  scale: "1:5.000"
-  equidistance: "2,5m"
-  update: "März 2017"
-  format: "A3"
+  name: "Saalachau"
+  scale: "1:7.500"
+  equidistance: ""
+  update: "Oktober 2017"
+  format: "A4"
+  hints: "Pretex, doppelseitig bei langen Bahnen"
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: "Hinweise und Läuferinformation sind ab 21. März auf der [Homepage des HSV Wals](http://www.orientierungslauf-wals.at), auf der [Website des SOLV](http://www.ol-sbg.at) und ANNE ersichtlich"
+hints: "Hinweise und Läuferinformation sind ab 23. Oktober auf der [Homepage des HSV Wals](http://www.orientierungslauf-wals.at), auf der Website des [SOLV](http://www.ol-sbg.at) und ANNE ersichtlich"
 
 resources:
 - src: "**/aus**"
