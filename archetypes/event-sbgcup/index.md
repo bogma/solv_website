@@ -1,32 +1,32 @@
 ---
 title: "x. Salzburger Sportvoglcup 2018"
-date: 2017-02-01T16:30:13+02:00
+date: {{ .Date }} # date of creation of the file
 draft: true
 skeleton: true
 anne_id: 0
 event:
   name: ""
-  date: 2018-10-02T14:08:13+02:00
+  date: {{ .Date }} # date/start time of event
   form: "Normaler OL"
   location: ""
-cup: "sbgcup/schcup"
+cup: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" 
-official:
+implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove one of the 3 options
+official: # names of course setter, event organizer and inspector
   course: ""
   event: ""
   inspection: ""
 course:
-  valid: false
+  valid: false # set to true when the course lenghts are final
   lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
-  anne: true
+  anne: true # if true, a link to ANNE will be provided
   email: leo.mueller@sbg.at
-  closing_date_days: -7
+  closing_date_days: -7 # x days from event->date
 meeting:
   point: ""
-  time_minutes: -60
+  time_minutes: -60 # x minutes from event->date
   location: [0.0,0.0]
 map:
   name: ""
@@ -34,9 +34,11 @@ map:
   equidistance: "5m"
   update: "März 2006"
   format: ""
+  hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
 hints: ""
+greetings: "" # Der Verein wünscht Euch ...
 
 resources:
 - src: "**/aus**"

@@ -65,7 +65,7 @@ SPORTIdent; SI-Air+ (touch free) aktiviert.
 - Die Bestimmungen des Forstgesetzes und der StVO sind einzuhalten.
 - Die Veranstaltung wird nach den gültigen Regeln der Wettlaufordnung des SOLV durchgeführt. // TODO: link
 - Im Laufgebiet besteht bis zum Wettkampf Trainingsverbot.
-- Jede(r) Läufer(in) startet auf eigene Gefahr und ist für die entsprechenden Versicherungen selbst verantwortlich.
+- Jede\(r) Läufer(in) startet auf eigene Gefahr und ist für die entsprechenden Versicherungen selbst verantwortlich.
 - Die Regeln der Straßenverkehrsordnung sind unbedingt einzuhalten.
 - Privatgrundstücke dürfen nicht betreten werden.
 

@@ -2,7 +2,7 @@
 <table class="uk-table uk-table-divider uk-table-striped">
     <tbody>
         <tr><td>Veranstalter</td><td>{{ .Params.organiser | default "SOLV" }}</td></tr>
-        <tr><td>Durchführung</td><td>{{ .Params.implementation }}</td></tr>
+        <tr><td>Durchführung</td><td>{{ .Params.implementation | default "SOLV" }}</td></tr>
         <tr>
             <td>Treffpunk</td>
             <td>
@@ -16,8 +16,10 @@
             </td>
         </tr>
         <tr><td>Nullzeit</td><td>{{ dateFormat .Site.Params.time_format_hhmm .Params.event.date }}</td></tr>
+        <tr><td>Wettkampfart</td><td>{{ .Params.event.form }}</td></tr>
         <tr><td>Wettkampfleiter</td><td>{{ .Params.official.event }}</td></tr>
         <tr><td>Bahnleger</td><td>{{ .Params.official.course }}</td></tr>
+        {{ if eq .Params.cup "sbgcup" }}
         <tr><td>Kontrolle</td><td>{{ .Params.official.inspection }}</td></tr>
         <tr><td>Karte</td><td>{{ .Params.map.name }} / M {{ .Params.map.scale }} / AE {{ .Params.map.equidistance }} / Stand {{ .Params.map.update }}{{if not (eq .Params.map.format "")}} / {{.Params.map.format}} {{end}}{{if not (eq .Params.map.hints "")}} / {{.Params.map.hints}} {{end}}</td></tr>
         <tr><td>Postenbeschreibung</td><td>{{ .Params.control_point_description }}</td></tr>
@@ -34,8 +36,10 @@
                 </td>
                 {{ end }}
         </tr>
-        <tr><td>Wettkampfart</td><td>{{ .Params.event.form }}</td></tr>
         <tr><td>Nennungen</td><td>{{ partial "event_entry" . }}</td></tr>
+        {{ end }}
+        {{ if not (eq .Params.hints "") }}
         <tr><td>Informationen</td><td>{{ .Params.hints | markdownify }}</td></tr>
+        {{ end }}
     </tbody>
 </table>

@@ -53,9 +53,9 @@ resources:
 
 - Der Veranstalter sowie der durchführende Verein übernimmt keinerlei Haftung für auftretende Schäden jeglicher Art, auch nicht gegenüber Dritten.
 - Die Bestimmungen des Forstgesetzes und der StVO sind einzuhalten.
-- Die Veranstaltung wird nach den gültigen Regeln der [Wettlaufordnung](../../Wettlaufordnung) des SOLV durchgeführt.
+- Die Veranstaltung wird nach den gültigen Regeln der [Wettlaufordnung](../../wettlaufordnung) des SOLV durchgeführt.
 - Im Laufgebiet besteht bis zum Wettkampf Trainingsverbot.
-- Jede(r) Läufer(in) startet auf eigene Gefahr und ist für die entsprechenden Versicherungen selbst verantwortlich.
+- Jede\(r) Läufer(in) startet auf eigene Gefahr und ist für die entsprechenden Versicherungen selbst verantwortlich.
 - Die Regeln der Straßenverkehrsordnung sind unbedingt einzuhalten.
 - Privatgrundstücke dürfen nicht betreten werden.
 
