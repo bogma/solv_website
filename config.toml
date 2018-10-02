@@ -4,7 +4,7 @@ title = "Salzburger Orientierungslauf Verband"
 theme = "solv-two"
 copyright = "SOLV - Powered by [Hugo](//gohugo.io)"
 enableGitInfo = true
-ignoreFiles = [ "\\.xml$", "\\.foo$"]
+ignoreFiles = [ "\\.xml$", "\\.skb$", "\\.foo$"]
 
 [taxonomies]
     tag = "tags"
