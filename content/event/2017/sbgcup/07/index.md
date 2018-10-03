@@ -1,43 +1,44 @@
 ---
-title: "5. Salzburger Sportvoglcup 2018"
-date: 2017-02-01T16:45:57+02:00
-draft: false
-skeleton: false
+title: "x. Salzburger Sportvoglcup 2018"
+date: 2018-10-03T18:41:35+02:00 # date of creation of the file
+draft: true
+skeleton: true
 anne_id: 0
 event:
-  name: "5. Salzburger Sportvoglcup 2018 (Nachtrag)"
-  date: 2017-10-28T13:30:00+02:00
+  name: ""
+  date: 2018-10-03T18:41:35+02:00 # date/start time of event
   form: "Normaler OL"
-  location: "Siezenheim, Militärübungsplatz"
+  location: ""
 cup: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "HSV Wals" 
-official:
-  course: "Franz Nagele"
-  event: "Franz Nagele"
-  inspection: "Franz Helminger"
+implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove one of the 3 options
+official: # names of course setter, event organizer and inspector
+  course: ""
+  event: ""
+  inspection: ""
 course:
-  valid: true
-  lenghts: [["Neulinge","2,3 km"], ["Kurz","4,7 km"], ["Mittel","5,4 km"], ["Lang","7,5 km"]]
+  valid: false # set to true when the course lenghts are final
+  lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
-  anne: true
+  anne: true # if true, a link to ANNE will be provided
   email: leo.mueller@sbg.at
-  closing_date_days: -5
+  closing_date_days: -7 # x days from event->date
 meeting:
-  point: "Siezenheim, Militärübungsplatz, Westende der Oberaustraße"
-  time_minutes: -60
-  location: [47.801953, 12.974879]
+  point: ""
+  time_minutes: -60 # x minutes from event->date
+  location: [0.0,0.0]
 map:
-  name: "Saalachau"
-  scale: "1:7.500"
-  equidistance: ""
-  update: "Oktober 2017"
-  format: "A4"
-  hints: "Pretex, doppelseitig bei langen Bahnen"
+  name: ""
+  scale: "1:10.000"
+  equidistance: "5m"
+  update: "März 2006"
+  format: ""
+  hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: "Hinweise und Läuferinformation sind ab 23. Oktober auf der [Homepage des HSV Wals](http://www.orientierungslauf-wals.at), auf der Website des [SOLV](http://www.ol-sbg.at) und ANNE ersichtlich"
+hints: ""
+greetings: "" # Der Verein wünscht Euch ...
 
 resources:
 - src: "**/aus**"

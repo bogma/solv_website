@@ -1,27 +1,27 @@
 ---
-title: "x. Salzburger Sportvoglcup 2018"
+title: "4. Salzburger Sportvoglcup 2017"
 date: 2017-02-01T16:30:13+02:00
-draft: true
-skeleton: true
+draft: false
+skeleton: false
 anne_id: 0
 event:
-  name: ""
-  date: 2018-10-02T14:08:13+02:00
+  name: "SBG LM und 4. Salzburger Sportvoglcup 2017"
+  date: 2017-04-22T15:00:00+02:00
   form: "Normaler OL"
-  location: ""
-cup: "sbgcup/schcup"
-championship: false
+  location: "Hausruckedt/Ottnang"
+cup: "sbgcup"
+championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" 
+implementation: "Heeressportverein Ried im Innkreis" 
 official:
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Georg Gittmaier jun."
+  event: "Georg Gittmaier sen."
+  inspection: "Georg Gittmaier sen."
 course:
   valid: false
   lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
-  anne: true
+  anne: false
   email: leo.mueller@sbg.at
   closing_date_days: -7
 meeting:
