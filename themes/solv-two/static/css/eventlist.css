@@ -7,7 +7,6 @@
 }
 .sv-event .sv-event-content {
     position: relative;
-    background: #000507;
 }
 .sv-event .sv-event-content .sv-event-date-true {
     margin-left: 0px;
@@ -23,11 +22,28 @@
     line-height: 18px;
     text-align: center;
 }
-.sv-event .sv-event-date-true .sv-event-date .sv-event-date-day {
+
+.sv-event .sv-event-date-true .sv-event-date .sv-event-schcup {
+    background: #dcb637;
+}
+
+.sv-event .sv-event-date-true .sv-event-date .sv-event-sbgcup {
+    background: #87dc37;
+}
+
+.sv-event .sv-event-date-true .sv-event-date .sv-event-schcup .sv-event-date-day {
     display: block;
     font-size: 11px;
 }
-.sv-event .sv-event-date-true .sv-event-date .sv-event-date-year {
+.sv-event .sv-event-date-true .sv-event-date .sv-event-schcup .sv-event-date-year {
+    display: block;
+    font-size: 15px;
+}
+.sv-event .sv-event-date-true .sv-event-date .sv-event-sbgcup .sv-event-date-day {
+    display: block;
+    font-size: 11px;
+}
+.sv-event .sv-event-date-true .sv-event-date .sv-event-sbgcup .sv-event-date-year {
     display: block;
     font-size: 15px;
 }

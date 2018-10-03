@@ -4,7 +4,7 @@
     <div class="uk-grid" data-ukgrid>
       <div class="uk-width-1-3@m">
         <h4 class="uk-heading-line uk-text-bold"><span>Veranstaltungen</span></h4>
-        {{ $evt := where .Site.RegularPages "Type" "in" (slice "event") | first 3 }}
+        {{ $evt := where .Site.RegularPages "Type" "in" (slice "event") }}
         <ul class="uk-list uk-list-striped">
         {{ range $evt }}
         {{ if and (not .Params.skeleton) (not .Params.event_general)}}

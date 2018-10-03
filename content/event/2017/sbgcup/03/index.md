@@ -2,7 +2,7 @@
 title: "3. Salzburger Sportvoglcup 2017"
 date: 2017-02-01T16:23:57+02:00
 draft: true
-skeleton: true
+skeleton: false
 anne_id: 0
 event:
   name: ""
