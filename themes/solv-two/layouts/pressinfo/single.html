@@ -19,15 +19,20 @@
 	<!-- large image -->
 	{{ with .Resources.ByType "image" }}
 	<div class="uk-container uk-section"><div class="uk-background-contain">
-		<div class="uk-position-relative uk-visible-toggle uk-light" data-uk-slideshow="ratio: 7:3; animation: push; min-height: 270;" uk-height-viewport="expand: true">
+		<div class="uk-position-relative uk-visible-toggle uk-light" data-uk-slideshow="ratio: 7:3; animation: push; min-height: 270;">
 			<ul class="uk-slideshow-items" >
 			{{ range . }}
 				<li>
+					{{ if 1 }}
+					<div class="uk-background-contain uk-background-muted uk-height-medium uk-panel uk-flex uk-flex-center uk-flex-middle" style="background-image: url({{ .RelPermalink }});">
+						</div>
+					{{ else }}
 					<img src="{{ .RelPermalink }}" style="height: 100%" alt="" data-uk-cover>
-					{{ if .Title }}
+					{{ if not (eq .Title .Name) }}
 					<div class="uk-position-bottom uk-position-medium uk-text-center uk-light">
 					<h3 class="uk-margin-remove">{{.Title}}</h3>
 					</div>
+					{{ end }}
 					{{ end }}
 				</li>
 			{{ end }}

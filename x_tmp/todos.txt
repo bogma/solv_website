@@ -1,0 +1,31 @@
+general:
+	alles auf deutsch!
+	define colore schema for types
+	taxonomies
+	taxononmies in events
+	archive
+	single vs. plural folder names
+	404
+	pagination
+	previous/next navigation
+	custom js for single pages
+	fontawaysome
+	ical entries
+	
+pressinfo:
+	image(s) and scaling on single page.
+	default image in overview if no image there
+
+blog:
+	default image in overview if no image there
+	archetype for simple / with documents
+
+events:
+	split metadata in base (index.md) and announce
+	status:
+		planned -> add to overview of planned events (only base meta data filled in)
+		announce -> promote on main page (all meta data there)
+	clearer naming schema for event documents
+	type needed? sbgcup/schcup/other/external (for basic event info only)/norun (sitzung...)
+	2 event on same day
+	
