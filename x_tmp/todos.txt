@@ -11,11 +11,12 @@ general:
 	ical entries
 	
 pressinfo:
-	image(s) and scaling on single page.
+	heading on single page (color, press info 0/x)
+	reduce size of image for web if to big -> open question.
 
 blog:
 	default image in overview if no image there
-	archetype for simple / with documents
+	archetype for simple / with documents -> use default / -k post
 
 events:
 	default image in overview

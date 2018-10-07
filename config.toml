@@ -5,6 +5,7 @@ theme = "solv-two"
 copyright = "SOLV - Powered by [Hugo](//gohugo.io) and [UIkit](//getuikit.com)"
 enableGitInfo = true
 ignoreFiles = [ "\\.xml$", "\\.skb$", "\\.foo$"]
+paginate = 3
 
 [taxonomies]
     tag = "tags"

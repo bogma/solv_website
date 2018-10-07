@@ -18,29 +18,27 @@
 
 	<!-- large image -->
 	{{ with .Resources.ByType "image" }}
-	<div class="uk-container uk-section"><div class="uk-background-contain">
-		<div class="uk-position-relative uk-visible-toggle uk-light" data-uk-slideshow="ratio: 7:3; animation: push; min-height: 270;">
+	<div class="uk-container uk-section">
+		<div data-uk-slideshow="autoplay: true; ratio: 7:3; animation: push; min-height: 270;">
+		<div class="uk-position-relative uk-visible-toggle uk-light">
 			<ul class="uk-slideshow-items" >
 			{{ range . }}
 				<li>
-					{{ if 1 }}
-					<div class="uk-background-contain uk-background-muted uk-height-medium uk-panel uk-flex uk-flex-center uk-flex-middle" style="background-image: url({{ .RelPermalink }});">
-						</div>
-					{{ else }}
-					<img src="{{ .RelPermalink }}" style="height: 100%" alt="" data-uk-cover>
+					<div class="uk-background-contain uk-background-muted uk-height-1-1 uk-panel" style="background-image: url({{ .RelPermalink }});">
+					</div>
 					{{ if not (eq .Title .Name) }}
 					<div class="uk-position-bottom uk-position-medium uk-text-center uk-light">
 					<h3 class="uk-margin-remove">{{.Title}}</h3>
 					</div>
 					{{ end }}
-					{{ end }}
 				</li>
 			{{ end }}
 			</ul>
-			<a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" data-uk-slidenav-previous="ratio: 1.5" data-uk-slideshow-item="previous"></a>
 			<a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" data-uk-slidenav-next="ratio: 1.5" data-uk-slideshow-item="next"></a>
 		</div>
-	</div></div>
+		<ul class="uk-slideshow-nav uk-dotnav uk-flex-center uk-margin"></ul>
+		</div>
+	</div>
 	{{ end }}
 	<!-- /large image -->
 	
