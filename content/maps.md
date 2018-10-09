@@ -2,6 +2,9 @@
 title: "OL Karten in Salzburger"
 date: 2017-09-22T21:45:00+02:00
 
+disable_leftbar: true
+disable_rightbar: true
+
 menu:
   main:
     name: "Karten"

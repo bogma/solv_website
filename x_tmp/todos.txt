@@ -9,6 +9,7 @@ general:
 	previous/next navigation
 	custom js for single pages
 	ical entries
+	last updated in footer
 	
 pressinfo:
 	heading on single page (color, press info 0/x)
