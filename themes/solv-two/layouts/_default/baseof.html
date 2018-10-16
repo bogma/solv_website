@@ -4,12 +4,17 @@
   <body>
     <div class="uk-offcanvas-content">
       {{ partial "header" . }}
-      {{ if not .Params.disable_leftbar }}
-        {{ partialCached "sidebar_left" . }}
-      {{ end }}
-      {{ block "main" . }}{{ end }}
       {{ if not .Params.disable_rightbar }}
-        {{ partial "sidebar_right" . }}
+      <div class="uk-section uk-section-default">
+        <div class="uk-container">
+          <div class="uk-grid" data-ukgrid>
+            {{ block "main" . }}{{ end }}
+            {{ partial "sidebar_right" . }}
+          </div>
+        </div>
+      </div>
+      {{ else }}
+        {{ block "main" . }}{{ end }}
       {{ end }}
       {{ partial "footer" . }}
     </div>

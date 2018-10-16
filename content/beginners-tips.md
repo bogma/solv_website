@@ -2,7 +2,9 @@
 title: "Tipps für Anfänger"
 slug: "beginners-tips"
 type: "page"
-top_graphic: 1
+
+disable_rightbar: true
+
 menu:
   main:
     weight: 15

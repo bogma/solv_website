@@ -1,9 +1,9 @@
 {{ define "main" }}
-<div>
+  <div class="uk-width-2-3@m">
     {{ $paginator := .Paginate .Data.Pages }}
     {{ range .Paginator.Pages }}
         {{ .Render "summary" }}
     {{ end }}
     {{ partial "pagination" . }}
-</div>
+  </div>
 {{ end }}

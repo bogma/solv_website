@@ -4,6 +4,7 @@ date: 2017-01-01
 draft: true
 event_general: true
 
+tpye: "page"
 ---
 
 ## Einteilung der Salzburgcup Kategorien und Bahnen der Saison 2017

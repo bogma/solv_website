@@ -1,8 +1,8 @@
 ---
 title: "Vorstand des Salzburger OL-Verband"
 date: 2017-09-22T21:45:00+02:00
+type: "page"
 
-disable_leftbar: true
 disable_rightbar: true
 
 menu:

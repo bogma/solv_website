@@ -1,7 +1,9 @@
 ---
 title: "ARGE Alp"
 tpye: "page"
-top_graphic: 1
+
+disable_rightbar: true
+
 menu:
   main:
     name: "ARGE Alp"

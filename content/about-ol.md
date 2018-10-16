@@ -2,7 +2,9 @@
 title: "Was ist Orientierungslauf"
 slug: about-ol
 tpye: "page"
-top_graphic: 1
+
+disable_rightbar: true
+
 menu:
   main:
     weight: 10

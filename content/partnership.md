@@ -2,6 +2,9 @@
 title: "Partnerschaft Trentino"
 date: 2017-12-15T17:45:00+02:00
 tpye: "page"
+
+disable_rightbar: true
+
 menu:
   main:
     name: "Partnerschaft"
