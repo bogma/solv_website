@@ -2,8 +2,7 @@
 title: "Wettlaufordnung 2018"
 date: 2018-01-01
 draft: false
-event_general: true
-
+type: "page"
 ---
 
 ## Einteilung der Salzburgcup Kategorien und Bahnen der Saison 2017

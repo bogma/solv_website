@@ -1,5 +1,6 @@
     <div class="uk-article-meta">
         <div>
+            {{ if .Params.event.date }}
             <span uk-icon="icon:location"></span>
             {{ .Params.event.location }}
             &middot;
@@ -8,5 +9,6 @@
             &middot;
             <span uk-icon="icon:clock"></span>
             <time datetime="{{ .Params.event.date }}">{{ dateFormat .Site.Params.time_format_hhmm .Params.event.date }}</time>
+            {{ end }}
         </div>
     </div>

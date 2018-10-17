@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ if not (eq .Params.event_general true)}}
+{{ if eq .Type "event" }}
 <div class="uk-container">
   <div class="uk-grid" data-ukgrid>
     <div class="uk-width-2-3@m">

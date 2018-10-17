@@ -2,8 +2,7 @@
 title: "Rangliste Salzburg Cup 2017"
 date: 2017-01-01
 draft: true
-event_general: true
-tpye: "page"
+type: "page"
 ---
 
 Gewertet werden die 6 besten Ergebnisse von 9.
