@@ -2,6 +2,10 @@
 title: "Einladung und Ausschreibung: SOLV-Trainingslager im Rahmen der Partnerschaft mit dem Trentino"
 date: 2017-02-05T10:51:51+02:00
 draft: false
+
+categories: ["Post"]
+tags: ["Training", "Trainingslager"]
+
 resources:
 - src: "*17.pdf"
   title: "Einladung"

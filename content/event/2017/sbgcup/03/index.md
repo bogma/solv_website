@@ -4,6 +4,10 @@ date: 2017-02-01T16:23:57+02:00
 draft: true
 skeleton: false
 anne_id: 0
+
+categories: [ "Event" ]
+tags: [ "SBG Cup"]
+
 event:
   name: ""
   date: 2017-04-17T10:00:00+02:00

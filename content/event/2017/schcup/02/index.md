@@ -3,6 +3,10 @@ title: "2. Lauf zum Sportvogl Schulcup 2017"
 date: 2017-02-02T20:27:03+02:00 # date of creation of the file
 draft: false
 skeleton: false
+
+categories: [ "Event" ]
+tags: [ "Schul Cup"]
+
 event:
   name: ""
   date: 2017-04-27T14:00:00+02:00 # date/start time of event

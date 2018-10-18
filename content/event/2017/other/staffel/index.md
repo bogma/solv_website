@@ -4,6 +4,10 @@ date: 2018-10-03T18:42:27+02:00 # date of creation of the file
 draft: true
 skeleton: true
 anne_id: 0
+
+categories: [ "Event" ]
+tags: [ "SBG LM", "Staffel"]
+
 event:
   name: ""
   date: 2018-10-03T18:42:27+02:00 # date/start time of event

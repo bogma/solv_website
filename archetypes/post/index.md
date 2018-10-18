@@ -3,6 +3,9 @@ title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 
+categories: [ "Post" ]
+tags: []
+
 #resources:
 #- src: "*17.pdf"
 #  title: "Einladung"

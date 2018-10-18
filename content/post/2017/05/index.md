@@ -3,6 +3,9 @@ title: "SOLV Vorstandssitzung"
 date: 2017-11-13T18:43:54+02:00
 draft: true
 
+categories: [ "Post" ]
+tags: [ "Administratives" ]
+
 #resources:
 #- src: "*17.pdf"
 #  title: "Einladung"

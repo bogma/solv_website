@@ -4,6 +4,10 @@ date: 2017-02-01T16:30:13+02:00
 draft: false
 skeleton: false
 anne_id: 0
+
+categories: [ "Event" ]
+tags: [ "SBG Cup", "SBG LM"]
+
 event:
   name: "SBG LM und 4. Salzburger Sportvoglcup 2017"
   date: 2017-04-22T15:00:00+02:00

@@ -4,6 +4,10 @@ date: {{ .Date }} # date of creation of the file
 draft: true
 skeleton: true
 anne_id: 0
+
+categories: [ "Event" ]
+tags: [ "SBG Cup"]
+
 event:
   name: ""
   date: {{ .Date }} # date/start time of event

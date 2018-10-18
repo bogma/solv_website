@@ -3,6 +3,9 @@ title: "Kinder- und Anfängertraining im Herbst"
 date: 2017-08-23T17:04:41+02:00
 draft: false
 
+categories: ["Post"]
+tags: ["Training"]
+
 #resources:
 #- src: "*17.pdf"
 #  title: "Einladung"

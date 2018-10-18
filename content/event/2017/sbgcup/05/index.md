@@ -4,6 +4,10 @@ date: 2017-02-01T16:45:57+02:00
 draft: false
 skeleton: false
 anne_id: 0
+
+categories: [ "Event" ]
+tags: [ "SBG Cup"]
+
 event:
   name: "5. Salzburger Sportvoglcup 2018 (Nachtrag)"
   date: 2017-10-28T13:30:00+02:00

@@ -4,6 +4,10 @@ date: 2017-02-01T16:20:57+02:00
 draft: false
 skeleton: false
 anne_id: 1928
+
+categories: [ "Event" ]
+tags: [ "SBG Cup"]
+
 event:
   name: "2. Salzburger Sportvoglcup 2017"
   date: 2017-03-25T14:00:00

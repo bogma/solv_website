@@ -4,6 +4,10 @@ date: 2017-02-01T20:22:49+02:00 # date of creation of the file
 draft: false
 skeleton: false
 anne_id: 0
+
+categories: [ "Event" ]
+tags: [ "SBG Cup", "SBG LM Sprint"]
+
 event:
   name: "SBG LMS Sprint und 6. u. 7. Salzburger Sportvoglcup 2017"
   date: 2017-06-24T14:00:00+02:00 # date/start time of event
