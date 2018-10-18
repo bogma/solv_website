@@ -1,17 +1,8 @@
 {{ define "main" }}
-{{ partial "hero" . }}
-<section class="uk-section uk-article">
-        <!-- <div class="uk-container uk-container-small">
-            <h2 class="uk-text-bold uk-h1 uk-margin-remove-adjacent uk-margin-remove-top">Fusce facilisis tempus magna ac dignissim.</h2>
-            <p class="uk-article-meta">Written on 12 April 2012. Posted in <a href="#">Blog</a> | <span data-uk-icon="icon: future"></span> Takes 7 min reading.</p>
-            
-            <p class="uk-text-lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
-            
-            <p>UPDATE 24th October 15.10 BST — Vivamus sed consequat urna. Fusce vitae urna sed ante placerat iaculis. Suspendisse potenti. Pellentesque quis fringilla libero. In hac habitasse platea dictumst.</p>
-            
-        </div> -->
-  <div class="uk-container uk-container-small">
-    {{ .Content }}
-  </div>
-</section>
+  {{ partial "hero" . }}
+  <section class="uk-section uk-article">
+    <div class="uk-container uk-container-small">
+      {{ .Content }}
+    </div>
+  </section>
 {{ end }}
