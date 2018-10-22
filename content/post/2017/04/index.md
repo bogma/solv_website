@@ -1,18 +1,13 @@
 ---
-title: "Index"
-date: 2018-10-03T18:43:26+02:00
-draft: true
+title: "5. Salzburg Cup verschoben"
+date: 2017-05-24T18:43:26+02:00
+draft: false
 
-#resources:
-#- src: "*17.pdf"
-#  title: "Einladung"
-#  params:
-#    date: 2017-01-01
-#- src: "*17.pdf"
-#  title: "Einladung"
-#  params:
-#    date: 2017-01-01
+categories: [ "Post" ]
+tags: ["SBG Cup"]
 
 ---
 
-<!-- more -->
+Der Lauf zum 5. Sportvoglcup in Hellbrunn muss verschoben werden.
+
+<!--more-->

@@ -4,7 +4,7 @@
         {{ $evt := where .Site.RegularPages "Type" "in" (slice "event") }}
         <ul class="uk-list uk-list-striped">
             {{ range $evt }}
-            {{ if and (not .Params.skeleton) (not .Params.event_general)}}
+            {{ if and (eq .Params.status "planned") (not .Params.event_general)}}
             <li>
                 <div class="uk-container">
                     <div class="uk-grid uk-grid-small" data-ukgrid>

@@ -24,7 +24,7 @@ paginate = 3
 [[menu.main]]
     identifier = "solv"
     name = "Verband"
-    url = "/about-ol/"
+    url = "/board/"
     weight = 20
 
 [[menu.main]]
@@ -68,7 +68,7 @@ paginate = 3
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     recent_articles = false
-    categories = true
+    categories = false
     tags = true
     tag_cloud = false
 

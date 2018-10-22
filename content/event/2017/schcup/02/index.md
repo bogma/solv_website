@@ -2,7 +2,7 @@
 title: "2. Lauf zum Sportvogl Schulcup 2017"
 date: 2017-02-02T20:27:03+02:00 # date of creation of the file
 draft: false
-skeleton: false
+status: done
 
 categories: [ "Event" ]
 tags: [ "Schul Cup"]

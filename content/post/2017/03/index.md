@@ -18,7 +18,9 @@ tags: ["Training"]
 
 ---
 
-<!-- more -->
+Herbsttermine!
+
+<!--more-->
 
 Herbsttermine für das Anfängertraining:
 

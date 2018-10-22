@@ -2,7 +2,7 @@
 title: "x. Salzburger Sportvoglcup 2018"
 date: 2018-10-03T18:41:35+02:00 # date of creation of the file
 draft: true
-skeleton: true
+status: planned
 anne_id: 0
 
 categories: [ "Event" ]

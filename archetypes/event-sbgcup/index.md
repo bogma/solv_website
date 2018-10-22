@@ -2,7 +2,7 @@
 title: "x. Salzburger Sportvoglcup 2018"
 date: {{ .Date }} # date of creation of the file
 draft: true
-skeleton: true
+status: planned
 anne_id: 0
 
 categories: [ "Event" ]

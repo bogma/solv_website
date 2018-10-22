@@ -2,7 +2,7 @@
 title: "6. Salzburger Sportvoglcup 2018"
 date: 2017-02-01T20:22:49+02:00 # date of creation of the file
 draft: false
-skeleton: false
+status: done
 anne_id: 0
 
 categories: [ "Event" ]

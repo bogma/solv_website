@@ -2,7 +2,7 @@
 title: "x. Salzburger Schulcup {{ dateFormat "2006" .Date }}"
 date: {{ .Date }} # date of creation of the file
 draft: true
-skeleton: true
+status: planned
 
 categories: [ "Event" ]
 tags: [ "Schul Cup"]

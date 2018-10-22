@@ -2,7 +2,7 @@
 title: "2. Salzburger Sportvoglcup 2017"
 date: 2017-02-01T16:20:57+02:00
 draft: false
-skeleton: false
+status: done
 anne_id: 1928
 
 categories: [ "Event" ]

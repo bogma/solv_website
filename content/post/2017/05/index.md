@@ -6,21 +6,11 @@ draft: true
 categories: [ "Post" ]
 tags: [ "Administratives" ]
 
-#resources:
-#- src: "*17.pdf"
-#  title: "Einladung"
-#  params:
-#    date: 2017-01-01
-#- src: "*17.pdf"
-#  title: "Einladung"
-#  params:
-#    date: 2017-01-01
-
 ---
 
 Am 13.12 findet die SOLV Vorstandssitzung mit Besprechung des Termingerüsts für 2018 statt.
 
-<!-- more -->
+<!--more-->
 
 geplante Termine 2018:
 
