@@ -2,16 +2,19 @@
 <header id="header" style="background-color: #fff;" data-uk-sticky="show-on-up: true; animation: uk-animation-fade; media: @l">
   <div class="uk-container">
     <nav class="uk-navbar-container" id="menu" data-uk-navbar>
+      <!-- logo -->
       <div class="uk-navbar-left">
         <a href="{{ .Site.Home.RelPermalink }}" class="uk-navbar-item uk-logo" >
           <img width="100" height="40" src="/images/solv-logo-horizontal.svg" class="uk-margin-small-right" uk-svg />
         </a>
       </div>
-      <div class="uk-navbar-right uk-visible@m">
-        <ul class="uk-navbar-nav">
+      <!-- menu -->
+      <div class="uk-navbar-right">
+        <a href="#mobile-menu" class="uk-navbar-toggle uk-hidden@m" uk-navbar-toggle-icon uk-toggle="target: #mobile-menu"></a>
+        <ul class="uk-navbar-nav uk-visible@m">
           {{ range .Site.Menus.main }}
           <li>
-            <a href="{{ .URL }}">{{ .Name }} {{ if .HasChildren }}<span data-uk-icon="icon: triangle-down"></span>{{ end }}</a>
+            <a href="#">{{ .Name }} {{ if .HasChildren }}<span data-uk-icon="icon: triangle-down"></span>{{ end }}</a>
             {{ if .HasChildren }}
             <div class="uk-navbar-dropdown">
               <ul class="uk-nav uk-navbar-dropdown-nav">
@@ -25,10 +28,31 @@
             {{ end }}
           </li>
           {{ end }}
-          <li class="uk-hidden@m"><a class="uk-navbar-toggle" data-uk-toggle data-uk-navbar-toggle-icon href="#offcanvas-nav"></a></li>
         </ul>
       </div>
     </nav>
+  </div>
+  <div id="mobile-menu" uk-offcanvas="overlay: true">
+    <div class="uk-offcanvas-bar">
+        <ul class="uk-nav uk-nav-default" data-uk-nav>
+          {{ range .Site.Menus.main }}
+          <li>
+            <a href="#">{{ .Name }}</a>
+            {{ if .HasChildren }}
+            <div class="uk-parent">
+              <ul class="uk-nav-sub">
+                {{ range .Children }}
+                <li>
+                  <a href="{{ .URL }}">{{ .Name }}</a>
+                </li>
+                {{ end }}
+              </ul>
+            </div>
+            {{ end }}
+          </li>
+          {{ end }}
+        </ul>
+    </div>
   </div>
 </header>
 <!--/HEADER-->
