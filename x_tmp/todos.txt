@@ -1,8 +1,7 @@
 general:
+	off canvas menu dropdown
 	alles auf deutsch!
 	define colore schema for types
-	taxonomies
-	taxononmies in events
 	archive
 	single vs. plural folder names
 	pagination

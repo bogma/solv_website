@@ -36,22 +36,29 @@
   </div>
   <div id="mobile-menu" uk-offcanvas="overlay: true">
     <div class="uk-offcanvas-bar">
-        <ul class="uk-nav uk-nav-default" data-uk-nav>
-          {{ range .Site.Menus.main }}
-          <li>
-            <a href="#">{{ .Name }}</a>
-            {{ if .HasChildren }}
-            <div class="uk-parent">
-              <ul class="uk-nav-sub">
-                {{ range .Children }}
-                <li>
-                  <a href="{{ .URL }}">{{ .Name }}</a>
-                </li>
-                {{ end }}
-              </ul>
-            </div>
-            {{ end }}
+        <ul class="uk-nav uk-nav-default uk-nav-parent-icon" data-uk-nav>
+          <li class="uk-nav-header">
+          <a href="{{ .Site.Home.RelPermalink }}" class="uk-navbar-item uk-logo" >
+              <img width="80" height="32" src="/images/solv-logo-horizontal.svg" class="uk-margin-small-right" uk-svg />
+            </a>
           </li>
+          {{ range .Site.Menus.main }}
+          {{ if .HasChildren }}
+          <li class="uk-parent">
+            <a href="#">{{ .Name }}</a>
+            <ul class="uk-nav-sub" hidden>
+              {{ range .Children }}
+              <li>
+                <a href="{{ .URL }}">{{ .Name }}</a>
+              </li>
+              {{ end }}
+            </ul>
+          </li>
+          {{ else }}
+          <li>
+            <a href="{{ .URL }}">{{ .Name }}</a>
+          </li>
+          {{ end }}
           {{ end }}
         </ul>
     </div>

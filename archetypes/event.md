@@ -3,6 +3,10 @@ title: "x. Salzburger Sportvoglcup 2018"
 date: {{ .Date }}
 draft: true
 status: planned
+
+categories: [ "Event" ]
+tags: [ "" ]
+
 anne_id: 0
 event:
   name: ""
