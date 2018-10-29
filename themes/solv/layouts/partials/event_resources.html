@@ -4,9 +4,11 @@
   {{ with .Resources.Match "infos/*" }}
     {{ partial "event_resources_list" . }}
   {{ end }}
-  <h4 class="uk-heading-line uk-text-bold"><span>Ergebnisse</span></h4>
-  {{ with .Resources.Match "results/*" }}
-    {{ partial "event_resources_list" . }}
+  {{ if (not (eq .Params.status "planned"))}}
+    <h4 class="uk-heading-line uk-text-bold"><span>Ergebnisse</span></h4>
+    {{ with .Resources.Match "results/*" }}
+      {{ partial "event_resources_list" . }}
+    {{ end }}
   {{ end }}
 </div>
 

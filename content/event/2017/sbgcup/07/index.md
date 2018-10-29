@@ -1,6 +1,6 @@
 ---
-title: "x. Salzburger Sportvoglcup 2018"
-date: 2018-10-03T18:41:35+02:00 # date of creation of the file
+title: "7. Salzburger Sportvoglcup 2017"
+date: 2017-02-01T16:24:56+02:00 # date of creation of the file
 draft: true
 status: planned
 anne_id: 0
@@ -9,14 +9,14 @@ categories: [ "Event" ]
 tags: [ "SBG Cup"]
 
 event:
-  name: ""
-  date: 2018-10-03T18:41:35+02:00 # date/start time of event
+  name: "Salzburger LMS im Sprint-OL und 7. Salzburger Sportvoglcup 2017"
+  date: 2017-06-24T16:00:00+02:00 # date/start time of event
   form: "Normaler OL"
-  location: ""
+  location: "Seekirchen"
 cup: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove one of the 3 options
+implementation: "ASKÖ Henndorf Orientieering" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
   course: ""
   event: ""

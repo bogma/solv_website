@@ -1,5 +1,4 @@
 general:
-	off canvas menu dropdown
 	alles auf deutsch!
 	define colore schema for types
 	archive

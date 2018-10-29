@@ -3,6 +3,7 @@
     <tbody>
         <tr><td>Veranstalter</td><td>{{ .Params.organiser | default "SOLV" }}</td></tr>
         <tr><td>Durchführung</td><td>{{ .Params.implementation | default "SOLV" }}</td></tr>
+        {{ if (not (eq .Params.status "planned"))}}
         <tr>
             <td>Treffpunk</td>
             <td>
@@ -40,6 +41,7 @@
         {{ end }}
         {{ if not (eq .Params.hints "") }}
         <tr><td>Informationen</td><td>{{ .Params.hints | markdownify }}</td></tr>
+        {{ end }}
         {{ end }}
     </tbody>
 </table>

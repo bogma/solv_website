@@ -1,5 +1,5 @@
 ---
-title: "x. Salzburger Sportvoglcup 2018"
+title: "LMS Staffel OL"
 date: 2018-10-03T18:42:27+02:00 # date of creation of the file
 draft: true
 status: planned
@@ -10,13 +10,13 @@ tags: [ "SBG LM", "Staffel"]
 
 event:
   name: ""
-  date: 2018-10-03T18:42:27+02:00 # date/start time of event
+  date: 2017-04-23T00:00:00+02:00 # date/start time of event
   form: "Normaler OL"
-  location: ""
+  location: "Ottnang am Hausruck"
 cup: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove one of the 3 options
+implementation: "HSV Ried" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
   course: ""
   event: ""
