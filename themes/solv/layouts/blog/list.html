@@ -4,8 +4,8 @@
   <div class="uk-container">
     <div class="uk-grid" data-ukgrid>
       <div class="uk-width-3-4@m">
-            <h4 class="uk-heading-line uk-text-bold"><span>Alle Beiträge</span></h4>
-            {{ $blog := where .Site.RegularPages "Type" "in" (slice "post" "pressinfo" "event")}}
+        <h4 class="uk-heading-line uk-text-bold"><span>Alle Beiträge</span></h4>
+        {{ $blog := where .Site.RegularPages "Type" "in" (slice "post" "pressinfo" "event")}}
         {{ $paginator := .Paginate $blog }}
         {{ range .Paginator.Pages }}
           {{ .Render "summary" }}

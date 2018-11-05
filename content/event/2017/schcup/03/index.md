@@ -1,6 +1,6 @@
 ---
 title: "3. Lauf zum Sportvogl Schulcup 2017"
-date: 2017-02-02T20:27:08+02:00 # date of creation of the file
+date: 2017-05-09T10:00:00+02:00 # date of creation of the file
 draft: false
 status: done
 

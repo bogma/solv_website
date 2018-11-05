@@ -1,6 +1,6 @@
 ---
 title: "9. Salzburger Sportvoglcup 2017"
-date: 2017-02-01T16:25:58+02:00 # date of creation of the file
+date: 2018-11-04T11:00:00+02:00 # date of creation of the file
 draft: true
 status: planned
 anne_id: 0

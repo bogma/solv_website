@@ -1,6 +1,6 @@
 ---
 title: "1. Salzburger Sportvoglcup 2017"
-date: 2017-02-01T16:18:57+02:00
+date: 2017-03-18T14:00:00+02:00
 draft: false
 status: done
 anne_id: 0
@@ -10,7 +10,7 @@ tags: [ "SBG Cup"]
 
 event:
   name: ""
-  date: 2017-03-18T14:00:00Z
+  date: 2017-03-18T14:00:00+02:00
   form: "Normaler OL"
   location: "Neumarkt"
 cup: "sbgcup"
