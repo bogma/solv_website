@@ -1,7 +1,19 @@
 {{ with $x := split .Dir "\\" }}
-{{ with $y := index $x 1}}
-{{ with $m := index $x 2 }}
-    {{$m}}&middot;{{$y}}
-{{ end }}
-{{ end }}
+    {{ $cType := index $x 0 }}
+    {{ if eq $cType "pressinfo" }}
+        {{ with $y := index $x 1 }}
+        {{ with $m := index $x 2 }}
+        {{$m}}&middot;{{$y}}
+        {{ end }}
+        {{ end }}
+    {{ else if eq $cType "event" }}
+        {{ with $y := index $x 1 }}
+        {{ $eType := index $x 2 }}
+        {{ if or (eq $eType "sbgcup") (eq $eType "schcup") }}
+            {{ with $m := index $x 3 }}
+                {{$eType}} {{$m}}&middot;{{$y}}
+            {{ end }}
+        {{ end }}
+        {{ end }}
+    {{ end }}
 {{ end }}
