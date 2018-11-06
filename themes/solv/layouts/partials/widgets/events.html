@@ -1,0 +1,28 @@
+<h4 class="uk-heading-line uk-text-bold"><span>Veranstaltungen</span></h4>
+{{ $evt := where .Site.RegularPages "Type" "in" (slice "event") }}
+<ul class="uk-list uk-list-striped">
+    {{ range $evt }}
+    {{ if and (eq .Params.status "planned") (not .Params.event_general)}}
+    <li>
+        <div class="uk-container">
+            <div class="uk-grid uk-grid-small" data-ukgrid>
+                <div class="uk-width-auto sv-event">
+                    <div class="sv-event-content sv-event-date-true">
+                        <div class="sv-event-date">
+                            <span class="sv-event-date-day">
+                                {{ dateFormat .Site.Params.time_format_event_daymonth .Params.event.date }}</span>
+                            <span class="sv-event-date-year">
+                                {{ dateFormat .Site.Params.time_format_event_year .Params.event.date }}</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="uk-width-expand">
+                    <p><a href="{{.RelPermalink}}">{{.Title}}</a></p>
+                    <p>{{ partial "event_anne_link" (dict "id" .Params.anne_id "link" "Anmeldung") }}</p>
+                </div>
+            </div>
+        </div>
+    </li>
+    {{ end }}
+    {{ end }}
+</ul>

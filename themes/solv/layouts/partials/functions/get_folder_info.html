@@ -1,0 +1,7 @@
+{{ with $x := split .Dir "\\" }}
+{{ with $y := index $x 1}}
+{{ with $m := index $x 2 }}
+    {{$m}}&middot;{{$y}}
+{{ end }}
+{{ end }}
+{{ end }}
