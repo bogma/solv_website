@@ -1,4 +1,4 @@
-<h4 class="uk-heading-line uk-text-bold"><span>Archive</span></h4>
+<h4 class="uk-heading-line uk-text-bold"><span>{{ with .Site.Data.l10n.widgets.archive.title }}{{.}}{{end}}</span></h4>
 {{ range .Site.Pages.GroupByDate "2006" }}
   {{ $year := .Key }}
   {{ if gt $year 2000 }}

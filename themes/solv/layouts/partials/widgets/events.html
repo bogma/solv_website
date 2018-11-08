@@ -1,4 +1,4 @@
-<h4 class="uk-heading-line uk-text-bold"><span>Veranstaltungen</span></h4>
+<h4 class="uk-heading-line uk-text-bold"><span>{{ with .Site.Data.l10n.widgets.events.title }}{{.}}{{end}}</span></h4>
 {{ $evt := where .Site.RegularPages "Type" "in" (slice "event") }}
 <ul class="uk-list uk-list-striped">
     {{ range $evt }}
@@ -18,7 +18,7 @@
                 </div>
                 <div class="uk-width-expand">
                     <p><a href="{{.RelPermalink}}">{{.Title}}</a></p>
-                    <p>{{ partial "event_anne_link" (dict "id" .Params.anne_id "link" "Anmeldung") }}</p>
+                    <p>{{ partial "functions/event_anne_link" (dict "id" .Params.anne_id "link" "Anmeldung") }}</p>
                 </div>
             </div>
         </div>

@@ -1,3 +1,4 @@
+{{ $t := .Title }}
 {{ with $x := split .Dir "\\" }}
     {{ $cType := index $x 0 }}
     {{ if eq $cType "pressinfo" }}
@@ -13,6 +14,8 @@
             {{ with $m := index $x 3 }}
                 {{$eType}} {{$m}}&middot;{{$y}}
             {{ end }}
+        {{ else }}
+            {{ $t }}
         {{ end }}
         {{ end }}
     {{ end }}

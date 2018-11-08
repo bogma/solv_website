@@ -38,3 +38,12 @@
 
 [widgets.tags]
     title = "Schlagwörter"
+
+[widgets.links]
+    title = "Links"
+
+[widgets.archive]
+    title = "Archiv"
+
+[widgets.events]
+    title = "Veranstaltungen"
