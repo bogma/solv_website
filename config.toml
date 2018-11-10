@@ -78,7 +78,7 @@ paginate = 10
 	time_format_event_daymonth = "2 Jan"
 	time_format_event_year = "2006"
     time_format_hhmm = "15:04"
-    use_google = true
+    use_google = false
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]

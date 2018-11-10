@@ -2,7 +2,7 @@
 title: "OL Karten in Salzburger"
 date: 2017-09-22T21:45:00+02:00
 tpye: "page"
-
+draft: true
 disable_rightbar: true
 
 menu:
@@ -13,7 +13,7 @@ menu:
     parent: "solv"
 ---
 
-<div id="map" style="width: 500px; height: 400px;"></div>
+<div id="map" style="width: 100%; height: 400px;"></div>
 <script type="text/javascript">
 {{< mapdata >}}
 var map = new google.maps.Map(document.getElementById('map'), {
