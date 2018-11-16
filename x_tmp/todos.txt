@@ -2,8 +2,7 @@ general:
 	alles auf deutsch!
 	define colore schema for types
 	archive
-	single vs. plural folder names
-	pagination
+	meister: common page or post? evt post mit category+tag
 	previous/next navigation
 	custom js for single pages
 	ical entries
