@@ -1,7 +1,7 @@
 ---
 title: "3. Salzburger Sportvoglcup 2017"
 date: 2017-04-17T10:00:00+02:00
-draft: true
+draft: false
 status: done
 anne_id: 0
 

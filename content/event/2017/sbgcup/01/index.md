@@ -8,6 +8,51 @@ anne_id: 0
 categories: [ "Event" ]
 tags: [ "SBG Cup"]
 
+event:
+  name: ""
+  date: 2017-03-18T14:00:00+02:00
+  form: "Normaler OL"
+  location: "Neumarkt"
+cup: "sbgcup"
+championship: false
+organiser: "SOLV - Salzburger Orientierungslaufverband"
+implementation: "ASKÖ Henndorf Orientieering" 
+official:
+  course: "Markus König"
+  event: "Markus König"
+  inspection: "Leo Tonka"
+course:
+  valid: false
+  lenghts: []
+entry:
+  receiver_anne: true
+  receiver_email: "leo.mueller@sbg.at"
+  closing_date_days: -7
+meeting:
+  point: "Schulzentrum Neumarkt/Wallersee"
+  time_minutes: -60
+  location: [47.9420154, 13.220623]
+map:
+  name: "Neumarkt West"
+  scale: "1:5.000"
+  equidistance: "5m"
+  update: "Februar 2017"
+  format: ""
+control_point_description: "Auf der Karte und zur Selbstentnahme"
+hints: "**Nachmeldungen** für Schnupperklassen kein Problem; für Sportvoglcupläufer in geringem Umfang möglich, aber mit einem Aufpreis von € 1,-"
+
+resources:
+- src: "**/aus**"
+  title: "Ausschreibung"
+- src: "**/start**"
+  title: "Startliste"
+- src: "**/resu**"
+  title: "Ergebnisse"
+- src: "**/split**"
+  title: "Splits"
+- src: "**/laeu**"
+  title: "Läuferinfo"
+
 ---
 ### Startgeld
 

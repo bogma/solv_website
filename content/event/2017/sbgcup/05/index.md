@@ -1,7 +1,7 @@
 ---
 title: "5. Salzburger Sportvoglcup 2018"
 date: 2017-10-28T13:30:00+02:00
-draft: false
+draft: true
 status: done
 anne_id: 0
 

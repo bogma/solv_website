@@ -1,7 +1,7 @@
 ---
 title: "ARGE Alp"
 tpye: "page"
-
+draft: false
 disable_rightbar: true
 
 menu:
