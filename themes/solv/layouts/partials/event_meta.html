@@ -2,7 +2,7 @@
         <div>
             {{ if .Params.event.date }}
             <span uk-icon="icon:location"></span>
-            {{ .Params.event.location }}
+            {{ partial "functions/maplink" (dict "ctx" .Params.meeting "txt" .Params.event.location) }}
             &middot;
             <span uk-icon="icon:calendar"></span>
             <time datetime="{{ .Params.event.date }}">{{ dateFormat .Site.Params.time_format_default .Params.event.date }}</time>

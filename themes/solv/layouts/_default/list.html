@@ -4,7 +4,8 @@
   <div class="uk-container">
     <div class="uk-grid" data-ukgrid>
       <div class="uk-width-3-4@m">
-        {{ $paginator := .Paginate .Data.Pages }}
+        {{ $blog := where .Pages "Type" "!=" "page"}}
+        {{ $paginator := .Paginate $blog }}
         {{ range .Paginator.Pages }}
           {{ .Render "summary" }}
         {{ end }}

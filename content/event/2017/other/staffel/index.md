@@ -2,7 +2,7 @@
 title: "LMS Staffel OL"
 date: 2017-04-23T00:00:00+02:00 # date of creation of the file
 draft: true
-status: planned
+status: done
 anne_id: 0
 
 categories: [ "Event" ]
@@ -10,17 +10,17 @@ tags: [ "SBG LM", "Staffel"]
 
 event:
   name: ""
-  date: 2017-04-23T00:00:00+02:00 # date/start time of event
-  form: "Normaler OL"
+  date: 2017-04-23T10:00:00+02:00 # date/start time of event
+  form: "Staffel OL"
   location: "Ottnang am Hausruck"
-cup: "sbgcup"
-championship: false
+cup: ""
+championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "HSV Ried" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Georg Gittmaier sen."
+  event: "Georg Gittmaier sen."
+  inspection: "Georg Gittmaier jun."
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
@@ -29,9 +29,9 @@ entry:
   email: leo.mueller@sbg.at
   closing_date_days: -7 # x days from event->date
 meeting:
-  point: ""
+  point: "Gasthaus Harmonie Stüberl"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [48.108280,13.600951]
 map:
   name: ""
   scale: "1:10.000"
@@ -57,15 +57,4 @@ resources:
   title: "Läuferinfo"
 ---
 
-### Allgemeines
-
-- Der Veranstalter sowie der durchführende Verein übernimmt keinerlei Haftung für auftretende Schäden jeglicher Art, auch nicht gegenüber Dritten.
-- Die Bestimmungen des Forstgesetzes und der StVO sind einzuhalten.
-- Die Veranstaltung wird nach den gültigen Regeln der [Wettlaufordnung](../../wettlaufordnung) des SOLV durchgeführt.
-- Im Laufgebiet besteht bis zum Wettkampf Trainingsverbot.
-- Jede\(r) Läufer(in) startet auf eigene Gefahr und ist für die entsprechenden Versicherungen selbst verantwortlich.
-- Die Regeln der Straßenverkehrsordnung sind unbedingt einzuhalten.
-- Privatgrundstücke dürfen nicht betreten werden.
-
-### Hinweis des SOLV
-Für die Jahreswertung des SOLV-Cup werden nur SOLV-Mitglieder berücksichtigt!
+Weitere Details bitte der Ausschreibung entnehmen!

@@ -1,5 +1,5 @@
 <h4 class="uk-heading-line uk-text-bold"><span>{{ with .Site.Data.l10n.widgets.events.title }}{{.}}{{end}}</span></h4>
-{{ $evt := where .Site.RegularPages "Type" "in" (slice "event") }}
+{{ $evt := where .Site.RegularPages "Type" "event" }}
 <ul class="uk-list uk-list-striped">
     {{ range $evt }}
     {{ if and (eq .Params.status "planned") (not .Params.event_general)}}

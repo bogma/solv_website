@@ -16,7 +16,7 @@
           <li>
             {{ if .HasChildren }}
             <a href="#">{{ .Name }} <span data-uk-icon="icon: triangle-down"></span></a>
-            <div class="uk-navbar-dropdown">
+              <div uk-dropdown="offset: -20" class="uk-navbar-dropdown">
               <ul class="uk-nav uk-navbar-dropdown-nav">
                 {{ range .Children }}
                 <li>
@@ -24,7 +24,7 @@
                 </li>
                 {{ end }}
               </ul>
-            </div>
+              </div>
             {{ else }}
               <a href="{{ .URL }}">{{ .Name }}</a>
             {{ end }}

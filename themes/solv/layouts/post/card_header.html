@@ -4,7 +4,12 @@
                 <span class="cat-txt">{{ .Type }}</span>
             </div>
             <div class="uk-width-auto uk-text-right uk-text-muted">
-                {{ partial "event_meta" . }}
+                <span uk-icon="icon: calendar"></span>
+                Written on <time datetime="{{ .Date }}" itemprop="datePublished">{{ .Date.Format .Site.Params.time_format_default }}</time>
+                &middot;
+                {{ .WordCount }} {{ with .Site.Data.l10n.articles.words }} {{ . }} {{ end }}
+                &middot;
+                {{ .ReadingTime }} {{ with .Site.Data.l10n.articles.readingtime }} {{ . }} {{ end }}
             </div>
         </div>
     </div>

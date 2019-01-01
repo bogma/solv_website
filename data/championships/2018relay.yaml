@@ -1,0 +1,31 @@
+year: 2017
+type: relay
+name: Staffel
+results:
+  - category: Damen -15
+    valid: true
+    result:
+      - name: [Jasmin Guggenberger, Emma Rothauer]
+      - name: [Katja Helminger, Jana Lechner]
+      - name: [Lara Höhenberger, Antonia Seitlinger]
+  - category: Herren -15
+    valid: false
+  - category: Damen 16-
+    valid: true
+    result:
+      - name: [Strasser Andrea, Bernadette Grömer]
+      - name: [Sophie Doppler, Katharina Hinterhofer]
+  - category: Herren 16-
+    valid: true
+    result:
+      - name: [Bernhard Fink, Jonas Königsdorfer]
+      - name: [Martin Böhm, Peter Ebster]
+      - name: [Leon Ebster, Roland Kohlbacher]
+  - category: Damen 55-
+    valid: false
+  - category: Herren 55-
+    valid: true
+    result:
+      - name: [Christian Breitschädel, Florian Elstner]
+      - name: [Franz Mages, Horst Mayer]
+      - name: [Jakob Buchberger, Wolfgang Buchberger]
