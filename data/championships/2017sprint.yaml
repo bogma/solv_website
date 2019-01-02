@@ -1,7 +1,10 @@
 year: 2017
 type: sprint
 name: Sprint
+evlink: /event/2017/sbgcup/06/
 results:
+  - category: Damen -15
+    valid: false
   - category: Herren -15
     valid: true
     result:

@@ -1,6 +1,7 @@
 year: 2016
 type: sprint
 name: Sprint
+evlink: <none>
 results:
   - category: Damen -15
     valid: true
@@ -37,4 +38,4 @@ results:
     result:
       - name: Jakob Buchberger
       - name: Karl Hackl
-      - name: Horst Mayer}      
+      - name: Horst Mayer

@@ -1,0 +1,17 @@
+year: 2018
+type: regular
+name: Allgemein
+evlink: <none>
+results:
+  - category: Damen
+    valid: true
+    result:
+      - name: Lucie Rothauer
+      - name: Andrea Strasser
+      - name: Franziska Rogl
+  - category: Herren
+    valid: true
+    result:
+      - name: Robert Merl
+      - name: Bernhard Fink
+      - name: Norbert Helminger

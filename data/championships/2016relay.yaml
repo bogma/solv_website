@@ -1,0 +1,27 @@
+year: 2016
+type: relay
+name: Staffel
+evlink: <none>
+results:
+  - category: Damen -15
+    valid: false
+  - category: Herren -15
+    valid: true
+    result:
+      - name: [Leon Ebster, Peter Ebster]
+      - name: [Jonas Königsdorfer, Martin Kastner]
+  - category: Damen 16-
+    valid: true
+    result:
+      - name: [Lucie Rothaurer, Julia Helminger]
+      - name: [Bernadette Grömer, Theresia Brunnauer]
+  - category: Herren 16-
+    valid: true
+    result:
+      - name: [Dominique L´Humeau, Bernhard Fink]
+      - name: [Matthias Kreuzer, Lukas Scharnagl]
+      - name: [Peter Ebster Sen., Christian Wartbichler]
+  - category: Damen 55-
+    valid: false
+  - category: Herren 55-
+    valid: false
