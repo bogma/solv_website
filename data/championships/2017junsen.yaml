@@ -1,0 +1,23 @@
+year: 2017
+type: junsen
+name: Jugend/Senjoren
+evlink: <none>
+results:
+  - category: Herren 35-
+    valid: true
+    result:
+      - name: Norbert Helminger
+      - name: Martin Böhm
+      - name: Thomas Rothauer
+  - category: Herren 45-
+    valid: true
+    result:
+      - name: Roland Kohlbacher
+      - name: Florian Elstner
+      - name: Jakob Buchberger
+  - category: Herren 55-
+    valid: true
+    result:
+      - name: Leopold Tonka
+      - name: Eduard Böhm
+      - name: Horst Mayer

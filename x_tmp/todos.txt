@@ -2,7 +2,6 @@ general:
 	alles auf deutsch!
 	define colore schema for types
 	archive
-	meister: common page or post? evt post mit category+tag
 	previous/next navigation
 	custom js for single pages
 	ical entries
