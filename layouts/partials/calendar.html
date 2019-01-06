@@ -28,9 +28,15 @@
         {{ $context.Scratch.Add "consideredYears" (slice $nextYear) }}
         {{ $context.Scratch.Set "currentYear" $nextYear }}
     {{ end }}
-
 {{ end }}
 
 {{ range ($context.Scratch.Get "consideredYears") }}
-    {{ partialCached "calendar/year" (dict "context" $context "year" . "from" $from "fromMonth" $fromMonth "to" $to "toMonth" $toMonth) (string (delimit (slice $from $fromMonth $to $toMonth .) "")) }}
+{{ end }}
+{{ range (seq 2016 2019) }}
+<li>
+                      <div class="uk-label uk-label-info" style="font-size: 0.75rem">
+                        {{ . }}
+                      </div>
+    {{ partialCached "calendar/year" (dict "context" $context "year" . ) (string (delimit (slice $from $fromMonth $to $toMonth .) "")) }}
+</li>
 {{ end }}

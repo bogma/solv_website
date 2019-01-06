@@ -1,6 +1,6 @@
 {{ $context := .context }}
 {{ $year := .year }}
-{{ $isLeapYear := .isLeapYear }}
+{{ $isLeapYear := (modBool $year 4) }}
 {{ $month := .month }}
 
 {{ $daysPerMonth := dict "1" (seq 31) "2" (seq 28) "2-leap" (seq 29) "3" (seq 31) "4" (seq 30) "5" (seq 31) "6" (seq 30) "7" (seq 31) "8" (seq 31) "9" (seq 30) "10" (seq 31) "11" (seq 30) "12" (seq 31) }}
@@ -22,23 +22,6 @@
 {{ $firstWeekdayInNumbers := index $daysPerWeekMap $firstWeekdayInLetters }}
 {{ $firstWeekdayMondayOffset := (sub (add $firstWeekdayInNumbers 6) 6) }}
 
-<div class="calendar-month">
-
-<header>
-    <h4>
-    {{ $articlesThisMonth := index ($context.Scratch.Get "ArticlesPerMonth") (string (delimit (slice $year $monthTwoLetters) "-")) }}
-    {{ if gt $articlesThisMonth 0}}<a href="/archive/{{ delimit (slice $year $monthTwoLetters) "-" }}/">{{ end }}
-    {{ $monthInLetters }}
-    {{ if gt $articlesThisMonth 0}}</a>{{ end }}
-    </h4>
-</header>
-
-<ul class="calendar-weekdays">
-    {{- range $daysPerWeek -}}
-    <li class="calendar-weekday-{{ lower . }}">{{ . }}</li>
-    {{- end -}}
-</ul>
-
 <ul class="calendar-days">
 
     {{ range seq $firstWeekdayMondayOffset }}
@@ -54,5 +37,3 @@
     {{ end }}
 
 </ul>
-
-</div>
