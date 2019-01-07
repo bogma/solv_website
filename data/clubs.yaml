@@ -1,0 +1,48 @@
+club:
+  - name: ASKÖ Henndorf Orienteering
+    short: AHD
+    website: www.henndorf.at/ol
+    membercount: 90
+    logo: /images/logo-ahd.jpg
+    board:
+      - position: Obmann
+        name: Christian Breitschädel
+      - position: Obmannstellvertreter
+        name: Lucie Rothauer
+      - position: Obmannstellvertreter
+        name: Markus König
+      - position: Obmannstellvertreter
+        name: Martin Bogensperger
+  - name: HSV Wals, Sektion OL
+    short: HSW
+    website: www.orientierungslauf-wals.at/home.html
+    membercount: 25
+    logo: /images/logo-hws.jpg
+    board:
+      - position: Obmann
+        name: Franz Nagele
+      - position: Obmannstellvertreter
+        name: Franz Wirth
+  - name: SSV Hallein-Neualm
+    short: SHN
+    website: www.ol-sbg.at/hallein/index.htm
+    membercount: 17
+    logo: /images/logo-shn.gif
+    board:
+      - position: Obmann
+        name: Horst Mayer
+      - position: Obmannstellvertreter
+        name: 
+  - name: NF Seekirchen, Sektion OL
+    membercount: 6
+    board:
+      - position: Obmann
+        name: Hartwig Rogl
+  - name: TV Zell am See, Sektion OL
+    short: TVZ
+    website: www.tvzellamsee.at/Orientierungslauf.2046.0.html
+    membercount: 2
+    logo: /images/logo-tvz.jpg
+    board:
+      - position: Obmann
+        name: Gabriel Seitlinger

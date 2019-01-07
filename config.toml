@@ -1,0 +1,92 @@
+baseURL = "/"
+languageCode = "de-de"
+title = "Salzburger Orientierungslauf Verband"
+theme = "solv"
+copyright = "SOLV - Powered by [Hugo](//gohugo.io) and [UIkit](//getuikit.com)"
+enableGitInfo = true
+ignoreFiles = [ "\\.xml$", "\\.skb$", "\\.foo$"]
+paginate = 10
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
+[permalinks]
+	post = "/:year/:month/:filename/"
+	code = "/:filename/"
+
+[[menu.main]]
+    identifier = "blog"
+    name = "All"
+    url = "/blog/"
+    weight = 10
+[[menu.main]]
+    identifier = "events"
+    name = "Events"
+    url = "/event/"
+    weight = 11
+[[menu.main]]
+    identifier = "pressinfos"
+    name = "Presse"
+    url = "/pressinfo/"
+    weight = 12
+[[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/post/"
+    weight = 13
+
+[[menu.main]]
+    identifier = "solv"
+    name = "Verband"
+    url = "/board/"
+    weight = 20
+
+[[menu.main]]
+    identifier = "cup"
+    name = "CUP & Meisterschaften"
+    url = "/event/"
+    weight = 30
+
+[[menu.main]]
+    identifier = "cup-current"
+    name = "Stand Salzburg Cup"
+    url = "/2017/sbgcup.pdf"
+    parent = "cup"
+    weight = 1000
+
+[[menu.main]]
+    identifier = "cup-archive"
+    name = "Archiv"
+    url = ""
+    parent = "cup"
+    weight = 1010
+
+[[menu.main]]
+    identifier = "cup-archive-2016"
+    name = "Salzburg Cup 2016"
+    url = "/2016/sbgcup.pdf"
+    parent = "cup"
+    weight = 1020
+
+[params]
+    description = "SOLV website"
+	# Date and time formatting, see https://gohugo.io/functions/format/
+	time_format_RFC3339 = "2006-01-02T15:04:05Z07:00"
+	time_format_RFC822 = "Mon, 02 Jan 2006 15:04:05 -0700" 
+	time_format_default = "Jan 2, 2006"
+	time_format_event_daymonth = "2 Jan"
+	time_format_event_year = "2006"
+    time_format_hhmm = "15:04"
+    use_google = true
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    recent_articles = false
+    categories = false
+    tags = true
+    tag_cloud = false
+
+[outputs]
+    page = ["HTML", "JSON"]
+    section = ["HTML", "JSON"]

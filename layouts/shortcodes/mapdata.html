@@ -1,0 +1,14 @@
+var locations = [
+{{ range .Site.Data.maps_sbg }}
+{{ $m := . }}
+    {{ range $m.coordinates }}
+    {{ $c := .}}
+    {{ if eq $c.system "google" }}
+        ['{{$m.name}}, {{$m.area}}', {{$c.datum}}],
+    {{ end }}
+    {{ end }}
+{{ end }}[]
+];
+
+{{ .Inner }}
+

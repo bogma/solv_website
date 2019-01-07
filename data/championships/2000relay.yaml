@@ -1,0 +1,16 @@
+year: 2000
+type: relay
+name: Staffel
+results:
+  - category: Damen
+    valid: true
+    result:
+      - name: [Birgit Eisl, Christine Müller]
+      - name: [Heda Perner, Julia Breitschädel]
+      - name: [Edith Müller, Christina Probst]
+  - category: Herren
+    valid: true
+    result:
+      - name: [Wolfgang Kampel, Tobias Breitschädel]
+      - name: [Jochen Berger, Felix Breitschädel]
+      - name: [Thomas Umundum, Richard Gathercole]

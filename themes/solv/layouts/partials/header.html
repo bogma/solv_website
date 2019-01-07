@@ -1,0 +1,70 @@
+<!--HEADER-->
+<header id="header" data-uk-sticky="show-on-up: true; animation: uk-animation-fade; media: @l">
+  <div class="uk-container">
+    <nav class="uk-navbar uk-navbar-container" id="menu" data-uk-navbar>
+      <!-- logo -->
+      <div class="uk-navbar-left">
+        <a href="{{ .Site.Home.RelPermalink }}" class="uk-navbar-item uk-logo" >
+          <img width="130" height="52" src="/images/solv-logo-horizontal.svg" class="uk-margin-small-right" uk-svg />
+        </a>
+      </div>
+      <!-- menu -->
+      <div class="uk-navbar-right">
+        <a href="#mobile-menu" class="uk-navbar-toggle uk-hidden@m" uk-navbar-toggle-icon uk-toggle="target: #mobile-menu"></a>
+        <ul class="uk-navbar-nav uk-visible@m">
+          {{ range .Site.Menus.main }}
+          <li>
+            {{ if .HasChildren }}
+            <a href="#">{{ .Name }} <span data-uk-icon="icon: triangle-down"></span></a>
+            <div class="uk-navbar-dropdown">
+              <ul class="uk-nav uk-navbar-dropdown-nav">
+                {{ range .Children }}
+                <li>
+                  <a href="{{ .URL }}">{{ .Name }}</a>
+                </li>
+                {{ end }}
+              </ul>
+            </div>
+            {{ else }}
+              <a href="{{ .URL }}">{{ .Name }}</a>
+            {{ end }}
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+    </nav>
+  </div>
+  <div id="mobile-menu" uk-offcanvas="overlay: true">
+    <div class="uk-offcanvas-bar">
+        <ul class="uk-nav uk-nav-default uk-nav-parent-icon" data-uk-nav>
+          <li class="uk-nav-header">
+          <a href="{{ .Site.Home.RelPermalink }}" class="uk-navbar-item uk-logo" >
+              <img width="80" height="32" src="/images/solv-logo-horizontal.svg" class="uk-margin-small-right" uk-svg />
+            </a>
+          </li>
+          {{ range .Site.Menus.main }}
+          {{ if .HasChildren }}
+          <li class="uk-parent">
+            <a href="#">{{ .Name }}</a>
+            <ul class="uk-nav-sub" hidden>
+              {{ range .Children }}
+              <li>
+                <a href="{{ .URL }}">{{ .Name }}</a>
+              </li>
+              {{ end }}
+            </ul>
+          </li>
+          {{ else }}
+          <li>
+            <a href="{{ .URL }}">{{ .Name }}</a>
+          </li>
+          {{ end }}
+          {{ end }}
+        </ul>
+    </div>
+  </div>
+</header>
+<!--/HEADER-->
+
+
+

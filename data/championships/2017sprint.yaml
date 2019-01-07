@@ -1,0 +1,33 @@
+year: 2017
+type: sprint
+name: Sprint
+results:
+  - category: Herren -15
+    valid: true
+    result:
+      - name: Tim Lechner
+      - name: Kastner Martin
+  - category: Damen 16-
+    valid: true
+    result:
+      - name: Bernadett Kelemen
+      - name: Franziska Rogl
+      - name: Nilla Bogensperger
+  - category: Herren 16-
+    valid: true
+    result:
+      - name: Norbert Helminger
+      - name: Martin Bogensperger
+      - name: Roland Kohlbacher
+  - category: Damen 55-
+    valid: true
+    result:
+      - name: Eva Breitschädel
+      - name: Brigitte Müller
+      - name: Berta Buchberger
+  - category: Herren 55-
+    valid: true
+    result:
+      - name: Josef Wimmer
+      - name: Hartwig Rogl
+      - name: Franz Nagele      

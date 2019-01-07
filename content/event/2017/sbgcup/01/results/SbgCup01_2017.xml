@@ -1,0 +1,2482 @@
+<?xml version="1.0" encoding="windows-1252"?>
+ <ResultList xmlns="http://www.orienteering.org/datastandard/3.0"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ iofVersion="3.0"
+ createTime="2017-03-25T18:01:35.289"
+ creator="SportSoftware OE2010 V.11.0">
+<Event>
+<Name>1. Salzburger Sportvoglcup 2017</Name>
+</Event>
+<ClassResult>
+<Class resultListMode="Default" sex="F">
+<Id>50</Id>
+<Name>S-Damen -13</Name>
+<ShortName>S D13</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>3.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>1</Id>
+<Name>Neulinge</Name>
+<Length>1060</Length>
+<NumberOfControls>10</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="F">
+<Id>8366</Id>
+<Name>
+<Family>Rothauer</Family>
+<Given>Emma</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>8</BibNumber>
+<StartTime>2016-09-17T14:14:09.000</StartTime>
+<FinishTime>2016-09-17T14:37:27.000</FinishTime>
+<Time>1398</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>8387</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>3.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>8105</Id>
+<Name>
+<Family>Seitlinger</Family>
+<Given>Antonia</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>124</Id>
+<Name>OL Sektion TV Zell am See</Name>
+<ShortName>OL Sektion TV Zell am See</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>2</BibNumber>
+<StartTime>2016-09-17T14:02:07.000</StartTime>
+<FinishTime>2016-09-17T14:37:39.000</FinishTime>
+<Time>2132</Time>
+<TimeBehind>734</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>7425</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>3.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="F">
+<Id>52</Id>
+<Name>S-Damen -18</Name>
+<ShortName>S D18</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>4.50</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>2</Id>
+<Name>Kurz</Name>
+<Length>3070</Length>
+<Climb>0</Climb>
+<NumberOfControls>19</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="F">
+<Id>7560</Id>
+<Name>
+<Family>Bogensperger</Family>
+<Given>Nilla</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>19</BibNumber>
+<StartTime>2016-09-17T14:04:09.000</StartTime>
+<FinishTime>2016-09-17T14:27:57.000</FinishTime>
+<Time>1428</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>7707707</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>8446</Id>
+<Name>
+<Family>Grömer</Family>
+<Given>Bernadette</Given>
+</Name>
+<BirthDate>1999-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>22</BibNumber>
+<StartTime>2016-09-17T14:07:10.000</StartTime>
+<FinishTime>2016-09-17T14:35:41.000</FinishTime>
+<Time>1711</Time>
+<TimeBehind>283</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>5384</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>7607</Id>
+<Name>
+<Family>Wiedemayer</Family>
+<Given>Laura</Given>
+</Name>
+<BirthDate>2001-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>32</BibNumber>
+<StartTime>2016-09-17T14:16:09.000</StartTime>
+<FinishTime>2016-09-17T14:45:01.000</FinishTime>
+<Time>1732</Time>
+<TimeBehind>304</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>9118118</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>8447</Id>
+<Name>
+<Family>Brunauer</Family>
+<Given>Theresa</Given>
+</Name>
+<BirthDate>1999-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>38</BibNumber>
+<StartTime>2016-09-17T14:22:08.000</StartTime>
+<FinishTime>2016-09-17T14:54:19.000</FinishTime>
+<Time>1931</Time>
+<TimeBehind>503</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>7553555</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Haas</Family>
+<Given>Fiona</Given>
+</Name>
+<BirthDate>1999-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>200</Id>
+<Name>HBLA Ursprung</Name>
+<ShortName>HBLA Ursprung</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>50</BibNumber>
+<StartTime>2016-09-17T14:34:15.000</StartTime>
+<FinishTime>2016-09-17T15:10:51.000</FinishTime>
+<Time>2196</Time>
+<TimeBehind>768</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>5387</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>6241</Id>
+<Name>
+<Family>Doppler</Family>
+<Given>Sophie</Given>
+</Name>
+<BirthDate>2001-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>47</BibNumber>
+<StartTime>2016-09-17T14:31:20.000</StartTime>
+<FinishTime>2016-09-17T15:12:04.000</FinishTime>
+<Time>2444</Time>
+<TimeBehind>1016</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>364303</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="F">
+<Id>53</Id>
+<Name>S-Damen 19-</Name>
+<ShortName>S D19</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>4.50</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>3</Id>
+<Name>Mittel</Name>
+<Length>3260</Length>
+<NumberOfControls>22</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="F">
+<Id>9</Id>
+<Name>
+<Family>Rothauer</Family>
+<Given>Lucie</Given>
+</Name>
+<BirthDate>1974-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>65</BibNumber>
+<StartTime>2016-09-17T14:48:09.000</StartTime>
+<FinishTime>2016-09-17T15:20:27.000</FinishTime>
+<Time>1938</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>502094</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>1069</Id>
+<Name>
+<Family>Rogl</Family>
+<Given>Franziska</Given>
+</Name>
+<BirthDate>1988-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>75</BibNumber>
+<StartTime>2016-09-17T14:41:09.000</StartTime>
+<FinishTime>2016-09-17T15:19:02.000</FinishTime>
+<Time>2273</Time>
+<TimeBehind>335</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>7700033</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>1071</Id>
+<Name>
+<Family>Kennerknecht</Family>
+<Given>Stefanie</Given>
+</Name>
+<BirthDate>1984-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>34</Id>
+<Name>Naturfreunde Seekirchen</Name>
+<ShortName>Naturfreunde Seekirchen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>78</BibNumber>
+<StartTime>2016-09-17T14:45:10.000</StartTime>
+<FinishTime>2016-09-17T15:31:06.000</FinishTime>
+<Time>2756</Time>
+<TimeBehind>818</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>7602</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>22</Id>
+<Name>
+<Family>Strasser</Family>
+<Given>Andrea</Given>
+</Name>
+<BirthDate>1980-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>77</BibNumber>
+<StartTime>2016-09-17T15:01:42.000</StartTime>
+<FinishTime>2016-09-17T15:31:18.000</FinishTime>
+<Time>1776</Time>
+<TimeBehind>-162</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>502100</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="F">
+<Id>54</Id>
+<Name>S-Damen 35-</Name>
+<ShortName>S D35</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>4.50</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>3</Id>
+<Name>Mittel</Name>
+<Length>3260</Length>
+<NumberOfControls>22</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="F">
+<Id>7075</Id>
+<Name>
+<Family>Buchberger</Family>
+<Given>Daniela</Given>
+</Name>
+<BirthDate>1976-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV WALS</Name>
+<ShortName>HSV WALS</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>76</BibNumber>
+<StartTime>2016-09-17T14:43:09.000</StartTime>
+<FinishTime>2016-09-17T15:33:29.000</FinishTime>
+<Time>3020</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>763004</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="F">
+<Id>55</Id>
+<Name>S-Damen 45-</Name>
+<ShortName>S D45</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>4.50</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>3</Id>
+<Name>Mittel</Name>
+<Length>3260</Length>
+<NumberOfControls>22</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="F">
+<Id>1527</Id>
+<Name>
+<Family>Eschlböck</Family>
+<Given>Gudrun</Given>
+</Name>
+<BirthDate>1968-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>30</Id>
+<Name>Naturfreunde Linz</Name>
+<ShortName>Naturfreunde Linz</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>74</BibNumber>
+<StartTime>2016-09-17T14:39:10.000</StartTime>
+<FinishTime>2016-09-17T15:17:50.000</FinishTime>
+<Time>2320</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>5458</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>2836</Id>
+<Name>
+<Family>Hillebrand</Family>
+<Given>Karin</Given>
+</Name>
+<BirthDate>1968-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>73</BibNumber>
+<StartTime>2016-09-17T14:37:11.000</StartTime>
+<FinishTime>2016-09-17T15:18:00.000</FinishTime>
+<Time>2449</Time>
+<TimeBehind>129</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>410660</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>3980</Id>
+<Name>
+<Family>Unger</Family>
+<Given>Andrea</Given>
+</Name>
+<BirthDate>1970-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>57</BibNumber>
+<StartTime>2016-09-17T14:05:09.000</StartTime>
+<FinishTime>2016-09-17T14:48:36.000</FinishTime>
+<Time>2607</Time>
+<TimeBehind>287</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>2041767</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>8240</Id>
+<Name>
+<Family>Hinterhofer</Family>
+<Given>Katharina</Given>
+</Name>
+<BirthDate>1969-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>56</BibNumber>
+<StartTime>2016-09-17T14:03:09.000</StartTime>
+<FinishTime>2016-09-17T14:47:28.000</FinishTime>
+<Time>2659</Time>
+<TimeBehind>339</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>2061238</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>77</Id>
+<Name>
+<Family>Perner</Family>
+<Given>Heda</Given>
+</Name>
+<BirthDate>1965-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>62</BibNumber>
+<StartTime>2016-09-17T12:15:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>5365</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>30</Id>
+<Name>
+<Family>Elstner</Family>
+<Given>Margit</Given>
+</Name>
+<BirthDate>1964-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>67</BibNumber>
+<StartTime>2016-09-17T12:25:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>640718</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>12</Id>
+<Name>
+<Family>Breitfellner</Family>
+<Given>Christa</Given>
+</Name>
+<BirthDate>1963-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>60</BibNumber>
+<StartTime>2016-09-17T12:11:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>5353</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>2707</Id>
+<Name>
+<Family>Hackl</Family>
+<Given>Claudia</Given>
+</Name>
+<BirthDate>1964-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>61</BibNumber>
+<StartTime>2016-09-17T12:13:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>2034090</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="F">
+<Id>56</Id>
+<Name>S-Damen 55-</Name>
+<ShortName>S D55</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>4.50</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>2</Id>
+<Name>Kurz</Name>
+<Length>3070</Length>
+<Climb>0</Climb>
+<NumberOfControls>19</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="F">
+<Id>555</Id>
+<Name>
+<Family>Buchberger</Family>
+<Given>Berta</Given>
+</Name>
+<BirthDate>1955-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV WALS</Name>
+<ShortName>HSV WALS</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>53</BibNumber>
+<StartTime>2016-09-17T14:11:09.000</StartTime>
+<FinishTime>2016-09-17T15:06:28.000</FinishTime>
+<Time>3319</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>5345</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>2790</Id>
+<Name>
+<Family>Bordihn</Family>
+<Given>Heidi</Given>
+</Name>
+<BirthDate>1953-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>35</Id>
+<Name>SSV Hallein-Neualm</Name>
+<ShortName>SSV Hallein-Neualm</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>37</BibNumber>
+<StartTime>2016-09-17T14:21:08.000</StartTime>
+<FinishTime>2016-09-17T15:04:04.000</FinishTime>
+<Time>2576</Time>
+<TimeBehind>-743</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>520709</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>96</Id>
+<Name>
+<Family>Simader</Family>
+<Given>Ingrid</Given>
+</Name>
+<BirthDate>1942-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>16</BibNumber>
+<StartTime>2016-09-17T12:01:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>5319</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>69</Id>
+<Name>
+<Family>Müller</Family>
+<Given>Brigitte</Given>
+</Name>
+<BirthDate>1948-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>30</BibNumber>
+<StartTime>2016-09-17T12:37:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>5399</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>14</Id>
+<Name>
+<Family>Breitschädel</Family>
+<Given>Eva</Given>
+</Name>
+<BirthDate>1953-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>27</BibNumber>
+<StartTime>2016-09-17T12:11:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>502096</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>57</Id>
+<Name>S-Herren -13</Name>
+<ShortName>S H13</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>3.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>1</Id>
+<Name>Neulinge</Name>
+<Length>1060</Length>
+<NumberOfControls>10</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Id>7745</Id>
+<Name>
+<Family>Lechenauer</Family>
+<Given>Gustaph</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>6</BibNumber>
+<StartTime>2016-09-17T14:10:16.000</StartTime>
+<FinishTime>2016-09-17T14:23:20.000</FinishTime>
+<Time>784</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>2045568</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>3.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>58</Id>
+<Name>S-Herren -15</Name>
+<ShortName>S H15</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>3.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>2</Id>
+<Name>Kurz</Name>
+<Length>3070</Length>
+<Climb>0</Climb>
+<NumberOfControls>19</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Id>7611</Id>
+<Name>
+<Family>Ebster</Family>
+<Given>Leon</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>21</BibNumber>
+<StartTime>2016-09-17T14:06:10.000</StartTime>
+<FinishTime>2016-09-17T14:28:34.000</FinishTime>
+<Time>1344</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>7776655</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>3.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>7612</Id>
+<Name>
+<Family>Ebster</Family>
+<Given>Peter</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>39</BibNumber>
+<StartTime>2016-09-17T14:23:08.000</StartTime>
+<FinishTime>2016-09-17T14:47:05.000</FinishTime>
+<Time>1437</Time>
+<TimeBehind>93</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>7979799</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>3.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>8368</Id>
+<Name>
+<Family>Kastner</Family>
+<Given>Martin</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>28</BibNumber>
+<StartTime>2016-09-17T14:12:09.000</StartTime>
+<FinishTime>2016-09-17T14:51:29.000</FinishTime>
+<Time>2360</Time>
+<TimeBehind>1016</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>1220702</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>3.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>8317</Id>
+<Name>
+<Family>Skotnik</Family>
+<Given>Marco</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>35</Id>
+<Name>SSV Hallein-Neualm</Name>
+<ShortName>SSV Hallein-Neualm</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>33</BibNumber>
+<StartTime>2016-09-17T12:17:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>7628</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>3.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>8224</Id>
+<Name>
+<Family>Sailer</Family>
+<Given>Dominik</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>35</BibNumber>
+<StartTime>2016-09-17T12:19:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>7778877</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>3.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>59</Id>
+<Name>S-Herren -18</Name>
+<ShortName>S H18</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>4.50</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>3</Id>
+<Name>Mittel</Name>
+<Length>3260</Length>
+<NumberOfControls>22</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Id>7608</Id>
+<Name>
+<Family>Königstorfer</Family>
+<Given>Jonas</Given>
+</Name>
+<BirthDate>2001-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>58</BibNumber>
+<StartTime>2016-09-17T14:07:11.000</StartTime>
+<FinishTime>2016-09-17T14:48:22.000</FinishTime>
+<Time>2471</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>7117007</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>7613</Id>
+<Name>
+<Family>Wilhelm</Family>
+<Given>Josef</Given>
+</Name>
+<BirthDate>2001-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>25</BibNumber>
+<StartTime>2016-09-17T12:10:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>2056413</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>3979</Id>
+<Name>
+<Family>Lechenauer</Family>
+<Given>Phillip</Given>
+</Name>
+<BirthDate>2001-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>69</BibNumber>
+<StartTime>2016-09-17T12:29:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>2041769</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>60</Id>
+<Name>S-Herren 19-</Name>
+<ShortName>S H19</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>4.50</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>4</Id>
+<Name>Lang</Name>
+<Length>4840</Length>
+<NumberOfControls>22</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Id>6658</Id>
+<Name>
+<Family>Markel</Family>
+<Given>Samuel</Given>
+</Name>
+<BirthDate>1999-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>93</BibNumber>
+<StartTime>2016-09-17T14:26:07.000</StartTime>
+<FinishTime>2016-09-17T14:57:05.000</FinishTime>
+<Time>1858</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>1500335</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>80</Id>
+<Name>
+<Family>Rameder</Family>
+<Given>Andreas</Given>
+</Name>
+<BirthDate>1986-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>86</BibNumber>
+<StartTime>2016-09-17T12:12:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>880888</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>61</Id>
+<Name>S-Herren 35-</Name>
+<ShortName>S H35</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>4.50</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>4</Id>
+<Name>Lang</Name>
+<Length>4840</Length>
+<NumberOfControls>22</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Id>42</Id>
+<Name>
+<Family>Helminger</Family>
+<Given>Norbert</Given>
+</Name>
+<BirthDate>1975-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV WALS</Name>
+<ShortName>HSV WALS</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>85</BibNumber>
+<StartTime>2016-09-17T14:10:18.000</StartTime>
+<FinishTime>2016-09-17T14:41:29.000</FinishTime>
+<Time>1871</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>500775</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>1389</Id>
+<Name>
+<Family>Kohlbacher</Family>
+<Given>Roland</Given>
+</Name>
+<BirthDate>1966-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>83</BibNumber>
+<StartTime>2016-09-17T14:06:08.000</StartTime>
+<FinishTime>2016-09-17T14:37:26.000</FinishTime>
+<Time>1878</Time>
+<TimeBehind>7</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>1409471</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>3652</Id>
+<Name>
+<Family>Schukoff</Family>
+<Given>Boris</Given>
+</Name>
+<BirthDate>1971-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>90</BibNumber>
+<StartTime>2016-09-17T14:20:07.000</StartTime>
+<FinishTime>2016-09-17T14:53:40.000</FinishTime>
+<Time>2013</Time>
+<TimeBehind>142</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>895096</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>2419</Id>
+<Name>
+<Family>Rothauer</Family>
+<Given>Thomas</Given>
+</Name>
+<BirthDate>1977-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>96</BibNumber>
+<StartTime>2016-09-17T14:32:14.000</StartTime>
+<FinishTime>2016-09-17T15:06:25.000</FinishTime>
+<Time>2051</Time>
+<TimeBehind>180</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>15167</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Prokopetz</Family>
+<Given>Bernhard</Given>
+</Name>
+<BirthDate>1976-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>36</Id>
+<Name>NF Kitzbühel</Name>
+<ShortName>NF Kitzbühel</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>94</BibNumber>
+<StartTime>2016-09-17T14:52:15.000</StartTime>
+<FinishTime>2016-09-17T15:27:12.000</FinishTime>
+<Time>2097</Time>
+<TimeBehind>226</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>1555552</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>7741</Id>
+<Name>
+<Family>Bogensperger</Family>
+<Given>Martin</Given>
+</Name>
+<BirthDate>1972-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>97</BibNumber>
+<StartTime>2016-09-17T14:34:17.000</StartTime>
+<FinishTime>2016-09-17T15:09:16.000</FinishTime>
+<Time>2099</Time>
+<TimeBehind>228</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>7777720</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Buchberger</Family>
+<Given>Markus</Given>
+</Name>
+<BirthDate>1980-01-01</BirthDate>
+<Address>
+<City>0</City>
+</Address>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV WALS</Name>
+<ShortName>HSV WALS</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>89</BibNumber>
+<StartTime>2016-09-17T14:18:09.000</StartTime>
+<FinishTime>2016-09-17T14:53:57.000</FinishTime>
+<Time>2148</Time>
+<TimeBehind>277</TimeBehind>
+<Position>7</Position>
+<Status>OK</Status>
+<ControlCard>5343</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>2765</Id>
+<Name>
+<Family>Buchberger Jun.</Family>
+<Given>Wolfgang</Given>
+</Name>
+<BirthDate>1980-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV WALS</Name>
+<ShortName>HSV WALS</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>82</BibNumber>
+<StartTime>2016-09-17T14:04:10.000</StartTime>
+<FinishTime>2016-09-17T14:40:59.000</FinishTime>
+<Time>2209</Time>
+<TimeBehind>338</TimeBehind>
+<Position>8</Position>
+<Status>OK</Status>
+<ControlCard>680724</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>8549</Id>
+<Name>
+<Family>Artner</Family>
+<Given>Christoph</Given>
+</Name>
+<BirthDate>1973-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>35</Id>
+<Name>SSV Hallein-Neualm</Name>
+<ShortName>SSV Hallein-Neualm</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>92</BibNumber>
+<StartTime>2016-09-17T14:24:15.000</StartTime>
+<FinishTime>2016-09-17T15:09:23.000</FinishTime>
+<Time>2708</Time>
+<TimeBehind>837</TimeBehind>
+<Position>9</Position>
+<Status>OK</Status>
+<ControlCard>7117227</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>7074</Id>
+<Name>
+<Family>Maier</Family>
+<Given>Raphael</Given>
+</Name>
+<BirthDate>1977-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV WALS</Name>
+<ShortName>HSV WALS</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>87</BibNumber>
+<StartTime>2016-09-17T12:14:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>682407</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>62</Id>
+<Name>S-Herren 45-</Name>
+<ShortName>S H45</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>4.50</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>3</Id>
+<Name>Mittel</Name>
+<Length>3260</Length>
+<NumberOfControls>22</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Id>28</Id>
+<Name>
+<Family>Elstner</Family>
+<Given>Florian</Given>
+</Name>
+<BirthDate>1963-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>59</BibNumber>
+<StartTime>2016-09-17T14:09:09.000</StartTime>
+<FinishTime>2016-09-17T14:41:32.000</FinishTime>
+<Time>1943</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>630503</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>2618</Id>
+<Name>
+<Family>Hones</Family>
+<Given>Josef</Given>
+</Name>
+<BirthDate>1954-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>28</Id>
+<Name>HSV Ried</Name>
+<ShortName>HSV Ried</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>72</BibNumber>
+<StartTime>2016-09-17T14:35:09.000</StartTime>
+<FinishTime>2016-09-17T15:09:17.000</FinishTime>
+<Time>2048</Time>
+<TimeBehind>105</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>1500223</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>7774</Id>
+<Name>
+<Family>Ebster Sen.</Family>
+<Given>Peter</Given>
+</Name>
+<BirthDate>1968-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>63</BibNumber>
+<StartTime>2016-09-17T14:17:08.000</StartTime>
+<FinishTime>2016-09-17T14:51:38.000</FinishTime>
+<Time>2070</Time>
+<TimeBehind>127</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>7077770</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>8106</Id>
+<Name>
+<Family>Seitlinger</Family>
+<Given>Gabriel</Given>
+</Name>
+<BirthDate>1970-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>124</Id>
+<Name>OL Sektion TV Zell am See</Name>
+<ShortName>OL Sektion TV Zell am See</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>71</BibNumber>
+<StartTime>2016-09-17T14:33:16.000</StartTime>
+<FinishTime>2016-09-17T15:10:08.000</FinishTime>
+<Time>2212</Time>
+<TimeBehind>269</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>2086568</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>557</Id>
+<Name>
+<Family>Buchberger</Family>
+<Given>Jakob</Given>
+</Name>
+<BirthDate>1953-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV WALS</Name>
+<ShortName>HSV WALS</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>64</BibNumber>
+<StartTime>2016-09-17T14:19:09.000</StartTime>
+<FinishTime>2016-09-17T14:57:00.000</FinishTime>
+<Time>2271</Time>
+<TimeBehind>328</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>550253</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>6836</Id>
+<Name>
+<Family>Berner</Family>
+<Given>Roland</Given>
+</Name>
+<BirthDate>1965-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>35</Id>
+<Name>SSV Hallein-Neualm</Name>
+<ShortName>SSV Hallein-Neualm</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>70</BibNumber>
+<StartTime>2016-09-17T14:31:18.000</StartTime>
+<FinishTime>2016-09-17T15:11:03.000</FinishTime>
+<Time>2385</Time>
+<TimeBehind>442</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>650904</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>1528</Id>
+<Name>
+<Family>Eschlböck</Family>
+<Given>Rainer</Given>
+</Name>
+<BirthDate>1965-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>30</Id>
+<Name>Naturfreunde Linz</Name>
+<ShortName>Naturfreunde Linz</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>66</BibNumber>
+<StartTime>2016-09-17T14:23:09.000</StartTime>
+<FinishTime>2016-09-17T14:54:22.000</FinishTime>
+<Time>1873</Time>
+<TimeBehind>-70</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>5500</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>1070</Id>
+<Name>
+<Family>Rogl</Family>
+<Given>Hartwig</Given>
+</Name>
+<BirthDate>1958-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>34</Id>
+<Name>Naturfreunde Seekirchen</Name>
+<ShortName>Naturfreunde Seekirchen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>68</BibNumber>
+<StartTime>2016-09-17T14:27:08.000</StartTime>
+<FinishTime>2016-09-17T15:09:38.000</FinishTime>
+<Time>2550</Time>
+<TimeBehind>607</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>770033</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>63</Id>
+<Name>S-Herren 55-</Name>
+<ShortName>S H55</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>4.50</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>2</Id>
+<Name>Kurz</Name>
+<Length>3070</Length>
+<Climb>0</Climb>
+<NumberOfControls>19</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Id>1904</Id>
+<Name>
+<Family>Mayer</Family>
+<Given>Horst</Given>
+</Name>
+<BirthDate>1960-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>35</Id>
+<Name>SSV Hallein-Neualm</Name>
+<ShortName>SSV Hallein-Neualm</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>42</BibNumber>
+<StartTime>2016-09-17T14:25:10.000</StartTime>
+<FinishTime>2016-09-17T14:54:35.000</FinishTime>
+<Time>1765</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>8021260</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>2420</Id>
+<Name>
+<Family>Hackl</Family>
+<Given>Karl</Given>
+</Name>
+<BirthDate>1956-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>23</BibNumber>
+<StartTime>2016-09-17T14:08:08.000</StartTime>
+<FinishTime>2016-09-17T14:38:04.000</FinishTime>
+<Time>1796</Time>
+<TimeBehind>31</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>1680505</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>7759</Id>
+<Name>
+<Family>Wimmer</Family>
+<Given>Josef</Given>
+</Name>
+<BirthDate>1957-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>20</BibNumber>
+<StartTime>2016-09-17T14:05:10.000</StartTime>
+<FinishTime>2016-09-17T14:38:08.000</FinishTime>
+<Time>1978</Time>
+<TimeBehind>213</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>5374</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>8</Id>
+<Name>
+<Family>Böhm</Family>
+<Given>Eduard</Given>
+</Name>
+<BirthDate>1948-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>18</BibNumber>
+<StartTime>2016-09-17T14:03:11.000</StartTime>
+<FinishTime>2016-09-17T14:37:25.000</FinishTime>
+<Time>2054</Time>
+<TimeBehind>289</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>1480913</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>13</Id>
+<Name>
+<Family>Breitschädel</Family>
+<Given>Christian</Given>
+</Name>
+<BirthDate>1953-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>43</BibNumber>
+<StartTime>2016-09-17T14:27:10.000</StartTime>
+<FinishTime>2016-09-17T15:05:17.000</FinishTime>
+<Time>2287</Time>
+<TimeBehind>522</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>1530413</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>565</Id>
+<Name>
+<Family>Nagele</Family>
+<Given>Franz</Given>
+</Name>
+<BirthDate>1946-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV WALS</Name>
+<ShortName>HSV WALS</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>40</BibNumber>
+<StartTime>2016-09-17T14:24:12.000</StartTime>
+<FinishTime>2016-09-17T15:04:03.000</FinishTime>
+<Time>2391</Time>
+<TimeBehind>626</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>8250146</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>3078</Id>
+<Name>
+<Family>Schütz</Family>
+<Given>Wolfgang</Given>
+</Name>
+<BirthDate>1953-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>26</BibNumber>
+<StartTime>2016-09-17T14:10:19.000</StartTime>
+<FinishTime>2016-09-17T14:57:27.000</FinishTime>
+<Time>2828</Time>
+<TimeBehind>1063</TimeBehind>
+<Position>7</Position>
+<Status>OK</Status>
+<ControlCard>5337</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>7071</Id>
+<Name>
+<Family>Buchberger Sen.</Family>
+<Given>Wolfgang</Given>
+</Name>
+<BirthDate>1953-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV WALS</Name>
+<ShortName>HSV WALS</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>46</BibNumber>
+<StartTime>2016-09-17T14:30:05.000</StartTime>
+<FinishTime>2016-09-17T15:38:31.000</FinishTime>
+<Time>4106</Time>
+<TimeBehind>2341</TimeBehind>
+<Status>MissingPunch</Status>
+<ControlCard>9070007</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>71</Id>
+<Name>
+<Family>Müller</Family>
+<Given>Leo</Given>
+</Name>
+<BirthDate>1949-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>51</BibNumber>
+<StartTime>2016-09-17T12:35:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>1231049</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>2422</Id>
+<Name>
+<Family>Rieder</Family>
+<Given>Gernot</Given>
+</Name>
+<BirthDate>1941-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>55</BibNumber>
+<StartTime>2016-09-17T12:39:00.000</StartTime>
+<Status>DidNotStart</Status>
+<ControlCard>5369</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>64</Id>
+<Name>Offen Kurz</Name>
+<ShortName>S OK</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>3.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>1</Id>
+<Name>Neulinge</Name>
+<Length>1060</Length>
+<NumberOfControls>10</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Schaffler</Family>
+<Given>Benedikt</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>90002</Id>
+<Name>ohne Verein</Name>
+<ShortName>ohne Verein</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>13</BibNumber>
+<StartTime>2016-09-17T14:24:11.000</StartTime>
+<FinishTime>2016-09-17T14:40:14.000</FinishTime>
+<Time>963</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>7416</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>3.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Buchberger</Family>
+<Given>Jakob</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV WALS</Name>
+<ShortName>HSV WALS</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>5</BibNumber>
+<StartTime>2016-09-17T14:47:39.000</StartTime>
+<FinishTime>2016-09-17T15:06:10.000</FinishTime>
+<Time>1111</Time>
+<TimeBehind>148</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<ControlCard>680724</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>3.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Strasser</Family>
+<Given>Fabian</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>12</BibNumber>
+<StartTime>2016-09-17T14:19:28.000</StartTime>
+<FinishTime>2016-09-17T14:40:00.000</FinishTime>
+<Time>1232</Time>
+<TimeBehind>269</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<ControlCard>7414</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>3.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Strasser</Family>
+<Given>Lena</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>14</BibNumber>
+<StartTime>2016-09-17T14:19:29.000</StartTime>
+<FinishTime>2016-09-17T14:41:28.000</FinishTime>
+<Time>1319</Time>
+<TimeBehind>356</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<ControlCard>7407</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>3.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Helminger</Family>
+<Given>Katja</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV WALS</Name>
+<ShortName>HSV WALS</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>9</BibNumber>
+<StartTime>2016-09-17T14:16:25.000</StartTime>
+<FinishTime>2016-09-17T14:38:49.000</FinishTime>
+<Time>1344</Time>
+<TimeBehind>381</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<ControlCard>5347</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>3.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Name>
+<Family>Fink</Family>
+<Given>HannahLorenz</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>4</BibNumber>
+<StartTime>2016-09-17T14:09:23.000</StartTime>
+<FinishTime>2016-09-17T14:37:35.000</FinishTime>
+<Time>1692</Time>
+<TimeBehind>729</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<ControlCard>46309</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>3.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>65</Id>
+<Name>Offen Lang</Name>
+<ShortName>S OL</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>3.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>2</Id>
+<Name>Kurz</Name>
+<Length>3070</Length>
+<Climb>0</Climb>
+<NumberOfControls>19</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Id>3076</Id>
+<Name>
+<Family>Strasser</Family>
+<Given>Bernhard</Given>
+</Name>
+<BirthDate>1975-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>41</BibNumber>
+<StartTime>2016-09-17T14:26:08.000</StartTime>
+<FinishTime>2016-09-17T14:59:49.000</FinishTime>
+<Time>2021</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<ControlCard>755555</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>3.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>8316</Id>
+<Name>
+<Family>Azimi</Family>
+<Given>Mumtaz</Given>
+</Name>
+<BirthDate>1997-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>35</Id>
+<Name>SSV Hallein-Neualm</Name>
+<ShortName>SSV Hallein-Neualm</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>31</BibNumber>
+<StartTime>2016-09-17T12:15:00.000</StartTime>
+<Status>DidNotFinish</Status>
+<ControlCard>7626</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>3.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>8367</Id>
+<Name>
+<Family>Kastner</Family>
+<Given>Robert</Given>
+</Name>
+<BirthDate>1970-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>29</BibNumber>
+<StartTime>2016-09-17T12:13:00.000</StartTime>
+<Status>DidNotStart</Status>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>3.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+</ResultList>

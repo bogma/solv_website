@@ -1,0 +1,67 @@
+<script src="/js/jquery-3.2.1.min.js"></script>
+<script src="/js/isotope.pkgd.min.js" async></script>
+<script src="/js/champions_filter.js" async></script>
+<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/champions.css">
+
+<div class="button-group filters-button-group">
+    <button data-filter="*">Alle</button>
+    <button data-filter=".sprint">Sprint</button>
+    <button data-filter=".relay">Staffel</button>
+</div>
+
+<p>
+    <select class="filters-select">
+      <option value="2000">2000</option>
+      <option value="2017">2017</option>
+    </select>
+</p>
+
+<div class="grid">
+{{ range .Page.Site.Data.championships }}
+    {{ $y := .year }}
+    {{ $t := .type }}
+    {{ $n := .name }}
+    {{ range .results }}
+    <div class="element-item {{ $t }} {{ $y }}">
+        <h3 class="name {{ $t }}">{{ $n }}</h3>
+        <p class="cat">{{ .category }}</p>
+        <p class="year">{{ $y }}</p>
+        {{ range $index, $element := .result }}
+            {{ $c := add $index 1 }}
+            {{ if eq $c 1 }}
+                <p class="gold">
+                    {{ if eq $t "relay" }}
+                        {{ range $element.name }}
+                            {{ . }} / 
+                        {{ end }}
+                    {{ else }}
+                        {{ $element.name }}
+                    {{ end }}
+                </p>
+            {{ else if eq $c 2 }}
+                <p class="silver">
+                    {{ if eq $t "relay" }}
+                        {{ range $element.name }}
+                            {{ . }} / 
+                        {{ end }}
+                    {{ else }}
+                        {{ $element.name }}
+                    {{ end }}
+                </p>
+            {{ else if eq $c 3 }}
+                <p class="bronze">
+                    {{ if eq $t "relay" }}
+                        {{ range $element.name }}
+                            {{ . }} / 
+                        {{ end }}
+                    {{ else }}
+                        {{ $element.name }}
+                    {{ end }}
+                </p>
+            {{ end }}            
+        {{ end }}
+    </div>
+    {{ end }}
+{{ end }}
+
+</div>

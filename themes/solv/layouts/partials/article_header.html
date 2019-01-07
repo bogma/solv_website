@@ -1,0 +1,48 @@
+<header class="article-header">
+    <h2 class="uk-margin-remove-adjacent uk-text-bold uk-margin-small-bottom">
+        {{ .Title }}
+    </h2>
+    <div class="uk-article-meta">
+        {{ if not .Params.nodateline }}
+        <div>
+            <span uk-icon="icon: calendar"></span>
+            Written on <time datetime="{{ .Date }}" itemprop="datePublished">{{ .Date.Format .Site.Params.time_format_default }}</time>
+            &middot;
+            {{ .WordCount }}
+            {{ with .Site.Data.l10n.articles.words }}{{.}}{{end}}
+            &middot;
+            {{ .ReadingTime }}
+            {{ with .Site.Data.l10n.articles.readingtime }}{{.}}{{end}}
+       		<!-- <p class="post-meta">{{ .Date.Format $.Site.Params.time_format_default }}{{ with .Params.author }} • {{ . }}{{ end }}{{ with .Params.meta }} • {{ . }}{{ end }}</p> -->
+        </div>
+        {{ end }}
+<!--
+        {{ if isset .Params "categories" }}
+            {{ $categoriesLen := len .Params.categories }}
+            {{ if gt $categoriesLen 0 }}
+            <div>
+                <span data-uk-icon="icon: folder"></span>
+                {{ range $k, $v := .Params.categories }}
+                {{ $url := printf "categories/%s" (. | urlize | lower) }}
+                <a href="{{ $url | absURL }}">{{ . }}</a>
+                {{ if lt $k (sub $categoriesLen 1) }}&middot;{{ end }}
+                {{ end }}
+            </div>
+            {{ end }}
+        {{ end }}
+-->
+        {{ if isset .Params "tags" }}
+            {{ $tagsLen := len .Params.tags }}
+            {{ if gt $tagsLen 0 }}
+            <div>
+                <span data-uk-icon="icon: tag"></span>
+                {{ range $k, $v := .Params.tags }}
+                {{ $url := printf "tags/%s" (. | urlize | lower) }}
+                <a href="{{ $url | absURL }}">{{ . }}</a>
+                {{ if lt $k (sub $tagsLen 1) }}&middot;{{ end }}
+                {{ end }}
+            </div>
+            {{ end }}
+        {{ end }}
+    </div>
+</header>

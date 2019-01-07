@@ -1,0 +1,33 @@
+2017 content
+ 	 	 
+	p	13.12.	 	SOLV-Vorstandssitzung mit < ... Termingerüst> für 2018; < ... österr. Termingerüst ÖFOL>
+	e	4.11.	 	9. Salzburger Sportvoglcup in Adnet + Siegerehrung im Salzburgcup und div. Meisterschaften:... < ... Ausschreibung> < ... Läuferinfo> < ... Ergebnisse> Endstand im < ... Salzburger Sportvoglcup 2017>
+	e	28.10.	 	Nachtrag 5. Salzburger Sportvoglcup in der Saalachau ... < ... Ausschreibung> < ... Läuferinfo> < ... Hinweis Postenbeschreibung> < ...Startliste> < ... Ergebnisse> < ... Zwischenstand SC 2017>
+ok		26.10.	 	MTBO: Tobias Breitschädel holt Elite-Gesamtsieg ... < ... Presseinfo>
+ok		24.10.	 	Sensationeller Sieg von Robert Merl zum Auftakt der Park World Tour in China! ... < ... Presseinfo>
+ok		22.10.	 	ASKÖ Henndorfs Jugend zeigt bei österreichischen Nacht-Meisterschaften und Saisonfinale auf! ... < ... Presseinfo>
+	p/e?	14.- 15.10.	 	ARGE Alp MS in Vorarlberg ... < ... Website Vorarlberg 2017>
+ok		8.10.	 	H -16 des ASKÖ Henndorf (Jonas Königstorfer, Leon und Peter Ebster) gewinnen die ÖMS im Staffel-OL: < ... Presseinfo>
+ok		1.10.	 	Robert Merl zum Abschluss des OL-Weltcups 7. mit der Mixed-Sprint-Staffel < ... Presseinfo>
+	e	23.9.	 	8. Salzburger Sportvoglcup im Krenwald: ... < ... Ausschreibung> ... < ... Ergebnisse>
+ok		3.9.	 	Edelmetallsegen für Henndorfer und Walser Teams bei den österr. Meisterschaften im Mannschafts-OL: ... ( ... Presseinfo)
+ok		Sept. ...	 	Kinder- und Anfängertraining im Herbst:
+ok		28.8.	 	Starke Platzierungen von Robert Merl im Weltcup: .... < ... Pressebericht>
+ok		Aug. ...	Mountainbike-Orienteering: Drei Top-Ten Ergebnisse für Tobias Breitschädel bei EM und WM ... < ... Presseinfo>
+ok		6.7.	 	Starke Leistung auf der Mitteldistanz durch Robert Merl bei der Milität-WM: ... < ... Presseinfo>
+	e	24.6.	 	Salzburger Meisterschaft im Sprint-OL (6. und 7. Salzburgcup) in Seekirchen ...< ... Ausschreibung> ... Ergebnisse: < ... 6.Salzburgcup> < ... 7. Salzburgcup> < ... LMS Sprint>
+ok		18.6.	 	Topresultate für Robert Merl bei der Militär-WM in Finland ... < ... Presseinfo>
+	e	24.5.	 	5. Salzburger Sportvoglcup in Hellbrunn ... verschoben
+ok		9.5.	 	3. Lauf zum Sportvogl Schulcup und Salzburger Meisterschaft der Schulenin Puch:< ... Ausschreibung> < ... Ergebnis> 3. Schulcup> <...Gesamtwertung Schulcup>Ergebnis Landesmeisterschaft: < ... Einzel> < ... Mannschaft>
+ok		6.+7.5.	 	4XGold und 3XBronze beim Austriacupwochenende + Mixed Team Staffel in Klagenfurt u.U.:< ... Pressebericht>
+ok		27.4.	 	2. Lauf zum Sportvogl Schulcup in Seekirchen ... < ... Ausschreibung> < ... Ergebnis>
+	e	23.4.	 	Salzburger Meisterschaft im Staffel-OL ... < ... Ausschreibung> < ... Ergebnis>
+	e	22.4.	 	Salzburger Meisterschaft Einzel (= 4. Salzburger Sportvoglcup) in Ottnang < ... Ausschreibung> Ergebnisse: < ... 4. SC> < ... 4.SC Splits> < ... LMS allgem. Klasse> < ... LMS Jugend u. Senioren>
+dr		17.4.	 	3. Salzburger Sportvoglcup im Lungau ... < ... Ausschreibung> < ... Ergebnisse>
+ok		ab 14.4.	 	SOLV-Trainingslager - im Rahmen der Partnerschaft mit dem Trentino - im Lungau:< ... Einladung und Ausschreibung> ... < ... Anmeldung über ANNE> < ... letzte Infos>
+ok		5.4.	 	1. Lauf zum Sportvogl Schulcup in Neumarkt ... < ... Ausschreibung> < ... Ergebnis> < ... Splitzeiten>
+ok		25.3.	 	2. Salzburger Sportvoglcup in der Schwarzenbergkaserne Wals ... < ... Ausschreibung> < ... Ergebnisse>
+ok		18.3.	 	1. Salzburger Sportvoglcup in Neumarkt. ... < ... Ausschreibung> < ... Ergebnisse>
+ok		10.2.	 	Anfängertraining ... < ... Info> allgemein;
+
+ok		nächster Termin: Freitag, 5. Mai,, 16:oo Uhr in Gumersil (GPS 47.883829,  13.166445)

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   
+   height="100%"
+   viewBox="-200 0 1200 520"
+   version="1.1"
+   id="svg4564"
+   sodipodi:docname="solv-logo-horizontal.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <g
+     aria-label="SOLV"
+     transform="matrix(14.800525,0,0,13.868862,3722.4568,-1237.9407)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c90000;fill-opacity:1;stroke:none"
+     id="flowRoot4590">
+    <path
+       d="m -250.69336,94.372282 v 7.597658 q -0.85937,-0.29297 -1.32812,-0.29297 -0.89844,0 -1.54297,0.66406 -0.64453,0.66406 -0.64453,1.60156 0,0.80079 0.70312,2.03125 l 0.60547,1.05469 q 1.64062,2.85156 1.64062,5.50781 0,3.88672 -2.77343,6.58204 -2.75391,2.69531 -6.73828,2.69531 -1.91407,0 -3.78907,-0.87891 v -7.71484 q 1.13282,0.72265 2.01172,0.72265 1.03516,0 1.71875,-0.58593 0.70313,-0.60547 0.70313,-1.50391 0,-0.58594 -1.11328,-2.55859 -1.77735,-3.125 -1.77735,-6.25 0,-3.769534 2.67578,-6.484378 2.69532,-2.734375 6.42578,-2.734375 1.64063,0 3.22266,0.546875 z"
+       style=""
+       id="s" />
+    <path
+       d="m -234.01367,93.825407 q 5.66406,0 9.70703,4.121094 4.0625,4.121089 4.0625,9.863279 0,5.83985 -4.08203,9.92188 -4.08203,4.08203 -9.92188,4.08203 -5.80078,0 -9.90234,-4.10156 -4.10156,-4.10157 -4.10156,-9.90235 0,-5.85937 4.12109,-9.921873 4.14063,-4.0625 10.11719,-4.0625 z m -0.23438,7.851563 q -2.4414,0 -4.16015,1.79687 -1.71875,1.79688 -1.71875,4.33594 0,2.53906 1.71875,4.33594 1.73828,1.79687 4.16015,1.79687 2.46094,0 4.16016,-1.77734 1.71875,-1.79687 1.71875,-4.35547 0,-2.55859 -1.71875,-4.33594 -1.69922,-1.79687 -4.16016,-1.79687 z"
+       style=""
+       id="o" />
+    <path
+       d="m -217.04102,94.489469 h 7.92969 v 15.839841 q 0,1.85547 0.58594,2.48047 0.60547,0.60547 2.36328,0.60547 h 0.41016 v 7.73438 h -2.10938 q -4.33594,0 -6.75781,-2.51954 -2.42188,-2.53906 -2.42188,-7.03125 z"
+       style=""
+       id="l" />
+    <path
+       d="m -183.89648,94.489469 -11.6211,28.183591 -11.54297,-28.183591 h 9.17969 l 2.44141,8.320311 2.69531,-8.320311 z"
+       style=""
+       id="v" />
+  </g>
+  <g
+     id="g4588">
+    <g
+       id="compass-rose">
+      <path
+         stroke-width="32"
+         stroke="black"
+         fill="lightgray"
+         fill-opacity="1"
+         d="M 256, 256 m -192, 0 a 192,192 0 1,0 384,0 a 192,192 0 1,0 -384,0"
+         id="ring" />
+      <path
+         stroke-linecap="round"
+         stroke-width="15"
+         stroke="black"
+         d="M 256,64 v25"
+         id="mark-n" />
+      <path
+         stroke-linecap="round"
+         stroke-width="15"
+         stroke="black"
+         d="M 256,448 v-25"
+         id="mark-s" />
+      <path
+         stroke-linecap="round"
+         stroke-width="15"
+         stroke="black"
+         d="M 448,256 h-25"
+         id="mark-o" />
+      <path
+         stroke-linecap="round"
+         stroke-width="15"
+         stroke="black"
+         d="M 64,256 h25"
+         id="path4551" />
+    </g>
+    <g
+       id="flag">
+      <path
+         fill="white"
+         d="M 138,364 v-216 a10,10 0 0 1 10,-10 h216 z"
+         id="upper-triangle" />
+      <path
+         fill="orange"
+         d="M 374,148 v216 a10,10 0 0 1 -10,10 h-216 z"
+         id="lower-triangle" />
+      <path
+         fill-opacity="0.1"
+         stroke-width="2"
+         stroke="black"
+         d="M 148,138 h216 a10,10 0 0 1 10,10 v216 a10,10 0 0 1 -10,10 h-216 a10,10 0 0 1 -10,-10 v-216 a10,10 0 0 1 10,-10 z"
+         id="flag-rectangle" />
+    </g>
+    <g
+       class="compass-needle"
+       id="compass-needle">
+      <path
+         stroke-width="20"
+         fill="black"
+         d="M 256, 256 m -8, 0 a 8,8 0 1,0 16,0 a 8,8 0 1,0 -16,0"
+         id="bearing" />
+      <path
+         stroke-linecap="round"
+         d="M 344,138 h20 a10,10 0 0 1 10,10 v20"
+         id="compass-arrow-ne" />
+      <path
+         stroke-linecap="round"
+         d="M 168,374 h-20 a10,10 0 0 1 -10,-10 v-20"
+         id="compass-arrow-sw" />
+      <path
+         d="M 364,138 L 138 364"
+         id="upper-needle-line" />
+      <path
+         d="M 374,148 L 148 374"
+         id="lower-needle-line" />
+    </g>
+  </g>
+  <metadata
+     id="metadata4570">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4568" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2880"
+     inkscape:window-height="1526"
+     id="namedview4566"
+     showgrid="false"
+     showborder="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:zoom="0.56884766"
+     inkscape:cx="523.37507"
+     inkscape:cy="-430.81693"
+     inkscape:window-x="3229"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4564" />
+  <style
+     id="style4545">
+        svg{background-color:transparent;}
+        #frame{fill:#81CCAA;}
+        .compass-needle{fill:none;stroke:black;stroke-width:9}
+  </style>
+  <!-- <path id="frame" d="M52,32 h408 a20,20 0 0 1 20,20 v408 a20,20 0 0 1 -20,20 h-408 a20,20 0 0 1 -20,-20 v-408 a20,20 0 0 1 20,-20 z"/> -->
+</svg>

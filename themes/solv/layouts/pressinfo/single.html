@@ -1,0 +1,51 @@
+{{ define "main" }}
+<section class="uk-section uk-article">
+	<div class="uk-container uk-container-small">
+		{{ partial "article_header" . }}
+		<p class="uk-article-meta">
+			{{ .Type | upper }}
+			{{ with $x := split .Dir "\\" }}
+			{{ with $y := index $x 1}}
+			{{ with $m := index $x 2 }}
+				{{$m}}&middot;{{$y}}
+			{{ end }}
+			{{ end }}
+			{{ end }}
+			{{if .Params.location}}&middot;{{ .Params.location }}{{end}}{{if .Params.info_date}}&middot;{{ .Params.info_date }}{{end}}</p>
+		<p class="uk-text-lead">{{ .Summary | markdownify }}</p>
+		<!-- <p class="post-meta">{{ .Date.Format $.Site.Params.time_format_default }}{{ with .Params.author }} • {{ . }}{{ end }}{{ with .Params.meta }} • {{ . }}{{ end }}</p> -->
+	</div>
+
+	<!-- large image -->
+	{{ with .Resources.ByType "image" }}
+	<div class="uk-container uk-section">
+		<div data-uk-slideshow="autoplay: true; ratio: 7:3; animation: push; min-height: 270;">
+		<div class="uk-position-relative uk-visible-toggle uk-light">
+			<ul class="uk-slideshow-items" >
+			{{ range . }}
+				<li>
+					<div class="uk-background-contain uk-background-muted uk-height-1-1 uk-panel" style="background-image: url({{ .RelPermalink }});">
+					</div>
+					{{ if not (eq .Title .Name) }}
+					<div class="uk-position-bottom uk-position-medium uk-text-center uk-light">
+					<h3 class="uk-margin-remove">{{.Title}}</h3>
+					</div>
+					{{ end }}
+				</li>
+			{{ end }}
+			</ul>
+			<a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" data-uk-slidenav-next="ratio: 1.5" data-uk-slideshow-item="next"></a>
+		</div>
+		<ul class="uk-slideshow-nav uk-dotnav uk-flex-center uk-margin"></ul>
+		</div>
+	</div>
+	{{ end }}
+	<!-- /large image -->
+	
+	<!-- text -->
+	<div class="uk-container uk-container-small">
+		{{ replace .Content .Summary "" | markdownify }}
+	</div>
+	<!-- text -->
+</section>
+{{ end }}

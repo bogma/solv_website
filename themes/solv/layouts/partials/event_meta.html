@@ -1,0 +1,17 @@
+    <div class="uk-article-meta">
+        <div>
+            {{ if .Params.event.date }}
+            <span uk-icon="icon:location"></span>
+            {{ .Params.event.location }}
+            &middot;
+            <span uk-icon="icon:calendar"></span>
+            <time datetime="{{ .Params.event.date }}">{{ dateFormat .Site.Params.time_format_default .Params.event.date }}</time>
+            {{ $t := dateFormat .Site.Params.time_format_hhmm .Params.event.date }}
+            {{ if (not (eq $t "00:00"))}}
+            &middot;
+            <span uk-icon="icon:clock"></span>
+            <time datetime="{{ .Params.event.date }}">{{ $t }}</time>
+            {{ end }}
+            {{ end }}
+        </div>
+    </div>
