@@ -32,11 +32,11 @@
 
 {{ range ($context.Scratch.Get "consideredYears") }}
 {{ end }}
-{{ range (seq 2016 2019) }}
+{{ range (seq 2017 2019) }}
 <li>
-                      <div class="uk-label uk-label-info" style="font-size: 0.75rem">
-                        {{ . }}
-                      </div>
+    <div class="uk-label uk-label-info" style="font-size: 0.75rem">
+        {{ . }}
+    </div>
     {{ partialCached "calendar/year" (dict "context" $context "year" . ) (string (delimit (slice $from $fromMonth $to $toMonth .) "")) }}
 </li>
 {{ end }}
