@@ -1,8 +1,6 @@
 {{ $context := .context }}
 {{ $from := int .from }}
-{{ $fromMonth := int .fromMonth }}
 {{ $to := int .to }}
-{{ $toMonth := int .toMonth }}
 {{ $pages := .pages }}
 
 {{ $context.Scratch.Set "currentYear" $from }}
@@ -28,9 +26,10 @@
         {{ $context.Scratch.Add "consideredYears" (slice $nextYear) }}
         {{ $context.Scratch.Set "currentYear" $nextYear }}
     {{ end }}
-
 {{ end }}
 
-{{ range ($context.Scratch.Get "consideredYears") }}
-    {{ partialCached "calendar/year" (dict "context" $context "year" . "from" $from "fromMonth" $fromMonth "to" $to "toMonth" $toMonth) (string (delimit (slice $from $fromMonth $to $toMonth .) "")) }}
+{{ range (seq $from $to) }}
+<li>
+    {{ partialCached "calendar/year" (dict "context" $context "year" . ) (string (delimit (slice $from $to .) "")) }}
+</li>
 {{ end }}

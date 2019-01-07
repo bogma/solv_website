@@ -1,0 +1,32 @@
+.is-resizable {
+    resize: horizontal;
+    overflow: auto;
+}
+
+.calendar__wrapper {
+    font-family: 'Lato', helvetica, sans-serif;
+    width: 100%;
+    background-color: #F6F6F6;
+    border-radius: 10px 10px 10px 10px;
+    min-width: 10px;
+    max-width: 706px;
+}
+
+.calendar__svg {
+    font-family: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif;
+    width: 100%;
+}
+
+.calendar__week {
+    font-size: 9px;
+    alignment-baseline: central;
+    fill: #AAA;
+}
+
+.calendar__month {
+    font-size: 10px;
+    alignment-baseline: central;
+    fill: #AAA;
+}
+
+.dbg { border: 10px; border-color: black;}

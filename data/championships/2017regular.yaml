@@ -1,0 +1,17 @@
+year: 2017
+type: regular
+name: Allgemein
+evlink: <none>
+results:
+  - category: Damen
+    valid: true
+    result:
+      - name: Margit Elstner
+      - name: Hedda Perner
+      - name: Karin Hillebrand
+  - category: Herren
+    valid: true
+    result:
+      - name: Bernhard Fink
+      - name: Norbert Helminger
+      - name: Martin Böhm

@@ -28,7 +28,7 @@
     home = "Back to home page"
 
 [widgets.categories]
-    title = "Categories"
+    title = "Kategorie"
 
 [widgets.recent_articles]
     title = "Recents"
@@ -37,4 +37,13 @@
     title = "Tag cloud"
 
 [widgets.tags]
-    title = "Tags"
+    title = "Schlagwörter"
+
+[widgets.links]
+    title = "Links"
+
+[widgets.archive]
+    title = "Archiv"
+
+[widgets.events]
+    title = "Veranstaltungen"

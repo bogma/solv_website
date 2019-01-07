@@ -1,0 +1,13 @@
+year: 2016
+type: regular
+name: Allgemein
+evlink: <none>
+results:
+  - category: Damen
+    valid: false
+  - category: Herren
+    valid: true
+    result:
+      - name: Bernhard Fink
+      - name: Markus König
+      - name: Manuel Gassner

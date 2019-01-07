@@ -2,8 +2,6 @@ general:
 	alles auf deutsch!
 	define colore schema for types
 	archive
-	single vs. plural folder names
-	pagination
 	previous/next navigation
 	custom js for single pages
 	ical entries
@@ -26,4 +24,8 @@ events:
 	clearer naming schema for event documents
 	type needed? sbgcup/schcup/other/external (for basic event info only)/norun (sitzung...)
 	2 event on same day
+
+meister:
+	layout
+	clubs
 	

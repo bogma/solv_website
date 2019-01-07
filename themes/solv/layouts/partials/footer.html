@@ -1,6 +1,10 @@
 <footer id="footer" class="uk-section uk-section-secondary uk-section-small">
   <div class="uk-container">
-    <p class="uk-text-small uk-text-center">© {{ now.Year }} {{ .Site.Copyright | markdownify }}
-    </p>
+      <div class="uk-grid uk-grid-large" uk-grid>
+    <div class="uk-text-small uk-text-center uk-width-expand">© {{ now.Year }} {{ .Site.Copyright | markdownify }}</div>
+    <div id="toTop">
+        <a href="#" uk-totop uk-scroll></a>
+    </div>
+      </div>
   </div>
 </footer>

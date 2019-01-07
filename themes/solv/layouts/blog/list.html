@@ -1,18 +1,17 @@
 {{ define "main" }}
 {{ if not .Params.disable_rightbar }}
-<div class="uk-section uk-section-default">
+<div class="uk-section uk-section-default uk-section-xsmall">
   <div class="uk-container">
     <div class="uk-grid" data-ukgrid>
       <div class="uk-width-3-4@m">
-            <h4 class="uk-heading-line uk-text-bold"><span>Alle Beiträge</span></h4>
-            {{ $blog := where .Site.RegularPages "Type" "in" (slice "post" "pressinfo" "event")}}
+        {{ $blog := where .Site.RegularPages "Type" "in" (slice "post" "pressinfo" "event")}}
         {{ $paginator := .Paginate $blog }}
         {{ range .Paginator.Pages }}
           {{ .Render "summary" }}
         {{ end }}
         {{ partial "pagination" . }}
       </div>
-      {{ partial "sidebar_right" . }}
+      {{ partial "sidebar_widgets" (dict "context" . "var" "list") }}
     </div>
   </div>
 </div>

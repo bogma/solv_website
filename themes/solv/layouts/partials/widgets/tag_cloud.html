@@ -1,7 +1,7 @@
 {{ if .Site.Params.widgets.tag_cloud }}
 {{ if isset .Site.Taxonomies "tags" }}
 {{ if not (eq (len .Site.Taxonomies.tags) 0) }}
-<h4 class="uk-heading-line uk-text-bold"><span>{{with .Site.Data.l10n.widgets.tag_cloud.title}}{{.}}{{end}}</span></h4>
+    <h4 class="uk-heading-line uk-text-bold"><span>{{with .Site.Data.l10n.widgets.tag_cloud.title}}{{.}}{{end}}</span></h4>
     <div class="widget tagcloud">
         {{ range $name, $items := .Site.Taxonomies.tags }}
         {{ $url := printf "%s/%s" "tags" ($name | urlize | lower)}}

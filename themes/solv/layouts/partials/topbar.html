@@ -1,0 +1,17 @@
+{{ $from := 2017 }}
+{{ $to := 2019 }}
+<div class="uk-section uk-section-default uk-section-xsmall">
+  <div class="uk-container">
+    <h4 class="uk-heading-line uk-text-bold"><span>Termine</span></h4>
+    <div data-uk-slider="velocity: 0.2">
+      <div class="uk-position-relative">
+        <div class="uk-slider-container">
+          <ul class="uk-slider-items uk-child-width-1-1@m uk-grid">
+            {{ partial "calendar" (dict "context" . "from" $from "to" $to "pages" .Site.Pages) }}
+          </ul>
+        </div>
+      </div>
+      <ul class="uk-slider-nav uk-dotnav uk-flex-center uk-margin"></ul>
+    </div>
+  </div>
+</div>

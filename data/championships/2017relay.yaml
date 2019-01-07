@@ -1,0 +1,29 @@
+year: 2017
+type: relay
+name: Staffel
+evlink: /event/2017/other/staffel
+results:
+  - category: Damen -15
+    valid: false
+  - category: Herren -15
+    valid: false
+    result:
+      - name: [Leon Ebster, Peter Ebster]
+  - category: Damen 16-
+    valid: false
+    result:
+      - name: [Strasser Andrea, Christine Gathercole]
+  - category: Herren 16-
+    valid: true
+    result:
+      - name: [Bernhard Fink, Richard Gathercole]
+      - name: [Markus Buchberger, Norbert Helminger]
+      - name: [Dominique L´Humeau, Peter Ebster sen.]
+  - category: Damen 55-
+    valid: false
+  - category: Herren 55-
+    valid: true
+    result:
+      - name: [Leopold Tonka, Jakob Buchberger]
+      - name: [Eduard Böhm, Leo Müller]
+      - name: [Franz Mages, Horst Mayer]

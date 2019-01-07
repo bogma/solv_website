@@ -1,0 +1,12 @@
+<div class="{{.Type}}-card">
+    <div class="uk-card uk-card-small uk-card-default">
+        <!-- card header -->
+        {{ .Render "card_header" }}
+
+        <!-- card content -->
+        {{ .Render "card_content" }}
+
+        <!-- card footer -->
+        {{ partial "card_footer" . }}
+    </div>
+</div>

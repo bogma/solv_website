@@ -1,0 +1,29 @@
+year: 2016
+type: junsen
+name: Jugend/Senjoren
+evlink: <none>
+results:
+  - category: Herren -18
+    valid: true
+    result:
+      - name: Stefan Rainer
+      - name: Tobias Aigner
+      - name: Marcel Stöckl
+  - category: Herren 35-
+    valid: true
+    result:
+      - name: Bernhard Fink
+      - name: Roland Kohlbacher
+      - name: Wolfgang Buchberger
+  - category: Damen 55-
+    valid: true
+    result:
+      - name: Berta Buchberger
+      - name: Brigitte Müller
+      - name: Eva Breitschädel
+  - category: Herren 55-
+    valid: true
+    result:
+      - name: Jakob Buchberger
+      - name: Horst Mayer
+      - name: Karl Hackl

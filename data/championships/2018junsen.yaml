@@ -1,0 +1,47 @@
+year: 2018
+type: junsen
+name: Jugend/Senjoren
+evlink: <none>
+results:
+  - category: Damen -13
+    valid: true
+    result:
+      - name: Emma Rothauer
+      - name: Antonia Seitlinger
+      - name: Josefine Erhard
+  - category: Herren -13
+    valid: true
+    result:
+      - name: Nick Lechner
+      - name: Simon Wally
+      - name: Yschi Tiefenbrunner
+  - category: Damen 35-
+    valid: true
+    result:
+      - name: Lucie Rothauer
+      - name: Karin Hillebrand
+      - name: Katharina Hinterhofer
+  - category: Herren 35-
+    valid: true
+    result:
+      - name: Markus König
+      - name: Martin Böhm
+      - name: Norbert Helminger
+  - category: Herren 45-
+    valid: true
+    result:
+      - name: Florian Elstner
+      - name: Peter Ebster Sen.
+      - name: Gabriel Seitlinger
+  - category: Herren 55-
+    valid: true
+    result:
+      - name: Horst Mayer
+      - name: Alfred Baier
+      - name: Eduard Böhm
+  - category: Herren 65-
+    valid: true
+    result:
+      - name: Franz Nagele
+      - name: Leo Müller
+      - name: Christian Breitschädel      

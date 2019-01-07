@@ -1,0 +1,13 @@
+    {{ range . }}
+        {{ if (intersect .MediaType.Suffixes (slice "pdf")) }}
+        <span style="color: rgb(253, 60, 25);">
+            <i class="far fa-file-pdf"></i>
+        </span>
+        {{ end }}
+        {{ if eq .ResourceType "" }}
+        <span style="color: rgb(136, 118, 115);">
+            <i class="fas fa-chevron-right"></i>
+        </span>
+        {{ end }}
+        <a href="{{ .RelPermalink }}">{{ .Title | default .Name }}</a>
+    {{ end }}

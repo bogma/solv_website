@@ -53,13 +53,13 @@
 .uk-subnav li a {
 	border-radius: 3px; 
 }
-.uk-subnav li.uk-active:nth-child(3) a {
+.uk-subnav li.uk-active:nth-child(13) a {
 	background-color:#8630F0;
 }
-.uk-subnav li.uk-active:nth-child(4) a {
+.uk-subnav li.uk-active:nth-child(14) a {
 	background-color:#F03A7F;
 }
-.uk-subnav li.uk-active:nth-child(5) a {
+.uk-subnav li.uk-active:nth-child(15) a {
 	background-color:#E84DF0;
 }
 .post-card .uk-card {

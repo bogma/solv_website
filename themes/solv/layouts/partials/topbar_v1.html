@@ -1,0 +1,46 @@
+<div class="uk-section uk-section-default uk-section-xsmall">
+  <div class="uk-container">
+    <h4 class="uk-heading-line uk-text-bold"><span>Termine</span></h4>
+    <div data-uk-slider="velocity: 5">
+      <div class="uk-position-relative">
+        <div class="uk-slider-container">
+          <ul class="uk-slider-items uk-child-width-1-4@m uk-grid uk-grid-medium news-slide">
+            {{ $ev := where .Site.RegularPages "Type" "event"}}
+            {{ range $ev }}
+            <li>
+              <div class="uk-card uk-card-default uk-card-body uk-card-small uk-flex uk-flex-middle uk-border-rounded">
+                <div class="uk-grid uk-grid-medium uk-flex uk-flex-middle" data-uk-grid>
+                  <div class="uk-width-1-1">
+                    <a class="uk-link-reset" href="{{ .Permalink }}">
+                      <span class="uk-label uk-label-info" style="font-size: 0.75rem">
+                        {{ partial "functions/get_folder_info" .}}
+                      </span>
+                    </a>
+                    <span class="uk-label uk-label-warning" style="font-size: 0.75rem">{{.Params.status}}</span>
+                    <div class="uk-width-auto uk-text-left uk-text-muted">{{ partial "event_meta" . }}</div>
+                    {{ if eq .Params.status "planned" }}
+                    <div class="uk-width-auto uk-text-left">
+                      {{ partial "functions/event_anne_link" (dict "id" .Params.anne_id "link" "Anmeldung") }}
+                    </div>
+                    {{ end }}
+                  </div>
+                </div>
+              </div>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+        <div class="uk-hidden@l uk-light">
+          <a class="uk-position-center-left uk-position-small" href="#" data-uk-slidenav-previous data-uk-slider-item="previous"></a>
+          <a class="uk-position-center-right uk-position-small" href="#" data-uk-slidenav-next data-uk-slider-item="next"></a>
+        </div>
+        <div class="uk-visible@l">
+          <a class="uk-position-center-left-out uk-position-small" href="#" data-uk-slidenav-previous
+            data-uk-slider-item="previous"></a>
+          <a class="uk-position-center-right-out uk-position-small" href="#" data-uk-slidenav-next data-uk-slider-item="next"></a>
+        </div>
+      </div>
+      <ul class="uk-slider-nav uk-dotnav uk-flex-center uk-margin"></ul>
+    </div>
+  </div>
+</div>
