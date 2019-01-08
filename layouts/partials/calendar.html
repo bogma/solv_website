@@ -30,6 +30,14 @@
 
 {{ range (seq $from $to) }}
 <li>
-    {{ partialCached "calendar/year" (dict "context" $context "year" . ) (string (delimit (slice $from $to .) "")) }}
+    <div class="uk-grid uk-grid-medium uk-flex uk-flex-middle" data-uk-grid>
+        <div class="uk-width-1-5@s uk-width-1-10@m uk-height-1-1">
+            {{ . }}
+        </div>
+        <div class="uk-width-3-5@s uk-width-8-10@m uk-height-1-1">
+            {{ partialCached "calendar/year" (dict "context" $context "year" . ) (string (delimit (slice $from $to .) "")) }}
+        </div>
+        <div class="uk-width-1-5@s uk-width-1-10@m uk-height-1-1">
+        </div>
 </li>
 {{ end }}

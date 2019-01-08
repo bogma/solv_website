@@ -55,7 +55,13 @@
 
                     {{ if and (gt $month 1) (eq $day 1) }}
                         {{ $ylinepos := sub $ypos 2 }}
+                        {{ $x1 := add $xpos 11 }}
+                        {{ $h1 := sub $ylinepos 15 }}
+                        {{ $x2 := sub $xpos 2 }}
+                        {{ $h2 := sub 108 $ylinepos }}
+                        <rect x="{{$x1}}" y="15" width="2" height="{{$h1}}" fill="#444444"></rect>
                         <rect x="{{$xpos}}" y="{{$ylinepos}}" width="11" height="2" fill="#444444"></rect>
+                        <rect x="{{$x2}}" y="{{$ylinepos}}" width="2" height="{{$h2}}" fill="#444444"></rect>
                     {{ end }}
     
                     {{ $articlesFound := index ($context.Scratch.Get "ArticlesPerDay") $date }}
