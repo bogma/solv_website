@@ -25,8 +25,8 @@ course:
   valid: true
   lenghts: [["Neulinge","2,2 km"], ["Kurz","3 km"], ["Mittel","4,7 km"], ["Lang","6,3 km"]]
 entry:
-  receiver_anne: true
-  receiver_email: leo.mueller@sbg.at
+  anne: true
+  email: leo.mueller@sbg.at
   closing_date_days: -3
 meeting:
   point: "Sporthalle Schwarzenbergkaserne"

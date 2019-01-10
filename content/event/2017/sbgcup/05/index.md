@@ -1,7 +1,7 @@
 ---
 title: "5. Salzburger Sportvoglcup 2018"
 date: 2017-10-28T13:30:00+02:00
-draft: true
+draft: false
 status: done
 anne_id: 0
 
@@ -52,7 +52,9 @@ resources:
   title: "Ergebnisse"
 - src: "**/split**"
   title: "Splits"
-- src: "**/laeu**"
+- src: "**/info*_2**"
+  title: "Info Postenbeschreibung"
+- src: "**/info**"
   title: "Läuferinfo"
 ---
 

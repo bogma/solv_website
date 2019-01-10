@@ -53,6 +53,10 @@ resources:
   title: "Splits"
 - src: "**/laeu**"
   title: "Läuferinfo"
+- src: "**/LMS_JuS2017.pdf"
+  title: "Ergebnis LMS Jugend und Senioren"
+- src: "**/LMS_El**"
+  title: "Ergebnis LMS Allgemeine Klasse"
 ---
 
 ### Allgemeines
