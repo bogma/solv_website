@@ -10,6 +10,7 @@ paginate = 10
 [taxonomies]
     tag = "tags"
     category = "categories"
+    archive = "archives"
 
 [permalinks]
 	post = "/:year/:month/:filename/"

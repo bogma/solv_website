@@ -1,12 +1,14 @@
 ---
-title: "x. Salzburger Sportvoglcup 2018"
+title: "x. Salzburger Sportvoglcup {{now.Format "2006"}}"
 date: {{ .Date }} # date of creation of the file
 draft: true
 status: planned
 anne_id: 0
 
 categories: [ "Event" ]
+archives: ["{{now.Format "2006"}}"]
 tags: [ "SBG Cup"]
+
 
 event:
   name: ""

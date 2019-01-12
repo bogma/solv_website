@@ -4,6 +4,7 @@ date: 2017-10-01T00:00:00
 draft: false
 author: "f.elstner"
 categories: ["Presseinfo"]
+archives: ["2017"]
 tags: ["International"]
 location: "Henndorf, Grindelwald (SUI)"
 ---

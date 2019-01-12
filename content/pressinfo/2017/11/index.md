@@ -3,6 +3,7 @@ title: "ASKÖ Henndorfs Jugend zeigt bei österreichischen Nacht-Meisterschaften
 date: 2017-10-22T00:00:00+02:00
 draft: false
 categories: ["Presseinfo"]
+archives: ["2017"]
 tags: ["Austria Cup"]
 location: "Henndorf, Lichtenwörth/Kirchberg am Wechsel"
 

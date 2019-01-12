@@ -3,6 +3,7 @@ title: "Starke Jugend des ASKÖ Henndorf wird Österreichischer Meister in der O
 date: 2017-10-08T00:00:00
 draft: false
 categories: ["Presseinfo"]
+archives: ["2017"]
 tags: ["Austria Cup"]
 location: "Henndorf, Mannersdorf im Leithagebirge"
 ---

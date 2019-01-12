@@ -6,6 +6,7 @@ status: planned
 anne_id: 0
 
 categories: [ "Event" ]
+archives: ["2017"]
 tags: [ "SBG Cup", "SBG LM Sprint"]
 
 event:

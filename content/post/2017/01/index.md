@@ -4,6 +4,7 @@ date: 2017-02-05T10:51:51+02:00
 draft: false
 
 categories: ["Post"]
+archives: ["2017"]
 tags: ["Training", "Trainingslager"]
 
 ---

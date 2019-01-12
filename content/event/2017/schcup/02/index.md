@@ -5,6 +5,7 @@ draft: false
 status: done
 
 categories: [ "Event" ]
+archives: ["2017"]
 tags: [ "Schul Cup"]
 
 event:

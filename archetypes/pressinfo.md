@@ -4,6 +4,7 @@ date: {{ .Date }}
 draft: true
 author: ""
 catetories: [ "Presseinfo" ]
+archives: ["{{now.Format "2006"}}"]
 tags: [] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Henndorf, "
 

@@ -4,6 +4,7 @@ date: 2017-08-01T00:00:00+02:00
 draft: false
 author: ""
 categories: ["Presseinfo"]
+archives: ["2017"]
 tags: ["International", "MTBO"]
 location: "Henndorf"
 ---

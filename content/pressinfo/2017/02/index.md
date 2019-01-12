@@ -4,6 +4,7 @@ date: 2017-03-18T00:00:00+02:00
 draft: false
 author: ""
 categories: ["Presseinfo"]
+archives: ["2017"]
 tags: ["Austria Cup"]
 location: "Henndorf, Klagenfurt"
 

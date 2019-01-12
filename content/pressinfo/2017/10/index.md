@@ -3,6 +3,7 @@ title: "Tobias Breitschädel holt Elite-Gesamtsieg"
 date: 2017-10-26T18:07:39+02:00
 draft: false
 categories: ["Presseinfo"]
+archives: ["2017"]
 tags: ["MTBO", "Tobias Breitschädel"]
 location: "Henndorf, Szombathely"
 
