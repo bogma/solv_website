@@ -13,7 +13,7 @@ paginate = 10
     archive = "archives"
 
 [permalinks]
-	post = "/:year/:month/:filename/"
+	demo = "/:year/:filename/"
 	code = "/:filename/"
 
 [[menu.main]]
