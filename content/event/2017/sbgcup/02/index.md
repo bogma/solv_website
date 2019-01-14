@@ -56,6 +56,15 @@ resources:
   title: "Läuferinfo"
 ---
 
+### Startgeld
+
+- bis D/H -15 und OL: € 3,-
+- ab D/H 16-: € 4,50
+
+### Zeitnehmung
+
+SPORTIdent; SI-Air+ (touch free) aktiviert.
+
 ### Allgemeines
 
 - Der Veranstalter sowie der durchführende Verein übernimmt keinerlei Haftung für auftretende Schäden jeglicher Art, auch nicht gegenüber Dritten.

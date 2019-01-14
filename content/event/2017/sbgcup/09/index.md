@@ -1,6 +1,6 @@
 ---
 title: "9. Salzburger Sportvoglcup 2017"
-date: 2018-11-04T11:00:00+02:00 # date of creation of the file
+date: 2017-11-04T11:00:00+02:00 # date of creation of the file
 draft: true
 status: planned
 anne_id: 0
@@ -11,7 +11,7 @@ tags: [ "SBG Cup"]
 
 event:
   name: ""
-  date: 2018-11-04T11:00:00+02:00 # date/start time of event
+  date: 2017-11-04T11:00:00+02:00 # date/start time of event
   form: "Normaler OL"
   location: ""
 cup: "sbgcup"
@@ -57,6 +57,15 @@ resources:
 - src: "**/laeu**"
   title: "Läuferinfo"
 ---
+
+### Startgeld
+
+- bis D/H -15 und OL: € 3,-
+- ab D/H 16-: € 4,50
+
+### Zeitnehmung
+
+SPORTIdent; SI-Air+ (touch free) aktiviert.
 
 ### Allgemeines
 

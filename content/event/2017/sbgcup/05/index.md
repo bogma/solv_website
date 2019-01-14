@@ -1,5 +1,5 @@
 ---
-title: "5. Salzburger Sportvoglcup 2018"
+title: "5. Salzburger Sportvoglcup 2017"
 date: 2017-10-28T13:30:00+02:00
 draft: true
 status: done
@@ -10,7 +10,7 @@ archives: ["2017"]
 tags: [ "SBG Cup"]
 
 event:
-  name: "5. Salzburger Sportvoglcup 2018 (Nachtrag)"
+  name: "5. Salzburger Sportvoglcup 2017 (Nachtrag)"
   date: 2017-10-28T13:30:00+02:00
   form: "Normaler OL"
   location: "Siezenheim, Militärübungsplatz"
@@ -56,6 +56,15 @@ resources:
 - src: "**/laeu**"
   title: "Läuferinfo"
 ---
+
+### Startgeld
+
+- bis D/H -15 und OL: € 3,-
+- ab D/H 16-: € 4,50
+
+### Zeitnehmung
+
+SPORTIdent; SI-Air+ (touch free) aktiviert.
 
 ### Allgemeines
 

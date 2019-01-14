@@ -1,6 +1,6 @@
 ---
 title: "8. Salzburger Sportvoglcup 2017"
-date: 2018-09-23T14:00:00+02:00 # date of creation of the file
+date: 2017-09-23T14:00:00+02:00 # date of creation of the file
 draft: true
 status: planned
 anne_id: 0
@@ -11,7 +11,7 @@ tags: [ "SBG Cup"]
 
 event:
   name: ""
-  date: 2018-09-23T14:00:00+02:00 # date/start time of event, 00:00:00 if time not known
+  date: 2017-09-23T14:00:00+02:00 # date/start time of event, 00:00:00 if time not known
   form: "Normaler OL"
   location: "Krennwald"
 cup: "sbgcup"
@@ -59,6 +59,15 @@ resources:
 - src: "**/laeu**"
   title: "Läuferinfo"
 ---
+
+### Startgeld
+
+- bis D/H -15 und OL: € 3,-
+- ab D/H 16-: € 4,50
+
+### Zeitnehmung
+
+SPORTIdent; SI-Air+ (touch free) aktiviert.
 
 ### Allgemeines
 

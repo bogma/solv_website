@@ -1,46 +1,46 @@
 ---
-title: "x. Salzburger Sportvoglcup {{now.Format "2006"}}"
-date: {{ .Date }} # date of creation of the file
-draft: true
-status: planned
-anne_id: 0
+title: "1. Salzburger Sportvoglcup 2018"
+date: 2018-01-11T17:55:23+01:00 # date of creation of the file
+draft: false
+status: done
+anne_id: 2348
 
 categories: [ "Event" ]
-archives: ["{{now.Format "2006"}}"]
+archives: []
 tags: [ "SBG Cup"]
 
 
 event:
   name: ""
-  date: {{ .Date }} # date/start time of event
+  date: 2018-03-17T14:00:00+01:00 # date/start time of event
   form: "Normaler OL"
-  location: ""
+  location: "Henndorf"
 cup: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove one of the 3 options
+implementation: "ASKÖ Henndorf Orientieering" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
+  course: "Martin Lejsek"
+  event: "Martin Lejsek"
   inspection: ""
 course:
-  valid: false # set to true when the course lenghts are final
-  lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
+  valid: true # set to true when the course lenghts are final
+  lenghts: [["Neulinge","1,5 km - 30 hm"], ["Kurz Kurz","3,0 km - 80 hm"], ["Kurz Lang","3,8 km - 90 hm"], ["Mittel","4,9 km - 120 hm"], ["Lang","6,3 km - 160 hm"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: leo.mueller@sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -5 # x days from event->date
 meeting:
-  point: ""
+  point: "Schulzentrum Henndorf"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.8982117, 13.1885706]
 map:
   name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
+  scale: "1:400 bis 1:10.000 möglich"
+  equidistance: ""
+  update: ""
   format: ""
-  hints: "" # additional hints to map
+  hints: "je nach Witterungsbedingungen Henndorf Ort, Vogltenn oder Henndorf Seeseite" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
 hints: ""
