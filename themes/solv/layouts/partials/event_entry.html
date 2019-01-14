@@ -1,11 +1,12 @@
-{{ if .Params.entry.receiver_anne }}
+{{ if .Params.entry.anne }}
 Anmeldung bis spätestens <b>
         {{ $mtime := time .Params.event.date }}
         {{ $duration := time.Duration "hour" (mul .Params.entry.closing_date_days 24) }}
         {{ $mtime2 := $mtime.Add ($duration) }}
-        {{ dateFormat .Site.Params.time_format_default $mtime2 }}
+        {{ $mtime2.Day }} {{ $mtime2.Month }} {{ $mtime2.Year }}</span>
+
     </b> über {{ partial "functions/event_anne_link" (dict "id" .Params.anne_id "link" "ANNE") }}.
 {{ end }}
-{{ if not (eq .Params.entry.receiver_email "") }}
-In Ausnahmefällen direkt an <a href="mailto:{{.Params.entry.receiver_email}}">{{.Params.entry.receiver_email}}</a> mit Name, Klasse, Geburtsjahr, Verein und SI-Nummer.
+{{ if not (eq .Params.entry.email "") }}
+In Ausnahmefällen direkt an <a href="mailto:{{.Params.entry.email}}">{{.Params.entry.email}}</a> mit Name, Klasse, Geburtsjahr, Verein und SI-Nummer.
 {{ end }}

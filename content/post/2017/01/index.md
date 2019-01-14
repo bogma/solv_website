@@ -11,6 +11,8 @@ tags: ["Training", "Trainingslager"]
 
 Im Rahmen der Partnerschaft mit Trentino findet dieses Jahr ein SOLV Traniningslager im Lungau statt. Die Trainings sind für jede Alters- und Könnerstufe, **auch für Anfänger**!
 
+<!--more-->
+
 *2017-01-01* [Einladung](./SOLVTrainingslagerLungau17.pdf)
 
 *2017-04-05* [letzte Infos](./SOLVTrainingslagerLungau17_2.pdf)

@@ -1,8 +1,8 @@
 ---
 title: "9. Salzburger Sportvoglcup 2017"
 date: 2017-11-04T11:00:00+02:00 # date of creation of the file
-draft: true
-status: planned
+draft: false
+status: done
 anne_id: 0
 
 categories: [ "Event" ]
@@ -13,14 +13,14 @@ event:
   name: ""
   date: 2017-11-04T11:00:00+02:00 # date/start time of event
   form: "Normaler OL"
-  location: ""
+  location: "Adnet"
 cup: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "SSV Hallein-Neualm" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
+  course: "Horst Mayer"
+  event: "Horst Mayer"
   inspection: ""
 course:
   valid: false # set to true when the course lenghts are final
@@ -28,17 +28,17 @@ course:
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: leo.mueller@sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -5 # x days from event->date
 meeting:
-  point: ""
+  point: "NMS Adnet"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.6997133,13.1296243]
 map:
-  name: ""
-  scale: "1:10.000"
+  name: "Adnet"
+  scale: "1:7.500"
   equidistance: "5m"
-  update: "März 2006"
-  format: ""
+  update: "überarbeitet Oktober 2017"
+  format: "A4"
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
@@ -54,7 +54,7 @@ resources:
   title: "Ergebnisse"
 - src: "**/split**"
   title: "Splits"
-- src: "**/laeu**"
+- src: "**/info**"
   title: "Läuferinfo"
 ---
 

@@ -1,0 +1,727 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!-- This file was created by an application of Stephan Kr�mer SportSoftware www.sportsoftware.de -->
+<!-- Application: OS2010 V.11.0 Pro  License holder: ASK� Henndorf  5157  Time: Mo 24.04.2017 08:55 -->
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="robots" content="noindex,nofollow">
+
+<style type="text/css">
+body { color: #000; background-color: #fff; 
+       font: 10pt/1.2 Arial, Helvetica, sans-serif; }
+table { table-layout:fixed; border-collapse: collapse; border-spacing: 0px; 
+        padding: 0; margin: 0; border: none; }
+th { background-color: #ebffeb; color: blue; font-weight: normal;
+     border: none; white-space:nowrap; text-align: left;
+     padding: 0px 3px 3px 3px; vertical-align: bottom;
+     font: 10pt/1.2 Arial, Helvetica, sans-serif; }
+td { padding-left: 3px; padding-right: 3px;
+     border: none; overflow:hidden; vertical-align: bottom;
+     white-space:nowrap; text-align: left;
+     font: 10pt/1.2 Arial, Helvetica, sans-serif; }
+a:link    { font-weight:bold; color:blue; text-decoration:none; }
+a:visited { font-weight:bold; color:purple; text-decoration:none; }
+a:focus   { font-weight:bold; color:green; text-decoration:none; }
+a:hover   { font-weight:bold; color:green; text-decoration:none; }
+a:active  { font-weight:bold; color:green; text-decoration:none; }
+#header { background-color: #ebffeb; color: black; padding: 5px 3px 2px 3px; }
+#reporttop { background-color: #FFFFE0; font-weight: bold; padding: 0;
+             border: none; margin: 0; width: 100%; }
+#reporttop td { vertical-align: bottom; }
+#ln { font-size: 5pt; }
+tr#ev { background-color: #FFFFE0; }
+tr#fix { background-color: #E0FFFF; }
+#rb { text-align: right; }
+#ce { text-align: center; }
+#navigation {
+    top: 0px; right: 0px; position: fixed; display: block;
+    max-height: 95%; overflow-y: auto; overflow-x: hidden;
+    margin: 8px; text-align: left; white-space:nowrap;
+    background-color: #ebffeb; padding: 5px 18px 5px 5px;
+    font: 10pt/1.2 Arial, Helvetica, sans-serif;
+    font-weight: bold; text-decoration: none;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 2px 2px 2px #d0d0d0;
+    opacity: .9;
+      }
+#navigation td {padding-top: 0; padding-bottom: 0;}
+#navigation table {display: none;}
+#navigation:hover table {display: block;}
+#navcaption {color: green; }
+@media print { #navigation { display:none; } }
+
+#c00 { background-color: #ebffeb; color: black; padding: 5px 3px 2px 3px; font-weight: bold; }
+</style>
+
+<title>Sbg. Meisterschaft im Staffel-OL - Ergebnis nach Kategorien</title>
+</head>
+
+<body>
+<div id=reporttop>
+<table width=753px style="table-layout:auto;">
+<tr><td width="424"><nobr>Sbg. Meisterschaft im Staffel-OL</nobr></td>
+<td width="317" id=rb><nobr>Sonntag, 24.04.2017</nobr></td></tr>
+<tr>
+  <td><nobr>Ergebnis &lt;<a href="res_staffelMS2017.html" target="_blank">...</a></nobr><a href="res_staffelMS2017.html" target="_blank">html</a>&gt; &lt;<a href="res_staffelMS2017.pdf" target="_blank">...pdf</a>&gt; &lt;<a href="res_staffelMS2017_split.pdf" target="_blank">...splits</a>&gt;</td><td id=rb style="font-weight:normal; font-size: 7pt;"><nobr>erzeugt von <a href="http://www.sportsoftware.de">OS2010 � Stephan Kr�mer SportSoftware 2016</a></nobr></td></tr>
+</table>
+<hr>
+</div>
+<table id=ln><tr><td>&nbsp</td></tr></table>
+
+<a id="SH16-"></a>
+<table width=753px>
+<tbody>
+<tr><td id=c00 width=260px><nobr>SH16-  (8)</nobr></td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Staffel</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=753px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<thead>
+<tr><th></th><th>Name</th><th id=rb>Jg</th><th id=rb>Zeit</th><th id=rb>EPl</th><th>Kombination</th><th id=rb>BnPl</th><th id=rb>W Zeit</th><th id=rb>WPl</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table id=ln><tr><td>&nbsp</td></tr></table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<tbody>
+<tr id=fix><td id=rb>1</td><td id=rb>62</td><td>ASK� Henndorf Fin-Gat</td><td id=rb>121:37</td></tr>
+</tbody>
+</table>
+<table width=731px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<tbody>
+<tr><td></td><td><nobr>Fink Bernhard</nobr></td><td id=rb></td><td id=rb>32:33</td><td id=rb>1</td><td>ABA</td><td id=rb>1</td><td id=rb>32:33</td><td id=rb>1</td></tr>
+<tr id=ev><td></td><td><nobr>Gathercole Richard</nobr></td><td id=rb></td><td id=rb>36:23</td><td id=rb>2</td><td>BAB</td><td id=rb>1</td><td id=rb>68:56</td><td id=rb>1</td></tr>
+<tr><td></td><td><nobr>Fink Bernhard</nobr></td><td id=rb></td><td id=rb>25:56</td><td id=rb>1</td><td>DCD</td><td id=rb>1</td><td id=rb>94:52</td><td id=rb>1</td></tr>
+<tr id=ev><td></td><td><nobr>Gathercole Richard</nobr></td><td id=rb></td><td id=rb>26:45</td><td id=rb>1</td><td>CDC</td><td id=rb>1</td><td id=rb>121:37</td><td id=rb></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<tbody>
+<tr id=fix><td id=rb>2</td><td id=rb>69</td><td>HSV Wals Hel-Buc</td><td id=rb>134:28</td></tr>
+</tbody>
+</table>
+<table width=731px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<tbody>
+<tr><td></td><td><nobr>Buchberger Markus</nobr></td><td id=rb></td><td id=rb>39:44</td><td id=rb>3</td><td>BBB</td><td id=rb>2</td><td id=rb>39:44</td><td id=rb>3</td></tr>
+<tr id=ev><td></td><td><nobr>Helminger Norbert</nobr></td><td id=rb></td><td id=rb>35:29</td><td id=rb>1</td><td>AAA</td><td id=rb>1</td><td id=rb>75:13</td><td id=rb>2</td></tr>
+<tr><td></td><td><nobr>Buchberger Markus</nobr></td><td id=rb></td><td id=rb>30:19</td><td id=rb>2</td><td>CCC</td><td id=rb>3</td><td id=rb>105:32</td><td id=rb>2</td></tr>
+<tr id=ev><td></td><td><nobr>Helminger Norbert</nobr></td><td id=rb></td><td id=rb>28:56</td><td id=rb>3</td><td>DDD</td><td id=rb>1</td><td id=rb>134:28</td><td id=rb></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<tbody>
+<tr id=fix><td id=rb>3</td><td id=rb>61</td><td>ASK� Henndorf LHu-Ebs</td><td id=rb>147:00</td></tr>
+</tbody>
+</table>
+<table width=731px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<tbody>
+<tr><td></td><td><nobr>L�Humeau Dominique</nobr></td><td id=rb></td><td id=rb>36:40</td><td id=rb>2</td><td>BBB</td><td id=rb>1</td><td id=rb>36:40</td><td id=rb>2</td></tr>
+<tr id=ev><td></td><td><nobr>Ebster Peter, Sen</nobr></td><td id=rb></td><td id=rb>47:31</td><td id=rb>5</td><td>AAA</td><td id=rb>4</td><td id=rb>84:11</td><td id=rb>3</td></tr>
+<tr><td></td><td><nobr>L�Humeau Dominique</nobr></td><td id=rb></td><td id=rb>33:02</td><td id=rb>6</td><td>CCC</td><td id=rb>5</td><td id=rb>117:13</td><td id=rb>4</td></tr>
+<tr id=ev><td></td><td><nobr>Ebster Peter, Sen</nobr></td><td id=rb></td><td id=rb>29:47</td><td id=rb>4</td><td>DDD</td><td id=rb>2</td><td id=rb>147:00</td><td id=rb></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<tbody>
+<tr id=fix><td id=rb>4</td><td id=rb>60</td><td>ASK� Henndorf Els-Koh</td><td id=rb>152:36</td></tr>
+</tbody>
+</table>
+<table width=731px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<tbody>
+<tr><td></td><td><nobr>Elstner Florian</nobr></td><td id=rb></td><td id=rb>44:42</td><td id=rb>6</td><td>AAA</td><td id=rb>2</td><td id=rb>44:42</td><td id=rb>6</td></tr>
+<tr id=ev><td></td><td><nobr>Kohlbacher Roland</nobr></td><td id=rb></td><td id=rb>40:02</td><td id=rb>3</td><td>BBB</td><td id=rb>4</td><td id=rb>84:44</td><td id=rb>5</td></tr>
+<tr><td></td><td><nobr>Elstner Florian</nobr></td><td id=rb></td><td id=rb>37:57</td><td id=rb>8</td><td>DDD</td><td id=rb>4</td><td id=rb>122:41</td><td id=rb>5</td></tr>
+<tr id=ev><td></td><td><nobr>Kohlbacher Roland</nobr></td><td id=rb></td><td id=rb>29:55</td><td id=rb>5</td><td>CCC</td><td id=rb>2</td><td id=rb>152:36</td><td id=rb></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<tbody>
+<tr id=fix><td id=rb>5</td><td id=rb>65</td><td>HSV Wals Bog-Lec</td><td id=rb>154:53</td></tr>
+</tbody>
+</table>
+<table width=731px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<tbody>
+<tr><td></td><td><nobr>Bogensberger Martin</nobr></td><td id=rb></td><td id=rb>39:50</td><td id=rb>4</td><td>BBB</td><td id=rb>3</td><td id=rb>39:50</td><td id=rb>4</td></tr>
+<tr id=ev><td></td><td><nobr>Lechner Hannes</nobr></td><td id=rb></td><td id=rb>44:42</td><td id=rb>4</td><td>AAA</td><td id=rb>2</td><td id=rb>84:32</td><td id=rb>4</td></tr>
+<tr><td></td><td><nobr>Bogensberger Martin</nobr></td><td id=rb></td><td id=rb>31:04</td><td id=rb>3</td><td>CCC</td><td id=rb>4</td><td id=rb>115:36</td><td id=rb>3</td></tr>
+<tr id=ev><td></td><td><nobr>Lechner Hannes</nobr></td><td id=rb></td><td id=rb>39:17</td><td id=rb>7</td><td>DDD</td><td id=rb>5</td><td id=rb>154:53</td><td id=rb></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<tbody>
+<tr id=fix><td id=rb>6</td><td id=rb>76</td><td>SSV Hallein-Neualm Rai-Ber</td><td id=rb>179:49</td></tr>
+</tbody>
+</table>
+<table width=731px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<tbody>
+<tr><td></td><td><nobr>Rainer Stefan</nobr></td><td id=rb></td><td id=rb>56:01</td><td id=rb>7</td><td>ABA</td><td id=rb>2</td><td id=rb>56:01</td><td id=rb>7</td></tr>
+<tr id=ev><td></td><td><nobr>Berner Roland</nobr></td><td id=rb></td><td id=rb>55:04</td><td id=rb>6</td><td>BAB</td><td id=rb>3</td><td id=rb>111:05</td><td id=rb>7</td></tr>
+<tr><td></td><td><nobr>Rainer Stefan</nobr></td><td id=rb></td><td id=rb>32:21</td><td id=rb>4</td><td>DCD</td><td id=rb>2</td><td id=rb>143:26</td><td id=rb>7</td></tr>
+<tr id=ev><td></td><td><nobr>Berner Roland</nobr></td><td id=rb></td><td id=rb>36:23</td><td id=rb>6</td><td>CDC</td><td id=rb>3</td><td id=rb>179:49</td><td id=rb></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<tbody>
+<tr id=fix><td id=rb>7</td><td id=rb>63</td><td>ASK� Henndorf K�n-Sei</td><td id=rb>180:52</td></tr>
+</tbody>
+</table>
+<table width=731px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<tbody>
+<tr><td></td><td><nobr>Seitlinger Gabriel</nobr></td><td id=rb></td><td id=rb>42:25</td><td id=rb>5</td><td>BAB</td><td id=rb>2</td><td id=rb>42:25</td><td id=rb>5</td></tr>
+<tr id=ev><td></td><td><nobr>K�nigsdorfer Jonas</nobr></td><td id=rb></td><td id=rb>58:01</td><td id=rb>7</td><td>ABA</td><td id=rb>3</td><td id=rb>100:26</td><td id=rb>6</td></tr>
+<tr><td></td><td><nobr>Seitlinger Gabriel</nobr></td><td id=rb></td><td id=rb>36:03</td><td id=rb>7</td><td>CDC</td><td id=rb>2</td><td id=rb>136:29</td><td id=rb>6</td></tr>
+<tr id=ev><td></td><td><nobr>K�nigsdorfer Jonas</nobr></td><td id=rb></td><td id=rb>44:23</td><td id=rb>8</td><td>DCD</td><td id=rb>3</td><td id=rb>180:52</td><td id=rb></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<tbody>
+<tr id=fix><td id=rb></td><td id=rb>64</td><td>ASK� Henndorf B�h-Rot</td><td id=rb>Fehlst</td></tr>
+</tbody>
+</table>
+<table width=731px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<tbody>
+<tr><td></td><td><nobr>Rothauer Thomas</nobr></td><td id=rb></td><td id=rb>Fehlst</td><td id=rb></td><td>AAA</td><td id=rb></td><td id=rb></td><td id=rb></td></tr>
+<tr id=ev><td></td><td><nobr>B�hm Martin</nobr></td><td id=rb></td><td id=rb></td><td id=rb></td><td>BBB</td><td id=rb></td><td id=rb></td><td id=rb></td></tr>
+<tr><td></td><td><nobr>Rothauer Thomas</nobr></td><td id=rb></td><td id=rb>33:01</td><td id=rb>5</td><td>DDD</td><td id=rb>3</td><td id=rb></td><td id=rb></td></tr>
+<tr id=ev><td></td><td><nobr>B�hm Martin</nobr></td><td id=rb></td><td id=rb>27:41</td><td id=rb>2</td><td>CCC</td><td id=rb>1</td><td id=rb></td><td id=rb></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="SD16-"></a>
+<table width=753px>
+<tbody>
+<tr><td id=c00 width=260px><nobr>SD16-  (1)</nobr></td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Staffel</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=753px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<thead>
+<tr><th></th><th>Name</th><th id=rb>Jg</th><th id=rb>Zeit</th><th id=rb>EPl</th><th>Kombination</th><th id=rb>BnPl</th><th id=rb>W Zeit</th><th id=rb>WPl</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table id=ln><tr><td>&nbsp</td></tr></table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<tbody>
+<tr id=fix><td id=rb>1</td><td id=rb>70</td><td>ASK� Henndorf Str-Gat</td><td id=rb>115:36</td></tr>
+</tbody>
+</table>
+<table width=731px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<tbody>
+<tr><td></td><td><nobr>Strasser Andrea</nobr></td><td id=rb></td><td id=rb>36:32</td><td id=rb>1</td><td>AAA</td><td id=rb>1</td><td id=rb>36:32</td><td id=rb>1</td></tr>
+<tr id=ev><td></td><td><nobr>Gathercole Christine</nobr></td><td id=rb></td><td id=rb>34:08</td><td id=rb>1</td><td>BBB</td><td id=rb>1</td><td id=rb>70:40</td><td id=rb>1</td></tr>
+<tr><td></td><td><nobr>Strasser Andrea</nobr></td><td id=rb></td><td id=rb>23:01</td><td id=rb>1</td><td>DDD</td><td id=rb>1</td><td id=rb>93:41</td><td id=rb>1</td></tr>
+<tr id=ev><td></td><td><nobr>Gathercole Christine</nobr></td><td id=rb></td><td id=rb>21:55</td><td id=rb>1</td><td>CCC</td><td id=rb>1</td><td id=rb>115:36</td><td id=rb></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="SH55-"></a>
+<table width=753px>
+<tbody>
+<tr><td id=c00 width=260px><nobr>SH55-  (4)</nobr></td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Staffel</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=753px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<thead>
+<tr><th></th><th>Name</th><th id=rb>Jg</th><th id=rb>Zeit</th><th id=rb>EPl</th><th>Kombination</th><th id=rb>BnPl</th><th id=rb>W Zeit</th><th id=rb>WPl</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table id=ln><tr><td>&nbsp</td></tr></table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<tbody>
+<tr id=fix><td id=rb>1</td><td id=rb>81</td><td>HSV Wals Buc-Ton</td><td id=rb>91:32</td></tr>
+</tbody>
+</table>
+<table width=731px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<tbody>
+<tr><td></td><td><nobr>Tonka Leoplod</nobr></td><td id=rb></td><td id=rb>44:53</td><td id=rb>1</td><td>BBB</td><td id=rb>1</td><td id=rb>44:53</td><td id=rb>1</td></tr>
+<tr id=ev><td></td><td><nobr>Buchberger Jakob</nobr></td><td id=rb></td><td id=rb>46:39</td><td id=rb>1</td><td>AAA</td><td id=rb>1</td><td id=rb>91:32</td><td id=rb></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<tbody>
+<tr id=fix><td id=rb>2</td><td id=rb>80</td><td>ASK� Henndorf B�h-M�l</td><td id=rb>103:26</td></tr>
+</tbody>
+</table>
+<table width=731px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<tbody>
+<tr><td></td><td><nobr>B�hm Edi</nobr></td><td id=rb></td><td id=rb>50:10</td><td id=rb>2</td><td>AAA</td><td id=rb>2</td><td id=rb>50:10</td><td id=rb>2</td></tr>
+<tr id=ev><td></td><td><nobr>M�ller Leo</nobr></td><td id=rb></td><td id=rb>53:16</td><td id=rb>3</td><td>BBB</td><td id=rb>2</td><td id=rb>103:26</td><td id=rb></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<tbody>
+<tr id=fix><td id=rb>3</td><td id=rb>83</td><td>SSV Hallein-Neualm Mag-May</td><td id=rb>115:59</td></tr>
+</tbody>
+</table>
+<table width=731px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<tbody>
+<tr><td></td><td><nobr>Mages Franz</nobr></td><td id=rb></td><td id=rb>65:52</td><td id=rb>4</td><td>BAB</td><td id=rb>1</td><td id=rb>65:52</td><td id=rb>4</td></tr>
+<tr id=ev><td></td><td><nobr>Mayer Horst</nobr></td><td id=rb></td><td id=rb>50:07</td><td id=rb>2</td><td>ABA</td><td id=rb>1</td><td id=rb>115:59</td><td id=rb></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<tbody>
+<tr id=fix><td id=rb>4</td><td id=rb>82</td><td>HSV Wals Nag-Buc</td><td id=rb>150:57</td></tr>
+</tbody>
+</table>
+<table width=731px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<tbody>
+<tr><td></td><td><nobr>Nagele Franz</nobr></td><td id=rb></td><td id=rb>62:40</td><td id=rb>3</td><td>ABA</td><td id=rb>2</td><td id=rb>62:40</td><td id=rb>3</td></tr>
+<tr id=ev><td></td><td><nobr>Buchberger Wolfgang</nobr></td><td id=rb></td><td id=rb>88:17</td><td id=rb>4</td><td>BAB</td><td id=rb>2</td><td id=rb>150:57</td><td id=rb></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="SD55-"></a>
+<table width=753px>
+<tbody>
+<tr><td id=c00 width=260px><nobr>SD55-  (1)</nobr></td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Staffel</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=753px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<thead>
+<tr><th></th><th>Name</th><th id=rb>Jg</th><th id=rb>Zeit</th><th id=rb>EPl</th><th>Kombination</th><th id=rb>BnPl</th><th id=rb>W Zeit</th><th id=rb>WPl</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table id=ln><tr><td>&nbsp</td></tr></table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<tbody>
+<tr id=fix><td id=rb>1</td><td id=rb>31</td><td>ASK� Henndorf Buc-M�l</td><td id=rb>131:07</td></tr>
+</tbody>
+</table>
+<table width=731px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<tbody>
+<tr><td></td><td><nobr>Buchberger Berta</nobr></td><td id=rb></td><td id=rb>73:05</td><td id=rb>1</td><td>BB</td><td id=rb>1</td><td id=rb>73:05</td><td id=rb>1</td></tr>
+<tr id=ev><td></td><td><nobr>M�ller Brigitte</nobr></td><td id=rb></td><td id=rb>58:02</td><td id=rb>1</td><td>AA</td><td id=rb>1</td><td id=rb>131:07</td><td id=rb></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="SH-15"></a>
+<table width=753px>
+<tbody>
+<tr><td id=c00 width=260px><nobr>SH-15  (1)</nobr></td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Staffel</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=753px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<thead>
+<tr><th></th><th>Name</th><th id=rb>Jg</th><th id=rb>Zeit</th><th id=rb>EPl</th><th>Kombination</th><th id=rb>BnPl</th><th id=rb>W Zeit</th><th id=rb>WPl</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table id=ln><tr><td>&nbsp</td></tr></table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<tbody>
+<tr id=fix><td id=rb>1</td><td id=rb>90</td><td>ASK� Henndorf Ebs-Ebs</td><td id=rb>51:23</td></tr>
+</tbody>
+</table>
+<table width=731px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<tbody>
+<tr><td></td><td><nobr>Ebster Leo</nobr></td><td id=rb></td><td id=rb>24:10</td><td id=rb>1</td><td>AAA</td><td id=rb>1</td><td id=rb>24:10</td><td id=rb>1</td></tr>
+<tr id=ev><td></td><td><nobr>Ebster Peter</nobr></td><td id=rb></td><td id=rb>27:13</td><td id=rb>1</td><td>BBB</td><td id=rb>1</td><td id=rb>51:23</td><td id=rb></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="SD-15"></a>
+<table width=753px>
+<tbody>
+<tr><td id=c00 width=260px><nobr>SD-15  (1)</nobr></td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Staffel</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=753px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<thead>
+<tr><th></th><th>Name</th><th id=rb>Jg</th><th id=rb>Zeit</th><th id=rb>EPl</th><th>Kombination</th><th id=rb>BnPl</th><th id=rb>W Zeit</th><th id=rb>WPl</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table id=ln><tr><td>&nbsp</td></tr></table>
+<table width=753px>
+<col width=42px>
+<col width=55px>
+<col width=576px>
+<col width=77px>
+<tbody>
+<tr id=fix><td id=rb>AK</td><td id=rb>91</td><td>ASK� Henndorf Sei-Gat</td><td id=rb>80:22</td></tr>
+</tbody>
+</table>
+<table width=731px>
+<col width=98px>
+<col width=204px>
+<col width=31px>
+<col width=77px>
+<col width=53px>
+<col width=77px>
+<col width=56px>
+<col width=72px>
+<col width=58px>
+<tbody>
+<tr><td></td><td><nobr>Seitlinger Antonia</nobr></td><td id=rb></td><td id=rb>45:45</td><td id=rb>1</td><td>BBB</td><td id=rb>1</td><td id=rb>45:45</td><td id=rb>1</td></tr>
+<tr id=ev><td></td><td><nobr>Hinterhofer Katharina</nobr></td><td id=rb></td><td id=rb>34:37</td><td id=rb>1</td><td>AAA</td><td id=rb>1</td><td id=rb>80:22</td><td id=rb></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+<tr><td><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<div id="navigation"><span id=navcaption>Kategorie ausw�hlen</span><table style="table-layout:auto;">
+<tr><td><a href="#SH16-">SH16-</a></td></tr>
+<tr><td><a href="#SD16-">SD16-</a></td></tr>
+<tr><td><a href="#SH55-">SH55-</a></td></tr>
+<tr><td><a href="#SD55-">SD55-</a></td></tr>
+<tr><td><a href="#SH-15">SH-15</a></td></tr>
+<tr><td><a href="#SD-15">SD-15</a></td></tr>
+</table></div>
+</body>
+</html>

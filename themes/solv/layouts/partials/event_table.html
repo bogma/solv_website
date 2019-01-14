@@ -20,7 +20,9 @@
         <tr><td>Wettkampfart</td><td>{{ .Params.event.form }}</td></tr>
         <tr><td>Wettkampfleiter</td><td>{{ .Params.official.event }}</td></tr>
         <tr><td>Bahnleger</td><td>{{ .Params.official.course }}</td></tr>
+        {{ if not (eq .Params.official.inspection "") }}
         <tr><td>Kontrolle</td><td>{{ .Params.official.inspection }}</td></tr>
+        {{ end }}
         {{ if eq .Params.cup "sbgcup" }}
         <tr><td>Karte</td><td>{{ .Params.map.name }} / M {{ .Params.map.scale }} / AE {{ .Params.map.equidistance }} / Stand {{ .Params.map.update }}{{if not (eq .Params.map.format "")}} / {{.Params.map.format}} {{end}}{{if not (eq .Params.map.hints "")}} / {{.Params.map.hints}} {{end}}</td></tr>
         <tr><td>Postenbeschreibung</td><td>{{ .Params.control_point_description }}</td></tr>

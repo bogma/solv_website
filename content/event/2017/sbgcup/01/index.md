@@ -26,8 +26,8 @@ course:
   valid: false
   lenghts: []
 entry:
-  receiver_anne: true
-  receiver_email: "leo.mueller@sbg.at"
+  anne: true
+  email: "leo.mueller@sbg.at"
   closing_date_days: -7
 meeting:
   point: "Schulzentrum Neumarkt/Wallersee"
