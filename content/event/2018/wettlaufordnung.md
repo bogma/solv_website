@@ -5,20 +5,94 @@ draft: false
 type: "page"
 ---
 
-## Einteilung der Salzburgcup Kategorien und Bahnen der Saison 2017
+## Wertungen 2018
 
-Bahn | Kategorie | Kurzbezeichnung
---- | --- | ---
-Neulinge | Damen -13, Herren -13, Offen Kurz | D -13, H -13, OK
-Kurz | Damen -15, Herren -15, Damen -18, Damen 55-, Herren 55-, Offen Lang | D -15, H -15, D -18, D 55-, H 55-, OL
-Mittel | Herren -18, Damen 19-, Damen 35-, Damen 45-, Herren 45- | H -18, D 19-, D 35-, D 45-, H 45-
-Lang | Herren 19-, Herren 35- | H 19-, H 35-
+**Salzburger Sportvogl-Cup:** Die sechs besten Resultate (von 9 möglichen)
 
-## Einteilung der Salzburger Schulcup Kategorien 2017
+**Sportvogl - Schulcup:** Die zwei besten Resultate (von 3 möglichen)
 
-Wertungen 2018:
-Salzburger Sportvogl-Cup: Die sechs besten Resultate (von 9 möglichen) ... < ... Zwischenstand>
-Sportvogl - Schulcup: Die zwei besten Resultate (von 3 möglichen) ... < ... Endstand>
+## Einteilung der Salzburgcup Kategorien und Bahnen 2018
+
+<table class="uk-table uk-table-divider uk-table-striped">
+    <thead>
+        <tr>
+            <th>Bahn</th>
+            <th>Kategorie</th>
+            <th>Kurzbezeichnung</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Neulinge</td>
+            <td>Damen -13, Herren -13, Offen Kurz</td>
+            <td>D -13, H -13, OK</td>
+        </tr>
+        <tr>
+            <td>Kurz</td>
+            <td>Damen -15, Herren -15, Damen -18, Damen 55-, Herren 55-, Offen Lang</td>
+            <td>D -15, H -15, D -18, D 55-, H 55-, OL</td>
+        </tr>
+        <tr>
+            <td>Mittel</td>
+            <td>Herren -18, Damen 19-, Damen 35-, Damen 45-, Herren 45-</td>
+            <td>H -18, D 19-, D 35-, D 45-, H 45-</td>
+        </tr>
+        <tr>
+            <td>Lang</td>
+            <td>Herren 19-, Herren 35-</td>
+            <td>H 19-, H 35-</td>
+        </tr>
+    </tbody>
+</table>
+
+## Einteilung der Salzburger Schulcup Kategorien 2018
+
+<table class="uk-table uk-table-divider uk-table-striped">
+    <thead>
+        <tr>
+            <th>Laufklasse</th>
+            <th>Kurzbezeichnung</th>
+            <th>Jahrgang</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Unterstufe Herren -2006</td>
+            <td>US H -06</td>
+            <td>2006 und jünger</td>
+        </tr>
+        <tr>
+            <td>Unterstufe Damen -2006</td>
+            <td>US D -06</td>
+            <td>2006 und jünger</td>
+        </tr>
+        <tr>
+            <td>Unterstufe Herren 2004/05</td>
+            <td>US H 04/05</td>
+            <td>2004 und 2005</td>
+        </tr>
+        <tr>
+            <td>Unterstufe Damen 2004/05</td>
+            <td>US D 04/05</td>
+            <td>2004 und 2005</td>
+        </tr>
+        <tr>
+            <td>Oberstufe Herren</td>
+            <td>OS H</td>
+            <td>2000 und jünger</td>
+        </tr>
+        <tr>
+            <td>Oberstufe Damen</td>
+            <td>OS D</td>
+            <td>2000 und jünger</td>
+        </tr>
+        <tr>
+            <td>Paare</td>
+            <td>P</td>
+            <td>keine Altersbeschränkung</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Hinweise
 
