@@ -1,11 +1,11 @@
 ---
-title: "x. Salzburger Schulcup {{now.Format "2006"}}"
+title: "x. Salzburger Sportvogl Schulcup {{now.Format "2006"}}"
 date: {{ .Date }} # date of creation of the file
 draft: true
 status: planned
 
 categories: [ "Event" ]
-archives: ["{{now.Format "2006"}}"]
+archives: []
 tags: [ "Schul Cup"]
 
 event:
@@ -73,6 +73,3 @@ Kein Nenngeld für die Landesmeisterschaften!
 - Jede\(r) Läufer(in) startet auf eigene Gefahr und ist für die entsprechenden Versicherungen selbst verantwortlich.
 - Die Regeln der Straßenverkehrsordnung sind unbedingt einzuhalten.
 - Privatgrundstücke dürfen nicht betreten werden.
-
-### Hinweis des SOLV
-Für die Jahreswertung des SOLV-Cup werden nur SOLV-Mitglieder berücksichtigt!

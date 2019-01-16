@@ -57,24 +57,24 @@ type: "page"
     </thead>
     <tbody>
         <tr>
-            <td>Unterstufe Herren -2006</td>
-            <td>US H -06</td>
-            <td>2006 und jünger</td>
+            <td>Unterstufe Herren -2005</td>
+            <td>US H -05</td>
+            <td>2005 und jünger</td>
         </tr>
         <tr>
-            <td>Unterstufe Damen -2006</td>
-            <td>US D -06</td>
-            <td>2006 und jünger</td>
+            <td>Unterstufe Damen -2005</td>
+            <td>US D -05</td>
+            <td>2005 und jünger</td>
         </tr>
         <tr>
-            <td>Unterstufe Herren 2004/05</td>
-            <td>US H 04/05</td>
-            <td>2004 und 2005</td>
+            <td>Unterstufe Herren 2003/04</td>
+            <td>US H 03/04</td>
+            <td>2003 und 2004</td>
         </tr>
         <tr>
-            <td>Unterstufe Damen 2004/05</td>
-            <td>US D 04/05</td>
-            <td>2004 und 2005</td>
+            <td>Unterstufe Damen 2003/04</td>
+            <td>US D 03/04</td>
+            <td>2003 und 2004</td>
         </tr>
         <tr>
             <td>Oberstufe Herren</td>
