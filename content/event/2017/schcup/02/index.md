@@ -43,23 +43,12 @@ resources:
   title: "Läuferinfo"
 ---
 
-### Laufklassen
-
-1. w/m Oberstufe (1999 und jünger)
-2. w/m Unterstufe a (Jg. 2002 / 2003)
-3. w/m Unterstufe b (Jg. 2004 und jünger)
-4. Paare (außer Konkurenz, ohne Alterslimit)
-
 ### Nennung
 
 An: Leo Müller, nur per E-Mail: (leo.mueller@sbg.at)
 Nennung mit Schule, Name, Laufklasse, Geburtsjahr, SI-Nummer;
 Falls keine SI-Nummer angegeben, wird automatisch ein Leihstick zugeteilt!
 **Nachnennung:** Nur in geringem Umfang möglich!
-
-### Wertung
-
-Die 2 besten von 3 möglichen Ergebnissen.
 
 ### Siegerehrung
 
@@ -75,6 +64,7 @@ Kein Nenngeld für die Landesmeisterschaften!
 - Der Veranstalter sowie der durchführende Verein übernimmt keinerlei Haftung für auftretende Schäden jeglicher Art, auch nicht gegenüber Dritten.
 - Die Bestimmungen des Forstgesetzes und der StVO sind einzuhalten.
 - Im Laufgebiet besteht bis zum Wettkampf Trainingsverbot.
+- Die Veranstaltung wird nach den gültigen Regeln der [Wettlaufordnung](../../wettlaufordnung) des SOLV durchgeführt.
 - Jede\(r) Läufer(in) startet auf eigene Gefahr und ist für die entsprechenden Versicherungen selbst verantwortlich.
 - Die Regeln der Straßenverkehrsordnung sind unbedingt einzuhalten.
 - Privatgrundstücke dürfen nicht betreten werden.

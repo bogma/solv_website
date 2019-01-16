@@ -20,3 +20,4 @@ Aus dem ehemaligen Arge Alp Sportprogramms haben sich Arge Alp Sommer- und Winte
 - [2016 Salzburg](http://www.ol-sbg.at/argealp2016/index.html)
 - [2017 Vorarlberg](https://www.argealp2017ol.at/)
 - [2018 St. Gallen](http://www.olgsga.ch/argealp/)
+- [2019 Savognin](https://www.olg-chur.ch/aktivitaeten/veranstaltungen/argealp2019.html)

@@ -52,10 +52,10 @@ resources:
   title: "Ausschreibung"
 - src: "**/start**"
   title: "Startliste"
+- src: "**/resu*split**"
+  title: "Splits"
 - src: "**/resu**"
   title: "Ergebnisse"
-- src: "**/split**"
-  title: "Splits"
 - src: "**/laeu**"
   title: "Läuferinfo"
 ---

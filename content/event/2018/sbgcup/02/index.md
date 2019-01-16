@@ -1,26 +1,27 @@
 ---
-title: "9. Salzburger Sportvoglcup 2017"
-date: 2017-11-04T11:00:00+02:00 # date of creation of the file
+title: "2. Salzburger Sportvoglcup 2018"
+date: 2018-05-05T23:06:47+01:00 # date of creation of the file
 draft: false
 status: done
-anne_id: 0
+anne_id: 2358
 
 categories: [ "Event" ]
-archives: ["2017"]
+archives: []
 tags: [ "SBG Cup"]
+
 
 event:
   name: ""
-  date: 2017-11-04T11:00:00+02:00 # date/start time of event
+  date: 2018-05-05T14:00:00+01:00 # date/start time of event
   form: "Normaler OL"
-  location: "Adnet"
+  location: "Schwarzenbergkaserne"
 cup: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "SSV Hallein-Neualm" # remove one of the 3 options
+implementation: "HSV Wals" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
-  course: "Horst Mayer"
-  event: "Horst Mayer"
+  course: "Franz Nagele"
+  event: "Franz Nagele"
   inspection: ""
 course:
   valid: false # set to true when the course lenghts are final
@@ -28,17 +29,17 @@ course:
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: leo.mueller@sbg.at
-  closing_date_days: -5 # x days from event->date
+  closing_date_days: -6 # x days from event->date
 meeting:
-  point: "NMS Adnet"
+  point: "Sporthalle Schwarzenbergkaserne"
   time_minutes: -60 # x minutes from event->date
-  location: [47.6997133,13.1296243]
+  location: [47.796814, 12.983826]
 map:
-  name: "Adnet"
-  scale: "1:7.500"
-  equidistance: "5m"
-  update: "überarbeitet Oktober 2017"
-  format: "A4"
+  name: "Schwarzenbergkaserne"
+  scale: "1:5.000"
+  equidistance: "2,5m"
+  update: "April 2018"
+  format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
@@ -54,7 +55,7 @@ resources:
   title: "Splits"
 - src: "**/resu**"
   title: "Ergebnisse"
-- src: "**/info**"
+- src: "**/lau**"
   title: "Läuferinfo"
 ---
 

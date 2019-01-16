@@ -1,4 +1,4 @@
-﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <!-- This file was created by an application of Stephan Krämer SportSoftware www.sportsoftware.de -->
 <!-- Application: OE2010 (M) V.11.0 Pro  License holder: ASKÖ Henndorf  4604  Time: Di. 26.09.2017 22:31 -->
 <html>
@@ -63,7 +63,7 @@ tr#fix { background-color: #E0FFFF; }
 <table width=499px style="table-layout:auto;">
 <tr><td><nobr>8. Salzburger Sportvoglcup 2017</nobr></td><td id=rb><nobr>Sa. 23.09.2017 17:42</nobr></td></tr>
     <tr>
-      <td><nobr>Ergebnisse  &lt;<a href="resu8sc2017.html" target="_blank"> ... html</a>&gt; &lt;<a href="resu8sc2017.pdf" target="_blank"> ... pdf</a>&gt; &lt;<a href="resu8sc2017_split.pdf" target="_blank"> ... Split</a>&gt;&nbsp; </nobr> &lt; <a href="http://www.splitsbrowser.org.uk/splitsgraph.php?eventId=10004" target="_blank">... Splitbrowser</a>&gt;</td>
+      <td><nobr>Ergebnisse  &lt;<a href="resu8sc2017.pdf" target="_blank"> ... pdf</a>&gt; &lt;<a href="resu8sc2017_split.pdf" target="_blank"> ... Split</a>&gt;&nbsp; </nobr> &lt; <a href="http://www.splitsbrowser.org.uk/splitsgraph.php?eventId=10004" target="_blank">... Splitbrowser</a>&gt;</td>
       <td id=rb2 style="font-weight:normal; font-size: 7pt;"><nobr>erzeugt von <a href="http://www.sportsoftware.de">OE2010 &copy; Stephan Kr&auml;mer SportSoftware 2016</a></nobr></td>
     </tr>
 </table>
