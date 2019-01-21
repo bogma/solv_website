@@ -1,0 +1,768 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!-- This file was created by an application of Stephan Krämer SportSoftware www.sportsoftware.de -->
+<!-- Application: OE2010 (M) V.11.0 Pro  License holder: ASKÖ Henndorf  4604  Time: Mo. 21.05.2018 19:40 -->
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="robots" content="noindex,nofollow">
+
+<style type="text/css">
+body { color: #000; background-color: #fff; 
+       font: 10pt/1.2 Arial, Helvetica, sans-serif; }
+table { table-layout:fixed; border-collapse: collapse; border-spacing: 0px; 
+        padding: 0; margin: 0; border: none; }
+th { background-color: #ebffeb; color: blue; font-weight: normal;
+     border: none; white-space:nowrap; text-align: left;
+     padding: 0px 3px 3px 3px; vertical-align: bottom;
+     font: 10pt/1.2 Arial, Helvetica, sans-serif; }
+td { padding-left: 3px; padding-right: 3px;
+     border: none; overflow:hidden; vertical-align: bottom;
+     white-space:nowrap; text-align: left;
+     font: 10pt/1.2 Arial, Helvetica, sans-serif; }
+a:link    { font-weight:bold; color:blue; text-decoration:none; }
+a:visited { font-weight:bold; color:purple; text-decoration:none; }
+a:focus   { font-weight:bold; color:green; text-decoration:none; }
+a:hover   { font-weight:bold; color:green; text-decoration:none; }
+a:active  { font-weight:bold; color:green; text-decoration:none; }
+#header { background-color: #ebffeb; color: black; padding: 5px 3px 2px 3px; }
+#reporttop { background-color: #FFFFE0; font-weight: bold; padding: 0;
+             border: none; margin: 0; width: 100%; }
+#reporttop td { vertical-align: bottom; }
+#ln { font-size: 5pt; }
+tr#ev { background-color: #FFFFE0; }
+tr#fix { background-color: #E0FFFF; }
+#rb { text-align: right; }
+#ce { text-align: center; }
+#navigation {
+    top: 0px; right: 0px; position: fixed; display: block;
+    max-height: 95%; overflow-y: auto; overflow-x: hidden;
+    margin: 8px; text-align: left; white-space:nowrap;
+    background-color: #ebffeb; padding: 5px 18px 5px 5px;
+    font: 10pt/1.2 Arial, Helvetica, sans-serif;
+    font-weight: bold; text-decoration: none;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 2px 2px 2px #d0d0d0;
+    opacity: .9;
+      }
+#navigation td {padding-top: 0; padding-bottom: 0;}
+#navigation table {display: none;}
+#navigation:hover table {display: block;}
+#navcaption {color: green; }
+@media print { #navigation { display:none; } }
+
+#c00 { background-color: #ebffeb; color: black; padding: 5px 3px 2px 3px; font-weight: bold; }
+#c01 { background-color: #ebffeb; color: black; padding: 5px 3px 2px 3px; font-weight: bold; text-align: right; }
+#c02 { background-color: #ebffeb; color: black; padding: 5px 3px 2px 3px; font-weight: bold; text-align: right; }
+</style>
+
+<title>3. Salzburger Sportvoglcup 2018 - Ergebnis</title>
+</head>
+
+<body>
+<div id=reporttop>
+<table width=499px style="table-layout:auto;">
+<tr><td><nobr>3. Salzburger Sportvoglcup 2018</nobr></td><td id=rb><nobr>Mo. 21.05.2018 19:40</nobr></td></tr>
+<tr>
+        <td><nobr>Ergebnisse  &lt;<a href="resu3sc2018.pdf" target="_blank"> ... pdf</a>&gt; &lt;<a href="resu3sc2018_split.pdf" target="_blank"> ... Split</a>&gt;&nbsp; </nobr> &lt; <a href="http://www.splitsbrowser.org.uk/splitsgraph.php?eventId=10512" target="_blank">... Splitbrowser</a>&gt;</td>
+      <td id=rb3 style="font-weight:normal; font-size: 7pt;"><nobr>erzeugt von <a href="http://www.sportsoftware.de">OE2010 &copy; Stephan Kr&auml;mer SportSoftware 2016</a></nobr></td>
+</tr>
+</table>
+<hr>
+</div>
+<table id=ln><tr><td>&nbsp</td></tr></table>
+
+<a id="S D13"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Damen -13  (12)</nobr></td><td id=c01 width=99px>1,4 km  80 Hm</td><td id=c02 width=34px>7 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb></td><td><nobr>Emily Adenstedt</nobr></td><td id=rb>06</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>16:14</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb></td><td><nobr>Lilli Rinnerberger</nobr></td><td id=rb>06</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>16:33</td></tr>
+<tr><td id=rb>3</td><td id=rb></td><td><nobr>Jana Lechner</nobr></td><td id=rb>07</td><td><nobr>HSV Wals</nobr></td><td id=rb>19:02</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb></td><td><nobr>Veronika Lechthaler</nobr></td><td id=rb>04</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>19:51</td></tr>
+<tr><td id=rb>5</td><td id=rb></td><td><nobr>Jasmin Guggenberger</nobr></td><td id=rb></td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>21:18</td></tr>
+<tr id=ev><td id=rb>6</td><td id=rb></td><td><nobr>Emma Rothauer</nobr></td><td id=rb>07</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>22:06</td></tr>
+<tr><td id=rb>7</td><td id=rb></td><td><nobr>Clara Berger</nobr></td><td id=rb></td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>23:47</td></tr>
+<tr id=ev><td id=rb>8</td><td id=rb></td><td><nobr>Katja Helminger</nobr></td><td id=rb>08</td><td><nobr>HSV Wals</nobr></td><td id=rb>25:40</td></tr>
+<tr><td id=rb>9</td><td id=rb></td><td><nobr>Lara Höhenberger</nobr></td><td id=rb></td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>27:48</td></tr>
+<tr id=ev><td id=rb>10</td><td id=rb></td><td><nobr>Josefine Erhard</nobr></td><td id=rb></td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>32:23</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb></td><td id=rb></td><td><nobr>Katja Berger</nobr></td><td id=rb>09</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>N Ang</td></tr>
+<tr id=ev><td id=rb></td><td id=rb></td><td><nobr>Hanna Wallner</nobr></td><td id=rb></td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>N Ang</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S D15"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Damen -15  (1)</nobr></td><td id=c01 width=99px>2,9 km  100 Hm</td><td id=c02 width=34px>9 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb></td><td><nobr>Antonia Seitlinger</nobr></td><td id=rb>05</td><td><nobr>X OL  Sektion TV Zell am See</nobr></td><td id=rb>50:57</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S D18"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Damen -18  (3)</nobr></td><td id=c01 width=99px>2,9 km  100 Hm</td><td id=c02 width=34px>9 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb></td><td><nobr>Pia Grünberger</nobr></td><td id=rb>01</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>40:24</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb></td><td><nobr>Christina Lechthaler</nobr></td><td id=rb>01</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>46:38</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb></td><td id=rb></td><td><nobr>Sophie Doppler</nobr></td><td id=rb>01</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>N Ang</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S D19"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Damen 19-  (8)</nobr></td><td id=c01 width=99px>4,5 km  150 Hm</td><td id=c02 width=34px>12 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb></td><td><nobr>Anni Berger</nobr></td><td id=rb></td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>36:46</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb></td><td><nobr>Franziska Rogl</nobr></td><td id=rb>88</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>48:19</td></tr>
+<tr><td id=rb>3</td><td id=rb></td><td><nobr>Marlene Berger</nobr></td><td id=rb>97</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>49:11</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb></td><td><nobr>Kitti Boros</nobr></td><td id=rb>97</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>53:43</td></tr>
+<tr><td id=rb>5</td><td id=rb></td><td><nobr>Nilla Bogensperger</nobr></td><td id=rb>02</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>57:05</td></tr>
+<tr id=ev><td id=rb>6</td><td id=rb></td><td><nobr>Lisa-Sophie Fischer</nobr></td><td id=rb></td><td><nobr>OLC Wienerwald</nobr></td><td id=rb>1:15:15</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb></td><td id=rb></td><td><nobr>Lucie Rothauer</nobr></td><td id=rb>74</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>N Ang</td></tr>
+<tr id=ev><td id=rb></td><td id=rb></td><td><nobr>Ivona Krätschmerová</nobr></td><td id=rb>90</td><td><nobr>SK Vrbno pod Pradedem</nobr></td><td id=rb>N Ang</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S D35"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Damen 35-  (2)</nobr></td><td id=c01 width=99px>4,5 km  150 Hm</td><td id=c02 width=34px>12 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb></td><td><nobr>Edith Müller</nobr></td><td id=rb>82</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>51:56</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb></td><td><nobr>Daniela Buchberger</nobr></td><td id=rb>76</td><td><nobr>HSV Wals</nobr></td><td id=rb>1:18:15</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S D45"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Damen 45-  (12)</nobr></td><td id=c01 width=99px>4,5 km  150 Hm</td><td id=c02 width=34px>12 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb></td><td><nobr>Hedi Berger</nobr></td><td id=rb>68</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>47:31</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb></td><td><nobr>Barbara Adenstedt</nobr></td><td id=rb>67</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>48:20</td></tr>
+<tr><td id=rb>3</td><td id=rb></td><td><nobr>Ingrid Adenstedt</nobr></td><td id=rb>70</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>48:58</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb></td><td><nobr>Guni Palme</nobr></td><td id=rb>68</td><td><nobr>OLC Wienerwald</nobr></td><td id=rb>55:52</td></tr>
+<tr><td id=rb>5</td><td id=rb></td><td><nobr>Judit Resch</nobr></td><td id=rb>66</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>56:33</td></tr>
+<tr id=ev><td id=rb>6</td><td id=rb></td><td><nobr>Karin Hillebrand</nobr></td><td id=rb>68</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>56:47</td></tr>
+<tr><td id=rb>7</td><td id=rb></td><td><nobr>Ingrid Kaminger</nobr></td><td id=rb>69</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>1:00:16</td></tr>
+<tr id=ev><td id=rb>8</td><td id=rb></td><td><nobr>Gislind Berger</nobr></td><td id=rb>66</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>1:00:37</td></tr>
+<tr><td id=rb>9</td><td id=rb></td><td><nobr>Margit Elstner</nobr></td><td id=rb>64</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:02:09</td></tr>
+<tr id=ev><td id=rb>10</td><td id=rb></td><td><nobr>Julia Helminger</nobr></td><td id=rb>72</td><td><nobr>HSV Wals</nobr></td><td id=rb>1:02:36</td></tr>
+<tr><td id=rb>11</td><td id=rb></td><td><nobr>Katharina Hinterhofer</nobr></td><td id=rb>69</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:04:53</td></tr>
+<tr id=ev><td id=rb>12</td><td id=rb></td><td><nobr>Monika Lechthaler</nobr></td><td id=rb>70</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>1:13:13</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S D55"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Damen 55-  (3)</nobr></td><td id=c01 width=99px>2,9 km  100 Hm</td><td id=c02 width=34px>9 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb></td><td><nobr>Hildegard Scherr</nobr></td><td id=rb>62</td><td><nobr>Naturfreunde Steuerberg OLG</nobr></td><td id=rb>43:08</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb></td><td><nobr>Eva Breitschädel</nobr></td><td id=rb>53</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>53:24</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb></td><td id=rb></td><td><nobr>Helga Tezarek</nobr></td><td id=rb>73</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>Fehlst</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S H13"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Herren -13  (3)</nobr></td><td id=c01 width=99px>1,4 km  80 Hm</td><td id=c02 width=34px>7 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb></td><td><nobr>Nick Lechner</nobr></td><td id=rb>07</td><td><nobr>HSV Wals</nobr></td><td id=rb>18:44</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb></td><td><nobr>Jakob Rinnerberger</nobr></td><td id=rb>07</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>19:00</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb></td><td id=rb></td><td><nobr>Emanuel Brunauer</nobr></td><td id=rb></td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>N Ang</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S H15"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Herren -15  (2)</nobr></td><td id=c01 width=99px>2,9 km  100 Hm</td><td id=c02 width=34px>9 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb></td><td id=rb></td><td><nobr>Tim Lechner</nobr></td><td id=rb>04</td><td><nobr>HSV Wals</nobr></td><td id=rb>Aufg</td></tr>
+<tr id=ev><td id=rb></td><td id=rb></td><td><nobr>Philipp Lechthaler</nobr></td><td id=rb>02</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>N Ang</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S H18"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Herren -18  (1)</nobr></td><td id=c01 width=99px>4,5 km  150 Hm</td><td id=c02 width=34px>12 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb></td><td><nobr>Florian Resch</nobr></td><td id=rb>02</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>1:01:41</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S H19"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Herren 19-  (11)</nobr></td><td id=c01 width=99px>7,2 km  260 Hm</td><td id=c02 width=34px>18 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb></td><td><nobr>Tim Robertson</nobr></td><td id=rb>95</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>44:11</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb></td><td><nobr>Xander Berger</nobr></td><td id=rb>94</td><td><nobr>HSV OL Wr. Neustadt</nobr></td><td id=rb>50:47</td></tr>
+<tr><td id=rb>3</td><td id=rb></td><td><nobr>Markus König</nobr></td><td id=rb>79</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>57:42</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb></td><td><nobr>Norbert Helminger</nobr></td><td id=rb>75</td><td><nobr>HSV Wals</nobr></td><td id=rb>59:29</td></tr>
+<tr><td id=rb>5</td><td id=rb></td><td><nobr>Dieter Marinus</nobr></td><td id=rb>94</td><td><nobr>ohne Verein</nobr></td><td id=rb>59:44</td></tr>
+<tr id=ev><td id=rb>6</td><td id=rb></td><td><nobr>Leon Ebster</nobr></td><td id=rb>02</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:02:00</td></tr>
+<tr><td id=rb>7</td><td id=rb></td><td><nobr>Peter Ebster</nobr></td><td id=rb>02</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:07:09</td></tr>
+<tr id=ev><td id=rb>8</td><td id=rb></td><td><nobr>Attila Korozs</nobr></td><td id=rb>92</td><td><nobr>Egri Spartacus SE</nobr></td><td id=rb>1:14:17</td></tr>
+<tr><td id=rb>9</td><td id=rb></td><td><nobr>Markus Adenstedt</nobr></td><td id=rb>99</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>1:52:16</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr id=ev><td id=rb></td><td id=rb></td><td><nobr>Roman Schuh</nobr></td><td id=rb>98</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>Aufg</td></tr>
+<tr><td id=rb></td><td id=rb></td><td><nobr>William Kaminger</nobr></td><td id=rb>95</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>N Ang</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S H35"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Herren 35-  (12)</nobr></td><td id=c01 width=99px>7,2 km  260 Hm</td><td id=c02 width=34px>18 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb></td><td><nobr>Bernhard Fink</nobr></td><td id=rb>77</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>56:39</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb></td><td><nobr>Karl Lang</nobr></td><td id=rb>61</td><td><nobr>HSV OL Wr. Neustadt</nobr></td><td id=rb>1:02:50</td></tr>
+<tr><td id=rb>3</td><td id=rb></td><td><nobr>Bruno Scherr</nobr></td><td id=rb>56</td><td><nobr>Naturfreunde Steuerberg OLG</nobr></td><td id=rb>1:12:35</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb></td><td><nobr>Roland Kohlbacher</nobr></td><td id=rb>66</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:15:05</td></tr>
+<tr><td id=rb>5</td><td id=rb></td><td><nobr>Martin Böhm</nobr></td><td id=rb>76</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:16:14</td></tr>
+<tr id=ev><td id=rb>6</td><td id=rb></td><td><nobr>Hannes Lechner</nobr></td><td id=rb>72</td><td><nobr>HSV Wals</nobr></td><td id=rb>1:23:44</td></tr>
+<tr><td id=rb>7</td><td id=rb></td><td><nobr>Wolfgang Buchberger Jun.</nobr></td><td id=rb>80</td><td><nobr>HSV Wals</nobr></td><td id=rb>1:24:37</td></tr>
+<tr id=ev><td id=rb>8</td><td id=rb></td><td><nobr>Thomas Rothauer</nobr></td><td id=rb>77</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:31:34</td></tr>
+<tr><td id=rb>9</td><td id=rb></td><td><nobr>Johann Grambichler</nobr></td><td id=rb>78</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:34:20</td></tr>
+<tr id=ev><td id=rb>10</td><td id=rb></td><td><nobr>Hannes Wenzel</nobr></td><td id=rb>76</td><td><nobr>OLCU Viktring</nobr></td><td id=rb>1:35:34</td></tr>
+<tr><td id=rb>11</td><td id=rb></td><td><nobr>Christoph Artner</nobr></td><td id=rb>73</td><td><nobr>SSV Hallein-Neualm</nobr></td><td id=rb>1:41:07</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr id=ev><td id=rb></td><td id=rb></td><td><nobr>Martin Bogensperger</nobr></td><td id=rb>72</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>Fehlst</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S H45"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Herren 45-  (12)</nobr></td><td id=c01 width=99px>4,5 km  150 Hm</td><td id=c02 width=34px>12 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb></td><td><nobr>Florian Elstner</nobr></td><td id=rb>63</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>45:33</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb></td><td><nobr>Martin Grünberger</nobr></td><td id=rb>66</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>45:41</td></tr>
+<tr><td id=rb>3</td><td id=rb></td><td><nobr>Peter Ebster Sen.</nobr></td><td id=rb>68</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>46:27</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb></td><td><nobr>Alexander Srb</nobr></td><td id=rb>73</td><td><nobr>WAT-OL</nobr></td><td id=rb>46:35</td></tr>
+<tr><td id=rb>5</td><td id=rb></td><td><nobr>Roland Reisenberger</nobr></td><td id=rb>68</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>49:15</td></tr>
+<tr id=ev><td id=rb>6</td><td id=rb></td><td><nobr>Gabriel Seitlinger</nobr></td><td id=rb>70</td><td><nobr>X OL  Sektion TV Zell am See</nobr></td><td id=rb>52:26</td></tr>
+<tr><td id=rb>7</td><td id=rb></td><td><nobr>Erik Adenstedt</nobr></td><td id=rb>69</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>53:01</td></tr>
+<tr id=ev><td id=rb>8</td><td id=rb></td><td><nobr>Roland Berner</nobr></td><td id=rb>65</td><td><nobr>SSV Hallein-Neualm</nobr></td><td id=rb>53:47</td></tr>
+<tr><td id=rb>9</td><td id=rb></td><td><nobr>Markus Sterba</nobr></td><td id=rb>68</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>1:03:35</td></tr>
+<tr id=ev><td id=rb>10</td><td id=rb></td><td><nobr>Andreas Lechthaler</nobr></td><td id=rb>67</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>1:08:32</td></tr>
+<tr><td id=rb>11</td><td id=rb></td><td><nobr>Kurt Resch</nobr></td><td id=rb>63</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>1:09:35</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr id=ev><td id=rb>AK</td><td id=rb></td><td><nobr>Thomas Neuhold</nobr></td><td id=rb>81</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>48:53</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S H55"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Herren 55-  (9)</nobr></td><td id=c01 width=99px>2,9 km  100 Hm</td><td id=c02 width=34px>9 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb></td><td><nobr>Josef Wimmer</nobr></td><td id=rb>57</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>29:50</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb></td><td><nobr>Eduard Böhm</nobr></td><td id=rb>48</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>33:59</td></tr>
+<tr><td id=rb>3</td><td id=rb></td><td><nobr>Horst Mayer</nobr></td><td id=rb>60</td><td><nobr>SSV Hallein-Neualm</nobr></td><td id=rb>34:16</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb></td><td><nobr>Georg Billroth</nobr></td><td id=rb>61</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>35:11</td></tr>
+<tr><td id=rb>5</td><td id=rb></td><td><nobr>Helmut Tanner</nobr></td><td id=rb>63</td><td><nobr>OLCU Viktring</nobr></td><td id=rb>35:26</td></tr>
+<tr id=ev><td id=rb>6</td><td id=rb></td><td><nobr>Hartwig Rogl</nobr></td><td id=rb>58</td><td><nobr>Naturfreunde Seekirchen</nobr></td><td id=rb>36:17</td></tr>
+<tr><td id=rb>7</td><td id=rb></td><td><nobr>Rainer Praeceptor</nobr></td><td id=rb>63</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>36:25</td></tr>
+<tr id=ev><td id=rb>8</td><td id=rb></td><td><nobr>Siegfried Seiner</nobr></td><td id=rb>55</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>40:51</td></tr>
+<tr><td id=rb>9</td><td id=rb></td><td><nobr>Franz Mages</nobr></td><td id=rb>55</td><td><nobr>SSV Hallein-Neualm</nobr></td><td id=rb>49:43</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S H65"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Herren 65-  (2)</nobr></td><td id=c01 width=99px>2,9 km  100 Hm</td><td id=c02 width=34px>9 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb></td><td><nobr>Christian Breitschädel</nobr></td><td id=rb>53</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>44:53</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb></td><td><nobr>Wolfgang Buchberger Sen.</nobr></td><td id=rb>53</td><td><nobr>HSV Wals</nobr></td><td id=rb>1:14:05</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S OK"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>Offen Kurz  (7)</nobr></td><td id=c01 width=99px>1,4 km  80 Hm</td><td id=c02 width=34px>7 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb></td><td><nobr>Daniela Fink</nobr></td><td id=rb>76</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>22:57</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb></td><td><nobr>Gudrun + Emma Kontrus</nobr></td><td id=rb></td><td><nobr>ohne Verein</nobr></td><td id=rb>23:58</td></tr>
+<tr><td id=rb>3</td><td id=rb></td><td><nobr>Antonia + Elena Seitlinger</nobr></td><td id=rb></td><td><nobr>X OL  Sektion TV Zell am See</nobr></td><td id=rb>26:46</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb></td><td><nobr>Hannah + Lorenz Fink</nobr></td><td id=rb></td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>28:00</td></tr>
+<tr><td id=rb>5</td><td id=rb></td><td><nobr>Andrea Seitlinger</nobr></td><td id=rb></td><td><nobr>X OL  Sektion TV Zell am See</nobr></td><td id=rb>28:04</td></tr>
+<tr id=ev><td id=rb>6</td><td id=rb></td><td><nobr>Maximilian Kontrus</nobr></td><td id=rb></td><td><nobr>ohne Verein</nobr></td><td id=rb>57:49</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb></td><td id=rb>1</td><td><nobr>Familie Brawisch</nobr></td><td id=rb>09</td><td><nobr>HSV Wals</nobr></td><td id=rb>N Ang</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S OL"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>Offen Lang  (4)</nobr></td><td id=c01 width=99px>2,9 km  100 Hm</td><td id=c02 width=34px>9 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb></td><td><nobr>Martin Tanner</nobr></td><td id=rb></td><td><nobr>ohne Verein</nobr></td><td id=rb>40:53</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb></td><td><nobr>Wolfgang Schüller</nobr></td><td id=rb>71</td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>42:13</td></tr>
+<tr><td id=rb>3</td><td id=rb></td><td><nobr>Christine Grünberger</nobr></td><td id=rb></td><td><nobr>Orienteering Klosterneuburg</nobr></td><td id=rb>42:24</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb></td><td><nobr>Petra Böhm</nobr></td><td id=rb>79</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>45:53</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<div id="navigation"><span id=navcaption>Kategorie auswählen</span><table style="table-layout:auto;">
+<tr><td><a href="#S D13">S-Damen -13</a></td></tr>
+<tr><td><a href="#S D15">S-Damen -15</a></td></tr>
+<tr><td><a href="#S D18">S-Damen -18</a></td></tr>
+<tr><td><a href="#S D19">S-Damen 19-</a></td></tr>
+<tr><td><a href="#S D35">S-Damen 35-</a></td></tr>
+<tr><td><a href="#S D45">S-Damen 45-</a></td></tr>
+<tr><td><a href="#S D55">S-Damen 55-</a></td></tr>
+<tr><td><a href="#S H13">S-Herren -13</a></td></tr>
+<tr><td><a href="#S H15">S-Herren -15</a></td></tr>
+<tr><td><a href="#S H18">S-Herren -18</a></td></tr>
+<tr><td><a href="#S H19">S-Herren 19-</a></td></tr>
+<tr><td><a href="#S H35">S-Herren 35-</a></td></tr>
+<tr><td><a href="#S H45">S-Herren 45-</a></td></tr>
+<tr><td><a href="#S H55">S-Herren 55-</a></td></tr>
+<tr><td><a href="#S H65">S-Herren 65-</a></td></tr>
+<tr><td><a href="#S OK">Offen Kurz</a></td></tr>
+<tr><td><a href="#S OL">Offen Lang</a></td></tr>
+</table></div>
+</body>
+</html>

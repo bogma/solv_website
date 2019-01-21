@@ -1,9 +1,9 @@
 ---
-title: "x. Salzburger Sportvoglcup {{now.Format "2006"}}"
-date: {{ .Date }} # date of creation of the file
-draft: true
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
-anne_id: 0
+title: "3. Salzburger Sportvoglcup 2018"
+date: 2018-05-21T10:00:00+01:00 # date of creation of the file
+draft: false
+status: done
+anne_id: 2349
 
 categories: [ "Event" ]
 archives: []
@@ -12,17 +12,17 @@ tags: [ "SBG Cup"]
 
 event:
   name: ""
-  date: {{ .Date }} # date/start time of event
+  date: 2018-05-21T10:00:00+01:00 # date/start time of event
   form: "Normaler OL"
-  location: ""
+  location: "Mariapfarr"
 cup: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove one of the 3 options
+implementation: "ASKÖ Henndorf Orientieering" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Rudi de Ferrari"
+  event: "Martin Lejsek"
+  inspection: "Martin Lejsek"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
@@ -31,14 +31,14 @@ entry:
   email: leo.mueller@sbg.at
   closing_date_days: -7 # x days from event->date
 meeting:
-  point: ""
+  point: "Hotel Mauser-Mühltaler in Mauterndorf"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.133274, 13.680290]
 map:
-  name: ""
+  name: "Fernwald"
   scale: "1:10.000"
   equidistance: "5m"
-  update: "März 2006"
+  update: "Mai 2018"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"

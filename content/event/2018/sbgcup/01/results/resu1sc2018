@@ -1,6 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<!-- This file was created by an application of Stephan Krämer SportSoftware www.sportsoftware.de -->
-<!-- Application: OE2010 (M) V.11.0 Pro  License holder: ASKÖ Henndorf  4604  Time: So 18.03.2018 18:35 -->
+<!-- This file was created by an application of Stephan KrÃ¤mer SportSoftware www.sportsoftware.de -->
+<!-- Application: OE2010 (M) V.11.0 Pro  License holder: ASKÃ– Henndorf  4604  Time: So 18.03.2018 18:35 -->
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=windows-1252">
@@ -66,7 +66,7 @@ tr#fix { background-color: #E0FFFF; }
       <td id=rb2><nobr>Sa. 17.3.2018</nobr></td>
     </tr>
     <tr>
-      <td><nobr>Ergebnisse  &lt;<a href="resu1sc2018.html" target="_blank"> ... html</a>&gt; &lt;<a href="resu1sc2018.pdf" target="_blank"> ... pdf</a>&gt; &lt;<a href="resu1sc2018_split.pdf" target="_blank"> ... Split</a>&gt;&nbsp; </nobr> &lt; <a href="http://www.splitsbrowser.org.uk/splitsgraph.php?eventId=10303" target="_blank">... Splitbrowser</a>&gt;</td>
+      <td><nobr>Ergebnisse  &lt;<a href="resu1sc2018.pdf" target="_blank"> ... pdf</a>&gt; &lt;<a href="resu1sc2018_split.pdf" target="_blank"> ... Split</a>&gt;&nbsp; </nobr> &lt; <a href="http://www.splitsbrowser.org.uk/splitsgraph.php?eventId=10303" target="_blank">... Splitbrowser</a>&gt;</td>
       <td id=rb3 style="font-weight:normal; font-size: 7pt;"><nobr>erzeugt von <a href="http://www.sportsoftware.de">OE2010 &copy; Stephan Kr&auml;mer SportSoftware 2016</a></nobr></td>
     </tr>
   </table>
@@ -137,9 +137,9 @@ tr#fix { background-color: #E0FFFF; }
 <col width=193px>
 <col width=76px>
 <tbody>
-<tr><td id=rb>1</td><td id=rb>37</td><td><nobr>Doppler Sophie</nobr></td><td id=rb>01</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>35:16</td></tr>
-<tr id=ev><td id=rb>2</td><td id=rb>45</td><td><nobr>Bogensperger Nilla</nobr></td><td id=rb>02</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>35:21</td></tr>
-<tr><td id=rb>3</td><td id=rb>41</td><td><nobr>Wiedemayer Laura</nobr></td><td id=rb>01</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>77:48</td></tr>
+<tr><td id=rb>1</td><td id=rb>37</td><td><nobr>Doppler Sophie</nobr></td><td id=rb>01</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>35:16</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb>45</td><td><nobr>Bogensperger Nilla</nobr></td><td id=rb>02</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>35:21</td></tr>
+<tr><td id=rb>3</td><td id=rb>41</td><td><nobr>Wiedemayer Laura</nobr></td><td id=rb>01</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>77:48</td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
@@ -173,8 +173,8 @@ tr#fix { background-color: #E0FFFF; }
 <col width=193px>
 <col width=76px>
 <tbody>
-<tr><td id=rb>1</td><td id=rb>16</td><td><nobr>Rogl Franziska</nobr></td><td id=rb>88</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>45:51</td></tr>
-<tr id=ev><td id=rb>2</td><td id=rb>22</td><td><nobr>Brunauer Theresa</nobr></td><td id=rb>99</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>58:09</td></tr>
+<tr><td id=rb>1</td><td id=rb>16</td><td><nobr>Rogl Franziska</nobr></td><td id=rb>88</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>45:51</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb>22</td><td><nobr>Brunauer Theresa</nobr></td><td id=rb>99</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>58:09</td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
@@ -208,8 +208,8 @@ tr#fix { background-color: #E0FFFF; }
 <col width=193px>
 <col width=76px>
 <tbody>
-<tr><td id=rb>1</td><td id=rb>29</td><td><nobr>Strasser Andrea</nobr></td><td id=rb>80</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>36:14</td></tr>
-<tr id=ev><td id=rb>2</td><td id=rb>17</td><td><nobr>Böhm Petra</nobr></td><td id=rb>79</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>55:34</td></tr>
+<tr><td id=rb>1</td><td id=rb>29</td><td><nobr>Strasser Andrea</nobr></td><td id=rb>80</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>36:14</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb>17</td><td><nobr>BÃ¶hm Petra</nobr></td><td id=rb>79</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>55:34</td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
@@ -243,10 +243,10 @@ tr#fix { background-color: #E0FFFF; }
 <col width=193px>
 <col width=76px>
 <tbody>
-<tr><td id=rb>1</td><td id=rb>31</td><td><nobr>Hinterhofer Katharina</nobr></td><td id=rb>69</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>47:27</td></tr>
+<tr><td id=rb>1</td><td id=rb>31</td><td><nobr>Hinterhofer Katharina</nobr></td><td id=rb>69</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>47:27</td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
-<tr id=ev><td id=rb></td><td id=rb>19</td><td><nobr>Hillebrand Karin</nobr></td><td id=rb>68</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>Fehlst</td></tr>
-<tr><td id=rb></td><td id=rb>26</td><td><nobr>Elstner Margit</nobr></td><td id=rb>64</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>N Ang</td></tr>
+<tr id=ev><td id=rb></td><td id=rb>19</td><td><nobr>Hillebrand Karin</nobr></td><td id=rb>68</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>Fehlst</td></tr>
+<tr><td id=rb></td><td id=rb>26</td><td><nobr>Elstner Margit</nobr></td><td id=rb>64</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>N Ang</td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
@@ -280,10 +280,10 @@ tr#fix { background-color: #E0FFFF; }
 <col width=193px>
 <col width=76px>
 <tbody>
-<tr><td id=rb>1</td><td id=rb>54</td><td><nobr>Breitschädel Eva</nobr></td><td id=rb>53</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>43:17</td></tr>
-<tr id=ev><td id=rb>2</td><td id=rb>58</td><td><nobr>Müller Brigitte</nobr></td><td id=rb>48</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>46:36</td></tr>
+<tr><td id=rb>1</td><td id=rb>54</td><td><nobr>BreitschÃ¤del Eva</nobr></td><td id=rb>53</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>43:17</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb>58</td><td><nobr>MÃ¼ller Brigitte</nobr></td><td id=rb>48</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>46:36</td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
-<tr><td id=rb>AK</td><td id=rb>7</td><td><nobr>König Markus</nobr></td><td id=rb>79</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>28:53</td></tr>
+<tr><td id=rb>AK</td><td id=rb>7</td><td><nobr>KÃ¶nig Markus</nobr></td><td id=rb>79</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>28:53</td></tr>
 <tr id=ev><td id=rb>AK</td><td id=rb>66</td><td><nobr>Haider Anna</nobr></td><td id=rb></td><td><nobr>HSV Ried</nobr></td><td id=rb>36:22</td></tr>
 <tr><td id=rb></td><td id=rb>56</td><td><nobr>Buchberger Berta</nobr></td><td id=rb>55</td><td><nobr>HSV Wals</nobr></td><td id=rb>N Ang</td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
@@ -319,9 +319,9 @@ tr#fix { background-color: #E0FFFF; }
 <col width=193px>
 <col width=76px>
 <tbody>
-<tr><td id=rb>1</td><td id=rb>76</td><td><nobr>Strasser Fabian</nobr></td><td id=rb>09</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>13:08</td></tr>
+<tr><td id=rb>1</td><td id=rb>76</td><td><nobr>Strasser Fabian</nobr></td><td id=rb>09</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>13:08</td></tr>
 <tr id=ev><td id=rb>2</td><td id=rb>63</td><td><nobr>Buchberger Jakob Felix</nobr></td><td id=rb>09</td><td><nobr>HSV Wals</nobr></td><td id=rb>26:14</td></tr>
-<tr><td id=rb>3</td><td id=rb>65</td><td><nobr>Hütteneder Fabian</nobr></td><td id=rb>11</td><td><nobr>ohne Verein</nobr></td><td id=rb>41:53</td></tr>
+<tr><td id=rb>3</td><td id=rb>65</td><td><nobr>HÃ¼tteneder Fabian</nobr></td><td id=rb>11</td><td><nobr>ohne Verein</nobr></td><td id=rb>41:53</td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
 <tr id=ev><td id=rb></td><td id=rb>72</td><td><nobr>Bonnell Keegan</nobr></td><td id=rb>05</td><td><nobr>SSV Hallein-Neualm</nobr></td><td id=rb>N Ang</td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
@@ -392,11 +392,11 @@ tr#fix { background-color: #E0FFFF; }
 <col width=76px>
 <tbody>
 <tr><td id=rb>1</td><td id=rb>9</td><td><nobr>Helminger Norbert</nobr></td><td id=rb>75</td><td><nobr>HSV Wals</nobr></td><td id=rb>42:50</td></tr>
-<tr id=ev><td id=rb>2</td><td id=rb>3</td><td><nobr>Ebster Peter</nobr></td><td id=rb>02</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>43:17</td></tr>
-<tr><td id=rb>3</td><td id=rb>12</td><td><nobr>Königstorfer Jonas</nobr></td><td id=rb>01</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>52:09</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb>3</td><td><nobr>Ebster Peter</nobr></td><td id=rb>02</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>43:17</td></tr>
+<tr><td id=rb>3</td><td id=rb>12</td><td><nobr>KÃ¶nigstorfer Jonas</nobr></td><td id=rb>01</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>52:09</td></tr>
 <tr id=ev><td id=rb>4</td><td id=rb>5</td><td><nobr>Pichler Benjamin</nobr></td><td id=rb>97</td><td><nobr>SSV Hallein-Neualm</nobr></td><td id=rb>58:00</td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
-<tr><td id=rb></td><td id=rb>1</td><td><nobr>Ebster Leon</nobr></td><td id=rb>02</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>Fehlst</td></tr>
+<tr><td id=rb></td><td id=rb>1</td><td><nobr>Ebster Leon</nobr></td><td id=rb>02</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>Fehlst</td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
@@ -430,10 +430,10 @@ tr#fix { background-color: #E0FFFF; }
 <col width=193px>
 <col width=76px>
 <tbody>
-<tr><td id=rb>1</td><td id=rb>15</td><td><nobr>Fink Bernhard</nobr></td><td id=rb>77</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>38:29</td></tr>
-<tr id=ev><td id=rb>2</td><td id=rb>4</td><td><nobr>Böhm Martin</nobr></td><td id=rb>76</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>43:50</td></tr>
-<tr><td id=rb>3</td><td id=rb>10</td><td><nobr>Kohlbacher Roland</nobr></td><td id=rb>66</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>44:50</td></tr>
-<tr id=ev><td id=rb>4</td><td id=rb>8</td><td><nobr>Bogensperger Martin</nobr></td><td id=rb>72</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>44:59</td></tr>
+<tr><td id=rb>1</td><td id=rb>15</td><td><nobr>Fink Bernhard</nobr></td><td id=rb>77</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>38:29</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb>4</td><td><nobr>BÃ¶hm Martin</nobr></td><td id=rb>76</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>43:50</td></tr>
+<tr><td id=rb>3</td><td id=rb>10</td><td><nobr>Kohlbacher Roland</nobr></td><td id=rb>66</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>44:50</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb>8</td><td><nobr>Bogensperger Martin</nobr></td><td id=rb>72</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>44:59</td></tr>
 <tr><td id=rb>5</td><td id=rb>6</td><td><nobr>Buchberger Markus</nobr></td><td id=rb>80</td><td><nobr>HSV Wals</nobr></td><td id=rb>59:12</td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
 <tr id=ev><td id=rb></td><td id=rb>2</td><td><nobr>Buchberger Jun. Wolfgang</nobr></td><td id=rb>80</td><td><nobr>HSV Wals</nobr></td><td id=rb>Fehlst</td></tr>
@@ -470,10 +470,10 @@ tr#fix { background-color: #E0FFFF; }
 <col width=193px>
 <col width=76px>
 <tbody>
-<tr><td id=rb>1</td><td id=rb>25</td><td><nobr>Ebster Sen. Peter</nobr></td><td id=rb>68</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>35:27</td></tr>
+<tr><td id=rb>1</td><td id=rb>25</td><td><nobr>Ebster Sen. Peter</nobr></td><td id=rb>68</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>35:27</td></tr>
 <tr id=ev><td id=rb>2</td><td id=rb>27</td><td><nobr>Seitlinger Gabriel</nobr></td><td id=rb>70</td><td><nobr>X OL  Sektion TV Zell am See</nobr></td><td id=rb>37:57</td></tr>
 <tr><td id=rb>3</td><td id=rb>21</td><td><nobr>Perner Roland</nobr></td><td id=rb></td><td><nobr>SSV Hallein-Neualm</nobr></td><td id=rb>39:00</td></tr>
-<tr id=ev><td id=rb>4</td><td id=rb>20</td><td><nobr>Elstner Florian</nobr></td><td id=rb>63</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>41:13</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb>20</td><td><nobr>Elstner Florian</nobr></td><td id=rb>63</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>41:13</td></tr>
 <tr><td id=rb>5</td><td id=rb>30</td><td><nobr>Lechner Hannes</nobr></td><td id=rb>72</td><td><nobr>HSV Wals</nobr></td><td id=rb>42:27</td></tr>
 <tr id=ev><td id=rb>6</td><td id=rb>23</td><td><nobr>Hones Josef</nobr></td><td id=rb>54</td><td><nobr>HSV Ried</nobr></td><td id=rb>43:33</td></tr>
 <tr><td id=rb>7</td><td id=rb>28</td><td><nobr>Buchberger Jakob</nobr></td><td id=rb>53</td><td><nobr>HSV Wals</nobr></td><td id=rb>45:40</td></tr>
@@ -511,7 +511,7 @@ tr#fix { background-color: #E0FFFF; }
 <col width=76px>
 <tbody>
 <tr><td id=rb>1</td><td id=rb>38</td><td><nobr>Mayer Horst</nobr></td><td id=rb>60</td><td><nobr>SSV Hallein-Neualm</nobr></td><td id=rb>40:46</td></tr>
-<tr id=ev><td id=rb>2</td><td id=rb>40</td><td><nobr>Hackl Karl</nobr></td><td id=rb>56</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>42:13</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb>40</td><td><nobr>Hackl Karl</nobr></td><td id=rb>56</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>42:13</td></tr>
 <tr><td id=rb>3</td><td id=rb>46</td><td><nobr>Mages Franz</nobr></td><td id=rb>55</td><td><nobr>SSV Hallein-Neualm</nobr></td><td id=rb>56:43</td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
@@ -546,8 +546,8 @@ tr#fix { background-color: #E0FFFF; }
 <col width=193px>
 <col width=76px>
 <tbody>
-<tr><td id=rb>1</td><td id=rb>48</td><td><nobr>Müller Leo</nobr></td><td id=rb>49</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>44:26</td></tr>
-<tr id=ev><td id=rb>2</td><td id=rb>44</td><td><nobr>Rieder Gernot</nobr></td><td id=rb>41</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>53:37</td></tr>
+<tr><td id=rb>1</td><td id=rb>48</td><td><nobr>MÃ¼ller Leo</nobr></td><td id=rb>49</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>44:26</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb>44</td><td><nobr>Rieder Gernot</nobr></td><td id=rb>41</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>53:37</td></tr>
 <tr><td id=rb>3</td><td id=rb>42</td><td><nobr>Nagele Franz</nobr></td><td id=rb>46</td><td><nobr>HSV Wals</nobr></td><td id=rb>57:23</td></tr>
 <tr id=ev><td id=rb>4</td><td id=rb>50</td><td><nobr>Buchberger Sen. Wolfgang</nobr></td><td id=rb>53</td><td><nobr>HSV Wals</nobr></td><td id=rb>77:42</td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
@@ -586,9 +586,9 @@ tr#fix { background-color: #E0FFFF; }
 <tr><td id=rb>1</td><td id=rb>71</td><td><nobr>Lechner Nick</nobr></td><td id=rb></td><td><nobr>HSV Wals</nobr></td><td id=rb>14:25</td></tr>
 <tr id=ev><td id=rb>2</td><td id=rb>67</td><td><nobr>Brawisch Familie</nobr></td><td id=rb>09</td><td><nobr>HSV Wals</nobr></td><td id=rb>17:26</td></tr>
 <tr><td id=rb>3</td><td id=rb>69</td><td><nobr>Lechner Jana</nobr></td><td id=rb></td><td><nobr>HSV Wals</nobr></td><td id=rb>19:21</td></tr>
-<tr id=ev><td id=rb>4</td><td id=rb>64</td><td><nobr>Fink Hannah</nobr></td><td id=rb>09</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>20:37</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb>64</td><td><nobr>Fink Hannah</nobr></td><td id=rb>09</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>20:37</td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
-<tr><td id=rb></td><td id=rb>62</td><td><nobr>Fink Lorenz</nobr></td><td id=rb>12</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>N Ang</td></tr>
+<tr><td id=rb></td><td id=rb>62</td><td><nobr>Fink Lorenz</nobr></td><td id=rb>12</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>N Ang</td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
@@ -622,14 +622,14 @@ tr#fix { background-color: #E0FFFF; }
 <col width=193px>
 <col width=76px>
 <tbody>
-<tr><td id=rb>1</td><td id=rb>51</td><td><nobr>Strasser Bernhard</nobr></td><td id=rb>75</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>36:10</td></tr>
-<tr id=ev><td id=rb>2</td><td id=rb>36</td><td><nobr>Fink Daniela</nobr></td><td id=rb></td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>57:59</td></tr>
+<tr><td id=rb>1</td><td id=rb>51</td><td><nobr>Strasser Bernhard</nobr></td><td id=rb>75</td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>36:10</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb>36</td><td><nobr>Fink Daniela</nobr></td><td id=rb></td><td><nobr>ASKÃ– Henndorf</nobr></td><td id=rb>57:59</td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
 <tr><td id=rb><nobr>&nbsp</nobr></td></tr>
 </tbody>
 </table>
-<div id="navigation"><span id=navcaption>Kategorie auswählen</span><table style="table-layout:auto;">
+<div id="navigation"><span id=navcaption>Kategorie auswÃ¤hlen</span><table style="table-layout:auto;">
 <tr><td><a href="#S D13">S-Damen -13</a></td></tr>
 <tr><td><a href="#S D18">S-Damen -18</a></td></tr>
 <tr><td><a href="#S D19">S-Damen 19-</a></td></tr>

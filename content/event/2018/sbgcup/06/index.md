@@ -1,9 +1,9 @@
 ---
-title: "x. Salzburger Sportvoglcup {{now.Format "2006"}}"
-date: {{ .Date }} # date of creation of the file
-draft: true
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
-anne_id: 0
+title: "6. Salzburger Sportvoglcup 2018"
+date: 2018-10-06T11:00:00+01:00 # date of creation of the file
+draft: false
+status: done
+anne_id: 2359
 
 categories: [ "Event" ]
 archives: []
@@ -12,35 +12,35 @@ tags: [ "SBG Cup"]
 
 event:
   name: ""
-  date: {{ .Date }} # date/start time of event
+  date: 2018-10-06T11:00:00+01:00 # date/start time of event
   form: "Normaler OL"
-  location: ""
+  location: "Schwarzenbergkaserne"
 cup: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove one of the 3 options
+implementation: "HSV Wals" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
+  course: "Franz Nagele"
+  event: "Franz Helminger"
   inspection: ""
 course:
-  valid: false # set to true when the course lenghts are final
-  lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
+  valid: true # set to true when the course lenghts are final
+  lenghts: [["Neulinge","2,1 km - 17 Po"], ["Kurz","3,4 km - 27 Po"], ["Mittel","4,5 km - 31 Po"], ["Lang","6,2 km - 37 Po"], ["Family","1,0 km - 13 Po"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: leo.mueller@sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -6 # x days from event->date
 meeting:
-  point: ""
+  point: "Sporthalle Schwarzenbergkaserne"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.796814, 12.983826]
 map:
-  name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
+  name: "Schwarzenbergkaserne"
+  scale: "1:4.000"
+  equidistance: "2,5 m"
+  update: "September 2018"
   format: ""
-  hints: "" # additional hints to map
+  hints: "Achtung: Lang 1:5000" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
 hints: ""
@@ -49,6 +49,10 @@ greetings: "" # Der Verein wünscht Euch ...
 resources:
 - src: "**/aus**"
   title: "Ausschreibung"
+- src: "**/event_2359_6**"
+  title: "Infos"
+- src: "**/event_2359_zu**"
+  title: "Zufahrt"
 - src: "**/start**"
   title: "Startliste"
 - src: "**/resu*split**"

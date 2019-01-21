@@ -1,49 +1,49 @@
 ---
-title: "x. Salzburger Sportvoglcup {{now.Format "2006"}}"
-date: {{ .Date }} # date of creation of the file
-draft: true
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
-anne_id: 0
+title: "LM Jugend und Senioren + 9. Salzburger Sportvoglcup 2019"
+date: 2018-11-04T13:00:00+01:00 # date of creation of the file
+draft: false
+status: done
+anne_id: 2442
 
 categories: [ "Event" ]
 archives: []
-tags: [ "SBG Cup"]
+tags: [ "SBG Cup", "SBG LM"]
 
 
 event:
   name: ""
-  date: {{ .Date }} # date/start time of event
+  date: 2018-11-04T13:00:00+01:00 # date/start time of event
   form: "Normaler OL"
-  location: ""
+  location: "Mönchsberg"
 cup: "sbgcup"
-championship: false
+championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove one of the 3 options
+implementation: "ASKÖ Henndorf Orientieering" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Martin Lejsek"
+  event: "Martin Lejsek"
+  inspection: "Tobias Breitschädel"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: leo.mueller@sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -6 # x days from event->date
 meeting:
-  point: ""
+  point: "Augustinerbräu Mülln"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.8055647,13.0316521]
 map:
-  name: ""
-  scale: "1:10.000"
+  name: "Mönchsberg"
+  scale: "1:4.000"
   equidistance: "5m"
-  update: "März 2006"
+  update: "Oktober 2018"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: ""
+hints: "Doppelte Punkte !!"
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
@@ -51,6 +51,8 @@ resources:
   title: "Ausschreibung"
 - src: "**/start**"
   title: "Startliste"
+- src: "**/resu_MS**"
+  title: "Ergebnis LM Jugend u Senioren"
 - src: "**/resu*split**"
   title: "Splits"
 - src: "**/resu**"

@@ -1,44 +1,44 @@
 ---
-title: "x. Salzburger Sportvoglcup {{now.Format "2006"}}"
-date: {{ .Date }} # date of creation of the file
-draft: true
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
-anne_id: 0
+title: "Salzburger LMS im Sprint-OL und 7. + 8. Salzburger Sportvoglcup 2018"
+date: 2018-10-28T11:00:00+01:00 # date of creation of the file
+draft: false
+status: done
+anne_id: 2350
 
 categories: [ "Event" ]
 archives: []
-tags: [ "SBG Cup"]
+tags: [ "SBG Cup", "SBG LM Sprint"]
 
 
 event:
   name: ""
-  date: {{ .Date }} # date/start time of event
-  form: "Normaler OL"
-  location: ""
+  date: 2018-10-28T11:00:00+01:00 # date/start time of event
+  form: "Sprint OL"
+  location: "Seekirchen"
 cup: "sbgcup"
-championship: false
+championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove one of the 3 options
+implementation: "ASKÖ Henndorf Orientieering" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Martin Lejsek"
+  event: "Martin Lejsek"
+  inspection: "Tobias Breitschädel"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: leo.mueller@sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -6 # x days from event->date
 meeting:
-  point: ""
+  point: "NMS Seekirchen"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.8951292,13.128357]
 map:
-  name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
+  name: "Seekirchen City"
+  scale: "1:2.000"
+  equidistance: "2,5 m"
+  update: "Oktober 2018"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
@@ -55,14 +55,16 @@ resources:
   title: "Splits"
 - src: "**/resu**"
   title: "Ergebnisse"
+- src: "**/SSprint**"
+  title: "Ergebnisse LM Sprint"
 - src: "**/lau**"
   title: "Läuferinfo"
 ---
 
 ### Startgeld
 
-- bis D/H -15 und OL: € 3,-
-- ab D/H 16-: € 4,50
+- bis D/H -15 und OL: € 6,-
+- ab D/H 16-: € 9
 
 ### Zeitnehmung
 

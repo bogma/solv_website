@@ -1,0 +1,673 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!-- This file was created by an application of Stephan Krämer SportSoftware www.sportsoftware.de -->
+<!-- Application: OE2010 (M) V.11.0 Pro  License holder: ASKÖ Henndorf  4604  Time: Mo. 17.09.2018 21:51 -->
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="robots" content="noindex,nofollow">
+
+<style type="text/css">
+body { color: #000; background-color: #fff; 
+       font: 10pt/1.2 Arial, Helvetica, sans-serif; }
+table { table-layout:fixed; border-collapse: collapse; border-spacing: 0px; 
+        padding: 0; margin: 0; border: none; }
+th { background-color: #ebffeb; color: blue; font-weight: normal;
+     border: none; white-space:nowrap; text-align: left;
+     padding: 0px 3px 3px 3px; vertical-align: bottom;
+     font: 10pt/1.2 Arial, Helvetica, sans-serif; }
+td { padding-left: 3px; padding-right: 3px;
+     border: none; overflow:hidden; vertical-align: bottom;
+     white-space:nowrap; text-align: left;
+     font: 10pt/1.2 Arial, Helvetica, sans-serif; }
+a:link    { font-weight:bold; color:blue; text-decoration:none; }
+a:visited { font-weight:bold; color:purple; text-decoration:none; }
+a:focus   { font-weight:bold; color:green; text-decoration:none; }
+a:hover   { font-weight:bold; color:green; text-decoration:none; }
+a:active  { font-weight:bold; color:green; text-decoration:none; }
+#header { background-color: #ebffeb; color: black; padding: 5px 3px 2px 3px; }
+#reporttop { background-color: #FFFFE0; font-weight: bold; padding: 0;
+             border: none; margin: 0; width: 100%; }
+#reporttop td { vertical-align: bottom; }
+#ln { font-size: 5pt; }
+tr#ev { background-color: #FFFFE0; }
+tr#fix { background-color: #E0FFFF; }
+#rb { text-align: right; }
+#ce { text-align: center; }
+#navigation {
+    top: 0px; right: 0px; position: fixed; display: block;
+    max-height: 95%; overflow-y: auto; overflow-x: hidden;
+    margin: 8px; text-align: left; white-space:nowrap;
+    background-color: #ebffeb; padding: 5px 18px 5px 5px;
+    font: 10pt/1.2 Arial, Helvetica, sans-serif;
+    font-weight: bold; text-decoration: none;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 2px 2px 2px #d0d0d0;
+    opacity: .9;
+      }
+#navigation td {padding-top: 0; padding-bottom: 0;}
+#navigation table {display: none;}
+#navigation:hover table {display: block;}
+#navcaption {color: green; }
+@media print { #navigation { display:none; } }
+
+#c00 { background-color: #ebffeb; color: black; padding: 5px 3px 2px 3px; font-weight: bold; }
+#c01 { background-color: #ebffeb; color: black; padding: 5px 3px 2px 3px; font-weight: bold; text-align: right; }
+#c02 { background-color: #ebffeb; color: black; padding: 5px 3px 2px 3px; font-weight: bold; text-align: right; }
+</style>
+
+<title>OÖLM Lang 2018 - Ergebnis</title>
+</head>
+
+<body>
+<div id=reporttop>
+<table width=499px style="table-layout:auto;">
+<tr><td><nobr>5. Salzburger Sportvoglcup 2018 / SBG LM Lang 2018</nobr></td><td id=rb><nobr>Mo. 17.09.2018 21:51</nobr></td></tr>
+<tr><td>
+    <nobr>Ergebnisse  &lt;<a href="resu5sc2018.pdf" target="_blank"> ... pdf</a>&gt; &lt;<a href="resu5sc2018_split.pdf" target="_blank"> ... Split</a>&gt;&nbsp;</nobr></td><td id=rb style="font-weight:normal; font-size: 7pt;"><nobr>erzeugt von <a href="http://www.sportsoftware.de">OE2010 © Stephan Krämer SportSoftware 2016</a></nobr></td></tr>
+</table>
+<hr>
+</div>
+<table id=ln><tr><td>&nbsp</td></tr></table>
+
+<a id="Offen  (6)  Ann. Teilstr.: 102-104, 104-105"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>Offene Klasse  (6)  Ann. Teilstr.: 102-104, 104-105</nobr></td><td id=c01 width=99px>3,6 km  180 Hm</td><td id=c02 width=34px>14 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb>108</td><td><nobr>Hannes Lechner</nobr></td><td id=rb>72</td><td><nobr>HSV Wals</nobr></td><td id=rb>40:42</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb>119</td><td><nobr>Tanja Ebster</nobr></td><td id=rb>85</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:08:31</td></tr>
+<tr><td id=rb>3</td><td id=rb>120</td><td><nobr>Daniela Fink</nobr></td><td id=rb></td><td><nobr>Vereinslos</nobr></td><td id=rb>1:08:39</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb>121</td><td><nobr>Imelda Erhard</nobr></td><td id=rb></td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:24:52</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb></td><td id=rb>98</td><td><nobr>Johann Grambichler</nobr></td><td id=rb>78</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>Fehlst</td></tr>
+<tr id=ev><td id=rb></td><td id=rb>129</td><td><nobr>Rachel Tiefenbrunner</nobr></td><td id=rb></td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>Aufg</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="D45-  (1)  Ann. Teilstr.: 101-106"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>D45-  (1)  Ann. Teilstr.: 101-106</nobr></td><td id=c01 width=99px>3,5 km  160 Hm</td><td id=c02 width=34px>12 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>AK</td><td id=rb>107</td><td><nobr>Gabriel Seitlinger</nobr></td><td id=rb>70</td><td><nobr>X OL Sektion TV Zell am See</nobr></td><td id=rb>Fehlst</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S D13  (6)  Ann. Teilstr.: 102-104, 104-105"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Damen -13  (6)  Ann. Teilstr.: 102-104, 104-105</nobr></td><td id=c01 width=99px>2,6 km  90 Hm</td><td id=c02 width=34px>10 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb>61</td><td><nobr>Jana Lechner</nobr></td><td id=rb>07</td><td><nobr>HSV Wals</nobr></td><td id=rb>29:50</td></tr>
+<tr id=ev><td id=rb>1</td><td id=rb>60</td><td><nobr>Emma Rothauer</nobr></td><td id=rb>07</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>29:50</td></tr>
+<tr><td id=rb>3</td><td id=rb>64</td><td><nobr>Josefine Erhard</nobr></td><td id=rb>07</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>29:53</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb>63</td><td><nobr>Katja Helminger</nobr></td><td id=rb>08</td><td><nobr>HSV Wals</nobr></td><td id=rb>30:10</td></tr>
+<tr><td id=rb>5</td><td id=rb>62</td><td><nobr>Lara Höhenberger</nobr></td><td id=rb></td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>30:53</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr id=ev><td id=rb></td><td id=rb>65</td><td><nobr>Tulli Tiefenbrunner</nobr></td><td id=rb></td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>Fehlst</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S D18  (1)  Ann. Teilstr.: 103-106"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Damen -18  (1)  Ann. Teilstr.: 103-106</nobr></td><td id=c01 width=99px>4,9 km  240 Hm</td><td id=c02 width=34px>11 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb>66</td><td><nobr>Sophie Doppler</nobr></td><td id=rb>01</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:00:49</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S D19  (4)  Ann. Teilstr.: 103-106"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Damen 19-  (4)  Ann. Teilstr.: 103-106</nobr></td><td id=c01 width=99px>4,9 km  240 Hm</td><td id=c02 width=34px>11 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb>68</td><td><nobr>Lucie Rothauer</nobr></td><td id=rb>74</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>35:32</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb>71</td><td><nobr>Franziska Rogl</nobr></td><td id=rb>88</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>47:08</td></tr>
+<tr><td id=rb>3</td><td id=rb>70</td><td><nobr>Bernadett Kelemen</nobr></td><td id=rb></td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>50:04</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb>72</td><td><nobr>Nilla Bogensperger</nobr></td><td id=rb>02</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:07:08</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S D35  (2)  Ann. Teilstr.: 103-106"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Damen 35-  (2)  Ann. Teilstr.: 103-106</nobr></td><td id=c01 width=99px>4,9 km  240 Hm</td><td id=c02 width=34px>11 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb>74</td><td><nobr>Andrea Strasser</nobr></td><td id=rb>80</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>43:55</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb>14</td><td><nobr>Edith Müller</nobr></td><td id=rb></td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>57:53</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S D45  (5)  Ann. Teilstr.: 103-106"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Damen 45-  (5)  Ann. Teilstr.: 103-106</nobr></td><td id=c01 width=99px>4,9 km  240 Hm</td><td id=c02 width=34px>11 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb>77</td><td><nobr>Julia Helminger</nobr></td><td id=rb>72</td><td><nobr>HSV Wals</nobr></td><td id=rb>54:50</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb>78</td><td><nobr>Karin Hillebrand</nobr></td><td id=rb>68</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>55:09</td></tr>
+<tr><td id=rb>3</td><td id=rb>80</td><td><nobr>Katharina Hinterhofer</nobr></td><td id=rb>69</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>55:15</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb>76</td><td><nobr>Margit Elstner</nobr></td><td id=rb>64</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>55:27</td></tr>
+<tr><td id=rb>5</td><td id=rb>79</td><td><nobr>Claudia Hackl</nobr></td><td id=rb>64</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:02:18</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S H13  (3)  Ann. Teilstr.: 102-104, 104-105"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Herren -13  (3)  Ann. Teilstr.: 102-104, 104-105</nobr></td><td id=c01 width=99px>2,6 km  90 Hm</td><td id=c02 width=34px>10 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb>84</td><td><nobr>Nick Lechner</nobr></td><td id=rb>07</td><td><nobr>HSV Wals</nobr></td><td id=rb>31:31</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb>83</td><td><nobr>Yschai Tiefenbrunner</nobr></td><td id=rb></td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>34:20</td></tr>
+<tr><td id=rb>3</td><td id=rb>85</td><td><nobr>Simon Wally</nobr></td><td id=rb>06</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>35:39</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S H15  (1)  Ann. Teilstr.: 101-106"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Herren -15  (1)  Ann. Teilstr.: 101-106</nobr></td><td id=c01 width=99px>3,5 km  160 Hm</td><td id=c02 width=34px>12 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb></td><td id=rb>87</td><td><nobr>Tim Lechner</nobr></td><td id=rb>04</td><td><nobr>HSV Wals</nobr></td><td id=rb>Fehlst</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S H19  (4)  Ann. Teilstr.: 101-116"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Herren 19-  (4)  Ann. Teilstr.: 101-116</nobr></td><td id=c01 width=99px>7,1 km  340 Hm</td><td id=c02 width=34px>18 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb>91</td><td><nobr>Robert Merl</nobr></td><td id=rb>91</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>35:42</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb>90</td><td><nobr>Leon Ebster</nobr></td><td id=rb>02</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>50:14</td></tr>
+<tr><td id=rb>3</td><td id=rb>92</td><td><nobr>Peter Ebster</nobr></td><td id=rb>02</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>58:14</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb>93</td><td><nobr>Jonas Königstorfer</nobr></td><td id=rb>01</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:12:46</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S H35  (4)  Ann. Teilstr.: 101-116"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Herren 35-  (4)  Ann. Teilstr.: 101-116</nobr></td><td id=c01 width=99px>7,1 km  340 Hm</td><td id=c02 width=34px>18 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb>97</td><td><nobr>Bernhard Fink</nobr></td><td id=rb></td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>48:02</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb>95</td><td><nobr>Martin Bogensperger</nobr></td><td id=rb>72</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:00:04</td></tr>
+<tr><td id=rb>3</td><td id=rb>96</td><td><nobr>Roland Kohlbacher</nobr></td><td id=rb>66</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:01:37</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb>99</td><td><nobr>Thomas Rothauer</nobr></td><td id=rb>77</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:03:22</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S H45  (6)  Ann. Teilstr.: 101-116"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Herren 45-  (6)  Ann. Teilstr.: 101-116</nobr></td><td id=c01 width=99px>7,1 km  340 Hm</td><td id=c02 width=34px>18 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb>106</td><td><nobr>Franz Helminger</nobr></td><td id=rb></td><td><nobr>HSV Wals</nobr></td><td id=rb>49:14</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb>101</td><td><nobr>Peter Ebster Sen.</nobr></td><td id=rb>68</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:16:40</td></tr>
+<tr><td id=rb>3</td><td id=rb>103</td><td><nobr>Roland Berner</nobr></td><td id=rb>65</td><td><nobr>SSV Hallein</nobr></td><td id=rb>1:24:58</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb>105</td><td><nobr>Florian Elstner</nobr></td><td id=rb>63</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>1:27:18</td></tr>
+<tr><td id=rb>5</td><td id=rb>102</td><td><nobr>Jakob Buchberger</nobr></td><td id=rb>53</td><td><nobr>HSV Wals</nobr></td><td id=rb>1:28:31</td></tr>
+<tr id=ev><td id=rb>6</td><td id=rb>104</td><td><nobr>Leopold Tonka</nobr></td><td id=rb>47</td><td><nobr>HSV Wals</nobr></td><td id=rb>1:43:36</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S H55  (6)  Ann. Teilstr.: 101-106"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Herren 55-  (6)  Ann. Teilstr.: 101-106</nobr></td><td id=c01 width=99px>3,5 km  160 Hm</td><td id=c02 width=34px>12 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb>112</td><td><nobr>Eduard Böhm</nobr></td><td id=rb>48</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>37:09</td></tr>
+<tr id=ev><td id=rb>2</td><td id=rb>110</td><td><nobr>Josef Wimmer</nobr></td><td id=rb>57</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>37:37</td></tr>
+<tr><td id=rb>3</td><td id=rb>111</td><td><nobr>Horst Mayer</nobr></td><td id=rb>60</td><td><nobr>SSV Hallein</nobr></td><td id=rb>43:58</td></tr>
+<tr id=ev><td id=rb>4</td><td id=rb>114</td><td><nobr>Karl Hackl</nobr></td><td id=rb>56</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>46:09</td></tr>
+<tr><td id=rb>5</td><td id=rb>113</td><td><nobr>Hartwig Rogl</nobr></td><td id=rb>58</td><td><nobr>NF Seekirchen</nobr></td><td id=rb>52:37</td></tr>
+<tr id=ev><td id=rb>6</td><td id=rb>109</td><td><nobr>Franz Mages</nobr></td><td id=rb>55</td><td><nobr>SSV Hallein</nobr></td><td id=rb>1:16:38</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S H65  (1)  Ann. Teilstr.: 101-106"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>S-Herren 65-  (1)  Ann. Teilstr.: 101-106</nobr></td><td id=c01 width=99px>3,5 km  160 Hm</td><td id=c02 width=34px>12 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb></td><td id=rb>116</td><td><nobr>Wolfgang Buchberger Sen.</nobr></td><td id=rb>53</td><td><nobr>HSV Wals</nobr></td><td id=rb>Aufg</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S OK  (1)  Ann. Teilstr.: 102-104, 104-105"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>Offen Kurz  (1)  Ann. Teilstr.: 102-104, 104-105</nobr></td><td id=c01 width=99px>2,6 km  90 Hm</td><td id=c02 width=34px>10 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb>118</td><td><nobr>Verena Wally</nobr></td><td id=rb>01</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>31:28</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<a id="S OL  (1)  Ann. Teilstr.: 101-106"></a>
+<table width=499px>
+<tbody>
+<tr><td id=c00 width=208px><nobr>Offen Lang  (1)  Ann. Teilstr.: 101-106</nobr></td><td id=c01 width=99px>3,5 km  160 Hm</td><td id=c02 width=34px>12 P</td><td id="header" ></td>
+</tr>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<thead>
+<tr><th id=rb>Pl</th><th id=rb>Stnr</th><th>Name</th><th id=rb>Jg</th><th>Verein</th><th id=rb>Zeit</th><th></th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table width=499px>
+<col width=33px>
+<col width=41px>
+<col width=179px>
+<col width=26px>
+<col width=155px>
+<col width=61px>
+<tbody>
+<tr><td id=rb>1</td><td id=rb>123</td><td><nobr>Bernhard Strasser</nobr></td><td id=rb>75</td><td><nobr>ASKÖ Henndorf</nobr></td><td id=rb>50:46</td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+<tr><td id=rb><nobr>&nbsp</nobr></td></tr>
+</tbody>
+</table>
+<div id="navigation"><span id=navcaption>Kategorie auswählen</span><table style="table-layout:auto;">
+<tr><td><a href="#Offen  (6)  Ann. Teilstr.: 102-104, 104-105">Offene Klasse  (6)  Ann. Teilstr.: 102-104, 104-105</a></td></tr>
+<tr><td><a href="#D45-  (1)  Ann. Teilstr.: 101-106">D45-  (1)  Ann. Teilstr.: 101-106</a></td></tr>
+<tr><td><a href="#S D13  (6)  Ann. Teilstr.: 102-104, 104-105">S-Damen -13  (6)  Ann. Teilstr.: 102-104, 104-105</a></td></tr>
+<tr><td><a href="#S D18  (1)  Ann. Teilstr.: 103-106">S-Damen -18  (1)  Ann. Teilstr.: 103-106</a></td></tr>
+<tr><td><a href="#S D19  (4)  Ann. Teilstr.: 103-106">S-Damen 19-  (4)  Ann. Teilstr.: 103-106</a></td></tr>
+<tr><td><a href="#S D35  (2)  Ann. Teilstr.: 103-106">S-Damen 35-  (2)  Ann. Teilstr.: 103-106</a></td></tr>
+<tr><td><a href="#S D45  (5)  Ann. Teilstr.: 103-106">S-Damen 45-  (5)  Ann. Teilstr.: 103-106</a></td></tr>
+<tr><td><a href="#S H13  (3)  Ann. Teilstr.: 102-104, 104-105">S-Herren -13  (3)  Ann. Teilstr.: 102-104, 104-105</a></td></tr>
+<tr><td><a href="#S H15  (1)  Ann. Teilstr.: 101-106">S-Herren -15  (1)  Ann. Teilstr.: 101-106</a></td></tr>
+<tr><td><a href="#S H19  (4)  Ann. Teilstr.: 101-116">S-Herren 19-  (4)  Ann. Teilstr.: 101-116</a></td></tr>
+<tr><td><a href="#S H35  (4)  Ann. Teilstr.: 101-116">S-Herren 35-  (4)  Ann. Teilstr.: 101-116</a></td></tr>
+<tr><td><a href="#S H45  (6)  Ann. Teilstr.: 101-116">S-Herren 45-  (6)  Ann. Teilstr.: 101-116</a></td></tr>
+<tr><td><a href="#S H55  (6)  Ann. Teilstr.: 101-106">S-Herren 55-  (6)  Ann. Teilstr.: 101-106</a></td></tr>
+<tr><td><a href="#S H65  (1)  Ann. Teilstr.: 101-106">S-Herren 65-  (1)  Ann. Teilstr.: 101-106</a></td></tr>
+<tr><td><a href="#S OK  (1)  Ann. Teilstr.: 102-104, 104-105">Offen Kurz  (1)  Ann. Teilstr.: 102-104, 104-105</a></td></tr>
+<tr><td><a href="#S OL  (1)  Ann. Teilstr.: 101-106">Offen Lang  (1)  Ann. Teilstr.: 101-106</a></td></tr>
+</table></div>
+</body>
+</html>

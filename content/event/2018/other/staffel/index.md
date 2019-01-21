@@ -1,48 +1,52 @@
 ---
 title: "LMS Staffel OL"
-date: 2017-04-23T00:00:00+02:00 # date of creation of the file
+date: 2018-10-07T00:00:00+02:00 # date of creation of the file
 draft: false
 status: done
 anne_id: 0
 
 categories: [ "Event" ]
-archives: ["2017"]
+archives: []
 tags: [ "SBG LM", "Staffel"]
 
 event:
   name: ""
-  date: 2017-04-23T10:00:00+02:00 # date/start time of event
-  form: "Staffel OL"
-  location: "Ottnang am Hausruck"
+  date: 2018-10-07T10:00:00+02:00 # date/start time of event
+  form: "Staffel OL - Zweierstaffel"
+  location: "Riedelwald/Seekirchen"
 cup: ""
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "HSV Ried" # remove one of the 3 options
+implementation: "ASKÖ Henndorf Orienteering" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
-  course: "Georg Gittmaier sen."
-  event: "Georg Gittmaier sen."
-  inspection: "Georg Gittmaier jun."
+  course: "Martin Lejsek"
+  event: "Martin Lejsek"
+  inspection: "Eva Breitschädel"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: leo.mueller@sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -6 # x days from event->date
 meeting:
-  point: "Gasthaus Harmonie Stüberl"
+  point: "Sportanlage Pirach/Seekirchen"
   time_minutes: -60 # x minutes from event->date
-  location: [48.108280,13.600951]
+  location: [47.914591, 13.101875]
 map:
-  name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
+  name: "Riedelwald"
+  scale: "1:7.500"
+  equidistance: "2,5m"
+  update: "Oktober 2018"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: ""
+hints: "Falls in den Klassen D/H 16- genügend Staffeln starten ist auch eine Extrawertung für D/H 45- möglich.
+
+Vereinsübergreifende Staffeln sind erlaubt!
+
+Bei D/H 16- started jeder Läufer 2 mal."
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:

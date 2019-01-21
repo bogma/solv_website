@@ -1,9 +1,9 @@
 ---
-title: "x. Salzburger Sportvoglcup {{now.Format "2006"}}"
-date: {{ .Date }} # date of creation of the file
-draft: true
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
-anne_id: 0
+title: "4. Salzburger Sportvoglcup 2018"
+date: 2018-06-23T15:00:00+01:00 # date of creation of the file
+draft: false
+status: done
+anne_id: 2357
 
 categories: [ "Event" ]
 archives: []
@@ -12,16 +12,16 @@ tags: [ "SBG Cup"]
 
 event:
   name: ""
-  date: {{ .Date }} # date/start time of event
+  date: 2018-06-23T15:00:00+01:00 # date/start time of event
   form: "Normaler OL"
-  location: ""
+  location: "Hallein"
 cup: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove one of the 3 options
+implementation: "SSV Hallein-Neualm" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
+  course: "Mayer Horst"
+  event: "Mayer Horst"
   inspection: ""
 course:
   valid: false # set to true when the course lenghts are final
@@ -29,21 +29,21 @@ course:
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: leo.mueller@sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -5 # x days from event->date
 meeting:
-  point: ""
+  point: "VS Hallein-Stadt/Turnhalle"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.678909, 13.091665]
 map:
-  name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
-  format: ""
-  hints: "" # additional hints to map
+  name: "Hallein"
+  scale: "1:4.000"
+  equidistance: "2m"
+  update: "Mai 2018"
+  format: "A4"
+  hints: "IOF-Norm" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: ""
+hints: "Parkmöglichkeiten bei der Turnhalle oder beim BG/BRG Hallein"
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
