@@ -18,24 +18,33 @@ paginate = 10
 
 [[menu.main]]
     identifier = "blog"
-    name = "All"
+    name = "Kategorie"
     url = "/blog/"
     weight = 10
+[[menu.main]]
+    identifier = "all"
+    name = "Alle"
+    url = "/blog/"
+    weight = 10
+    parent = "blog"
 [[menu.main]]
     identifier = "events"
     name = "Events"
     url = "/event/"
     weight = 11
+    parent = "blog"
 [[menu.main]]
     identifier = "pressinfos"
     name = "Presse"
     url = "/pressinfo/"
     weight = 12
+    parent = "blog"
 [[menu.main]]
     identifier = "posts"
     name = "Posts"
     url = "/post/"
     weight = 13
+    parent = "blog"
 
 [[menu.main]]
     identifier = "solv"
