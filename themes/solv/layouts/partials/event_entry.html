@@ -1,6 +1,6 @@
 {{ if .Params.entry.anne }}
 Anmeldung bis spätestens <b>
-        {{ $mtime := time .Params.event.date }}
+        {{ $mtime := time .Date }}
         {{ $duration := time.Duration "hour" (mul .Params.entry.closing_date_days 24) }}
         {{ $mtime2 := $mtime.Add ($duration) }}
         {{ $mtime2.Day }} {{ $mtime2.Month }} {{ $mtime2.Year }}</span>

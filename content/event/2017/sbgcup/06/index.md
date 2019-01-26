@@ -1,5 +1,5 @@
 ---
-title: "SBG LMS Sprint und 6. u. 7. Salzburger Sportvoglcup 2017"
+title: "6. + 7. Salzburger Sportvoglcup 2017"
 date: 2017-06-24T14:00:00+02:00 # date of creation of the file
 draft: false
 status: done
@@ -10,8 +10,7 @@ archives: ["2017"]
 tags: [ "SBG Cup", "SBG LM Sprint"]
 
 event:
-  name: "SBG LMS Sprint und 6. u. 7. Salzburger Sportvoglcup 2017"
-  date: 2017-06-24T14:00:00+02:00 # date/start time of event
+  name_amend: "LM Sprint"
   form: "Sprint OL"
   location: "Seekirchen"
 cup: "sbgcup"

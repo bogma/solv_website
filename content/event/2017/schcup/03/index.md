@@ -9,8 +9,7 @@ archives: ["2017"]
 tags: [ "Schul Cup"]
 
 event:
-  name: "Salzburger Meisterschaften der Schulen im Orientierungslauf 2017 und 3. Lauf zum Sportvogl Schulcup 2017"
-  date: 2017-05-09T10:00:00+02:00 # date/start time of event
+  name_amend: "Salzburger Meisterschaften der Schulen"
   form: "Normaler OL"
   location: "Puch"
 cup: "schcup"

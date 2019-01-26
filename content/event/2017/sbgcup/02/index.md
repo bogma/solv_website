@@ -10,8 +10,7 @@ archives: ["2017"]
 tags: [ "SBG Cup"]
 
 event:
-  name: "2. Salzburger Sportvoglcup 2017"
-  date: 2017-03-25T14:00:00
+  name_amend: ""
   form: "Normaler OL  mit längeren Bahnen auf einer Sprintkarte"
   location: "Schwarzenbergkaserne"
 cup: "sbgcup"

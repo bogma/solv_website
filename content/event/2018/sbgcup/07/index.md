@@ -1,5 +1,5 @@
 ---
-title: "Salzburger LMS im Sprint-OL und 7. + 8. Salzburger Sportvoglcup 2018"
+title: "7. + 8. Salzburger Sportvoglcup 2018"
 date: 2018-10-28T11:00:00+01:00 # date of creation of the file
 draft: false
 status: done
@@ -11,8 +11,7 @@ tags: [ "SBG Cup", "SBG LM Sprint"]
 
 
 event:
-  name: ""
-  date: 2018-10-28T11:00:00+01:00 # date/start time of event
+  name_amend: "LM Sprint"
   form: "Sprint OL"
   location: "Seekirchen"
 cup: "sbgcup"

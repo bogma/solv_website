@@ -10,8 +10,7 @@ archives: ["2017"]
 tags: [ "SBG Cup"]
 
 event:
-  name: "5. Salzburger Sportvoglcup 2017 (Nachtrag)"
-  date: 2017-10-28T13:30:00+02:00
+  name_amend: "Nachtrag"
   form: "Normaler OL"
   location: "Siezenheim, Militärübungsplatz"
 cup: "sbgcup"

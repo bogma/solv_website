@@ -10,8 +10,7 @@ archives: ["2017"]
 tags: [ "SBG Cup"]
 
 event:
-  name: ""
-  date: 2017-09-23T14:00:00+02:00 # date/start time of event, 00:00:00 if time not known
+  name_amend: ""
   form: "Normaler OL"
   location: "Krennwald"
 cup: "sbgcup"

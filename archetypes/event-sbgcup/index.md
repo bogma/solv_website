@@ -9,16 +9,17 @@ categories: [ "Event" ]
 archives: []
 tags: [ "SBG Cup"]
 
-
 event:
-  name: ""
-  date: {{ .Date }} # date/start time of event
+  name_amend: ""
   form: "Normaler OL"
   location: ""
 cup: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove one of the 3 options
+
+# active section ------------------------------------------------
+
 official: # names of course setter, event organizer and inspector
   course: ""
   event: ""

@@ -1,5 +1,5 @@
 ---
-title: "Landesmeisterschaft allgemeine Klasse und 5. Salzburger Sportvoglcup 2018"
+title: "5. Salzburger Sportvoglcup 2018"
 date: 2018-09-15T15:00:00+01:00 # date of creation of the file
 draft: false
 status: done
@@ -9,10 +9,8 @@ categories: [ "Event" ]
 archives: []
 tags: [ "SBG Cup"]
 
-
 event:
-  name: ""
-  date: 2018-09-15T15:00:00+01:00 # date/start time of event
+  name_amend: "LM allgemeine Klasse"
   form: "Normaler OL"
   location: "Ampflwang"
 cup: "sbgcup"

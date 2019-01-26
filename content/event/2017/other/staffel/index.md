@@ -10,8 +10,7 @@ archives: ["2017"]
 tags: [ "SBG LM", "Staffel"]
 
 event:
-  name: ""
-  date: 2017-04-23T10:00:00+02:00 # date/start time of event
+  name_ammend: ""
   form: "Staffel OL"
   location: "Ottnang am Hausruck"
 cup: ""

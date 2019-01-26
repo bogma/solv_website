@@ -10,8 +10,7 @@ archives: ["2017"]
 tags: [ "SBG Cup"]
 
 event:
-  name: ""
-  date: 2017-04-17T10:00:00+02:00
+  name_amend: ""
   form: "Normaler OL"
   location: "St. Andrä im Lungau"
 cup: "sbgcup"

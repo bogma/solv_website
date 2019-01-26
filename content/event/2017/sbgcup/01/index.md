@@ -10,8 +10,7 @@ archives: ["2017"]
 tags: [ "SBG Cup"]
 
 event:
-  name: ""
-  date: 2017-03-18T14:00:00+02:00
+  name_amend: ""
   form: "Normaler OL"
   location: "Neumarkt"
 cup: "sbgcup"

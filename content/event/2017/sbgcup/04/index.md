@@ -7,11 +7,10 @@ anne_id: 0
 
 categories: [ "Event" ]
 archives: ["2017"]
-tags: [ "SBG Cup", "SBG LM"]
+tags: [ "SBG Cup", "Landesmeisterschaft"]
 
 event:
-  name: "SBG LM und 4. Salzburger Sportvoglcup 2017"
-  date: 2017-04-22T15:00:00+02:00
+  name_amend: "LM allgemeine Klasse / LM Jugend und Senioren"
   form: "Normaler OL"
   location: "Hausruckedt/Ottnang"
 cup: "sbgcup"

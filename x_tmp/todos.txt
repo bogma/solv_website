@@ -6,6 +6,7 @@ general:
 	custom js for single pages
 	ical entries
 	last updated in footer
+	hero
 	
 pressinfo:
 	heading on single page (color, press info 0/x)
@@ -15,8 +16,6 @@ post:
 	calendar_date: date for the event in calendar
 
 events: (ol event only)
-	consolidate event name and title
-	consolidate event date and date
 	splitsbrowser link
 	default image in overview
 	split metadata in base (index.md) and announce
@@ -30,4 +29,5 @@ events: (ol event only)
 meister:
 	layout
 	clubs
+
 	

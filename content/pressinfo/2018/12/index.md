@@ -1,6 +1,6 @@
 ---
 title: "Sensationeller 4. Platz für Robert Merl bei Orientierungslauf WM"
-date: 2019-08-16T21:45:30+01:00 # date for 'written on'
+date: 2018-08-16T21:45:30+01:00 # date for 'written on'
 draft: false
 author: ""
 catetories: [ "Presseinfo" ]

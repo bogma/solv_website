@@ -1,5 +1,5 @@
 ---
-title: "LM Jugend und Senioren + 9. Salzburger Sportvoglcup 2019"
+title: "9. Salzburger Sportvoglcup 2018"
 date: 2018-11-04T13:00:00+01:00 # date of creation of the file
 draft: false
 status: done
@@ -11,8 +11,7 @@ tags: [ "SBG Cup", "SBG LM"]
 
 
 event:
-  name: ""
-  date: 2018-11-04T13:00:00+01:00 # date/start time of event
+  name_amend: "LM Jugend und Senioren"
   form: "Normaler OL"
   location: "Mönchsberg"
 cup: "sbgcup"

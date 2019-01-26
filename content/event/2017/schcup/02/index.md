@@ -9,8 +9,7 @@ archives: ["2017"]
 tags: [ "Schul Cup"]
 
 event:
-  name: ""
-  date: 2017-04-27T14:00:00+02:00 # date/start time of event
+  name_amend: ""
   form: "Normaler OL"
   location: "Seekirchen"
 cup: "schcup"

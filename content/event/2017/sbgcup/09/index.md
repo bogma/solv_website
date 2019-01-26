@@ -10,8 +10,7 @@ archives: ["2017"]
 tags: [ "SBG Cup"]
 
 event:
-  name: ""
-  date: 2017-11-04T11:00:00+02:00 # date/start time of event
+  name_amend: ""
   form: "Normaler OL"
   location: "Adnet"
 cup: "sbgcup"

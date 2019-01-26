@@ -7,8 +7,13 @@
       <article>
         <header class="article-header">
           <h2 class="uk-margin-remove-adjacent uk-text-bold uk-margin-small-bottom">
-            {{ .Params.event.name | default .Title }}
+            {{ .Title }}
           </h2>
+          {{ if .Params.event.name_amend }}
+          <h3 class="uk-margin-remove-adjacent uk-text-bold uk-margin-small-bottom">
+            {{ .Params.event.name_amend }}
+          </h3>
+          {{ end }}
           {{ partial "event_meta" .}}
         </header>
         {{ if (eq .Params.status "planned") }}

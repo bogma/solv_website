@@ -1,6 +1,6 @@
 ---
 title: "1. Salzburger Sportvoglcup 2018"
-date: 2018-01-11T17:55:23+01:00 # date of creation of the file
+date: 2018-03-17T14:00:00+01:00 # date of creation of the file
 draft: false
 status: done
 anne_id: 2348
@@ -11,8 +11,7 @@ tags: [ "SBG Cup"]
 
 
 event:
-  name: ""
-  date: 2018-03-17T14:00:00+01:00 # date/start time of event
+  name_amend: ""
   form: "Normaler OL"
   location: "Henndorf"
 cup: "sbgcup"
@@ -36,7 +35,7 @@ meeting:
   location: [47.8982117, 13.1885706]
 map:
   name: ""
-  scale: "1:400 bis 1:10.000 möglich"
+  scale: "1:4.000 bis 1:10.000 möglich"
   equidistance: ""
   update: ""
   format: ""

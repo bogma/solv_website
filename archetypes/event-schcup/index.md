@@ -9,8 +9,7 @@ archives: []
 tags: [ "Schul Cup"]
 
 event:
-  name: ""
-  date: {{ .Date }} # date/start time of event
+  name_amend: ""
   form: "Normaler OL"
   location: ""
 cup: "schcup"

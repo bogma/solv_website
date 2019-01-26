@@ -9,8 +9,7 @@ archives: []
 tags: [ "Schul Cup"]
 
 event:
-  name: ""
-  date: 2018-05-03T15:00:00+01:00 # date/start time of event
+  name_amend: ""
   form: "Normaler OL"
   location: "HBLA Ursprung"
 cup: "schcup"

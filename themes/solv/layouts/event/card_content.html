@@ -24,7 +24,11 @@
         <div class="uk-width-2-3@s uk-width-3-5@m uk-height-1-1">
             <div class="uk-container">
                 <h5 class="uk-margin-small-bottom uk-margin-remove-adjacent uk-text-bold">
-                    <a title="{{ .Title }}" class="uk-link-reset" href="{{ .Permalink }}">{{ .Title }}</a>
+                    <a title="{{ .Title }}" class="uk-link-reset" href="{{ .Permalink }}">{{ .Title }}
+                        {{ if .Params.event.name_amend }}
+                        ({{ .Params.event.name_amend }})
+                        {{ end }}
+                    </a>
                 </h5>
                 <div>
                     {{ with .Resources.Match "infos/*" }}

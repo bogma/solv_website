@@ -9,14 +9,14 @@
             <td>
                 {{ partial "functions/maplink" (dict "ctx" .Params.meeting) }}
                 ab <time>
-                        {{ $mtime := time .Params.event.date }}
+                        {{ $mtime := time .Date }}
                         {{ $duration := time.Duration "minute" .Params.meeting.time_minutes }}
                         {{ $mtime2 := $mtime.Add ($duration) }}
                         {{ dateFormat .Site.Params.time_format_hhmm $mtime2 }}
                     </time>
             </td>
         </tr>
-        <tr><td>Nullzeit</td><td>{{ dateFormat .Site.Params.time_format_hhmm .Params.event.date }}</td></tr>
+        <tr><td>Nullzeit</td><td>{{ dateFormat .Site.Params.time_format_hhmm .Date }}</td></tr>
         <tr><td>Wettkampfart</td><td>{{ .Params.event.form }}</td></tr>
         <tr><td>Wettkampfleiter</td><td>{{ .Params.official.event }}</td></tr>
         <tr><td>Bahnleger</td><td>{{ .Params.official.course }}</td></tr>

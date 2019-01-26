@@ -10,8 +10,7 @@ archives: []
 tags: [ "SBG LM", "Staffel"]
 
 event:
-  name: ""
-  date: 2018-10-07T10:00:00+02:00 # date/start time of event
+  name_amend: ""
   form: "Staffel OL - Zweierstaffel"
   location: "Riedelwald/Seekirchen"
 cup: ""
