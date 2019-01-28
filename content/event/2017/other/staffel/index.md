@@ -7,7 +7,7 @@ anne_id: 0
 
 categories: [ "Event" ]
 archives: ["2017"]
-tags: [ "SBG LM", "Staffel"]
+tags: [ "Landesmeisterschaft", "Staffel"]
 
 event:
   name_ammend: ""

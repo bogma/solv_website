@@ -7,7 +7,7 @@ anne_id: 2442
 
 categories: [ "Event" ]
 archives: []
-tags: [ "SBG Cup", "SBG LM"]
+tags: [ "SBG Cup", "Landesmeisterschaft"]
 
 
 event:

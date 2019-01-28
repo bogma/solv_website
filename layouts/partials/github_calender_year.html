@@ -1,0 +1,70 @@
+{{ $months := seq 12 }}
+{{ $context := .context }}
+{{ $year := .year }}
+
+{{ $isLeapYear := (modBool $year 4) }}
+{{ $daysPerMonth := dict "1" (seq 31) "2" (seq 28) "2-leap" (seq 29) "3" (seq 31) "4" (seq 30) "5" (seq 31) "6" (seq 30) "7" (seq 31) "8" (seq 31) "9" (seq 30) "10" (seq 31) "11" (seq 30) "12" (seq 31) }}
+{{ $daysPerWeekMap := dict "Mon" 0 "Tue" 1 "Wed" 2 "Thu" 3 "Fri" 4 "Sat" 5 "Sun" 6 }}
+
+    <div class="calendar__wrapper">
+        <svg class="calendar__svg" height="110">
+            <text class="calendar__week" x="7.5" y="20.5" text-anchor="middle">M</text>
+            <text class="calendar__week" x="7.5" y="33.5" text-anchor="middle">D</text>
+            <text class="calendar__week" x="7.5" y="46.5" text-anchor="middle">M</text>
+            <text class="calendar__week" x="7.5" y="59.5" text-anchor="middle">D</text>
+            <text class="calendar__week" x="7.5" y="72.5" text-anchor="middle">F</text>
+            <text class="calendar__week" x="7.5" y="85.5" text-anchor="middle">S</text>
+            <text class="calendar__week" x="7.5" y="98.5" text-anchor="middle">S</text>
+            <text class="calendar__month" x="33.5" y="7.5" text-anchor="middle">Jan</text>
+            <text class="calendar__month" x="98.5" y="7.5" text-anchor="middle">Feb</text>
+            <text class="calendar__month" x="150.5" y="7.5" text-anchor="middle">Mar</text>
+            <text class="calendar__month" x="202.5" y="7.5" text-anchor="middle">Apr</text>
+            <text class="calendar__month" x="254.5" y="7.5" text-anchor="middle">May</text>
+            <text class="calendar__month" x="319.5" y="7.5" text-anchor="middle">Jun</text>
+            <text class="calendar__month" x="371.5" y="7.5" text-anchor="middle">Jul</text>
+            <text class="calendar__month" x="436.5" y="7.5" text-anchor="middle">Aug</text>
+            <text class="calendar__month" x="488.5" y="7.5" text-anchor="middle">Sep</text>
+            <text class="calendar__month" x="540.5" y="7.5" text-anchor="middle">Oct</text>
+            <text class="calendar__month" x="605.5" y="7.5" text-anchor="middle">Nov</text>
+            <text class="calendar__month" x="657.5" y="7.5" text-anchor="middle">Dec</text>
+            {{ $xpos := 15 }}
+            {{ range seq 12 }}
+                {{ $month := . }}
+                {{ $monthTwoDigits := printf "%02d" $month }}
+                {{ $context.Scratch.Set "daysThisMonth" (index $daysPerMonth (string $month)) }}
+                {{ if and $isLeapYear (eq $month 2) }}
+                    {{ $context.Scratch.Set "daysThisMonth" (index $daysPerMonth "2-leap") }}
+                {{ end }}
+
+                {{ $daysThisMonth := $context.Scratch.Get "daysThisMonth" }}
+
+                {{ $firstWeekdayInLetters := dateFormat "Mon" (string (delimit (slice $year $monthTwoDigits "01") "-")) }}
+                {{ $firstWeekdayInNumbers := index $daysPerWeekMap $firstWeekdayInLetters }}
+                {{ $firstWeekdayMondayOffset := (sub (add $firstWeekdayInNumbers 6) 6) }}
+                
+                {{ range $daysThisMonth }}
+                    {{ $day := .}}
+                    {{ $dayTwoDigits := printf "%02d" $day }}
+                    
+                    {{ $date := string (delimit (slice $year $monthTwoDigits $dayTwoDigits) "-")}}
+                    {{ $vday := sub (add $day $firstWeekdayMondayOffset) 1 }}
+                    {{ if (modBool $vday 7) }}
+                        {{ $xpos = add $xpos 13 }}
+                    {{ end }}
+                    {{ $ypos := add 15 (mul 13 (mod $vday 7)) }}
+
+                    {{ if and (gt $month 1) (eq $day 1) }}
+                        {{ $ylinepos := sub $ypos 2 }}
+                        <rect x="{{$xpos}}" y="{{$ylinepos}}" width="11" height="2" fill="#444444"></rect>
+                    {{ end }}
+    
+                    {{ $articlesFound := index ($context.Scratch.Get "ArticlesPerDay") $date }}
+                    {{ if gt $articlesFound 0 }}
+                        <rect x="{{$xpos}}" y="{{$ypos}}" width="11" height="11" fill="#F78A23" data-date="{{$date}}"></rect>
+                    {{ else }}
+                        <rect x="{{$xpos}}" y="{{$ypos}}" width="11" height="11" fill="#EBEDF0" data-date="{{$date}}"></rect>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        </svg>
+    </div>

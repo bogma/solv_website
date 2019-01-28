@@ -61,7 +61,7 @@ tr#fix { background-color: #E0FFFF; }
 <body>
 <div id=reporttop>
 <table width=499px style="table-layout:auto;">
-<tr><td><nobr>5. Salzburger Sportvoglcup 2018 / SBG LM Lang 2018</nobr></td><td id=rb><nobr>Mo. 17.09.2018 21:51</nobr></td></tr>
+<tr><td><nobr>5. Salzburger Sportvoglcup 2018 / Landesmeisterschaft Lang 2018</nobr></td><td id=rb><nobr>Mo. 17.09.2018 21:51</nobr></td></tr>
 <tr><td>
     <nobr>Ergebnisse  &lt;<a href="resu5sc2018.pdf" target="_blank"> ... pdf</a>&gt; &lt;<a href="resu5sc2018_split.pdf" target="_blank"> ... Split</a>&gt;&nbsp;</nobr></td><td id=rb style="font-weight:normal; font-size: 7pt;"><nobr>erzeugt von <a href="http://www.sportsoftware.de">OE2010 © Stephan Krämer SportSoftware 2016</a></nobr></td></tr>
 </table>

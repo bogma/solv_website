@@ -7,7 +7,7 @@ anne_id: 0
 
 categories: [ "Event" ]
 archives: ["2017"]
-tags: [ "SBG Cup", "SBG LM Sprint"]
+tags: [ "SBG Cup", "Landesmeisterschaft", "Sprint"]
 
 event:
   name_amend: "LM Sprint"

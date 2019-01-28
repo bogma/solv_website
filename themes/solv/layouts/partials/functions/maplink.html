@@ -2,15 +2,18 @@
 {{ $txt := .txt | default $ctx.point }}
 
 {{ if isset $ctx "location"}}
-{{ $lat := index $ctx.location 0 }}
-{{ $long := index $ctx.location 1 }}
+  {{ $lat := index $ctx.location 0 }}
+  {{ $long := index $ctx.location 1 }}
 
-{{ if .Site.Params.use_google }}
-<a href="http://www.google.com/maps/place/{{$lat}},{{$long}}">{{ $txt }}</a>
-{{ else }}
-<a href="http://www.openstreetmap.org/?mlat={{$lat}}&mlon={{$long}}&zoom=15">{{ $txt }}</a>
-{{ end }}
-
+  {{ if not (eq $lat 0.0) }}
+    {{ if .Site.Params.use_google }}
+      <a href="http://www.google.com/maps/place/{{$lat}},{{$long}}">{{ $txt }}</a>
+    {{ else }}
+      <a href="http://www.openstreetmap.org/?mlat={{$lat}}&mlon={{$long}}&zoom=15">{{ $txt }}</a>
+    {{ end }}
+  {{ else }}
+    {{ $txt }}
+  {{ end }}
 {{ else }}
   {{ $txt }}
 {{ end }}

@@ -1,0 +1,3 @@
+{{ $d := .d }}
+{{ $n := .monthNames}}
+{{ $d.Day }}. {{ index $n (printf "%d" $d.Month) }} {{ $d.Year }}

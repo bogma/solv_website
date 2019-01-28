@@ -6,7 +6,7 @@
         {{ if not .Params.nodateline }}
         <div>
             <span uk-icon="icon: calendar"></span>
-            Written on <time datetime="{{ .Date }}" itemprop="datePublished">{{ .Date.Format .Site.Params.time_format_default }}</time>
+            {{ with .Site.Data.l10n.articles.written_on }} {{ . }} {{ end }}<time datetime="{{ .Date }}" itemprop="datePublished">{{ .Date.Format .Site.Params.time_format_default }}</time>
             &middot;
             {{ .WordCount }}
             {{ with .Site.Data.l10n.articles.words }}{{.}}{{end}}

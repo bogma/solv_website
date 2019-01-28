@@ -19,9 +19,13 @@
               <div uk-dropdown="offset: -20" class="uk-navbar-dropdown">
               <ul class="uk-nav uk-navbar-dropdown-nav">
                 {{ range .Children }}
-                <li>
-                  <a href="{{ .URL }}">{{ .Name }}</a>
-                </li>
+                  {{ if eq .Name "divider" }}
+                    <li class="uk-nav-divider"></li>
+                  {{ else }}
+                  <li>
+                    <a href="{{ .URL }}">{{ .Name }}</a>
+                  </li>
+                  {{ end }}
                 {{ end }}
               </ul>
               </div>

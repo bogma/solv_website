@@ -7,6 +7,7 @@ general:
 	ical entries
 	last updated in footer
 	hero
+	hide or set default time when event in planed state
 	
 pressinfo:
 	heading on single page (color, press info 0/x)

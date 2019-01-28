@@ -29,7 +29,7 @@ paginate = 10
     parent = "blog"
 [[menu.main]]
     identifier = "events"
-    name = "Events"
+    name = "Veranstaltungen"
     url = "/event/"
     weight = 11
     parent = "blog"
@@ -41,7 +41,7 @@ paginate = 10
     parent = "blog"
 [[menu.main]]
     identifier = "posts"
-    name = "Posts"
+    name = "Beiträge"
     url = "/post/"
     weight = 13
     parent = "blog"
@@ -51,6 +51,12 @@ paginate = 10
     name = "Verband"
     url = "/board/"
     weight = 20
+
+[[menu.main]]
+    identifier = "solv_divider1"
+    name = "divider"
+    weight = 199
+    parent = "solv"
 
 [[menu.main]]
     identifier = "cup"
@@ -89,6 +95,7 @@ paginate = 10
 	time_format_event_year = "2006"
     time_format_hhmm = "15:04"
     use_google = false
+    num_of_planned_events_preview = 4
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]

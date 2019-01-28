@@ -1,7 +1,8 @@
 [articles]
-    read_more = "Read more"
-    words = "words"
+    read_more = "weiter lesen"
+    words = "Wörter"
     readingtime = "minute read"
+    written_on = ""
     share = "Share"
     comments = "Comments"
 
@@ -47,3 +48,10 @@
 
 [widgets.events]
     title = "Veranstaltungen"
+
+[category]
+    event = "Veranstaltung"
+    events = "Veranstaltungen"
+    pressinfo = "Presse"
+    blog = "Eintrag"
+

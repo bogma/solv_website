@@ -7,7 +7,7 @@
       <div class="uk-position-relative">
         <div class="uk-slider-container">
           <ul class="uk-slider-items uk-child-width-1-1@m uk-grid">
-            {{ partial "calendar" (dict "context" . "from" $from "to" $to "pages" .Site.Pages) }}
+            {{ partial "github_calendar" (dict "context" . "from" $from "to" $to "pages" .Site.Pages) }}
           </ul>
         </div>
       </div>

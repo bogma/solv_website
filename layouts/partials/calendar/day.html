@@ -24,7 +24,5 @@
         <a href="/archive/{{ delimit (slice $year $monthTwoLetters $dayTwoLetters) "-" }}/" title="{{ $articlesFound }} article{{ if gt $articlesFound 1 }}s{{ end }}">
     {{- end -}}
         <time datetime="{{ $dateString }}">{{ $day }}<em>{{ $articlesFound }}</em></time>
-    {{- if gt $articlesFound 0 -}}
-        </a>
-    {{- end -}}
+    {{- if gt $articlesFound 0 -}}</a>{{- end -}}
 </li>
