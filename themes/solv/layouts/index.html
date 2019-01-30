@@ -3,8 +3,9 @@
   <div class="uk-container">
     <div class="uk-grid" data-ukgrid>
       <div class="uk-width-3-4@m">
-        <h4 class="uk-heading-line uk-text-bold"><span>Latest Posts</span></h4>
+        <h4 class="uk-heading-line uk-text-bold"><span>{{ with .Site.Data.l10n.articles.latest_posts }} {{ . }} {{ end }}</span></h4>
         {{ $blog := where .Site.RegularPages "Type" "in" (slice "post" "pressinfo" "event")}}
+        {{ $blog = $blog | intersect (where .Site.RegularPages ".Params.status" "!=" "planned") }}
         {{ $paginator := .Paginate $blog }}
         {{ range .Paginator.Pages }}
         {{ .Render "summary" }}

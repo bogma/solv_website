@@ -1,6 +1,6 @@
 ---
 title: "1. Salzburger Sportvoglcup 2019"
-date: 2019-03-30T19:49:28+01:00 # date of creation of the file
+date: 2019-03-30T00:00:00+01:00 # date of creation of the file
 draft: false
 status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 2574

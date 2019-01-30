@@ -1,0 +1,28 @@
+<table class="uk-table uk-table-divider uk-table-striped">
+    <thead>
+        <tr>
+            <th>Jahr</th>
+            <th>Bewerb</th>
+            <th>Wettlaufordnung</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range .Site.Data.cups.cup }}
+        {{ $c := . }}
+        <tr>
+            <td>{{$c.year}}</td>
+            <td> {{ range $c.cup }}
+                 {{ $n := . }}
+                    {{ $url := print "/event/" $c.year "/" $n.link }}
+                    <a href="{{ $url | relURL }}"><b>{{$n.text}}</b>
+                    <br/>
+                 {{ end }}
+            </td>
+            <td>
+                {{ $url := print "/event/" $c.year "/wettlaufordnung" }}
+                <a href="{{ $url | relURL }}">Wettlaufordnung</a>
+             </td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>

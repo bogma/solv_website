@@ -18,7 +18,7 @@
                     </a>
                     <span class="uk-label uk-label-warning" style="font-size: 0.75rem">{{.Params.status}}</span>
                     <div class="uk-width-auto uk-text-left uk-text-muted">{{ partial "event_meta" . }}</div>
-                    {{ if eq .Params.status "planned" }}
+                    {{ if eq .Params.status "active" }}
                     <div class="uk-width-auto uk-text-left">
                       {{ partial "functions/event_anne_link" (dict "id" .Params.anne_id "link" "Anmeldung") }}
                     </div>

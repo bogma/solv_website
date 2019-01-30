@@ -1,0 +1,15 @@
+cup:
+  - year: 2019
+  - year: 2018
+    cup:
+      - link: schcup/schulcup2018.pdf
+        text: Salzburger Schulcup
+      - link: sbgcup/sbgcup.pdf
+        text: Salzburger Sportvogl Cup
+  - year: 2017
+    cup:
+      - link: schcup/SchulCup-2017.pdf
+        text: Salzburger Schulcup
+      - link: sbgcup/sbgcup.pdf
+        text: Salzburger Sportvogl Cup
+
