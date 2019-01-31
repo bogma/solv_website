@@ -6,6 +6,7 @@
     share = "Share"
     comments = "Comments"
     latest_posts = "Beiträge"
+    last_modified = "aktualisiert am "
 
 # Linked older/newer posts at the bottom of each one
 [articles.linked_posts]
