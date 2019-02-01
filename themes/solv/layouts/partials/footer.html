@@ -1,10 +1,13 @@
 <footer id="footer" class="uk-section uk-section-secondary uk-section-small">
   <div class="uk-container">
-      <div class="uk-grid uk-grid-large" uk-grid>
-    <div class="uk-text-small uk-text-center uk-width-expand">© {{ now.Year }} {{ .Site.Copyright | markdownify }}</div>
-    <div id="toTop">
+    <div class="uk-grid uk-grid-large" uk-grid>
+      <div class="uk-text-small uk-text-center uk-width-expand">© {{ now.Year }} {{ .Site.Copyright | markdownify }}</div>
+      <div id="toTop">
         <a href="#" uk-totop uk-scroll></a>
-    </div>
       </div>
+      <div class="uk-text-right">
+        {{ with .Site.Data.l10n.articles.last_modified }} {{ . }} {{ end }}{{ dateFormat .Site.Params.time_format_last_mod .Lastmod }}
+      </div>
+    </div>
   </div>
 </footer>
