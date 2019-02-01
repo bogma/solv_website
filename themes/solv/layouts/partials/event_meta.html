@@ -3,12 +3,12 @@
             {{ if .Date }}
             <span uk-icon="icon:location"></span>
             {{ partial "functions/maplink" (dict "ctx" .Params.meeting "txt" .Params.event.location) }}
-            &middot;
+            &bull;
             <span uk-icon="icon:calendar"></span>
             <time datetime="{{ .Date }}">{{ dateFormat .Site.Params.time_format_default .Date }}</time>
             {{ $t := dateFormat .Site.Params.time_format_hhmm .Date }}
             {{ if (not (eq $t "00:00"))}}
-            &middot;
+            &bull;
             <span uk-icon="icon:clock"></span>
             <time datetime="{{ .Date }}">{{ $t }}</time>
             {{ end }}

@@ -1,15 +1,13 @@
 <div class="uk-card-header">
         <div class="uk-grid uk-grid-small uk-text-small" data-uk-grid>
-            <div class="uk-width-expand">
+            <div class="uk-width-auto">
                 <span class="cat-txt">{{ .Type }}</span>
             </div>
-            <div class="uk-width-auto uk-text-right uk-text-muted">
-                <span uk-icon="icon: calendar"></span>
-                {{ with .Site.Data.l10n.articles.written_on }} {{ . }} {{ end }}<time datetime="{{ .Date }}" itemprop="datePublished">{{ .Date.Format .Site.Params.time_format_default }}</time>
-                &middot;
-                {{ .WordCount }} {{ with .Site.Data.l10n.articles.words }} {{ . }} {{ end }}
-                &middot;
-                {{ .ReadingTime }} {{ with .Site.Data.l10n.articles.readingtime }} {{ . }} {{ end }}
+            <div class="uk-width-auto uk-text-muted">
+                {{ partial "article_meta" . }}
+            </div>
+            <div class="uk-width-auto uk-text-muted">
+                {{ partial "article_tags" . }}
             </div>
         </div>
     </div>

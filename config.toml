@@ -60,7 +60,7 @@ paginate = 10
 
 [[menu.main]]
     identifier = "cup"
-    name = "CUP & Meisterschaften"
+    name = "CUPS & LMS"
     url = "/event/"
     weight = 30
 

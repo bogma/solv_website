@@ -1,21 +1,3 @@
-#site-head {
-	padding: 10px 0;
-	position: fixed;
-	top: 0;
-	left: 0;
-	right: 0;
-	z-index: 99;
-	background-color: white;
-	border-bottom: 1px solid rgba(0,0,0,0.06);
-}
-#site-foot {
-	position: fixed;
-	z-index: 3;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	font-size: 0.8rem;
-}
 .uk-section-xsmall {
     padding-top: 0.6rem;
     padding-bottom: 0.6rem;
@@ -30,7 +12,8 @@
 	border-top: 2px solid;
 	position: relative;
 	transition: box-shadow 0.15s ease-out;
-	border-radius: 3px;
+	border-radius: 0px;
+	margin-bottom: 0.55rem;
 }
 .uk-card:hover {
 	box-shadow: 0 0 0 7px rgba(0,0,0,0.045);
@@ -53,38 +36,41 @@
 .uk-subnav li a {
 	border-radius: 3px; 
 }
-.uk-subnav li.uk-active:nth-child(13) a {
-	background-color:#8630F0;
-}
-.uk-subnav li.uk-active:nth-child(14) a {
-	background-color:#F03A7F;
-}
-.uk-subnav li.uk-active:nth-child(15) a {
-	background-color:#E84DF0;
-}
 .post-card .uk-card {
-	border-top-color: #1E87F0;
+	border-top-color: #438496;
 }
 .post-card .uk-card .cat-txt {
-	color: #1E87F0;
+	color: #438496;
+}
+.post-icon {
+	color: #438496;
+	font-size: 6rem;
 }
 .event-card .uk-card {
-	border-top-color: #8630F0;
+	border-top-color: #CD5360;
 }
 .event-card .uk-card .cat-txt {
-	color: #8630F0;
+	color: #CD5360;
 }
-.pressinfo-card .uk-card {
-	border-top-color: #E84DF0;
-}
-.pressinfo-card .uk-card .cat-txt {
-	color: #E84DF0;
+.event-icon {
+	color: #CD5360;
+	font-size: 6rem;
 }
 .photo-card .uk-card {
-	border-top-color: #F03A7F;
+	border-top-color: #B37D4E;
 }
 .photo-card .uk-card .cat-txt {
-	color: #F03A7F;
+	color: #B37D4E;
+}
+.pressinfo-card .uk-card {
+	border-top-color: #286DA8;
+}
+.pressinfo-card .uk-card .cat-txt {
+	color: #286DA8;
+}
+.pressinfo-icon {
+	color: #286DA8;
+	font-size: 6rem;
 }
 .uk-card .uk-overlay-primary {
 	padding:  0.5rem;

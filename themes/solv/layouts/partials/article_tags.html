@@ -1,0 +1,10 @@
+{{ if isset .Params "tags" }}
+{{ $tagsLen := len .Params.tags }}
+{{ if gt $tagsLen 0 }}
+    <span data-uk-icon="icon: tag"></span>
+    {{ range $k, $v := .Params.tags }} {{ $url := printf "tags/%s" (. | urlize | lower) }}
+    <a href="{{ $url | absURL }}">{{ . }}</a>
+    {{ if lt $k (sub $tagsLen 1) }}&middot;{{ end }}
+    {{ end }}
+{{ end }}
+{{ end }}

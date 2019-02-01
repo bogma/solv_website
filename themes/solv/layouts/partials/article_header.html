@@ -4,15 +4,8 @@
     </h2>
     <div class="uk-article-meta">
         <div>
-            <span uk-icon="icon: calendar"></span>
-            {{ with .Site.Data.l10n.articles.written_on }} {{ . }} {{ end }}<time datetime="{{ .Date }}" itemprop="datePublished">{{ .Date.Format .Site.Params.time_format_default }}</time>
-            &middot;
-            {{ .WordCount }}
-            {{ with .Site.Data.l10n.articles.words }}{{.}}{{end}}
-            &middot;
-            {{ .ReadingTime }}
-            {{ with .Site.Data.l10n.articles.readingtime }}{{.}}{{end}}
-       		<!-- <p class="post-meta">{{ .Date.Format $.Site.Params.time_format_default }}{{ with .Params.author }} • {{ . }}{{ end }}{{ with .Params.meta }} • {{ . }}{{ end }}</p> -->
+            {{ partial "article_meta" . }}
+            <!-- <p class="post-meta">{{ .Date.Format $.Site.Params.time_format_default }}{{ with .Params.author }} • {{ . }}{{ end }}{{ with .Params.meta }} • {{ . }}{{ end }}</p> -->
         </div>
 <!--
         {{ if isset .Params "categories" }}

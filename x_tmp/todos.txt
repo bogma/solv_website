@@ -1,15 +1,12 @@
 general:
-	alles auf deutsch!
-	define colore schema for types
+	define colore schema for event types
 	archive
 	previous/next navigation
 	custom js for single pages
 	ical entries
-	last updated in footer
 	hero
 	
 pressinfo:
-	heading on single page (color, press info 0/x)
 	reduce size of image for web if to big -> open question.
 
 post:
@@ -18,11 +15,6 @@ post:
 events: (ol event only)
 	splitsbrowser link
 	default image in overview
-	split metadata in base (index.md) and announce
-	status:
-		planned -> add to overview of planned events (only base meta data filled in)
-		announce -> promote on main page (all meta data there)
-
 	type needed? sbgcup/schcup/other/external (for basic event info only)
 	2 event on same day
 

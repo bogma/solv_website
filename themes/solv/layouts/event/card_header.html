@@ -1,10 +1,13 @@
 <div class="uk-card-header">
     <div class="uk-grid uk-grid-small uk-text-small" data-uk-grid>
-        <div class="uk-width-expand">
+        <div class="uk-width-auto">
             <span class="cat-txt">{{.Type}}</span>
         </div>
-        <div class="uk-width-auto uk-text-right uk-text-muted">
+        <div class="uk-width-auto uk-text-muted">
             {{ partial "event_meta" . }}
+        </div>
+        <div class="uk-width-auto uk-text-muted">
+            {{ partial "article_tags" . }}
         </div>
     </div>
 </div>
