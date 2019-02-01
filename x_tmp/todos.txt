@@ -7,7 +7,6 @@ general:
 	ical entries
 	last updated in footer
 	hero
-	hide or set default time when event in planed state
 	
 pressinfo:
 	heading on single page (color, press info 0/x)
@@ -23,7 +22,7 @@ events: (ol event only)
 	status:
 		planned -> add to overview of planned events (only base meta data filled in)
 		announce -> promote on main page (all meta data there)
-	clearer naming schema for event documents
+
 	type needed? sbgcup/schcup/other/external (for basic event info only)
 	2 event on same day
 

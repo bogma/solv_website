@@ -1,10 +1,12 @@
 [articles]
     read_more = "weiter lesen"
     words = "Wörter"
-    readingtime = "minute read"
+    readingtime = "min."
     written_on = ""
     share = "Share"
     comments = "Comments"
+    latest_posts = "Beiträge"
+    last_modified = "aktualisiert am "
 
 # Linked older/newer posts at the bottom of each one
 [articles.linked_posts]
@@ -24,9 +26,9 @@
     posts = "Posts"
 
 [page_not_found]
-    title = "404 - page not found"
-    subtitle = "The content you're looking for doesn't seem to exist."
-    home = "Back to home page"
+    title = "404 - Seite nicht gefunden"
+    subtitle = "Die Seite die du suchst scheint nicht vorhanden zu sein."
+    home = "Zurück zur Startseite"
 
 [widgets.categories]
     title = "Kategorie"

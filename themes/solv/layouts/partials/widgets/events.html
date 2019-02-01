@@ -19,7 +19,9 @@
                 </div>
                 <div class="uk-width-expand">
                     <p><a href="{{.RelPermalink}}">{{.Title}}</a></p>
+                    {{ if eq .Params.status "active" }}
                     <p>{{ partial "functions/event_anne_link" (dict "id" .Params.anne_id "link" "Anmeldung") }}</p>
+                    {{ end }}
                 </div>
             </div>
         </div>

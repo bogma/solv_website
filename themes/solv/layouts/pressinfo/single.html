@@ -41,11 +41,15 @@
 	</div>
 	{{ end }}
 	<!-- /large image -->
-	
+
 	<!-- text -->
 	<div class="uk-container uk-container-small">
 		{{ replace .Content .Summary "" | markdownify }}
+		<!-- last modified -->
+		<div class="uk-text-right">
+			{{ with .Site.Data.l10n.articles.last_modified }} {{ . }}  {{ end }}{{ dateFormat .Site.Params.time_format_last_mod .Lastmod }}
+		</div>
 	</div>
-	<!-- text -->
+	<!-- /text -->
 </section>
 {{ end }}

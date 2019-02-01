@@ -1,9 +1,1 @@
-<div class="uk-grid uk-grid-medium uk-child-width-1-1@xl uk-grid-match js-filter" data-uk-grid="masonry: true">
-    {{ if not (eq .Type "page")}}
-        {{ if eq .Params.status "planned" }}
-            {{ partial "card_item" . }}
-        {{ else }}
-            {{ partial "card_item" . }}
-        {{ end }}
-    {{ end }}
-</div>
+{{ partial "card_item" . }}

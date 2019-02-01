@@ -64,33 +64,13 @@ paginate = 10
     url = "/event/"
     weight = 30
 
-[[menu.main]]
-    identifier = "cup-current"
-    name = "Stand Salzburg Cup"
-    url = "/2017/sbgcup.pdf"
-    parent = "cup"
-    weight = 1000
-
-[[menu.main]]
-    identifier = "cup-archive"
-    name = "Archiv"
-    url = ""
-    parent = "cup"
-    weight = 1010
-
-[[menu.main]]
-    identifier = "cup-archive-2016"
-    name = "Salzburg Cup 2016"
-    url = "/2016/sbgcup.pdf"
-    parent = "cup"
-    weight = 1020
-
 [params]
     description = "SOLV website"
 	# Date and time formatting, see https://gohugo.io/functions/format/
 	time_format_RFC3339 = "2006-01-02T15:04:05Z07:00"
 	time_format_RFC822 = "Mon, 02 Jan 2006 15:04:05 -0700" 
 	time_format_default = "Jan 2, 2006"
+    time_format_last_mod = "2. Jan 2006 (15:04)"
 	time_format_event_daymonth = "2 Jan"
 	time_format_event_year = "2006"
     time_format_hhmm = "15:04"
