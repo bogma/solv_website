@@ -5,7 +5,6 @@ draft: false
 status: planned
 anne_id: 2569
 
-categories: [ "Event" ]
 archives: []
 tags: [ "Landesmeisterschaft", "Staffel"]
 
