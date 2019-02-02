@@ -4,6 +4,7 @@
   <div class="uk-container">
     <div class="uk-grid" data-ukgrid>
       <div class="uk-width-3-4@m">
+        {{ .Render "heading-line" }}
         {{ $blog := where .Pages "Type" "!=" "page"}}
         {{ $paginator := .Paginate $blog }}
         {{ range .Paginator.Pages }}

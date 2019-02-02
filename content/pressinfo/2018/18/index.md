@@ -6,7 +6,7 @@ author: ""
 catetories: [ "Presseinfo" ]
 archives: []
 tags: ["Austria Cup"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
-location: "Henndorf, "
+location: "Henndorf"
 info_date: 2018-10-20 / 2018-10-21 # date in article (YYYY-MM-dd)
 
 # edit title of image here

@@ -57,5 +57,6 @@
     event = "Veranstaltung"
     events = "Veranstaltungen"
     pressinfo = "Presse"
-    blog = "Eintrag"
+    blog = "Beiträge"
+    blog_all = "Alle Beiträge"
 
