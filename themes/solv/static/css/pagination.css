@@ -12,3 +12,7 @@
 	.pagination__item:not(:last-child) {
 		margin-right: 0.7rem;
 	}
+	.pagination__item--active {
+		border: 1px solid #39f;
+		border-radius: 2px;
+	}
