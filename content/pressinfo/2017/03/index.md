@@ -3,7 +3,6 @@ title: "Topresultate für Robert Merl bei Militär-WM"
 date: 2017-06-19T00:00:00+02:00
 draft: false
 author: ""
-categories: ["Presseinfo"]
 archives: ["2017"]
 tags: ["International"]
 location: "Hamina (FIN)"

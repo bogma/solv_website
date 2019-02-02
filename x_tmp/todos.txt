@@ -21,5 +21,3 @@ events: (ol event only)
 meister:
 	layout
 	clubs
-
-	

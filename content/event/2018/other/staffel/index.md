@@ -5,7 +5,6 @@ draft: false
 status: done
 anne_id: 0
 
-categories: [ "Event" ]
 archives: []
 tags: [ "Landesmeisterschaft", "Staffel"]
 

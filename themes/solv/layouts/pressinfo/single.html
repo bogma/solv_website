@@ -4,14 +4,14 @@
 		{{ partial "article_header" . }}
 		<p class="uk-article-meta">
 			{{ .Type | upper }}
-			{{ with $x := split .Dir "\\" }}
-			{{ with $y := index $x 1}}
-			{{ with $m := index $x 2 }}
-				{{$m}}&middot;{{$y}}
-			{{ end }}
-			{{ end }}
-			{{ end }}
-			{{if .Params.location}}&middot;{{ .Params.location }}{{end}}{{if .Params.info_date}}&middot;{{ .Params.info_date }}{{end}}</p>
+			{{ partial "functions/get_folder_info" . }}
+			{{if .Params.location}}
+				&bull; {{ .Params.location }}
+			{{end}}
+			{{if .Params.info_date}}
+			&bull; {{ .Params.info_date }}
+			{{end}}
+		</p>
 		<p class="uk-text-lead">{{ .Summary | markdownify }}</p>
 		<!-- <p class="post-meta">{{ .Date.Format $.Site.Params.time_format_default }}{{ with .Params.author }} • {{ . }}{{ end }}{{ with .Params.meta }} • {{ . }}{{ end }}</p> -->
 	</div>

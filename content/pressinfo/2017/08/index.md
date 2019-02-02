@@ -3,7 +3,6 @@ title: "Henndorfer Robert Merl zum Abschluss des OL-Weltcups 7. mit der Mixed-Sp
 date: 2017-10-01T00:00:00
 draft: false
 author: "f.elstner"
-categories: ["Presseinfo"]
 archives: ["2017"]
 tags: ["International"]
 location: "Henndorf, Grindelwald (SUI)"

@@ -3,7 +3,6 @@ title: "SOLV Trainingslager im Lungau"
 date: 2018-05-01T17:31:16+01:00
 draft: false
 
-categories: [ "Post" ]
 archives: []
 tags: ["Training", "Trainingslager"]
 

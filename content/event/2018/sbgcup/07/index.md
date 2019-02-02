@@ -5,7 +5,6 @@ draft: false
 status: done
 anne_id: 2350
 
-categories: [ "Event" ]
 archives: []
 tags: [ "SBG Cup", "Landesmeisterschaft", "Sprint"]
 

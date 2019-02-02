@@ -4,7 +4,6 @@ date: {{ .Date }} # date of creation of the file
 draft: true
 status: planned
 
-categories: [ "Event" ]
 archives: []
 tags: [ "Schul Cup"]
 

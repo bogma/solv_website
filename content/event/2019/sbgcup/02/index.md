@@ -5,7 +5,6 @@ draft: false
 status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 2567
 
-categories: [ "Event" ]
 archives: []
 tags: [ "SBG Cup"]
 

@@ -1,16 +1,13 @@
-.category-list-count,
 .tag-list-count,
 .archive-list-count {
   padding-left: 5px;
   color: #999;
   font-size: 0.85em;
 }
-.category-list-count:before,
 .tag-list-count:before,
 .archive-list-count:before {
   content: "(";
 }
-.category-list-count:after,
 .tag-list-count:after,
 .archive-list-count:after {
   content: ")";

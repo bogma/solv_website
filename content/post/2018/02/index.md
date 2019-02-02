@@ -3,7 +3,6 @@ title: "Jahreshauptversammlung"
 date: 2018-02-27T16:41:01+01:00
 draft: false
 
-categories: [ "Post" ]
 archives: []
 tags: ["Administratives"]
 

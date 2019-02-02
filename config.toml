@@ -9,7 +9,6 @@ paginate = 8
 
 [taxonomies]
     tag = "tags"
-    category = "categories"
     archive = "archives"
 
 [permalinks]

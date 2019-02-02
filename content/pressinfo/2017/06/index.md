@@ -3,7 +3,6 @@ title: "Starker 25. Platz von Robert Merl zum Auftakt der 3. Runde des OL-Weltcu
 date: 2017-08-28T00:00:00+02:00
 draft: false
 author: ""
-categories: ["Presseinfo"]
 archives: ["2017"]
 tags: ["International"]
 location: "Henndorf, Cesis (LAT)"

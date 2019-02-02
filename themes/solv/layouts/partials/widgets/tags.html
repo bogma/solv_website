@@ -6,10 +6,10 @@
     {{ range $name, $items := .Site.Taxonomies.tags }}
         <li>
             {{ $url := printf "%s/%s" "tags" ($name | urlize | lower)}}
-            <a class="category-list-link" href="{{ $url | absURL }}">
+            <a class="tag-list-link" href="{{ $url | absURL }}">
                 {{ $name }}
             </a>
-            <span class="category-list-count">{{ len $items }}</span>
+            <span class="tag-list-count">{{ len $items }}</span>
         </li>
     {{ end }}
     </ul>

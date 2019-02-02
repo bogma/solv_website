@@ -3,7 +3,6 @@ title: "Starker 20. Platz bei Orientierungslauf WM für Robert Merl über die Mi
 date: 2017-07-06T00:00:00+02:00
 draft: false
 author: ""
-categories: ["Presseinfo"]
 archives: ["2017"]
 tags: ["International"]
 location: "Henndorf, Vitipalu (EST)"

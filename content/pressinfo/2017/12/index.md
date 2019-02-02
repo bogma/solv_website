@@ -2,7 +2,6 @@
 title: "Sensationeller Sieg von Robert Merl zum Auftakt der Park World Tour in China!"
 date: 2017-10-24T00:00:00+02:00
 draft: false
-categories: ["Presseinfo"]
 archives: ["2017"]
 tags: ["International"]
 location: "Henndorf, Peking"

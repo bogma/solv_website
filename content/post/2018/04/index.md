@@ -3,7 +3,6 @@ title: "MTBO in Wals"
 date: 2018-04-01T17:26:01+01:00
 draft: false
 
-categories: [ "Post" ]
 archives: []
 tags: ["MTBO", "Austria Cup"]
 

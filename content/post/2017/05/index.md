@@ -3,7 +3,6 @@ title: "SOLV Vorstandssitzung"
 date: 2017-11-13T18:43:54+02:00
 draft: true
 
-categories: [ "Post" ]
 archives: ["2017"]
 tags: [ "Administratives" ]
 

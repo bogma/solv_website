@@ -5,7 +5,6 @@ draft: false
 status: done
 anne_id: 1928
 
-categories: [ "Event" ]
 archives: ["2017"]
 tags: [ "SBG Cup"]
 

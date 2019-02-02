@@ -4,7 +4,6 @@ date: 2018-04-11T14:00:00+01:00 # date of creation of the file
 draft: false
 status: done
 
-categories: [ "Event" ]
 archives: []
 tags: [ "Schul Cup"]
 

@@ -3,7 +3,6 @@ title: "Anfängertraining"
 date: 2017-04-13T17:02:18+02:00
 draft: false
 
-categories: ["Post"]
 archives: ["2017"]
 tags: ["Training"]
 
