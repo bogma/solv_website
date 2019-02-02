@@ -17,10 +17,10 @@
     placeholder = "Search"
 
 [pagination]
-    start = "Anfang"
-    previous = "Zurück"
-    next = "Vor"
-    end = "Ende"
+    first = "«« Anfang"
+    previous = "« Zurück"
+    next = "Vor »"
+    last = "Ende »»"
 
 [profile]
     follow_button = "Follow"

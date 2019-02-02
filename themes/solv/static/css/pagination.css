@@ -1,0 +1,14 @@
+.pagination__navigtion {
+	margin-top: 20rem;
+}
+.pagination__list {
+	padding: 0;
+	list-style: none;
+}
+.pagination__item {
+	padding: 0;
+	display: inline-block;
+}
+	.pagination__item:not(:last-child) {
+		margin-right: 0.7rem;
+	}

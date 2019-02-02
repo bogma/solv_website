@@ -5,7 +5,7 @@ theme = "solv"
 copyright = "SOLV - Powered by [Hugo](//gohugo.io) and [UIkit](//getuikit.com)"
 enableGitInfo = true
 ignoreFiles = [ "\\.xml$", "\\.skb$", "\\.foo$"]
-paginate = 10
+paginate = 8
 
 [taxonomies]
     tag = "tags"
@@ -76,6 +76,7 @@ paginate = 10
     time_format_hhmm = "15:04"
     use_google = false
     num_of_planned_events_preview = 4
+    paginate_use_icons = true
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
