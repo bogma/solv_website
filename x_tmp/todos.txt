@@ -1,7 +1,5 @@
 general:
-	define colore schema for event types
 	archive
-	previous/next navigation
 	custom js for single pages
 	ical entries
 	hero
@@ -13,10 +11,10 @@ post:
 	calendar_date: date for the event in calendar
 
 events: (ol event only)
-	splitsbrowser link
-	default image in overview
+	splitsbrowser link, general: link in result
 	type needed? sbgcup/schcup/other/external (for basic event info only)
 	2 event on same day
+	define colore schema for different event types
 
 meister:
 	layout

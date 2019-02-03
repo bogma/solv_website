@@ -16,7 +16,9 @@
           {{ end }}
           {{ partial "event_meta" .}}
         </header>
-        {{ if (eq .Params.status "planned") }}
+        {{ if (eq .Params.status "external")}}
+          {{ .Content }}
+        {{ else if (eq .Params.status "planned") }}
           {{ partial "event_table" .}}
         {{ else}}
           {{ partial "event_table" .}}

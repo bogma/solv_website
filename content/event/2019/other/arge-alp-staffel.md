@@ -6,7 +6,7 @@ status: external # planned (= for preview Calendar), active (= Announcement...),
 anne_id: 0
 
 archives: []
-tags: [ ""]
+tags: []
 
 event:
   name_amend: "Staffelmeisterschaft"

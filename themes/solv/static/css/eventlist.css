@@ -1,17 +1,10 @@
-/*
- * Custom article date style
- */
- .sv-event {
-    /* Socialbuttons offset */
-    /* Featured article image offset */
-}
-.sv-event .sv-event-content {
+.event__item {
     position: relative;
 }
-.sv-event .sv-event-content .sv-event-date-true {
+.event__item .event__date--box {
     margin-left: 0px;
 }
-.sv-event .sv-event-date-true .sv-event-date {
+.event__item .event__date .event__date--box {
     top: 5px;
     left: 0px;
     width: 35px;
@@ -23,30 +16,24 @@
     text-align: center;
 }
 
-.sv-event .sv-event-date-true .sv-event-date .sv-event-schcup {
-    background: #dcb637;
+.event__item .event__date .event__date--year {
+    border-top: 1px dashed #ffffff;
 }
 
-.sv-event .sv-event-date-true .sv-event-date .sv-event-sbgcup {
-    background: #87dc37;
+.event_item .event__type--schcup {
+    background: #9237dc;
+    margin-left: 1rem;
 }
 
-.sv-event .sv-event-date-true .sv-event-date .sv-event-schcup .sv-event-date-day {
+.event_item .event__type--sbgcup {
+    background: #3784dc;
+}
+
+.event__item .event__date--box .event__date .event__date--day {
     display: block;
     font-size: 11px;
 }
-.sv-event .sv-event-date-true .sv-event-date .sv-event-schcup .sv-event-date-year {
+.event__item .event__date--box .event__date .event__date--year {
     display: block;
     font-size: 15px;
-}
-.sv-event .sv-event-date-true .sv-event-date .sv-event-sbgcup .sv-event-date-day {
-    display: block;
-    font-size: 11px;
-}
-.sv-event .sv-event-date-true .sv-event-date .sv-event-sbgcup .sv-event-date-year {
-    display: block;
-    font-size: 15px;
-}
-.sv-event .sv-event-featured-image {
-    margin: -25px -25px 25px -25px;
 }

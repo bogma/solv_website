@@ -2,7 +2,7 @@
 title: "x. Salzburger Sportvoglcup {{now.Format "2006"}}"
 date: {{ .Date }} # date of creation of the file
 draft: true
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
+status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), external (i.e. for arge alp)
 anne_id: 0
 
 archives: []

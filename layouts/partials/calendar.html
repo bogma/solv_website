@@ -20,17 +20,6 @@
     {{ $context.Scratch.SetInMap "ArticlesPerDay" .Key (len .Pages) }}
 {{ end }}
 
-{{ range $i, $sequence := (seq ((sub $to $from))) }}
-    {{ $currentYear := $context.Scratch.Get "currentYear" }}
-    {{ $nextYear := (add $from $sequence) }}
-
-    {{ if le $nextYear $to }}
-        {{ $context.Scratch.Add "consideredYears" (slice $nextYear) }}
-        {{ $context.Scratch.Set "currentYear" $nextYear }}
-    {{ end }}
-
-{{ end }}
-
-{{ range ($context.Scratch.Get "consideredYears") }}
+{{ range (seq $from $to) }}
     {{ partialCached "calendar/year" (dict "context" $context "year" . "from" $from "fromMonth" $fromMonth "to" $to "toMonth" $toMonth) (string (delimit (slice $from $fromMonth $to $toMonth .) "")) }}
 {{ end }}

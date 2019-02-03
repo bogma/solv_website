@@ -1,3 +1,9 @@
 {{ $d := .d }}
 {{ $n := .monthNames}}
-{{ $d.Day }}. {{ index $n (printf "%d" $d.Month) }} {{ $d.Year }}
+{{ $format := .format | default "long"}}
+
+{{ if eq $format "long"}}
+    {{ $d.Day }}. {{ index $n (printf "%d" $d.Month) }} {{ $d.Year }}
+{{ else if eq $format "short" }}
+    {{ $d.Day }}. {{ substr (index $n (printf "%d" $d.Month)) 0 3 }} {{ $d.Year }}
+{{ end }}
