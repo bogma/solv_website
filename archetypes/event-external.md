@@ -2,7 +2,7 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }} # date of creation of the file
 draft: true
-status: external # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
+status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 0
 
 archives: []
@@ -12,7 +12,7 @@ event:
   name_amend: ""
   form: "Normaler OL"
   location: ""
-cup: ""
+  type:  "extern"
 championship: false
 organiser: ""
 implementation: "" # remove one of the 3 options

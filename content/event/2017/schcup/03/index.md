@@ -11,7 +11,7 @@ event:
   name_amend: "Salzburger Meisterschaften der Schulen"
   form: "Normaler OL"
   location: "Puch"
-cup: "schcup"
+  type: "schcup"
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "SSV Hallein-Neualm" # remove one of the 3 options

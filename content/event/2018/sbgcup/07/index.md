@@ -13,7 +13,7 @@ event:
   name_amend: "LM Sprint"
   form: "Sprint OL"
   location: "Seekirchen"
-cup: "sbgcup"
+  type: "sbgcup"
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orientieering" # remove one of the 3 options

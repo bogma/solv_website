@@ -12,7 +12,7 @@ event:
   name_amend: "Nachtrag"
   form: "Normaler OL"
   location: "Siezenheim, Militärübungsplatz"
-cup: "sbgcup"
+  type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "HSV Wals" 

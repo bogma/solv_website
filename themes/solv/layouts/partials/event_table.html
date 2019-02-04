@@ -23,7 +23,7 @@
         {{ if not (eq .Params.official.inspection "") }}
         <tr><td>Kontrolle</td><td>{{ .Params.official.inspection }}</td></tr>
         {{ end }}
-        {{ if eq .Params.cup "sbgcup" }}
+        {{ if eq .Params.event.type "sbgcup" }}
         <tr><td>Karte</td><td>{{ .Params.map.name }} / M {{ .Params.map.scale }} / AE {{ .Params.map.equidistance }} / Stand {{ .Params.map.update }}{{if not (eq .Params.map.format "")}} / {{.Params.map.format}} {{end}}{{if not (eq .Params.map.hints "")}} / {{.Params.map.hints}} {{end}}</td></tr>
         <tr><td>Postenbeschreibung</td><td>{{ .Params.control_point_description }}</td></tr>
         <tr>

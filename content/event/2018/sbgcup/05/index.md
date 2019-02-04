@@ -12,7 +12,7 @@ event:
   name_amend: "LM allgemeine Klasse"
   form: "Normaler OL"
   location: "Ampflwang"
-cup: "sbgcup"
+  type: "sbgcup"
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orientieering mit HSV Ried" # remove one of the 3 options

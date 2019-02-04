@@ -11,7 +11,7 @@ event:
   name_amend: "LM der Schulen"
   form: "Normaler OL"
   location: "Hellbrunn"
-cup: "schcup"
+  type: "schcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orientieering" # remove one of the 3 options

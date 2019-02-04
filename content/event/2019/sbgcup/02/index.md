@@ -13,7 +13,7 @@ event:
   name_amend: ""
   form: "Sprint OL"
   location: "Zell am See"
-cup: "sbgcup"
+  type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "TV Zell am See" # remove one of the 3 options

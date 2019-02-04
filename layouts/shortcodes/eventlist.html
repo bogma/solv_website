@@ -2,7 +2,6 @@
 
 {{ $evt := where .Site.RegularPages "Type" "event" }}
 {{ $evt = $evt | intersect (where .Site.Pages ".Params.status" "=" "planned") }}
-{{ $evt = $evt | union (where .Site.Pages ".Params.status" "=" "external") }}
 <ul class="uk-list uk-list-striped">
     {{ $nevt := sort $evt "Date" "asc"}}
     {{ range $nevt }}
@@ -22,7 +21,7 @@
                                 {{ dateFormat .Site.Params.time_format_event_year .Date }}</span>
                         </div>
                     </div>
-                    {{with .Params.cup }}
+                    {{with .Params.event.type }}
                     <span class="uk-badge event__type--{{.}}">
                             {{ . | upper }}
                     </span>

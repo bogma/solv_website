@@ -1,8 +1,8 @@
 ---
 title: "ARGE Alp Staffel"
 date: 2019-10-12 # date of creation of the file
-draft: true
-status: external # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
+draft: false
+status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 0
 
 archives: []
@@ -12,7 +12,7 @@ event:
   name_amend: "Staffelmeisterschaft"
   form: "Staffel OL"
   location: "Savognin, Graubünden"
-cup: ""
+  type:  "extern"
 championship: false
 organiser: ""
 implementation: "" # remove one of the 3 options

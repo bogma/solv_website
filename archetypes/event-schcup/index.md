@@ -11,7 +11,7 @@ event:
   name_amend: ""
   form: "Normaler OL"
   location: ""
-cup: "schcup"
+  tpye: "schcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove one of the 3 options

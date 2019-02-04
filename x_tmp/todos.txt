@@ -7,13 +7,8 @@ general:
 pressinfo:
 	reduce size of image for web if to big -> open question.
 
-post:
-	calendar_date: date for the event in calendar
-
 events: (ol event only)
 	splitsbrowser link, general: link in result
-	type needed? sbgcup/schcup/other/external (for basic event info only)
-	2 event on same day
 	define colore schema for different event types
 
 meister:

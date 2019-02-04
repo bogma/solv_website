@@ -12,7 +12,7 @@ event:
   name_amend: ""
   form: "Staffel OL - Zweierstaffel"
   location: "Riedelwald/Seekirchen"
-cup: ""
+  type: ""
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orienteering" # remove one of the 3 options

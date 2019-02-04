@@ -12,7 +12,7 @@ event:
   name_amend: ""
   form: "Normaler OL"
   location: "Neumarkt"
-cup: "sbgcup"
+  type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orientieering" 

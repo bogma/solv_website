@@ -13,7 +13,7 @@ event:
   name_amend: "LM Jugend und Senioren"
   form: "Normaler OL"
   location: "Salzachseen"
-cup: "sbgcup"
+  type: "sbgcup"
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "HSV Wals" # remove one of the 3 options

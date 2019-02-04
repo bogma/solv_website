@@ -13,7 +13,7 @@ event:
   name_amend: "+ div. Siegerehrungen"
   form: "Normaler OL"
   location: "Eugendorfberg"
-cup: "sbgcup"
+  type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orientieering" # remove one of the 3 options

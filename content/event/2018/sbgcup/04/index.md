@@ -13,7 +13,7 @@ event:
   name_amend: ""
   form: "Normaler OL"
   location: "Hallein"
-cup: "sbgcup"
+  type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "SSV Hallein-Neualm" # remove one of the 3 options

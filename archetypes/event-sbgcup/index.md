@@ -2,7 +2,7 @@
 title: "x. Salzburger Sportvoglcup {{now.Format "2006"}}"
 date: {{ .Date }} # date of creation of the file
 draft: true
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), external (i.e. for arge alp)
+status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 anne_id: 0
 
 archives: []
@@ -12,7 +12,7 @@ event:
   name_amend: ""
   form: "Normaler OL"
   location: ""
-cup: "sbgcup"
+  type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove one of the 3 options

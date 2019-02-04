@@ -12,7 +12,7 @@ event:
   name_amend: ""
   form: "Normaler OL  mit längeren Bahnen auf einer Sprintkarte"
   location: "Schwarzenbergkaserne"
-cup: "sbgcup"
+  type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "HSV Wals" 

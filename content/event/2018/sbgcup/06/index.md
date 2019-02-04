@@ -13,7 +13,7 @@ event:
   name_amend: ""
   form: "Normaler OL"
   location: "Schwarzenbergkaserne"
-cup: "sbgcup"
+  type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "HSV Wals" # remove one of the 3 options

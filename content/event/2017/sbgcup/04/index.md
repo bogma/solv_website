@@ -12,7 +12,7 @@ event:
   name_amend: "LM allgemeine Klasse / LM Jugend und Senioren"
   form: "Normaler OL"
   location: "Hausruckedt/Ottnang"
-cup: "sbgcup"
+  type: "sbgcup"
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "Heeressportverein Ried im Innkreis" 
