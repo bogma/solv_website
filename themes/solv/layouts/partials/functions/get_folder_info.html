@@ -1,5 +1,5 @@
 {{ $t := .Title }}
-{{ with $x := split .Dir "\\" }}
+{{ with $x := split (path.Dir .Dir) "/" }}
     {{ $cType := index $x 0 }}
     {{ if eq $cType "pressinfo" }}
         {{ with $y := index $x 1 }}

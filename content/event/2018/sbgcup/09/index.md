@@ -31,7 +31,7 @@ entry:
 meeting:
   point: "Augustinerbräu Mülln"
   time_minutes: -60 # x minutes from event->date
-  location: [47.8055647,13.0316521]
+  location: [47.80520,13.03330]
 map:
   name: "Mönchsberg"
   scale: "1:4.000"
