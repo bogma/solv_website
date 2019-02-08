@@ -5,7 +5,7 @@ theme = "solv"
 copyright = "SOLV - Powered by [Hugo](//gohugo.io) and [UIkit](//getuikit.com)"
 enableGitInfo = true
 ignoreFiles = [ "\\.xml$", "\\.skb$", "\\.foo$"]
-paginate = 8
+paginate = 10
 
 [taxonomies]
     tag = "tags"
@@ -83,6 +83,7 @@ paginate = 8
     categories = false
     tags = true
     tag_cloud = false
+    archives = false
 
 [outputs]
     page = ["HTML", "JSON"]

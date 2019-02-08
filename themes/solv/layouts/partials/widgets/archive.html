@@ -1,8 +1,18 @@
-<h4 class="uk-heading-line uk-text-bold"><span>{{ with .Site.Data.l10n.widgets.archive.title }}{{.}}{{end}}</span></h4>
-{{ range .Site.Pages.GroupByDate "2006" }}
-  {{ $year := .Key }}
-  {{ if gt $year 2000 }}
-    {{ $url := printf "%s" $year }}
-    <li><a href="{{ $url | relURL }}">{{ $year }}</a></li>
+{{ if .Site.Params.widgets.archives }}
+{{ if isset .Site.Taxonomies "archives" }}
+{{ if not (eq (len .Site.Taxonomies.archives) 0) }}
+  <h4 class="uk-heading-line uk-text-bold"><span>{{ with .Site.Data.l10n.widgets.archive.title }}{{.}}{{end}}</span></h4>
+  <ul class="uk-list">
+  {{ range $name, $items := .Site.Taxonomies.archives }}
+  <li>
+      {{ $url := printf "%s/%s" "archives" ($name | urlize | lower)}}
+      <a class="tag-list-link" href="{{ $url | absURL }}">
+          {{ $name }}
+      </a>
+      <span class="tag-list-count">{{ len $items }}</span>
+  </li>
   {{ end }}
+  </ul>
+{{ end }}
+{{ end }}
 {{ end }}
