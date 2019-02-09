@@ -20,13 +20,16 @@
     border-top: 1px dashed #ffffff;
 }
 
-.event_item .event__type--schcup {
-    background: #9237dc;
-    margin-left: 1rem;
+.event__item .event__type--schcup {
+    background: #B37D4E;
 }
 
-.event_item .event__type--sbgcup {
-    background: #3784dc;
+.event__item .event__type--sbgcup {
+    background: #CD5360;
+}
+
+.event__item .event__type--extern {
+    background: rgb(170, 83, 205);
 }
 
 .event__item .event__date--box .event__date .event__date--day {

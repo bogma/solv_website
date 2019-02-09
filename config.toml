@@ -83,7 +83,7 @@ paginate = 10
     categories = false
     tags = true
     tag_cloud = false
-    archives = false
+    archives = true
 
 [outputs]
     page = ["HTML", "JSON"]

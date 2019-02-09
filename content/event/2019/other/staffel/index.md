@@ -12,7 +12,7 @@ event:
   name_amend: ""
   form: "Staffel OL"
   location: "Pillersee"
-  type: ""
+  type: "staffel"
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "NF Kitzbühel" # remove one of the 3 options
