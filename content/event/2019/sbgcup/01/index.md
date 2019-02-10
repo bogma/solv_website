@@ -2,7 +2,7 @@
 title: "1. Salzburger Sportvoglcup 2019"
 date: 2019-03-30T00:00:00+01:00 # date of creation of the file
 draft: false
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 2574
 
 archives: []
@@ -29,9 +29,9 @@ entry:
   email: leo.mueller@sbg.at
   closing_date_days: -7 # x days from event->date
 meeting:
-  point: ""
+  point: "Ende Oberaustraße"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.80215, 12.97505]
 map:
   name: ""
   scale: "1:10.000"
