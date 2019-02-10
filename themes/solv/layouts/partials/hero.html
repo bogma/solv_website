@@ -2,41 +2,39 @@
 	<div class="uk-container">
 		<h4 class="uk-heading-line uk-text-bold"><span>{{ with .Site.Data.l10n.articles.hero }} {{ . }} {{ end }}</span></h4>
 		<div data-uk-slider="velocity: 5">
-				<div class="uk-slider-container">
-					{{ $ev := where .Site.RegularPages ".Params.hero" "!=" nil }}
-					{{ $num := len $ev }}
-					{{ if gt $num 5 }}
-						{{ $num = 5}}
-					{{ else if lt $num 3 }}
-						{{ $num = 3 }}
-					{{ end }}
-					<ul class="uk-slider-items uk-child-width-1-{{$num}}@m uk-grid-small">
-						{{ range $ev }}
-						<li>
-							<div class=" {{.Type}}-card">
+			<div class="uk-slider-container uk-margin-right">
+				{{ $ev := where .Site.RegularPages ".Params.hero" "!=" nil }}
+				{{ $num := len $ev }}
+				{{ if gt $num 5 }}
+				{{ $num = 5}}
+				{{ else if lt $num 3 }}
+				{{ $num = 3 }}
+				{{ end }}
+				<ul class="uk-slider-items uk-child-width-1-{{$num}}@m uk-grid-small">
+					{{ range $ev }}
+					<li>
+						<div class=" {{.Type}}-card">
 							<div class="uk-card uk-card-default uk-card-body uk-card-small">
 								<div class="uk-grid uk-grid-small">
 									{{ .Render "hero_card" }}
 								</div>
 							</div>
-							</div>
-						</li>
-						{{ end }}
-					</ul>
-				</div>
-				{{ if gt (len $ev) $num }}
-				<div class="uk-hidden@l uk-light">
-					<a class="uk-position-center-left uk-position-small" href="#" data-uk-slidenav-previous data-uk-slider-item="previous"></a>
-					<a class="uk-position-center-right uk-position-small" href="#" data-uk-slidenav-next data-uk-slider-item="next"></a>
-				</div>
-				<div class="uk-visible@l">
-					<a class="uk-position-center-left-out uk-position-small" href="#" data-uk-slidenav-previous data-uk-slider-item="previous"></a>
-					<a class="uk-position-center-right-out uk-position-small" href="#" data-uk-slidenav-next data-uk-slider-item="next"></a>
-				</div>
-				{{ end }}
+						</div>
+					</li>
+					{{ end }}
+				</ul>
+			</div>
 			{{ if gt (len $ev) $num }}
-			<ul class="uk-slider-nav uk-dotnav uk-flex-center uk-margin"></ul>
+			<div class="uk-hidden@l uk-light">
+				<a class="uk-position-center-left uk-position-small" href="#" data-uk-slidenav-previous data-uk-slider-item="previous"></a>
+				<a class="uk-position-center-right uk-position-small" href="#" data-uk-slidenav-next data-uk-slider-item="next"></a>
+			</div>
+			<div class="uk-visible@l">
+				<a class="uk-position-center-left-out uk-position-small" href="#" data-uk-slidenav-previous data-uk-slider-item="previous"></a>
+				<a class="uk-position-center-right-out uk-position-small" href="#" data-uk-slidenav-next data-uk-slider-item="next"></a>
+			</div>
 			{{ end }}
+			<ul class="uk-slider-nav uk-dotnav uk-flex-center uk-margin uk-hidden@m"></ul>
 		</div>
 	</div>
 </div>
