@@ -17,7 +17,7 @@
                         {{ dateFormat .Site.Params.time_format_event_year .Date }}
                     </span>
                     {{ if eq .Params.status "active" }}
-                        <span class="uk-text-bold uk-position-right">{{ partial "functions/event_anne_link" (dict "id" .Params.anne_id "link" "Anmeldung") }}</span>
+                        <span class="uk-text-bold uk-margin-left">{{ partial "functions/event_anne_link" (dict "id" .Params.anne_id "link" "Anmeldung") }}</span>
                     {{ end }}
                 </div>
                 <div class="uk-width-auto">

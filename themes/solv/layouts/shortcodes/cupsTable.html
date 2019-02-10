@@ -2,8 +2,8 @@
     <thead>
         <tr>
             <th>Jahr</th>
-            <th>Bewerb</th>
-            <th>Wettlaufordnung</th>
+            <th>Bewerbe</th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
@@ -11,12 +11,16 @@
         {{ $c := . }}
         <tr>
             <td>{{$c.year}}</td>
-            <td> {{ range $c.cup }}
+            <td>
+                <ul class="uk-list uk-list-bullet">
+                {{ range $c.cup }}
                  {{ $n := . }}
                     {{ $url := print "/event/" $c.year "/" $n.link }}
+                    <li>
                     <a href="{{ $url | relURL }}"><b>{{$n.text}}</b>
-                    <br/>
+                    </li>
                  {{ end }}
+                </ul>
             </td>
             <td>
                 {{ $url := print "/event/" $c.year "/wettlaufordnung" }}
