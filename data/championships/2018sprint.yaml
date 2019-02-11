@@ -21,8 +21,8 @@ results:
     valid: true
     result:
       - name: Leon Ebster
-      - name: König Markus
-      - name: Peter Ebster Jun.
+      - name: Markus König
+      - name: Peter Ebster
   - category: Damen 55-
     valid: false
   - category: Herren 55-

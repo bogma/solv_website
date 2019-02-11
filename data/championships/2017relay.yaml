@@ -12,13 +12,13 @@ results:
   - category: Damen 16-
     valid: false
     result:
-      - name: [Strasser Andrea, Christine Gathercole]
+      - name: [Andrea Strasser, Christine Gathercole]
   - category: Herren 16-
     valid: true
     result:
       - name: [Bernhard Fink, Richard Gathercole]
       - name: [Markus Buchberger, Norbert Helminger]
-      - name: [Dominique L´Humeau, Peter Ebster sen.]
+      - name: [Dominique L´Humeau, Peter Ebster Sen.]
   - category: Damen 55-
     valid: false
   - category: Herren 55-

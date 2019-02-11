@@ -7,7 +7,7 @@ results:
     result:
       - name: Felix Ausweger
       - name: Roman Schütz
-      - name: Florian Maier
+      - name: Florian Meier
   - category: Damen 16-
     valid: true
     result:
@@ -19,4 +19,4 @@ results:
     result:
       - name: Markus König
       - name: Manuel Gassner
-      - name: Mathias Kreuzer
+      - name: Matthias Kreuzer
