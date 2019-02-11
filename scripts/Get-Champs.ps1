@@ -2,3 +2,4 @@
 $relay_snd = Get-ChildItem .\data\championships -Recurse -Filter *.yaml | Select-String -Pattern '- name: \[.*, (.*)\]' | %{ $_.Matches.Groups[1].Value }
 $single = Get-ChildItem .\data\championships -Recurse -Filter *.yaml | Select-String -Pattern '- name: ([^\[].*)' | %{ $_.Matches.Groups[1].Value }
 
+$relay_fst + $relay_snd + $single | select -Unique | Sort > out.txt
