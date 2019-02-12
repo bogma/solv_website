@@ -13,8 +13,6 @@ events: (ol event only)
 
 meister:
 	layout
-	clubs
-
 
 {{ if isset $ctx "location"}} in maplink
 
