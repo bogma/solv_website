@@ -17,3 +17,13 @@ meister:
 
 
 {{ if isset $ctx "location"}} in maplink
+
+
+git:
+	make repro private if buddy allows it.
+	add colaborators
+
+deployment:
+	access to world4you with ssh -> hugo rsync deployment
+	https://www.world4you.com/faq/de/webhosting/faq.webspace-via-sshsftp-zugreifen.html
+	hugo && rsync -avz --delete public/ www-data@ftp.topologix.fr:~/www/
