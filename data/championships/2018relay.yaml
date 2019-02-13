@@ -6,9 +6,15 @@ results:
   - category: Damen -15
     valid: true
     result:
-      - name: [Jasmin Guggenberger, Emma Rothauer]
-      - name: [Katja Helminger, Jana Lechner]
-      - name: [Lara Höhenberger, Antonia Seitlinger]
+      - names:
+        - name: Jasmin Guggenberger
+        - name: Emma Rothauer
+      - names:
+        - name: Katja Helminger
+        - name: Jana Lechner
+      - names:
+        - name: Lara Höhenberger
+        - name: Antonia Seitlinger
   - category: Herren -15
     valid: false
   - category: Damen 16-

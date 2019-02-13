@@ -6,25 +6,25 @@
 {{ $item.name }}
 
 {{ if isset $item "clubname" }}
-{{ if $tooltip }}
-<span uk-tooltip="{{ $item.clubname }}">({{$item.clubshort}})</span>
+    {{ if $tooltip }}
+        <span uk-tooltip="{{ $item.clubname }}">({{$item.clubshort}})</span>
+    {{ else }}
+        <span>({{$item.clubshort}})</span>
+    {{ end }}
 {{ else }}
-<span>({{$item.clubshort}})</span>
-{{ end }}
-{{ else }}
-{{ with $members }}
-{{ range .club }}
-    {{ $clubName := .name }}
-    {{ $clubNameShort := .short }}
-    {{ range .members }}
-    {{ if eq . $item.name }}
-        {{ if $tooltip }}
-        <span uk-tooltip="{{ $clubName }}">({{$clubNameShort}})</span>
-        {{ else }}
-        <span>({{$clubNameShort}})</span>
+    {{ with $members }}
+    {{ range .club }}
+        {{ $clubName := .name }}
+        {{ $clubNameShort := .short }}
+        {{ range .members }}
+            {{ if eq . $item.name }}
+                {{ if $tooltip }}
+                    <span uk-tooltip="{{ $clubName }}">({{$clubNameShort}})</span>
+                {{ else }}
+                    <span>({{$clubNameShort}})</span>
+                {{ end }}
+            {{ end }}
         {{ end }}
     {{ end }}
     {{ end }}
-{{ end }}
-{{ end }}
 {{ end }}

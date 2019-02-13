@@ -15,4 +15,4 @@ menu:
     parent: "cup"
 ---
 
-{{< champTable >}}
+{{< champions >}}
