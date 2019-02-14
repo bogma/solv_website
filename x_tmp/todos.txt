@@ -3,7 +3,7 @@ general:
 	archive
 	custom js for single pages
 	ical entries
-	
+
 pressinfo:
 	reduce size of image for web if to big -> open question.
 
@@ -19,3 +19,6 @@ meister:
 git:
 	make repro private if buddy allows it.
 	add colaborators
+
+tooling:
+    gitpod for online editing
