@@ -5,12 +5,24 @@ results:
   - category: Damen
     valid: true
     result:
-      - name: [Birgit Eisl, Christine Müller]
-      - name: [Heda Perner, Julia Breitschädel]
-      - name: [Edith Müller, Christina Probst]
+      - names:
+        - name: Birgit Eisl
+        - name: Christine Müller
+      - names:
+        - name: Heda Perner
+        - name: Julia Breitschädel
+      - names:
+        - name: Edith Müller
+        - name: Christina Probst
   - category: Herren
     valid: true
     result:
-      - name: [Wolfgang Kampel, Tobias Breitschädel]
-      - name: [Jochen Berger, Felix Breitschädel]
-      - name: [Thomas Umundum, Richard Gathercole]
+      - names:
+        - name: Wolfgang Kampel
+        - name: Tobias Breitschädel
+      - names:
+        - name: Jochen Berger
+        - name: Felix Breitschädel
+      - names:
+        - name: Thomas Umundum
+        - name: Richard Gathercole

@@ -5,24 +5,48 @@ results:
   - category: Damen
     valid: true
     result:
-      - name: [Birgit Eisl, Christine Müller]
-      - name: [Julia Helminger, Traude Bischof]
-      - name: [Ingrid Simader, Brigitte Müller]
+      - names:
+        - name: Birgit Eisl
+        - name: Christine Müller
+      - names:
+        - name: Julia Helminger
+        - name: Traude Bischof
+      - names:
+        - name: Ingrid Simader
+        - name: Brigitte Müller
   - category: Herren
     valid: true
     result:
-      - name: [Richard Gathercole, Norbert Helminger]
-      - name: [Franz Wirth, Leopold Tonka]
-      - name: [Thomas Umundum, Wolfgang Kampel]
+      - names:
+        - name: Richard Gathercole
+        - name: Norbert Helminger
+      - names:
+        - name: Franz Wirth
+        - name: Leopold Tonka
+      - names:
+        - name: Thomas Umundum
+        - name: Wolfgang Kampel
   - category: Damen -17
     valid: true
     result:
-      - name: [Ina Simader, Christina Probst]
-      - name: [Elisabeth Ebner, Melanie Sinnhofer]
-      - name: [Franziska Rogl, Stefanie Rogl]
+      - names:
+        - name: Ina Simader
+        - name: Christina Probst
+      - names:
+        - name: Elisabeth Ebner
+        - name: Melanie Sinnhofer
+      - names:
+        - name: Franziska Rogl
+        - name: Stefanie Rogl
   - category: Herren 35-
     valid: true
     result:
-      - name: [Franz Wirth, Leopold Tonka]
-      - name: [Franz Helminger, Leo Müller]
-      - name: [Horst Mayer, Hartwig Rogl]
+      - names:
+        - name: Franz Wirth
+        - name: Leopold Tonka
+      - names:
+        - name: Franz Helminger
+        - name: Leo Müller
+      - names:
+        - name: Horst Mayer
+        - name: Hartwig Rogl

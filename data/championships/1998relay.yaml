@@ -5,12 +5,24 @@ results:
   - category: Damen
     valid: true
     result:
-      - name: [Andrea Eisl, Christine Müller]
-      - name: [Birgit Eisl, Edith Müller]
-      - name: [Heda Kusynova, Eva Bermadinger]
+      - names:
+        - name: Andrea Eisl
+        - name: Christine Müller
+      - names:
+        - name: Birgit Eisl
+        - name: Edith Müller
+      - names:
+        - name: Heda Kusynova
+        - name: Eva Bermadinger
   - category: Herren
     valid: true
     result:
-      - name: [Felix Breitschädel, Tobias Breitschädel]
-      - name: [Richard Gathercole, Norbert Helminger]
-      - name: [Edi Böhm, Jakob Buchberger]
+      - names:
+        - name: Felix Breitschädel
+        - name: Tobias Breitschädel
+      - names:
+        - name: Richard Gathercole
+        - name: Norbert Helminger
+      - names:
+        - name: Edi Böhm
+        - name: Jakob Buchberger

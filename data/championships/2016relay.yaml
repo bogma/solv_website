@@ -8,19 +8,33 @@ results:
   - category: Herren -15
     valid: true
     result:
-      - name: [Leon Ebster, Peter Ebster]
-      - name: [Jonas Königsdorfer, Martin Kastner]
+      - names:
+        - name: Leon Ebster
+        - name: Peter Ebster
+      - names:
+        - name: Jonas Königsdorfer
+        - name: Martin Kastner
   - category: Damen 16-
     valid: true
     result:
-      - name: [Lucie Rothauer, Julia Helminger]
-      - name: [Bernadette Grömer, Theresia Brunnauer]
+      - names:
+        - name: Lucie Rothauer
+        - name: Julia Helminger
+      - names:
+        - name: Bernadette Grömer
+        - name: Theresia Brunnauer
   - category: Herren 16-
     valid: true
     result:
-      - name: [Dominique L´Humeau, Bernhard Fink]
-      - name: [Matthias Kreuzer, Lukas Scharnagl]
-      - name: [Peter Ebster Sen., Christian Wartbichler]
+      - names:
+        - name: Dominique L´Humeau
+        - name: Bernhard Fink
+      - names:
+        - name: Matthias Kreuzer
+        - name: Lukas Scharnagl
+      - names:
+        - name: Peter Ebster Sen.
+        - name: Christian Wartbichler
   - category: Damen 55-
     valid: false
   - category: Herren 55-

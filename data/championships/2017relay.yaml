@@ -8,22 +8,38 @@ results:
   - category: Herren -15
     valid: false
     result:
-      - name: [Leon Ebster, Peter Ebster]
+      - names:
+        - name: Leon Ebster
+        - name: Peter Ebster
   - category: Damen 16-
     valid: false
     result:
-      - name: [Andrea Strasser, Christine Gathercole]
+      - names:
+        - name: Andrea Strasser
+        - name: Christine Gathercole
   - category: Herren 16-
     valid: true
     result:
-      - name: [Bernhard Fink, Richard Gathercole]
-      - name: [Markus Buchberger, Norbert Helminger]
-      - name: [Dominique L´Humeau, Peter Ebster Sen.]
+      - names:
+        - name: Bernhard Fink
+        - name: Richard Gathercole
+      - names:
+        - name: Markus Buchberger
+        - name: Norbert Helminger
+      - names:
+        - name: Dominique L´Humeau
+        - name: Peter Ebster Sen.
   - category: Damen 55-
     valid: false
   - category: Herren 55-
     valid: true
     result:
-      - name: [Leopold Tonka, Jakob Buchberger]
-      - name: [Eduard Böhm, Leo Müller]
-      - name: [Franz Mages, Horst Mayer]
+      - names:
+        - name: Leopold Tonka
+        - name: Jakob Buchberger
+      - names:
+        - name: Eduard Böhm
+        - name: Leo Müller
+      - names:
+        - name: Franz Mages
+        - name: Horst Mayer

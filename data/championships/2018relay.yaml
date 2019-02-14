@@ -20,19 +20,35 @@ results:
   - category: Damen 16-
     valid: true
     result:
-      - name: [Andrea Strasser, Bernadette Grömer]
-      - name: [Sophie Doppler, Katharina Hinterhofer]
+      - names:
+        - name: Andrea Strasser
+        - name: Bernadette Grömer
+      - names:
+        - name: Sophie Doppler
+        - name: Katharina Hinterhofer
   - category: Herren 16-
     valid: true
     result:
-      - name: [Bernhard Fink, Jonas Königsdorfer]
-      - name: [Martin Böhm, Peter Ebster]
-      - name: [Leon Ebster, Roland Kohlbacher]
+      - names:
+        - name: Bernhard Fink
+        - name: Jonas Königsdorfer
+      - names:
+        - name: Martin Böhm
+        - name: Peter Ebster
+      - names:
+        - name: Leon Ebster
+        - name: Roland Kohlbacher
   - category: Damen 55-
     valid: false
   - category: Herren 55-
     valid: true
     result:
-      - name: [Christian Breitschädel, Florian Elstner]
-      - name: [Franz Mages, Horst Mayer]
-      - name: [Jakob Buchberger, Wolfgang Buchberger]
+      - names:
+        - name: Christian Breitschädel
+        - name: Florian Elstner
+      - names:
+        - name: Franz Mages
+        - name: Horst Mayer
+      - names:
+        - name: Jakob Buchberger
+        - name: Wolfgang Buchberger
