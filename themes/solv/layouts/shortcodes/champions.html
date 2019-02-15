@@ -19,7 +19,7 @@
 
             {{ if gt $y "2015"}}
             <div class="{{$t}}-card">
-                <div class="uk-card uk-card-small uk-card-default">
+                <div class="uk-card uk__card--blog uk-card-small uk-card-default">
                     <div class="uk-card-header">
                         <div class="uk-grid uk-grid-small uk-text-small" data-uk-grid>
                             <div class="uk-width-expand">
@@ -40,20 +40,17 @@
                             {{ $c := add $index 1 }}
                             <div class="pos-{$c}">                                
                                 {{ if eq $t "relay" }}
-                                <table class="uk-table uk-table-small">
-                                {{ range $index, $item := $element.names }}
-                                    <tr>
-                                        {{ if eq $index 0 }}
-                                        <td>{{$c}}.</td>
-                                        {{ else }}
-                                        <td></td>
-                                        {{ end }}
-                                        <td>
-                                    {{ partial "functions/name_and_club" (dict "members" $.Page.Site.Data.club_members "item" $item) }}
-                                </td>
-                                    </tr>
-                                {{ end }}
-                                </table>
+                                <div class="uk-flex uk-flex-top">
+                                    <div class="uk-card">
+                                        <div class="champdetail">{{$c}}.</div>
+                                    </div>
+                                    <div class="uk-card">
+                                    {{ range $index, $item := $element.names }}
+                                        {{ partial "functions/name_and_club" (dict "members" $.Page.Site.Data.club_members "item" $item) }}
+                                        <br>
+                                    {{ end }}
+                                    </div>
+                                </div>
                                 {{ else }}
                                 {{ $c }}.
                                 {{ partial "functions/name_and_club" (dict "members" $.Page.Site.Data.club_members "item" $element) }}
