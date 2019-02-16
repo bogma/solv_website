@@ -9,7 +9,8 @@
             <li data-uk-filter-control=".junsen-card"><a href="#">Junioren/Senioren</a></li>
         </ul>
 
-        <div class="uk-grid uk-grid-medium uk-child-width-1-1@s uk-child-width-1-2@m uk-child-width-1-3@l  uk-child-width-1-4@xl uk-grid-match js-filter"
+
+        <div class="uk-grid uk-grid-medium uk-child-width-1-1@s uk-child-width-1-2@m uk-child-width-1-3@l uk-grid-match js-filter"
             data-uk-grid="masonry: true">
 
             {{ range sort .Page.Site.Data.championships "year" "desc" }}
@@ -33,33 +34,35 @@
 
                     <div class="uk-card-body">
                         {{ range .results }}
-                        <h6 class="uk-margin-small-bottom uk-margin-remove-adjacent uk-text-bold">{{.category}}</h6>
                         {{ if eq .valid true }}
+                        <h6 class="uk-margin-small-bottom uk-margin-remove-adjacent uk-text-bold">{{.category}}</h6>
                         <div class="uk-text-small">
                             {{ range $index, $element := .result }}
                             {{ $c := add $index 1 }}
-                            <div class="pos-{$c}">                                
-                                {{ if eq $t "relay" }}
+                            <div class="pos-{$c}">
                                 <div class="uk-flex uk-flex-top">
                                     <div class="uk-card">
                                         <div class="champdetail">{{$c}}.</div>
                                     </div>
-                                    <div class="uk-card">
-                                    {{ range $index, $item := $element.names }}
+                                    <div class="uk-card uk-margin-left">
+                                    {{ if eq $t "relay" }}
+                                        {{ range $index, $item := $element.names }}
                                         {{ partial "functions/name_and_club" (dict "members" $.Page.Site.Data.club_members "item" $item) }}
                                         <br>
+                                        {{ end }}
+                                    {{ else }}
+                                        {{ partial "functions/name_and_club" (dict "members" $.Page.Site.Data.club_members "item" $element) }}
                                     {{ end }}
                                     </div>
                                 </div>
-                                {{ else }}
-                                {{ $c }}.
-                                {{ partial "functions/name_and_club" (dict "members" $.Page.Site.Data.club_members "item" $element) }}
-                                {{ end }}
                             </div>
                             {{ end }}
                         </div>
                         {{ else }}
-                        <p class="uk-text-small uk-text-muted">keine Wertung</p>
+                            {{ if $.Site.Params.add_invalid_champs }}
+                                <h6 class="uk-margin-small-bottom uk-margin-remove-adjacent uk-text-bold">{{.category}}</h6>
+                                <p class="uk-text-small uk-text-muted">keine Wertung</p>
+                            {{ end }}
                         {{ end }}
                         {{ end }}
                     </div>
