@@ -1,23 +1,23 @@
 {{ define "main" }}
-{{ partial "hero" . }}
+{{ if not .Params.disable_rightbar }}
 <div class="uk-section uk-section-default uk-section-xsmall">
   <div class="uk-container">
     <div class="uk-grid" data-ukgrid>
       <div class="uk-width-3-4@m">
-        <h4 class="uk-heading-line uk-text-bold"><span>{{ with .Site.Data.l10n.articles.latest_posts }} {{ . }} {{ end }}</span></h4>
-        {{ $blog := where .Site.RegularPages "Type" "in" (slice "post" "pressinfo" "event")}}
+        {{ .Render "heading-line" }}
+        {{ $blog := where .Pages "Type" "!=" "page"}}
         {{ $blog = $blog | intersect (where .Site.RegularPages ".Params.status" "!=" "planned") }}
-        {{ $taxonomy := index .Site.Taxonomies.archives "2017" }}
-        {{ $archive := $taxonomy.Pages }}
-        {{ $blog = $blog | complement $archive }}
         {{ $paginator := .Paginate $blog }}
         {{ range .Paginator.Pages }}
           {{ .Render "summary" }}
         {{ end }}
         {{ partial "pagination" . }}
       </div>
-      {{ partial "sidebar_widgets" (dict "context" . "var" "index") }}
+      {{ partial "sidebar_widgets" (dict "context" . "var" "list") }}
     </div>
   </div>
 </div>
+{{ else }}
+  {{ .Content }}
+{{ end }}
 {{ end }}

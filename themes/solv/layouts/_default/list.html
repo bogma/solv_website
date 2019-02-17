@@ -7,6 +7,9 @@
         {{ .Render "heading-line" }}
         {{ $blog := where .Pages "Type" "!=" "page"}}
         {{ $blog = $blog | intersect (where .Site.RegularPages ".Params.status" "!=" "planned") }}
+        {{ $taxonomy := index .Site.Taxonomies.archives "2017" }}
+        {{ $archive := $taxonomy.Pages }}
+        {{ $blog = $blog | complement $archive }}
         {{ $paginator := .Paginate $blog }}
         {{ range .Paginator.Pages }}
           {{ .Render "summary" }}

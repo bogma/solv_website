@@ -3,6 +3,7 @@ general:
 	archive
 	custom js for single pages
 	ical entries
+	print layout
 
 pressinfo:
 	reduce size of image for web if to big -> open question.
@@ -22,3 +23,12 @@ git:
 
 tooling:
     gitpod for online editing
+
+
+filter:
+        {{ $blog := where .Site.RegularPages "Type" "in" (slice "post" "pressinfo" "event")}}
+        {{ $blog = $blog | intersect (where .Site.RegularPages ".Params.status" "!=" "planned") }}
+        {{ $taxonomy := index .Site.Taxonomies.archives "2017" }}
+        {{ $taxonomy = $taxonomy | union (index .Site.Taxonomies.archives "2018") }}
+        {{ $archive := $taxonomy.Pages }}
+        {{ $blog = $blog | complement $archive }}
