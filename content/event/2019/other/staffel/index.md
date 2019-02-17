@@ -25,7 +25,7 @@ course:
   lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
-  email: leo.mueller@sbg.at
+  email: anmeldung@ol-sbg.at
   closing_date_days: -6 # x days from event->date
 meeting:
   point: ""

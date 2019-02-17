@@ -21,7 +21,7 @@ official: # names of course setter, event organizer and inspector
   inspection: ""
 entry: # TODO for schulcup
   anne: false
-  email: leo.mueller@sbg.at
+  email: anmeldung@ol-sbg.at
   text: ""
   closing_date_days: -2 # x days from event->date
 meeting:
