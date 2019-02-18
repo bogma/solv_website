@@ -11,6 +11,7 @@
     {{ else }}
       <a href="http://www.openstreetmap.org/?mlat={{$lat}}&mlon={{$long}}&zoom=15">{{ $txt }}</a>
     {{ end }}
+    <span id="coordinates">[{{$lat}}, {{$long}}]</span>
   {{ else }}
     {{ $txt }}
   {{ end }}

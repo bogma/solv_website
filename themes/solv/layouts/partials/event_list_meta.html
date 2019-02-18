@@ -1,7 +1,7 @@
     <div class="uk-article-meta">
         <div>
             <span uk-icon="icon:location"></span>
-            {{ partial "functions/maplink" (dict "ctx" .Params.meeting "txt" .Params.event.location) }}
+            {{ partial "functions/map_link" (dict "ctx" .Params.meeting "txt" .Params.event.location) }}
             {{ with .Params.implementation }}
                 &bull;
                 {{.}}

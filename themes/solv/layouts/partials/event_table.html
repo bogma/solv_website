@@ -7,7 +7,7 @@
         <tr>
             <td>Treffpunk</td>
             <td>
-                {{ partial "functions/maplink" (dict "ctx" .Params.meeting) }}
+                {{ partial "functions/map_link" (dict "ctx" .Params.meeting) }}
                 ab <time>
                         {{ $mtime := time .Date }}
                         {{ $duration := time.Duration "minute" .Params.meeting.time_minutes }}

@@ -1,3 +1,21 @@
+/* styles for upcomming events */
+.event__item {
+  position: relative;
+}
+
+.event__item .event__type--schcup {
+  background: #B37D4E;
+}
+
+.event__item .event__type--sbgcup {
+  background: #CD5360;
+}
+
+.event__item .event__type--extern {
+  background: rgb(170, 83, 205);
+}
+
+
 .uk-section-xsmall {
   padding-top: 0.6rem;
   padding-bottom: 0.6rem;
@@ -8,6 +26,7 @@
 
 img[data-src][src*='data:image'] { background: rgba(0,0,0,0.1); }
 
+/* tags, archives */
 .tag-list-count,
 .archive-list-count {
   padding-left: 5px;
@@ -21,5 +40,9 @@ img[data-src][src*='data:image'] { background: rgba(0,0,0,0.1); }
 .tag-list-count:after,
 .archive-list-count:after {
   content: ")";
+}
+
+#coordinates {
+  display: none;
 }
 
