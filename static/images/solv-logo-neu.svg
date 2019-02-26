@@ -1,9 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="278" viewBox="0 0 500 278">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="278" viewBox="0 0 500 278" style="background-color:#9b0913;">
     <style>
-        svg {
-          background-color:#9b0913;
-        }
-        .compass-needle{fill:none;stroke:black;stroke-width:9}
         .text_orienteering {
             font-weight:bold;
             font-size:49px;
@@ -33,13 +29,13 @@
             stroke-width:1.22358084
         }
   </style>
-  <path id="upper-skyline" d="m 48,173 v -62 l 11,-4 V 87 l 3,-5 h 23 v -7 l 4,-4 4,4 v 7 h 16 V 67 h -2 l 5,-6 5,6 h -2 v 4 h 12 V 44 h 14 v 10 h 42 l 4,-5 h 20 v -7 l 3,-12 3,12 v 11 h 36 V 38 l 7,-6 6,3 v -5 h 11 v 5 h 4 l 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 h 2 v -4 h 4 v -2 l 2,-2 1,-2 1,2 2,2 v 2 h 5 v 16 h 20 v -3 h 10 v 5 h 16 V 38 h 5 v 3 h 7 v -3 h 5 v 37 h 33 v -6 l 6,7 v 2 l -2,2 1,2 v 13 l 10,4 v 72" fill="white" stroke="white" stroke-width="0"></path>
-  <path id="lower-skyline" d="m 460,172 v -1 l -18,-20 v -20 h -2.5 l -1,-1 v -4 l -1.5,-2 -1.5,2 v 4 l -1,1 H 432 v 5.5 h -3 V 129 c 0,-2 0,-3.5 -1.5,-6 -1.5,-2.2 -4.7,-4.9 -7.8,-7.5 v -7 c 0,-4 -5,-4 -5,0 v 7 c -3.2,2.3 -6.5,4.7 -8,6.8 -1.6,2.2 -1.6,4 -1.7,6 v 8.2 h -3 V 131 h -2.5 l -1,-1 v -4 l -1.5,-2 -1.5,2 v 4 l -1,1 H 392 v 13 h -22 v -30 l -3,-17 -3,17 v 26 h -3 l -6,-18 h -13 l -7,22 h -17 v -19 h 2 l -7,-8 -7,8 h 2 v 19 h -30 v -23 c 0,-5 -6.5,-3.5 -6,-8 0,-2 -2,-2 -2,0 0,5 -6.5,3.5 -6,8 v 16 h -6.5 c 0,-7 -11,-7 -11,0 H 240 v -16 c 0,-5 -6.5,-3.5 -6,-8 0,-2 -2,-2 -2,0 0,5 -6.5,3.5 -6,8 v 22 h -33 v -21 a 20,20 0 0 0 -15,-14 c 0,-8 -6,-8 -6,0 a 20,20 0 0 0 -15,14 v 21 h -21 l -4,8 h -5 v -4 h -12 v 14 H 91 V 151 A 13,13 0 0 0 80,140 v -4 h -4 v 4 a 13,13 0 0 0 -11,11 v 16 l -17,6 v 1" fill="#9b0913" stroke="white" stroke-width="0"></path>
-  <path d="m 121,140 v 7" stroke="#9b0913" stroke-width="2"></path>
-  <path d="m 118,142 h 5 v 1.5 z" fill="#9b0913" stroke="#9b0913" stroke-width="1"></path>
+  <path id="upper-skyline" d="m 48,173 v -62 l 11,-4 V 87 l 3,-5 h 23 v -7 l 4,-4 4,4 v 7 h 16 V 67 h -2 l 5,-6 5,6 h -2 v 4 h 12 V 44 h 14 v 10 h 42 l 4,-5 h 20 v -7 l 3,-12 3,12 v 11 h 36 V 38 l 7,-6 6,3 v -5 h 11 v 5 h 4 l 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 h 2 v -4 h 4 v -2 l 2,-2 1,-2 1,2 2,2 v 2 h 5 v 16 h 20 v -3 h 10 v 5 h 16 V 38 h 5 v 3 h 7 v -3 h 5 v 37 h 33 v -6 l 6,7 v 2 l -2,2 1,2 v 13 l 10,4 v 72" style="fill:white;stroke:white;stroke-width:0;"></path>
+  <path id="lower-skyline" d="m 460,172 v -1 l -18,-20 v -20 h -2.5 l -1,-1 v -4 l -1.5,-2 -1.5,2 v 4 l -1,1 H 432 v 5.5 h -3 V 129 c 0,-2 0,-3.5 -1.5,-6 -1.5,-2.2 -4.7,-4.9 -7.8,-7.5 v -7 c 0,-4 -5,-4 -5,0 v 7 c -3.2,2.3 -6.5,4.7 -8,6.8 -1.6,2.2 -1.6,4 -1.7,6 v 8.2 h -3 V 131 h -2.5 l -1,-1 v -4 l -1.5,-2 -1.5,2 v 4 l -1,1 H 392 v 13 h -22 v -30 l -3,-17 -3,17 v 26 h -3 l -6,-18 h -13 l -7,22 h -17 v -19 h 2 l -7,-8 -7,8 h 2 v 19 h -30 v -23 c 0,-5 -6.5,-3.5 -6,-8 0,-2 -2,-2 -2,0 0,5 -6.5,3.5 -6,8 v 16 h -6.5 c 0,-7 -11,-7 -11,0 H 240 v -16 c 0,-5 -6.5,-3.5 -6,-8 0,-2 -2,-2 -2,0 0,5 -6.5,3.5 -6,8 v 22 h -33 v -21 a 20,20 0 0 0 -15,-14 c 0,-8 -6,-8 -6,0 a 20,20 0 0 0 -15,14 v 21 h -21 l -4,8 h -5 v -4 h -12 v 14 H 91 V 151 A 13,13 0 0 0 80,140 v -4 h -4 v 4 a 13,13 0 0 0 -11,11 v 16 l -17,6 v 1" style="fill:#9b0913;"></path>
+  <path d="m 121,140 v 7" style="stroke:#9b0913;stroke-width:2;"></path>
+  <path d="m 118,142 h 5 v 1.5 z" style="fill:#9b0913;stroke:#9b0913;stroke-width:1;"></path>
   <text class="text_orienteering" x="45" y="207" id="text_orienteering">ORIENTEERI G</text>
-  <rect x="386" y="174" width="33" height="33" fill="white"></rect>
-  <path d="m 387,175 h 31 v 31 z" fill="#9b0913"></path>
-  <path id="line" d="M 48 215 H 460" stroke="white" stroke-width="3"></path>
+  <rect x="386" y="174" width="33" height="33" style="fill:white;"></rect>
+  <path d="m 387,175 h 31 v 31 z" style="fill:#9b0913;"></path>
+  <path id="line" d="M 48 215 H 460" style="stroke:white;;stroke-width:3;"></path>
   <text class="text_sbg" x="45" y="258" id="text_salzburg">SALZBURG</text>
 </svg>
