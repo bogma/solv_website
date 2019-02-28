@@ -1,5 +1,4 @@
 ---
-hero: true
 title: "Neuer Terminplan für SOLV-Veranstaltungen im Herbst 2018"
 date: 2018-08-08T17:48:37+01:00
 draft: false

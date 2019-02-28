@@ -1,8 +1,10 @@
 ---
+hero: true
 title: "1. Salzburger Sportvogl Schulcup 2019"
-date: 2019-03-28T00:00:00+01:00 # date of creation of the file
+date: 2019-03-28T14:00:00+01:00 # date of creation of the file
 draft: false
-status: planned
+status: active
+
 
 archives: []
 tags: [ "Schul Cup"]
@@ -10,28 +12,26 @@ tags: [ "Schul Cup"]
 event:
   name_amend: ""
   form: "Normaler OL"
-  location: "Ursprung"
+  location: "Seekirchen"
   type: "schcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orientieering" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
   course: "Der Wettkampfleiter der jeweiligen Veranstaltung"
-  event: "Dir. Horst Mayer und Christian Breitschädel"
+  event: "Horst Mayer, Christian Breitschädel, Edi Böhm, Karl Hackl"
   inspection: ""
 entry: # TODO for schulcup
   anne: false
   email: leo.mueller@sbg.at
   text: ""
-  closing_date_days: -2 # x days from event->date
+  closing_date_days: -7 # x days from event->date
 meeting:
-  point: ""
+  point: "Schule"
   time_minutes: -60 # x minutes from event->date
 timing: "SPORTIdent"
 hints: ""
-greetings: "Die Veranstalter wünschen erfolgreiche und unfallfreie Veranstaltungen
-
-Dir. Horst Mayer und Christian Breitschädel" # Der Verein wünscht Euch ...
+greetings: "Die Veranstalter wünschen erfolgreiche und unfallfreie Veranstaltungen" # Der Verein wünscht Euch ...
 
 resources:
 - src: "**/aus**"
