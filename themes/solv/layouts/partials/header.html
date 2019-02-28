@@ -17,10 +17,34 @@
             {{ if .HasChildren }}
             <a href="#">{{ .Name }} <span data-uk-icon="icon: triangle-down"></span></a>
               <div uk-dropdown="offset: -20" class="uk-navbar-dropdown">
-              <ul class="uk-nav uk-navbar-dropdown-nav">
+              <ul class="uk-nav-default uk-nav-parent-icon" uk-nav>
                 {{ range .Children }}
                   {{ if eq .Name "divider" }}
                     <li class="uk-nav-divider"></li>
+                  {{ else if eq .Identifier "tags"}}
+                  <li class="uk-parent">
+                    <a href="#">{{ with $.Site.Data.l10n.widgets.tags.title }}{{.}}{{end}}</a>
+                    <ul class="uk-nav-sub">
+                      {{ range $name, $items := $.Site.Taxonomies.tags }}
+                      <li>
+                        {{ $url := printf "%s/%s" "tags" ($name | urlize | lower)}}
+                        <a href="{{ $url | absURL }}"><span>{{ $name }}</span><span class="tag-list-count">{{ len $items }}</span></a>
+                      </li>
+                      {{ end }}
+                    </ul>
+                  </li>
+                  {{ else if eq .Identifier "archives"}}
+                  <li class="uk-parent">
+                    <a href="#">{{ with $.Site.Data.l10n.widgets.archive.title }}{{.}}{{end}}</span></a>
+                    <ul class="uk-nav-sub">
+                      {{ range $name, $items := $.Site.Taxonomies.archives }}
+                      <li>
+                        {{ $url := printf "%s/%s" "archives" ($name | urlize | lower)}}
+                        <a href="{{ $url | absURL }}"><span>{{ $name }}</span><span class="tag-list-count">{{ len $items }}</span></a>
+                      </li>
+                      {{ end }}
+                    </ul>
+                  </li>
                   {{ else }}
                   <li>
                     <a href="{{ .URL }}">{{ .Name }}</a>
@@ -40,7 +64,7 @@
   </div>
   <div id="mobile-menu" uk-offcanvas="overlay: true">
     <div class="uk-offcanvas-bar">
-        <ul class="uk-nav uk-nav-default uk-nav-parent-icon" data-uk-nav>
+        <ul class="uk-nav-default uk-nav-parent-icon" uk-nav>
           <li class="uk-nav-header">
           <a href="{{ .Site.Home.RelPermalink }}" class="uk-navbar-item uk-logo" >
               <img width="75" height="42" src="/images/solv-logo-neu.svg" class="uk-margin-small-right" uk-svg />
@@ -50,11 +74,39 @@
           {{ if .HasChildren }}
           <li class="uk-parent">
             <a href="#">{{ .Name }}</a>
-            <ul class="uk-nav-sub" hidden>
+            <ul class="uk-nav-sub">
               {{ range .Children }}
-              <li>
-                <a href="{{ .URL }}">{{ .Name }}</a>
-              </li>
+              {{ if eq .Name "divider" }}
+                <li class="uk-nav-divider"></li>
+                {{ else if eq .Identifier "tags"}}
+                <li class="uk-parent">
+                  <a href="#">{{ with $.Site.Data.l10n.widgets.tags.title }}{{.}}{{end}}</a>
+                  <ul class="uk-nav-sub">
+                    {{ range $name, $items := $.Site.Taxonomies.tags }}
+                    <li>
+                      {{ $url := printf "%s/%s" "tags" ($name | urlize | lower)}}
+                      <a href="{{ $url | absURL }}"><span>{{ $name }}</span><span class="tag-list-count">{{ len $items }}</span></a>
+                    </li>
+                    {{ end }}
+                  </ul>
+                </li>
+                {{ else if eq .Identifier "archives"}}
+                <li class="uk-parent">
+                  <a href="#">{{ with $.Site.Data.l10n.widgets.archive.title }}{{.}}{{end}}</span></a>
+                  <ul class="uk-nav-sub">
+                    {{ range $name, $items := $.Site.Taxonomies.archives }}
+                    <li>
+                      {{ $url := printf "%s/%s" "archives" ($name | urlize | lower)}}
+                      <a href="{{ $url | absURL }}"><span>{{ $name }}</span><span class="tag-list-count">{{ len $items }}</span></a>
+                    </li>
+                    {{ end }}
+                  </ul>
+                </li>
+              {{ else }}
+                <li>
+                  <a href="{{ .URL }}">{{ .Name }}</a>
+                </li>
+              {{ end }}
               {{ end }}
             </ul>
           </li>
