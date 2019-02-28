@@ -32,3 +32,29 @@ filter:
         {{ $taxonomy = $taxonomy | union (index .Site.Taxonomies.archives "2018") }}
         {{ $archive := $taxonomy.Pages }}
         {{ $blog = $blog | complement $archive }}
+
+
+full size bg image
+html { 
+	background: url(/images/bg.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+/* html {
+  background: url(/css/bg.jpg) no-repeat center center fixed;
+  height: 100%;
+} */
+
+/* html::after {
+  content: "";
+  background: url(/images/bg.jpg);
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+} */
