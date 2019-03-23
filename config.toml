@@ -93,7 +93,6 @@ paginate = 10
     time_format_hhmm = "15:04"
     use_google = false
     num_of_planned_events_preview = 4
-    enable_hotjar = true
     add_invalid_champs = false
 
 # Enable and disable widgets for the right sidebar
