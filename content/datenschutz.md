@@ -2,6 +2,7 @@
 title: "Datenschutz"
 date: 2018-05-30T00:00:00+02:00
 tpye: "page"
+draft: true
 
 disable_rightbar: true
 
