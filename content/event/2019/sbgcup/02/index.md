@@ -1,8 +1,9 @@
 ---
+hero: true
 title: "2. + 3. Salzburger Sportvoglcup 2019"
-date: 2019-04-07T00:00:00+01:00 # date of creation of the file
+date: 2019-04-07T10:30:00+01:00 # date of creation of the file
 draft: false
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 2567
 
 archives: []
@@ -18,25 +19,25 @@ championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "TV Zell am See" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Roland Kohlbacher"
+  event: "Gabriel Seitlinger"
+  inspection: "Katharina Hinterhofer"
 course:
-  valid: false # set to true when the course lenghts are final
-  lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
+  valid: true # set to true when the course lenghts are final
+  lenghts: [["Einfach","1,9 km | 1,75 km"], ["Kurz","2,6 km | 1,8 km"], ["Mittel","2,7 km | 2,65 km"], ["Lang","3,25 km | 3,05 km"], ["Family", "1,1 km | 1,5 km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
   closing_date_days: -7 # x days from event->date
 meeting:
-  point: ""
+  point: "PP BG/HAK Zell am See, Schüttdorf"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.307246, 12.797756]
 map:
-  name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
+  name: "Schüttdorf - Nord, BG/BRG Zell am See"
+  scale: "1:3.000"
+  equidistance: "brettl ebn"
+  update: "März 2019"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
@@ -59,8 +60,8 @@ resources:
 
 ### Startgeld
 
-- bis D/H -15 und OL: € 3,-
-- ab D/H 16-: € 4,50
+- bis D/H -15 und OL: € 6,-
+- ab D/H 16-: € 9
 
 ### Zeitnehmung
 

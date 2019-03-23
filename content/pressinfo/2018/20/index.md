@@ -1,5 +1,4 @@
 ---
-hero: true
 title: "Sensationeller Auftaktsieg für Robert Merl in China + 2 x Bronze"
 date: 2018-12-22T22:19:44+01:00 # date for 'written on'
 draft: false

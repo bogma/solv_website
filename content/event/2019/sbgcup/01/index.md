@@ -1,7 +1,7 @@
 ---
 hero: true
 title: "1. Salzburger Sportvoglcup 2019"
-date: 2019-03-30T00:00:00+01:00 # date of creation of the file
+date: 2019-03-30T13:30:00+01:00 # date of creation of the file
 draft: false
 status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 2574
@@ -19,30 +19,31 @@ championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "HSV Wals" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
+  course: "Franz Nagele"
+  event: "Franz Nagele"
   inspection: ""
 course:
-  valid: false # set to true when the course lenghts are final
-  lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
+  valid: true # set to true when the course lenghts are final
+  lenghts: [["Einfach","2,3 km"], ["Kurz","2,9 km"], ["Mittel","5,4 km"], ["Lang","6,9 km"], ["Family","1,8 km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -6 # x days from event->date
 meeting:
-  point: "Ende Oberaustraße"
-  time_minutes: -60 # x minutes from event->date
-  location: [47.80215, 12.97505]
+  point: " Sporthalle Schwarzenbergkaserne"
+  time_minutes: -90 # x minutes from event->date
+  location: [47.796814, 12.983826]
 map:
-  name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
+  name: "Saalachau"
+  scale: "1:7.500"
+  equidistance: "2m"
+  update: "März 2019"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: ""
+hints: "Da der Wettkampf auf militärischem Grund durchgeführt wird, begehrt das, die Genehmigung erteilende Militärkommando Salzburg, den Teilnehmern folgende erlautbarung zur Kenntnis zu bringen:
+Der Veranstalter sowie der durchführende Verein übernimmt keinerlei Haftung für auftretende Schäden jeglicher Art, auch nicht gegenüber Dritten. Jede(r) Läufer(in) startet auf eigene Gefahr und ist für die entsprechenden Versicherungen selbst verantwortlich. Eine Haftung des Bundes ist ausgeschlossen."
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
@@ -56,6 +57,10 @@ resources:
   title: "Ergebnisse"
 - src: "**/lau**"
   title: "Läuferinfo"
+- src: "**/map**"
+  title: "Alte Karte"
+- src: "**/over**"
+  title: "Übersichtsplan"
 ---
 
 ### Startgeld
