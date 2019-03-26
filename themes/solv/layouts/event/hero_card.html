@@ -1,9 +1,0 @@
-<a class="uk-link-reset event__item" href="{{ .Permalink }}">
-    <span class="uk-label event__type--{{.Params.event.type}}">
-        {{ partial "functions/get_folder_info" .}}
-    </span>
-</a>
-{{ if and (eq .Params.status "active") (.Params.entry.anne) }}
-<span class="uk-text-bold uk-margin-left">{{ partial "functions/event_anne_link" (dict "id" .Params.anne_id "link" "Anmeldung") }}</span>
-{{ end }}
-<div class="uk-margin-top uk-width-auto uk-text-left uk-text-muted">{{ partial "event_meta" . }}</div>
