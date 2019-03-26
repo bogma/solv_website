@@ -1,0 +1,3 @@
+[submodule "themes/hugo-solv"]
+	path = themes/hugo-solv
+	url = https://github.com/bogma/hugo-solv.git
