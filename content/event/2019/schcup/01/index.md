@@ -1,9 +1,8 @@
 ---
-hero: true
 title: "1. Salzburger Sportvogl Schulcup 2019"
 date: 2019-03-28T14:00:00+01:00 # date of creation of the file
 draft: false
-status: active
+status: done
 
 
 archives: []
@@ -38,10 +37,10 @@ resources:
   title: "Ausschreibung"
 - src: "**/start**"
   title: "Startliste"
-- src: "**/resu**"
-  title: "Ergebnisse"
-- src: "**/split**"
+- src: "**/res*split*"
   title: "Splits"
+- src: "**/res**"
+  title: "Ergebnisse"
 - src: "**/laeu**"
   title: "Läuferinfo"
 ---

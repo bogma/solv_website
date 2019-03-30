@@ -7,7 +7,7 @@ type: "page"
 
 ## Wertungen 2019
 
-**Salzburger Sportvogl-Cup:** Die sechs besten Resultate (von 9 möglichen)
+**Salzburger Sportvogl-Cup:** Die sieben besten Resultate (von 11 möglichen)
 
 **Salzburger Sprint-Cup:** Die drei besten Resultate (von 5 möglichen)
 
