@@ -43,18 +43,19 @@
 			}
 			#top-head {
                 background: wheat;
-            }
+			}
 		</style>
 	</head>
-	<body class="uk-background-norepeat uk-background-cover uk-background-center-center">
-        <img data-srcset="bg640.png 640w, bg.png 960w,bg.png 1200w,bg.png 2000w"
+	<body class="uk-background-fixed uk-background-norepeat uk-background-cover uk-background-center-center"
+	style="background-image: url(bg640.png);">
+    <!--     <img data-srcset="bg640.png 640w, bg.png 960w,bg.png 1200w,bg.png 2000w"
              sizes="100vw"
              data-src="bg.png"
              alt=""
              data-uk-cover
-             data-uk-img>
+             data-uk-img> -->
 		<!--HEADER-->
-		<header id="header" style="background-color: #fff;">
+		<header id="header"  style="background-color: #fff;">
 			<div class="uk-container">
 				<nav id="navbar" data-uk-navbar="mode: click;">
 					<div class="uk-navbar-left nav-overlay uk-visible@m">
@@ -93,8 +94,9 @@
 		</header>
 		<!--/HEADER-->
 		<!-- NAVIGATION -->
-		<div id="top-head" class="uk-container" uk-sticky>
-			<nav class="nav-scroll">
+			<div uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky" class="uk-sticky">
+			<!-- <div id="top-head" class="uk-container" uk-sticky> -->
+			<nav class="nav-scroll uk-navbar-container">
 				<ul class="uk-subnav uk-flex uk-flex-between uk-flex-nowrap">
 					<li class="uk-active"><a href="#">World</a></li>
 					<li><a href="#">Politics</a></li>
@@ -220,7 +222,7 @@
 		</div>
 		<!-- /FEATURED -->
 		<!--CONTENT-->
-		<div class="uk-section uk-section-default">
+		<div class="uk-section uk-section-small">
 			<div class="uk-container">
 				<div class="uk-grid" data-ukgrid>
 					<div class="uk-width-2-3@m">
@@ -341,6 +343,6 @@
 		<!-- JS FILES -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.2/js/uikit.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.2/js/uikit-icons.min.js"></script>
-		
+		<!-- </div> -->
 	</body>
 </html>
