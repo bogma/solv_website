@@ -1,8 +1,0 @@
-{
-    {{ with .Section }}
-    "section" : "{{ . }}",
-    {{ end }}
-    "name": "{{ .Title }}",
-    "contact" : "{{ .Params.emergency_contact }}",
-    "permalink" : "{{ .Permalink }}"
-}
