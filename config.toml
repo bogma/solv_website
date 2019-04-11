@@ -83,6 +83,7 @@ paginate = 10
 
 [params]
     description = "SOLV website"
+    short_title = "SOLV"
 	# Date and time formatting, see https://gohugo.io/functions/format/
 	time_format_RFC3339 = "2006-01-02T15:04:05Z07:00"
 	time_format_RFC822 = "Mon, 02 Jan 2006 15:04:05 -0700" 
