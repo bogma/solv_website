@@ -1,4 +1,5 @@
 ---
+hero: true
 title: "Robert Merl kämpft sich durch die norwegischen Sümpfe"
 date: 2019-04-13T16:30:09+02:00 # date for 'written on'
 draft: false
@@ -14,7 +15,7 @@ resources:
 - src: "*1.jpg"
   title: "Robert Merl in Norwegen"
 - src: "*2.jpg"
-  title: "v.l. hinten Robert Merl, Mathias Peter, Matthias Gröll, Ake Jönsson vorne Anika Gassner, Ursula Kadan, Johanna Trummer, Laura Ramstein, Carina Polzer"
+  title: "v.l. hinten R. Merl, M. Peter, M. Gröll, A. Jönsson vorne A. Gassner, U. Kadan, J. Trummer, L. Ramstein, C. Polzer"
 
 ---
 

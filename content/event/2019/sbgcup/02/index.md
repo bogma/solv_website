@@ -1,5 +1,4 @@
 ---
-hero: true
 title: "2. + 3. Salzburger Sportvoglcup 2019"
 date: 2019-04-07T10:30:00+01:00 # date of creation of the file
 draft: false

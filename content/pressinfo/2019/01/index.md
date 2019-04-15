@@ -1,5 +1,4 @@
 ---
-hero: true
 title: "Henndorfer Orientierungsläufer starten erfolgreich in die neue Saison"
 date: 2019-03-10T22:30:45+01:00 # date for 'written on'
 draft: false
