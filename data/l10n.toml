@@ -15,7 +15,8 @@
     newer = "Newer"
 
 [search]
-    placeholder = "Search"
+    placeholder = "Suche ..."
+    title = "Suche"
 
 [pagination]
     first = "«« Anfang"

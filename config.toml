@@ -105,5 +105,6 @@ paginate = 10
     archives = true
 
 [outputs]
-    page = ["HTML", "JSON"]
-    section = ["HTML", "JSON"]
+    home = ["HTML", "JSON"]
+    page = ["HTML"]
+    section = ["HTML"]
