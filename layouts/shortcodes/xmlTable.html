@@ -1,0 +1,52 @@
+{{ $xml := getXML "/edata/SbgCup01_2019.xml" }}
+<table class="uk-table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Funktion</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>{{$xml.ResultList.Event.Name}}</td>
+            <td>{{$xml.note.from}}</td>
+        </tr>
+        {{ range $xml.ResultList.ClassResult }}
+            <tr>
+                <td colspan="3">{{.Class.Name}} ({{.Class.ShortName}}) - {{.Course.Name}} / {{.Course.Length}} m / {{.Course.NumberOfControls}} Posten</td>
+                <table class="uk-table uk-table-stripped">
+                    <thead>
+                        <tr>
+                            <th>Pl</th>
+                            <th>Name</th>
+                            <th>Jg</th>
+                            <th>Verein</th>
+                            <th>Zeit</th>
+                            <th>Diff.</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {{ $plOffset := 1 }}
+                        {{ range $i, $p := .PersonResult }}
+                        <tr>
+                            <td>{{ $plOffset }}</td>
+                            <td>{{ $p.Person.Name.Given }} {{ $p.Person.Name.Family}}</td>
+                            <td>{{ $p.Person.BirthDate | .Date.Format "06" }}</td>
+                            <td>{{ $p.Organisation.Name }}</td>
+                            <td>
+                                {{ $duration := time.Duration "second" $p.Result.Time }}
+                                {{ if eq $p.Result.Status "OK" }}
+                                    {{ $duration }}
+                                {{ else }}
+                                    {{ $p.Result.Status }}
+                                {{ end }}
+                            </td>
+                        </tr>
+                            {{ $plOffset = add $plOffset 1 }}
+                        {{ end }}
+                    </tbody>
+                </table>
+            </tr>
+        {{ end }}
+    </tbody>
+</table>
