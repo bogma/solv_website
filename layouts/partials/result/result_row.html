@@ -1,0 +1,27 @@
+{{ $pr := .personresult }}
+{{ $plOffset := .ploffset }}
+
+<tr>
+    <td>{{ $plOffset }}</td>
+    <td>{{ $pr.Person.Name.Given }} {{ $pr.Person.Name.Family}}</td>
+    <td>
+        {{ with $pr.Person.BirthDate}}
+            {{ . | dateFormat "06"}}
+        {{ end }}
+    </td>
+    <td>{{ $pr.Organisation.Name }}</td>
+    <td align="right">
+        {{ $duration := time.Duration "second" $pr.Result.Time }}
+        {{ if eq $pr.Result.Status "OK" }}
+            {{ secondsFormat (int $pr.Result.Time)}}
+        {{ else }}
+            {{ $pr.Result.Status }}
+        {{ end }}
+    </td>
+    <td align="right">
+        {{ $diff := time.Duration "second" $pr.Result.TimeBehind }}
+        {{ if and (eq $pr.Result.Status "OK") (gt $diff 0) }}
+            +{{ secondsFormat (int $pr.Result.TimeBehind)}}
+        {{ end }}
+    </td>
+</tr>

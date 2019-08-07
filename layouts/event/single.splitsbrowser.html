@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+{{ $resultFile := "" }}
+{{ with .Resources.GetMatch "results/*.xml" }}
+    {{ $resultFile = .Title}}
+{{ end }}
+
+<div class="uk-container">
+    <h3 class="uk-text-center">{{ .Title }} - Splits</h1>
+</div>
+
+<section class="uk-section uk-section-xsmall uk-section-muted">
+    <div id="sbRoot" class="uk-container uk-container-expand">
+    </div>
+</section>
+
+<script type="text/javascript">
+    SplitsBrowser.loadEvent('{{$resultFile}}');
+</script>
+<noscript>
+    <h1>SplitsBrowser &ndash; JavaScript is disabled</h1>
+    <p>Your browser is set to disable JavaScript.</p>
+    <p>SplitsBrowser cannot run if JavaScript is not enabled. Please enable JavaScript in your browser.</p>
+</noscript>
+{{ end }}

@@ -2,6 +2,12 @@
 title: "1. Salzburger Sportvoglcup 2019"
 date: 2019-03-30T13:30:00+01:00 # date of creation of the file
 draft: false
+outputs:
+- html
+- result
+- split
+- splitsbrowser
+
 status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 2574
 
