@@ -11,115 +11,78 @@
 
 {{ $xml := getXML $f }}
 
-<div id=reporttop>
-    <table width=848 style="table-layout:auto;">
-        <tr>
-            <td>{{$xml.ResultList.Event.Name}}</td>
-            <td>{{$xml.note.from}}</td>
-        </tr>
+<div class="uk-container">
+    <h3 class="uk-text-center">{{$xml.ResultList.Event.Name}}
+        {{ with $xml.note.from }} - {{.}} {{ end }}</h3>
+</div>
+<div class="uk-container">
+    <table id="" class="display datatable" style="width:100%">
+        <thead>
+            <tr>
+                <th>Pl</th>
+                <th>Kategorie</th>
+                <th>Name</th>
+                <th>Jg</th>
+                <th>Verein</th>
+                <th>Zeit</th>
+                <th>Diff.</th>
+            </tr>
+        </thead>
+        <tbody>
+        {{ range $xml.ResultList.ClassResult }}
+
+        {{ $count := 0 }}
+            <!-- 
+        <div>
+            <h5><nobr>{{.Class.Name}} ({{$count}}) - Bahn: {{.Course.Name}}</nobr>{{.Course.Length}} m, {{.Course.NumberOfControls}} P</h5>
+        </div>
+ -->
+            {{ range $i, $p := .PersonResult }}
+                {{ if eq $i "Person" }}
+                    {{ $count = 0 }}
+                {{ else }}
+                    {{ $count = add $count 1 }}
+                {{ end }}
+            {{ end }}
+            {{ $className := (print .Class.Name " (" $count ") - Bahn: " .Course.Name ", " .Course.Length " m, " .Course.NumberOfControls " P" ) }}
+            {{ $plOffset := 1 }}
+            {{ if eq $count 1 }}
+                {{ partial "result/result_row" (dict "personresult" .PersonResult "ploffset" $plOffset "cat" $className) }}
+            {{ else }}
+                {{ range $i, $p := .PersonResult }}
+                    {{ partial "result/result_row" (dict "personresult" $p "ploffset" $plOffset "cat" $className) }}
+                    {{ $plOffset = add $plOffset 1 }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+        </tbody>
     </table>
 </div>
-        {{ range $xml.ResultList.ClassResult }}
-            {{ $count := 0 }}
-            {{ range $i, $p := .PersonResult }}
-            {{ if eq $i "Person" }}
-                {{ $count = 0 }}
-            {{ else }}
-                {{ $count = add $count 1 }}
-            {{ end }}
-            {{ end }}
-        <table width=699px>
-            <tbody>
-                <tr>
-                    <td id=c00 width=311px>
-                        <nobr>{{.Class.Name}} ({{$count}}) - Bahn: {{.Course.Name}}</nobr>
-                    </td>
-                    <td id=c01 width=148px>{{.Course.Length}} m</td>
-                    <td id=c02 width=51px>{{.Course.NumberOfControls}} P</td>
-                    <td id="header" ></td>
-                </tr>
-            </tbody>
-        </table>
-
-                <table class="uk-table uk-table-stripped uk-table-hover uk-table-condensed" style="width: 85%;">
-                    <colgroup>
-                        <col width=42px>
-                        <col width=223px>
-                        <col width=34px>
-                        <col width=193px>
-                        <col width=76px>
-                        <col width=76px>
-                    </colgroup>
-                    <thead>
-                        <tr>
-                            <th>Pl</th>
-                            <th>Name</th>
-                            <th>Jg</th>
-                            <th>Verein</th>
-                            <th>Zeit</th>
-                            <th>Diff.</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {{ $plOffset := 1 }}
-                        {{ if eq $count 1 }}
-                            {{ partial "result/result_row" (dict "personresult" .PersonResult "ploffset" $plOffset) }}
-                        {{ else }}
-                            {{ range $i, $p := .PersonResult }}
-                                {{ partial "result/result_row" (dict "personresult" $p "ploffset" $plOffset) }}
-                                {{ $plOffset = add $plOffset 1 }}
-                            {{ end }}
-                        {{ end }}
-                    </tbody>
-                </table>
-        {{ end }}
-
-<style type="text/css">
-    body { color: #000000; background-color: #ffffff; 
-           font: 10pt/1.2 Arial, Helvetica, sans-serif; }
-    table { table-layout:fixed; border-collapse: collapse; border-spacing: 0px; 
-            padding: 0; margin: 0; border: none; }
-    th { background-color: #ebffeb; color: blue; font-weight: normal;
-         border: none; white-space:nowrap; text-align: left;
-         padding: 0px 3px 3px 3px; vertical-align: bottom;
-         font: 10pt/1.2 Arial, Helvetica, sans-serif; }
-    td { padding-left: 3px; padding-right: 3px;
-         border: none; overflow:hidden; vertical-align: bottom;
-         white-space:nowrap; text-align: left;
-         font: 10pt/1.2 Arial, Helvetica, sans-serif; }
-    a:link    { font-weight:bold; color:blue; text-decoration:none; }
-    a:visited { font-weight:bold; color:purple; text-decoration:none; }
-    a:focus   { font-weight:bold; color:green; text-decoration:none; }
-    a:hover   { font-weight:bold; color:green; text-decoration:none; }
-    a:active  { font-weight:bold; color:green; text-decoration:none; }
-    #header { background-color: #ebffeb; color: black; padding: 5px 3px 2px 3px; }
-    #reporttop { background-color: #FFFFE0; font-weight: bold; padding: 0;
-                 border: none; margin: 0; width: 100%; }
-    #reporttop td { vertical-align: bottom; }
-    #ln { font-size: 5pt; }
-    tr#ev { background-color: #FFFFE0; }
-    tr#fix { background-color: #E0FFFF; }
-    #rb { text-align: right; }
-    #ce { text-align: center; }
-    #navigation {
-        top: 0px; right: 0px; position: fixed; display: block;
-        max-height: 95%; overflow-y: auto; overflow-x: hidden;
-        margin: 8px; text-align: left; white-space:nowrap;
-        background-color: #ebffeb; padding: 5px 18px 5px 5px;
-        font: 10pt/1.2 Arial, Helvetica, sans-serif;
-        font-weight: bold; text-decoration: none;
-        border-radius: 3px 3px 3px 3px;
-        box-shadow: 2px 2px 2px #d0d0d0;
-        opacity: .9;
-          }
-    #navigation td {padding-top: 0; padding-bottom: 0;}
-    #navigation table {display: none;}
-    #navigation:hover table {display: block;}
-    #navcaption {color: green; }
-    @media print { #navigation { display:none; } }
-    
-    #c00 { background-color: #ebffeb; color: black; padding: 5px 3px 2px 3px; font-weight: bold; }
-    #c01 { background-color: #ebffeb; color: black; padding: 5px 3px 2px 3px; font-weight: bold; text-align: right; }
-    #c02 { background-color: #ebffeb; color: black; padding: 5px 3px 2px 3px; font-weight: bold; text-align: right; }
-    </style>
+    <style>
+    div.dataTables_wrapper {
+        margin-bottom: 3em;
+    }</style>
+    <script type="text/javascript">
+        $(document).ready( function () {
+            $('table.display').DataTable({
+                paging: false,
+                info: false,
+                searching: false,
+                responsive: true,
+                order: [[1, 'asc']],
+                rowGroup: {
+                    startRender: function ( rows, group ) {
+                        return $('<tr/>')
+                                .append( '<td colspan="7">'+group+'</td>' );
+                        },
+                    dataSrc: 1
+                },
+                columnDefs: [
+                    { "visible": false, "targets": 1 }
+                ]
+            });
+        });
+        </script>
 {{ end }}
+
+

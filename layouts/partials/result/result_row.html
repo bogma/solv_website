@@ -1,8 +1,10 @@
 {{ $pr := .personresult }}
 {{ $plOffset := .ploffset }}
+{{ $cat := .cat }}
 
 <tr>
     <td>{{ $plOffset }}</td>
+    <td>{{ $cat }}</td>
     <td>{{ $pr.Person.Name.Given }} {{ $pr.Person.Name.Family}}</td>
     <td>
         {{ with $pr.Person.BirthDate}}
