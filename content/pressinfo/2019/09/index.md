@@ -1,13 +1,13 @@
 ---
-title: "Title"
-date: 2019-08-29T18:48:28+02:00 # date for 'written on'
-draft: true
-author: ""
+title: "Starker 16. Platz für Robert Merl in Schweden"
+date: 2019-07-28T18:48:28+02:00 # date for 'written on'
+draft: false
+author: "r.merl"
 catetories: [ "Presseinfo" ]
 archives: []
-tags: [] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
-location: "Henndorf, "
-info_date: # date in article (YYYY-MM-dd)
+tags: ["Robert Merl", "International"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
+location: "Norrköping (SWE)"
+info_date: 2019-07-22 - 2019-07-27 # date in article (YYYY-MM-dd)
 
 # edit title of image here
 #resources:
@@ -16,8 +16,13 @@ info_date: # date in article (YYYY-MM-dd)
 
 ---
 
-summary text
+Der Orientierungsläufer Robert Merl vom ASKÖ Henndorf belegt beim Mega-Event Oringen mit über 20 000 Teilnehmern den starken 16. Platz in der Herren Elite.
 
 <!--more-->
 
-more text
+Der 5-Tage-OL Oringen wird jährlich an verschiedenen Orten Schwedens veranstaltet. Heuer war Norrköping das Zentrum des Events mit seinen umliegenden mit Sümpfen, Steinen und Felsen durchzogenen Wäldern. Der Heeresleistungssportler Robert Merl nutzte das Event als Vorbereitung für die Anfang August stattfindende WM. 
+"Bei der WM in Norwegen werden die Wälder ähnlich sein wie hier in Norrköping. Außerdem ist die Konkurrenz bei diesem prestigeträchtigen Mehr-Tage-Lauf extrem groß. Darum freut es mich umso mehr, dass ich mich hier gegen viele Weltklasse-Läufer durchsetzen konnte. Die Vorfreude auf die WM wächst täglich!" erzählt Robert Merl glücklich nach dem 5. Wettkampf in 6 Tagen.
+
+Veranstaltungshomepage: http://oringen.se/213/kolmarden-2019.html
+
+Ergebnisse: https://resultat.oringen.se/2019/list?classIds=1&orderBy=primaryPlace&raceId=5&type=overallResultList
