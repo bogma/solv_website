@@ -1,22 +1,39 @@
 {{ define "main" }}
 
-{{ $resultFile := "" }}
-{{ with .Resources.GetMatch "results/*.xml" }}
-    {{ $resultFile = .Title}}
+<div class="uk-container">
+{{ with .Resources.Match "results/*.xml" }}
+    {{ $cnt := len .}}
+    {{ if gt $cnt 1 }}
+    <ul class="uk-tab" data-uk-tab="{connect:'#my-id'}">
+        {{ range $index, $element := . }}
+            {{ $file := printf "content/%s" $element.RelPermalink }}
+            <li><a href="">{{ $element.Title }} {{$index}}</a></li>
+        {{ end }}
+    </ul>
+    <ul id="my-id" class="uk-switcher uk-margin">
+        {{ range $index, $element := . }}
+        <li></li>
+        {{ end }}
+    </ul>
+    {{ else }}
+        {{ range $index, $element := . }}
+            {{ $file := printf "content/%s" $element.RelPermalink }}
+            <div class="uk-container">
+                <h3 class="uk-text-center">
+                    {{ .Title }}
+                </h3>
+            </div>
+            <section class="uk-section uk-section-xsmall uk-section-muted">
+                <div id="sbRoot" class="uk-container uk-container-expand" uk-height-viewport="expand: true" data-height-expand>
+                </div>
+            </section>
+            <script type="text/javascript">
+                SplitsBrowser.loadEvent('{{$file}}');
+            </script>
+        {{ end }}
+    {{ end }}
 {{ end }}
 
-<div class="uk-container">
-    <h3 class="uk-text-center">{{ .Title }} - Splits</h1>
-</div>
-
-<section class="uk-section uk-section-xsmall uk-section-muted">
-    <div id="sbRoot" class="uk-container uk-container-expand" uk-height-viewport="expand: true" data-height-expand>
-    </div>
-</section>
-
-<script type="text/javascript">
-    SplitsBrowser.loadEvent('{{$resultFile}}');
-</script>
 <noscript>
     <h1>SplitsBrowser &ndash; JavaScript is disabled</h1>
     <p>Your browser is set to disable JavaScript.</p>

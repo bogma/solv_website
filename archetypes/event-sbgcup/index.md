@@ -2,6 +2,11 @@
 title: "x. Salzburger Sportvoglcup {{now.Format "2006"}}"
 date: {{ .Date }} # date of creation of the file
 draft: true
+outputs:
+- html
+- result
+- splitsbrowser
+
 status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 anne_id: 0
 

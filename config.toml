@@ -4,7 +4,7 @@ title = "Salzburger Orientierungslauf Verband"
 theme = "hugo-solv"
 copyright = "SOLV - Powered by [Hugo](//gohugo.io) and [UIkit](//getuikit.com)"
 enableGitInfo = true
-ignoreFiles = [ "\\.skb$", "\\.foo$"]
+ignoreFiles = [ "\\.skb$", "\\.foo$", "\\.xml$" , "\\.json$" ]
 paginate = 10
 
 [taxonomies]
@@ -112,11 +112,6 @@ paginate = 10
 [outputFormats]
   [outputFormats.result]
     baseName = "resu"
-    isPlainText = true
-    mediaType = "text/html"
-    permalinkable = true
-  [outputFormats.split]
-    baseName = "split"
     isPlainText = true
     mediaType = "text/html"
     permalinkable = true
