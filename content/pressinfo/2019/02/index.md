@@ -1,5 +1,4 @@
 ---
-hero: true
 title: "Robert Merl kämpft sich durch die norwegischen Sümpfe"
 date: 2019-04-13T16:30:09+02:00 # date for 'written on'
 draft: false
