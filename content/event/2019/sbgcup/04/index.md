@@ -1,8 +1,8 @@
 ---
 title: "4. Salzburger Sportvoglcup 2019"
-date: 2019-04-27T00:00:00+01:00 # date of creation of the file
+date: 2019-04-27T14:00:00+01:00 # date of creation of the file
 draft: false
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
+status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 2562
 
 archives: []
@@ -21,25 +21,25 @@ implementation: "ASKÖ Henndorf Orientieering" # remove one of the 3 options
 # active section ------------------------------------------------
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Martin Lejsek"
+  event: "Christian Breitschädel"
+  inspection: "Martin Lejsek"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -4 # x days from event->date
 meeting:
-  point: ""
+  point: "Waldgasthof Passegger"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.138339, 13.773778]
 map:
-  name: ""
-  scale: "1:10.000"
+  name: "Bannwald"
+  scale: "1:7.500"
   equidistance: "5m"
-  update: "März 2006"
+  update: "April 2019"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
@@ -80,4 +80,5 @@ SPORTIdent; SI-Air+ (touch free) aktiviert.
 - Privatgrundstücke dürfen nicht betreten werden.
 
 ### Hinweis des SOLV
+
 Für die Jahreswertung des SOLV-Cup werden nur SOLV-Mitglieder berücksichtigt!

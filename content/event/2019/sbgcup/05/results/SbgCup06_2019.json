@@ -1,0 +1,5308 @@
+﻿{
+  "-xmlns": "http://www.orienteering.org/datastandard/3.0",
+  "-xsi": "http://www.w3.org/2001/XMLSchema-instance",
+  "-iofVersion": "3.0",
+  "-createTime": "2019-09-04T22:52:36.971",
+  "-creator": "SportSoftware OE2010 (M) V.11.0",
+  "Event": {
+    "Name": "5. und 6. Salzburger Sportvoglcup 2019",
+    "Race": {
+      "RaceNumber": "2",
+      "Name": "6. Salzburger Sportvoglcup 2019"
+    }
+  },
+  "ClassResults": [
+    {
+      "Class": {
+        "-resultListMode": "Default",
+        "-sex": "F",
+        "Id": "50",
+        "Name": "Damen -13",
+        "ShortName": "S D13",
+        "Fee": {
+          "Name": "Default",
+          "Amount": "3.00"
+        }
+      },
+      "Course": {
+        "Id": "1",
+        "Name": "D/H-15 (2)",
+        "Length": "1000",
+        "Climb": "25",
+        "NumberOfControls": "9"
+      },
+      "PersonResults": [
+        {
+          "Person": {
+            "-sex": "F",
+            "Id": "8366",
+            "Name": {
+              "Family": "Rothauer",
+              "Given": "Emma"
+            },
+            "BirthDate": "2007-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "11",
+            "StartTime": "2019-04-28T12:48:06.000",
+            "FinishTime": "2019-04-28T12:55:31.000",
+            "Time": "445",
+            "TimeBehind": "0",
+            "Position": "1",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "33"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "55"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "113"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "205"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "258"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "293"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "352"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "396"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "426"
+              }
+            ],
+            "ControlCard": "8044004",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "6.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "8778",
+            "Name": {
+              "Family": "Lechner",
+              "Given": "Jana"
+            },
+            "BirthDate": "2007-01-01"
+          },
+          "Organisation": {
+            "Id": "33",
+            "Name": "HSV Wals",
+            "ShortName": "HSV Wals"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "4",
+            "StartTime": "2019-04-28T12:38:04.000",
+            "FinishTime": "2019-04-28T12:46:40.000",
+            "Time": "516",
+            "TimeBehind": "71",
+            "Position": "2",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "48"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "67"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "126"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "211"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "276"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "314"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "374"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "463"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "495"
+              }
+            ],
+            "ControlCard": "8200800",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "6.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "F",
+            "Id": "5314",
+            "Name": {
+              "Family": "Erhard",
+              "Given": "Josefine"
+            },
+            "BirthDate": "2007-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "19",
+            "StartTime": "2019-04-28T12:50:04.000",
+            "FinishTime": "2019-04-28T12:59:10.000",
+            "Time": "546",
+            "TimeBehind": "101",
+            "Position": "3",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "52"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "72"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "145"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "259"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "327"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "372"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "436"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "485"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "529"
+              }
+            ],
+            "ControlCard": "8035035",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "6.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "F",
+            "Id": "8904",
+            "Name": {
+              "Family": "Guggenberger",
+              "Given": "Jasmin"
+            },
+            "BirthDate": "2007-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "17",
+            "StartTime": "2019-04-28T12:49:03.000",
+            "FinishTime": "2019-04-28T12:59:12.000",
+            "Time": "609",
+            "TimeBehind": "164",
+            "Position": "4",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "116"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "135"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "205"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "319"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "396"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "431"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "497"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "550"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "590"
+              }
+            ],
+            "ControlCard": "2056418",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "6.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "F",
+            "Name": {
+              "Family": "Helminger",
+              "Given": "Katja"
+            },
+            "BirthDate": "2008-01-01"
+          },
+          "Organisation": {
+            "Id": "33",
+            "Name": "HSV Wals",
+            "ShortName": "HSV Wals"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "6",
+            "StartTime": "2019-04-28T12:40:06.000",
+            "FinishTime": "2019-04-28T12:51:57.000",
+            "Time": "711",
+            "TimeBehind": "266",
+            "Position": "5",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "69"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "100"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "187"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "354"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "485"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "520"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "590"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "644"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "688"
+              }
+            ],
+            "ControlCard": "8180108",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "3.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "F",
+            "Id": "41",
+            "Name": {
+              "Family": "HÃ¶henberger",
+              "Given": "Lara"
+            },
+            "BirthDate": "2006-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "1",
+            "StartTime": "2019-04-28T12:35:02.000",
+            "FinishTime": "2019-04-28T12:48:27.000",
+            "Time": "805",
+            "TimeBehind": "360",
+            "Position": "6",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "172"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "196"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "270"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "395"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "464"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "516"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "649"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "701"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "786"
+              }
+            ],
+            "ControlCard": "1409471",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "6.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "F",
+            "Name": {
+              "Family": "Guggenberger",
+              "Given": "Anja"
+            },
+            "BirthDate": "2009-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "67",
+            "StartTime": "2019-04-28T12:45:06.000",
+            "FinishTime": "2019-04-28T12:59:22.000",
+            "Time": "856",
+            "TimeBehind": "411",
+            "Position": "7",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "172"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "253"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "348"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "557"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "640"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "679"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "740"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "792"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "832"
+              }
+            ],
+            "ControlCard": "2027077",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "3.00"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Class": {
+        "-resultListMode": "Default",
+        "-sex": "F",
+        "Id": "51",
+        "Name": "Damen -15",
+        "ShortName": "S D15",
+        "Fee": {
+          "Name": "Default",
+          "Amount": "3.00"
+        }
+      },
+      "Course": {
+        "Id": "1",
+        "Name": "D/H-15 (2)",
+        "Length": "1000",
+        "Climb": "25",
+        "NumberOfControls": "9"
+      },
+      "PersonResult": {
+        "Person": {
+          "-sex": "F",
+          "Id": "8105",
+          "Name": {
+            "Family": "Seitlinger",
+            "Given": "Antonia"
+          },
+          "BirthDate": "2005-01-01"
+        },
+        "Organisation": {
+          "Id": "124",
+          "Name": "OL Sektion TV Zell am See",
+          "ShortName": "OL Sektion TV Zell am See"
+        },
+        "Result": {
+          "-raceNumber": "2",
+          "BibNumber": "8",
+          "StartTime": "2019-04-28T12:42:04.000",
+          "FinishTime": "2019-04-28T12:51:51.000",
+          "Time": "587",
+          "TimeBehind": "0",
+          "Position": "1",
+          "Status": "OK",
+          "SplitTimes": [
+            {
+              "ControlCode": "104",
+              "Time": "42"
+            },
+            {
+              "ControlCode": "94",
+              "Time": "69"
+            },
+            {
+              "ControlCode": "116",
+              "Time": "136"
+            },
+            {
+              "ControlCode": "115",
+              "Time": "303"
+            },
+            {
+              "ControlCode": "111",
+              "Time": "361"
+            },
+            {
+              "ControlCode": "114",
+              "Time": "403"
+            },
+            {
+              "ControlCode": "108",
+              "Time": "472"
+            },
+            {
+              "ControlCode": "103",
+              "Time": "526"
+            },
+            {
+              "ControlCode": "100",
+              "Time": "569"
+            }
+          ],
+          "ControlCard": "7209454",
+          "AssignedFee": {
+            "Fee": {
+              "Name": "Actual",
+              "Amount": "6.00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "Class": {
+        "-resultListMode": "Default",
+        "-sex": "F",
+        "Id": "53",
+        "Name": "Damen 19-",
+        "ShortName": "S D19",
+        "Fee": {
+          "Name": "Default",
+          "Amount": "4.50"
+        }
+      },
+      "Course": {
+        "Id": "2",
+        "Name": "D/H16- (2)",
+        "Length": "1900",
+        "Climb": "50",
+        "NumberOfControls": "16"
+      },
+      "PersonResults": [
+        {
+          "Person": {
+            "-sex": "F",
+            "Id": "1069",
+            "Name": {
+              "Family": "Rogl",
+              "Given": "Franziska"
+            },
+            "BirthDate": "1988-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "22",
+            "StartTime": "2019-04-28T12:32:03.000",
+            "FinishTime": "2019-04-28T12:49:57.000",
+            "Time": "1074",
+            "TimeBehind": "0",
+            "Position": "1",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "32"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "57"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "123"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "161"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "217"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "319"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "450"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "497"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "570"
+              },
+              {
+                "ControlCode": "112",
+                "Time": "40220"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "653"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "714"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "788"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "886"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "954"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1048"
+              }
+            ],
+            "ControlCard": "7604",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "F",
+            "Name": {
+              "Family": "Wernig",
+              "Given": "Martina"
+            },
+            "BirthDate": "1991-01-01"
+          },
+          "Organisation": {
+            "Id": "101",
+            "Name": "NF Steuerberg OLG",
+            "ShortName": "NF Steuerberg OLG"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "50",
+            "StartTime": "2019-04-28T12:53:40.000",
+            "FinishTime": "2019-04-28T13:13:29.000",
+            "Time": "1189",
+            "TimeBehind": "115",
+            "Position": "2",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "75"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "144"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "325"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "355"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "412"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "518"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "626"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "667"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "742"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "822"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "883"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "955"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "1040"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "1095"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1171"
+              }
+            ],
+            "ControlCard": "2056406",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "4.50"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "F",
+            "Id": "7560",
+            "Name": {
+              "Family": "Bogensperger",
+              "Given": "Nilla"
+            },
+            "BirthDate": "2002-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "30",
+            "StartTime": "2019-04-28T12:40:00.000",
+            "Status": "DidNotStart",
+            "SplitTimes": [
+              {
+                "-status": "Missing",
+                "ControlCode": "103"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "104"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "105"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "106"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "107"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "108"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "109"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "110"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "111"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "112"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "113"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "114"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "115"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "116"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "117"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "100"
+              }
+            ],
+            "ControlCard": "8007077",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Class": {
+        "-resultListMode": "Default",
+        "-sex": "F",
+        "Id": "54",
+        "Name": "Damen 35-",
+        "ShortName": "S D35",
+        "Fee": {
+          "Name": "Default",
+          "Amount": "4.50"
+        }
+      },
+      "Course": {
+        "Id": "2",
+        "Name": "D/H16- (2)",
+        "Length": "1900",
+        "Climb": "50",
+        "NumberOfControls": "16"
+      },
+      "PersonResults": [
+        {
+          "Person": {
+            "-sex": "F",
+            "Id": "1071",
+            "Name": {
+              "Family": "Kennerknecht",
+              "Given": "Stefanie"
+            },
+            "BirthDate": "1984-01-01"
+          },
+          "Organisation": {
+            "Id": "34",
+            "Name": "Naturfreunde Seekirchen",
+            "ShortName": "Naturfreunde Seekirchen"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "25",
+            "StartTime": "2019-04-28T12:35:03.000",
+            "FinishTime": "2019-04-28T12:57:12.000",
+            "Time": "1329",
+            "TimeBehind": "0",
+            "Position": "1",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "53"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "88"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "178"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "233"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "310"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "454"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "586"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "640"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "728"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "831"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "899"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "1001"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "1116"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "1198"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1304"
+              }
+            ],
+            "ControlCard": "8111012",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "F",
+            "Id": "6483",
+            "Name": {
+              "Family": "Ebster",
+              "Given": "Tanja"
+            },
+            "BirthDate": "1975-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "38",
+            "StartTime": "2019-04-28T12:44:12.000",
+            "FinishTime": "2019-04-28T13:09:55.000",
+            "Time": "1543",
+            "TimeBehind": "214",
+            "Position": "2",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "67"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "118"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "225"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "278"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "360"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "505"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "664"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "725"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "833"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "951"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "1086"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "1180"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "1301"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "1396"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1513"
+              }
+            ],
+            "ControlCard": "7077770",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "F",
+            "Id": "7748",
+            "Name": {
+              "Family": "Wally",
+              "Given": "Verena"
+            },
+            "BirthDate": "1979-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "34",
+            "StartTime": "2019-04-28T12:42:05.000",
+            "FinishTime": "2019-04-28T13:10:15.000",
+            "Time": "1690",
+            "TimeBehind": "361",
+            "Position": "3",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "34"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "59"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "213"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "259"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "340"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "493"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "634"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "688"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "788"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "903"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "990"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "1100"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "1467"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "1540"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1656"
+              }
+            ],
+            "ControlCard": "2030961",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "F",
+            "Id": "7075",
+            "Name": {
+              "Family": "Buchberger",
+              "Given": "Daniela"
+            },
+            "BirthDate": "1976-01-01"
+          },
+          "Organisation": {
+            "Id": "33",
+            "Name": "HSV Wals",
+            "ShortName": "HSV Wals"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "27",
+            "StartTime": "2019-04-28T12:37:18.000",
+            "FinishTime": "2019-04-28T12:56:42.000",
+            "Time": "1164",
+            "TimeBehind": "-165",
+            "Status": "MissingPunch",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "45"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "81"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "181"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "224"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "286"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "393"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "530"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "580"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "111"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "702"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "768"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "852"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "951"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "1029"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1137"
+              }
+            ],
+            "ControlCard": "763004",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Class": {
+        "-resultListMode": "Default",
+        "-sex": "F",
+        "Id": "55",
+        "Name": "Damen 45-",
+        "ShortName": "S D45",
+        "Fee": {
+          "Name": "Default",
+          "Amount": "4.50"
+        }
+      },
+      "Course": {
+        "Id": "2",
+        "Name": "D/H16- (2)",
+        "Length": "1900",
+        "Climb": "50",
+        "NumberOfControls": "16"
+      },
+      "PersonResults": [
+        {
+          "Person": {
+            "-sex": "F",
+            "Id": "2836",
+            "Name": {
+              "Family": "Hillebrand",
+              "Given": "Karin"
+            },
+            "BirthDate": "1968-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "40",
+            "StartTime": "2019-04-28T12:48:05.000",
+            "FinishTime": "2019-04-28T13:05:36.000",
+            "Time": "1051",
+            "TimeBehind": "0",
+            "Position": "1",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "59"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "95"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "172"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "208"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "264"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "361"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "472"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "513"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "588"
+              },
+              {
+                "ControlCode": "112",
+                "Time": "40232"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "663"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "721"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "794"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "882"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "945"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1028"
+              }
+            ],
+            "ControlCard": "410660",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "F",
+            "Id": "30",
+            "Name": {
+              "Family": "Elstner",
+              "Given": "Margit"
+            },
+            "BirthDate": "1964-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "28",
+            "StartTime": "2019-04-28T12:38:02.000",
+            "FinishTime": "2019-04-28T12:56:05.000",
+            "Time": "1083",
+            "TimeBehind": "32",
+            "Position": "2",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "48"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "75"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "157"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "201"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "261"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "360"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "483"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "529"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "608"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "683"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "739"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "812"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "905"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "978"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1063"
+              }
+            ],
+            "ControlCard": "640718",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "F",
+            "Name": {
+              "Family": "Helminger",
+              "Given": "Julia"
+            },
+            "BirthDate": "1972-01-01"
+          },
+          "Organisation": {
+            "Id": "33",
+            "Name": "HSV Wals",
+            "ShortName": "HSV Wals"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "23",
+            "StartTime": "2019-04-28T12:33:02.000",
+            "FinishTime": "2019-04-28T12:52:12.000",
+            "Time": "1150",
+            "TimeBehind": "99",
+            "Position": "3",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "32"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "60"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "138"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "178"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "240"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "350"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "491"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "529"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "608"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "694"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "770"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "863"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "959"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "1022"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1126"
+              }
+            ],
+            "ControlCard": "533333",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "4.50"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "F",
+            "Id": "8240",
+            "Name": {
+              "Family": "Hinterhofer",
+              "Given": "Katharina"
+            },
+            "BirthDate": "1969-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "44",
+            "StartTime": "2019-04-28T12:50:04.000",
+            "FinishTime": "2019-04-28T13:09:25.000",
+            "Time": "1161",
+            "TimeBehind": "110",
+            "Position": "4",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "94"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "122"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "218"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "250"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "307"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "429"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "564"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "603"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "688"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "763"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "819"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "903"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "988"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "1053"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1139"
+              }
+            ],
+            "ControlCard": "8111131",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "F",
+            "Id": "2707",
+            "Name": {
+              "Family": "Hackl",
+              "Given": "Claudia"
+            },
+            "BirthDate": "1964-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "26",
+            "StartTime": "2019-04-28T12:36:04.000",
+            "FinishTime": "2019-04-28T12:56:14.000",
+            "Time": "1210",
+            "TimeBehind": "159",
+            "Position": "5",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "47"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "84"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "188"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "272"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "341"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "443"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "567"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "616"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "715"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "793"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "854"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "929"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "1032"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "1099"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1186"
+              }
+            ],
+            "ControlCard": "2034090",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Class": {
+        "-resultListMode": "Default",
+        "-sex": "F",
+        "Id": "56",
+        "Name": "Damen 55-",
+        "ShortName": "S D55",
+        "Fee": {
+          "Name": "Default",
+          "Amount": "4.50"
+        }
+      },
+      "Course": {
+        "Id": "3",
+        "Name": "D/H55-(2)",
+        "Length": "1420",
+        "Climb": "35",
+        "NumberOfControls": "12"
+      },
+      "PersonResults": [
+        {
+          "Person": {
+            "-sex": "M",
+            "Name": {
+              "Family": "BreitschÃ¤del",
+              "Given": "Eva"
+            },
+            "BirthDate": "1953-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "63",
+            "StartTime": "2019-04-28T12:52:51.000",
+            "FinishTime": "2019-04-28T13:13:03.000",
+            "Time": "1212",
+            "TimeBehind": "0",
+            "Position": "1",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "62"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "105"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "295"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "418"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "484"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "591"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "727"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "800"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "894"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "1031"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "1089"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1174"
+              }
+            ],
+            "ControlCard": "502091",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "4.50"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "F",
+            "Id": "555",
+            "Name": {
+              "Family": "Buchberger",
+              "Given": "Berta"
+            },
+            "BirthDate": "1955-01-01"
+          },
+          "Organisation": {
+            "Id": "33",
+            "Name": "HSV Wals",
+            "ShortName": "HSV Wals"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "58",
+            "StartTime": "2019-04-28T12:40:06.000",
+            "FinishTime": "2019-04-28T13:01:24.000",
+            "Time": "1278",
+            "TimeBehind": "66",
+            "Position": "2",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "116"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "159"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "342"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "465"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "517"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "614"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "787"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "861"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "981"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "1111"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "1165"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1239"
+              }
+            ],
+            "ControlCard": "8310555",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "F",
+            "Id": "69",
+            "Name": {
+              "Family": "MÃ¼ller",
+              "Given": "Brigitte"
+            },
+            "BirthDate": "1948-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "54",
+            "StartTime": "2019-04-28T12:36:11.000",
+            "FinishTime": "2019-04-28T13:01:37.000",
+            "Time": "1526",
+            "TimeBehind": "314",
+            "Status": "MissingPunch",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "103"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "153"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "552"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "673"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "729"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "866"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "1032"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "103"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "1216"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "1353"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "1408"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1484"
+              }
+            ],
+            "ControlCard": "5399",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Class": {
+        "-resultListMode": "Default",
+        "-sex": "M",
+        "Id": "60",
+        "Name": "Herrren -13",
+        "ShortName": "S H13",
+        "Fee": {
+          "Name": "Default",
+          "Amount": "3.00"
+        }
+      },
+      "Course": {
+        "Id": "1",
+        "Name": "D/H-15 (2)",
+        "Length": "1000",
+        "Climb": "25",
+        "NumberOfControls": "9"
+      },
+      "PersonResults": [
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "8777",
+            "Name": {
+              "Family": "Lechner",
+              "Given": "Nick"
+            },
+            "BirthDate": "2007-01-01"
+          },
+          "Organisation": {
+            "Id": "33",
+            "Name": "HSV Wals",
+            "ShortName": "HSV Wals"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "2",
+            "StartTime": "2019-04-28T12:36:10.000",
+            "FinishTime": "2019-04-28T12:46:56.000",
+            "Time": "646",
+            "TimeBehind": "0",
+            "Position": "1",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "76"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "103"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "194"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "317"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "390"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "431"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "489"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "587"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "619"
+              }
+            ],
+            "ControlCard": "8200040",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "6.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "7749",
+            "Name": {
+              "Family": "Wally",
+              "Given": "Simon"
+            },
+            "BirthDate": "2006-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "13",
+            "StartTime": "2019-04-28T12:47:04.000",
+            "FinishTime": "2019-04-28T12:59:20.000",
+            "Time": "736",
+            "TimeBehind": "90",
+            "Position": "2",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "190"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "215"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "292"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "442"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "513"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "558"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "623"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "678"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "716"
+              }
+            ],
+            "ControlCard": "2030957",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "6.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "8291",
+            "Name": {
+              "Family": "Tiefenbrunner",
+              "Given": "Yschi"
+            },
+            "BirthDate": "2006-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "15",
+            "StartTime": "2019-04-28T12:49:00.000",
+            "Status": "DidNotStart",
+            "SplitTimes": [
+              {
+                "-status": "Missing",
+                "ControlCode": "104"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "94"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "116"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "115"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "111"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "114"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "108"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "103"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "100"
+              }
+            ],
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "6.00"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Class": {
+        "-resultListMode": "Default",
+        "-sex": "M",
+        "Id": "61",
+        "Name": "Herrren -15",
+        "ShortName": "S H15",
+        "Fee": {
+          "Name": "Default",
+          "Amount": "3.00"
+        }
+      },
+      "Course": {
+        "Id": "1",
+        "Name": "D/H-15 (2)",
+        "Length": "1000",
+        "Climb": "25",
+        "NumberOfControls": "9"
+      },
+      "PersonResult": {
+        "Person": {
+          "-sex": "M",
+          "Id": "8100",
+          "Name": {
+            "Family": "Lechner",
+            "Given": "Tim"
+          },
+          "BirthDate": "2004-01-01"
+        },
+        "Organisation": {
+          "Id": "33",
+          "Name": "HSV Wals",
+          "ShortName": "HSV Wals"
+        },
+        "Result": {
+          "-raceNumber": "2",
+          "BibNumber": "12",
+          "StartTime": "2019-04-28T12:46:00.000",
+          "Status": "DidNotStart",
+          "SplitTimes": [
+            {
+              "-status": "Missing",
+              "ControlCode": "104"
+            },
+            {
+              "-status": "Missing",
+              "ControlCode": "94"
+            },
+            {
+              "-status": "Missing",
+              "ControlCode": "116"
+            },
+            {
+              "-status": "Missing",
+              "ControlCode": "115"
+            },
+            {
+              "-status": "Missing",
+              "ControlCode": "111"
+            },
+            {
+              "-status": "Missing",
+              "ControlCode": "114"
+            },
+            {
+              "-status": "Missing",
+              "ControlCode": "108"
+            },
+            {
+              "-status": "Missing",
+              "ControlCode": "103"
+            },
+            {
+              "-status": "Missing",
+              "ControlCode": "100"
+            }
+          ],
+          "ControlCard": "8114115",
+          "AssignedFee": {
+            "Fee": {
+              "Name": "Actual",
+              "Amount": "6.00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "Class": {
+        "-resultListMode": "Default",
+        "-sex": "M",
+        "Id": "63",
+        "Name": "Herrren 19-",
+        "ShortName": "S H19",
+        "Fee": {
+          "Name": "Default",
+          "Amount": "4.50"
+        }
+      },
+      "Course": {
+        "Id": "2",
+        "Name": "D/H16- (2)",
+        "Length": "1900",
+        "Climb": "50",
+        "NumberOfControls": "16"
+      },
+      "PersonResults": [
+        {
+          "Person": {
+            "-sex": "M",
+            "Name": {
+              "Family": "Wernig",
+              "Given": "Stefan"
+            },
+            "BirthDate": "1988-01-01"
+          },
+          "Organisation": {
+            "Id": "101",
+            "Name": "NF Steuerberg OLG",
+            "ShortName": "NF Steuerberg OLG"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "51",
+            "StartTime": "2019-04-28T12:55:02.000",
+            "FinishTime": "2019-04-28T13:07:34.000",
+            "Time": "752",
+            "TimeBehind": "0",
+            "Position": "1",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "34"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "62"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "120"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "153"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "187"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "261"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "337"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "364"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "412"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "464"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "503"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "564"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "632"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "677"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "736"
+              }
+            ],
+            "ControlCard": "2068128",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "4.50"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "7611",
+            "Name": {
+              "Family": "Ebster",
+              "Given": "Leon"
+            },
+            "BirthDate": "2002-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "46",
+            "StartTime": "2019-04-28T12:52:04.000",
+            "FinishTime": "2019-04-28T13:05:13.000",
+            "Time": "789",
+            "TimeBehind": "37",
+            "Position": "2",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "20"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "41"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "95"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "122"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "164"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "275"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "348"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "377"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "431"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "486"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "528"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "590"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "671"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "715"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "774"
+              }
+            ],
+            "ControlCard": "8068068",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Name": {
+              "Family": "KÃ¶nigsdorfer",
+              "Given": "Jonas"
+            }
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "68",
+            "StartTime": "2019-04-28T12:45:12.000",
+            "FinishTime": "2019-04-28T12:59:27.000",
+            "Time": "855",
+            "TimeBehind": "103",
+            "Position": "3",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "25"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "55"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "115"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "141"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "190"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "292"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "377"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "406"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "475"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "537"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "585"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "640"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "719"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "770"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "839"
+              }
+            ],
+            "ControlCard": "8288388",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "4.50"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "7612",
+            "Name": {
+              "Family": "Ebster",
+              "Given": "Peter"
+            },
+            "BirthDate": "2002-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "32",
+            "StartTime": "2019-04-28T12:42:00.000",
+            "Status": "DidNotStart",
+            "SplitTimes": [
+              {
+                "-status": "Missing",
+                "ControlCode": "103"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "104"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "105"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "106"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "107"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "108"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "109"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "110"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "111"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "112"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "113"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "114"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "115"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "116"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "117"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "100"
+              }
+            ],
+            "ControlCard": "8332222",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Class": {
+        "-resultListMode": "Default",
+        "-sex": "M",
+        "Id": "64",
+        "Name": "Herrren 35-",
+        "ShortName": "S H35",
+        "Fee": {
+          "Name": "Default",
+          "Amount": "4.50"
+        }
+      },
+      "Course": {
+        "Id": "2",
+        "Name": "D/H16- (2)",
+        "Length": "1900",
+        "Climb": "50",
+        "NumberOfControls": "16"
+      },
+      "PersonResults": [
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "1812",
+            "Name": {
+              "Family": "Fink",
+              "Given": "Bernhard"
+            },
+            "BirthDate": "1977-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "24",
+            "StartTime": "2019-04-28T12:34:09.000",
+            "FinishTime": "2019-04-28T12:47:22.000",
+            "Time": "793",
+            "TimeBehind": "0",
+            "Position": "1",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "22"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "43"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "102"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "132"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "177"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "251"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "336"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "366"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "425"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "487"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "532"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "587"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "657"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "710"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "777"
+              }
+            ],
+            "ControlCard": "8101808",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "42",
+            "Name": {
+              "Family": "Helminger",
+              "Given": "Norbert"
+            },
+            "BirthDate": "1975-01-01"
+          },
+          "Organisation": {
+            "Id": "33",
+            "Name": "HSV Wals",
+            "ShortName": "HSV Wals"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "29",
+            "StartTime": "2019-04-28T12:39:03.000",
+            "FinishTime": "2019-04-28T12:53:02.000",
+            "Time": "839",
+            "TimeBehind": "46",
+            "Position": "2",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "20"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "42"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "107"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "138"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "184"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "261"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "355"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "386"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "449"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "515"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "562"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "618"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "692"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "746"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "820"
+              }
+            ],
+            "ControlCard": "8131131",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "7741",
+            "Name": {
+              "Family": "Bogensperger",
+              "Given": "Martin"
+            },
+            "BirthDate": "1972-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "36",
+            "StartTime": "2019-04-28T12:46:04.000",
+            "FinishTime": "2019-04-28T13:00:48.000",
+            "Time": "884",
+            "TimeBehind": "91",
+            "Position": "3",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "28"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "64"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "128"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "161"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "209"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "290"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "384"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "419"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "487"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "547"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "597"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "662"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "730"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "783"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "864"
+              }
+            ],
+            "ControlCard": "8003005",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "2765",
+            "Name": {
+              "Family": "Buchberger Jun.",
+              "Given": "Wolfgang"
+            },
+            "BirthDate": "1980-01-01"
+          },
+          "Organisation": {
+            "Id": "33",
+            "Name": "HSV Wals",
+            "ShortName": "HSV Wals"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "21",
+            "StartTime": "2019-04-28T12:31:03.000",
+            "FinishTime": "2019-04-28T12:47:05.000",
+            "Time": "962",
+            "TimeBehind": "169",
+            "Position": "4",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "38"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "60"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "126"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "162"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "214"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "301"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "408"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "447"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "524"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "591"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "643"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "707"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "816"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "860"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "938"
+              }
+            ],
+            "ControlCard": "8040380",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Name": {
+              "Family": "Helminger",
+              "Given": "Franz"
+            },
+            "BirthDate": "1973-01-01",
+            "Address": {
+              "City": "0"
+            }
+          },
+          "Organisation": {
+            "Id": "33",
+            "Name": "HSV Wals",
+            "ShortName": "HSV Wals"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "31",
+            "StartTime": "2019-04-28T12:41:00.000",
+            "Status": "DidNotStart",
+            "SplitTimes": [
+              {
+                "-status": "Missing",
+                "ControlCode": "103"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "104"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "105"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "106"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "107"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "108"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "109"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "110"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "111"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "112"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "113"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "114"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "115"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "116"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "117"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "100"
+              }
+            ],
+            "ControlCard": "887755",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "4.50"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "50",
+            "Name": {
+              "Family": "KÃ¶nig",
+              "Given": "Markus"
+            },
+            "BirthDate": "1979-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "49",
+            "StartTime": "2019-04-28T12:58:00.000",
+            "Status": "DidNotStart",
+            "SplitTimes": [
+              {
+                "-status": "Missing",
+                "ControlCode": "103"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "104"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "105"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "106"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "107"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "108"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "109"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "110"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "111"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "112"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "113"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "114"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "115"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "116"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "117"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "100"
+              }
+            ],
+            "ControlCard": "8228288",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Class": {
+        "-resultListMode": "Default",
+        "-sex": "M",
+        "Id": "65",
+        "Name": "Herrren 45-",
+        "ShortName": "S H45",
+        "Fee": {
+          "Name": "Default",
+          "Amount": "4.50"
+        }
+      },
+      "Course": {
+        "Id": "2",
+        "Name": "D/H16- (2)",
+        "Length": "1900",
+        "Climb": "50",
+        "NumberOfControls": "16"
+      },
+      "PersonResults": [
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "7774",
+            "Name": {
+              "Family": "Ebster Sen.",
+              "Given": "Peter"
+            },
+            "BirthDate": "1968-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "42",
+            "StartTime": "2019-04-28T12:49:04.000",
+            "FinishTime": "2019-04-28T13:03:55.000",
+            "Time": "891",
+            "TimeBehind": "0",
+            "Position": "1",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "30"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "54"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "117"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "151"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "201"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "284"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "376"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "407"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "478"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "545"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "612"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "671"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "747"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "800"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "872"
+              }
+            ],
+            "ControlCard": "8446677",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "8099",
+            "Name": {
+              "Family": "Lechner",
+              "Given": "Hannes"
+            },
+            "BirthDate": "1972-01-01"
+          },
+          "Organisation": {
+            "Id": "33",
+            "Name": "HSV Wals",
+            "ShortName": "HSV Wals"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "37",
+            "StartTime": "2019-04-28T12:47:06.000",
+            "FinishTime": "2019-04-28T13:03:19.000",
+            "Time": "973",
+            "TimeBehind": "82",
+            "Position": "2",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "30"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "92"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "155"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "191"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "254"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "349"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "450"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "484"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "553"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "618"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "685"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "750"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "825"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "880"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "953"
+              }
+            ],
+            "ControlCard": "8041972",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "28",
+            "Name": {
+              "Family": "Elstner",
+              "Given": "Florian"
+            },
+            "BirthDate": "1963-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "20",
+            "StartTime": "2019-04-28T12:30:08.000",
+            "FinishTime": "2019-04-28T12:46:34.000",
+            "Time": "986",
+            "TimeBehind": "95",
+            "Position": "3",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "92"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "111"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "176"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "209"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "259"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "344"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "453"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "487"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "555"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "622"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "672"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "743"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "848"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "889"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "963"
+              }
+            ],
+            "ControlCard": "8030563",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "8106",
+            "Name": {
+              "Family": "Seitlinger",
+              "Given": "Gabriel"
+            },
+            "BirthDate": "1970-01-01"
+          },
+          "Organisation": {
+            "Id": "124",
+            "Name": "OL Sektion TV Zell am See",
+            "ShortName": "OL Sektion TV Zell am See"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "39",
+            "StartTime": "2019-04-28T12:41:04.000",
+            "FinishTime": "2019-04-28T12:58:17.000",
+            "Time": "1033",
+            "TimeBehind": "142",
+            "Position": "4",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "34"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "96"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "200"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "231"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "278"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "379"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "508"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "545"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "619"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "686"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "736"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "808"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "882"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "939"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1014"
+              }
+            ],
+            "ControlCard": "2086568",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Name": {
+              "Family": "Berner",
+              "Given": "Roland"
+            },
+            "BirthDate": "1965-01-01",
+            "Address": {
+              "City": "0"
+            }
+          },
+          "Organisation": {
+            "Id": "35",
+            "Name": "SSV Hallein-Neualm",
+            "ShortName": "SSV Hallein-Neualm"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "33",
+            "StartTime": "2019-04-28T12:43:07.000",
+            "FinishTime": "2019-04-28T13:00:46.000",
+            "Time": "1059",
+            "TimeBehind": "168",
+            "Position": "5",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "103",
+                "Time": "57"
+              },
+              {
+                "ControlCode": "104",
+                "Time": "96"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "169"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "205"
+              },
+              {
+                "ControlCode": "107",
+                "Time": "265"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "360"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "474"
+              },
+              {
+                "ControlCode": "110",
+                "Time": "514"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "605"
+              },
+              {
+                "ControlCode": "112"
+              },
+              {
+                "ControlCode": "113",
+                "Time": "679"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "747"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "815"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "896"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "956"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1036"
+              }
+            ],
+            "ControlCard": "650904",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "4.50"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "1389",
+            "Name": {
+              "Family": "Kohlbacher",
+              "Given": "Roland"
+            },
+            "BirthDate": "1966-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "48",
+            "StartTime": "2019-04-28T13:01:00.000",
+            "Status": "DidNotStart",
+            "SplitTimes": [
+              {
+                "-status": "Missing",
+                "ControlCode": "103"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "104"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "105"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "106"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "107"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "108"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "109"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "110"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "111"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "112"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "113"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "114"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "115"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "116"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "117"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "100"
+              }
+            ],
+            "ControlCard": "8188882",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "4.50"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Class": {
+        "-resultListMode": "Default",
+        "-sex": "M",
+        "Id": "66",
+        "Name": "Herrren 55-",
+        "ShortName": "S H55",
+        "Fee": {
+          "Name": "Default",
+          "Amount": "4.50"
+        }
+      },
+      "Course": {
+        "Id": "3",
+        "Name": "D/H55-(2)",
+        "Length": "1420",
+        "Climb": "35",
+        "NumberOfControls": "12"
+      },
+      "PersonResults": [
+        {
+          "Person": {
+            "-sex": "M",
+            "Name": {
+              "Family": "Mayer",
+              "Given": "Horst"
+            },
+            "BirthDate": "1960-01-01",
+            "Address": {
+              "City": "0"
+            }
+          },
+          "Organisation": {
+            "Id": "35",
+            "Name": "SSV Hallein-Neualm",
+            "ShortName": "SSV Hallein-Neualm"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "57",
+            "StartTime": "2019-04-28T12:39:05.000",
+            "FinishTime": "2019-04-28T12:52:57.000",
+            "Time": "832",
+            "TimeBehind": "0",
+            "Position": "1",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "49"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "79"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "193"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "285"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "320"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "381"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "486"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "536"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "630"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "719"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "762"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "809"
+              }
+            ],
+            "ControlCard": "8021260",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "4.50"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "1065",
+            "Name": {
+              "Family": "Baier",
+              "Given": "Alfred"
+            },
+            "BirthDate": "1961-01-01"
+          },
+          "Organisation": {
+            "Id": "34",
+            "Name": "Naturfreunde Seekirchen",
+            "ShortName": "Naturfreunde Seekirchen"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "55",
+            "StartTime": "2019-04-28T12:37:11.000",
+            "FinishTime": "2019-04-28T12:53:09.000",
+            "Time": "958",
+            "TimeBehind": "126",
+            "Position": "2",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "97"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "130"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "115"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "390"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "437"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "507"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "604"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "658"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "718"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "829"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "879"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "931"
+              }
+            ],
+            "ControlCard": "7700033",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "2420",
+            "Name": {
+              "Family": "Hackl",
+              "Given": "Karl"
+            },
+            "BirthDate": "1956-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "52",
+            "StartTime": "2019-04-28T12:34:08.000",
+            "FinishTime": "2019-04-28T12:50:21.000",
+            "Time": "973",
+            "TimeBehind": "141",
+            "Position": "3",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "169"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "197"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "353"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "438"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "476"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "545"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "648"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "712"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "767"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "860"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "901"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "950"
+              }
+            ],
+            "ControlCard": "1680505",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "1070",
+            "Name": {
+              "Family": "Rogl",
+              "Given": "Hartwig"
+            },
+            "BirthDate": "1958-01-01"
+          },
+          "Organisation": {
+            "Id": "34",
+            "Name": "Naturfreunde Seekirchen",
+            "ShortName": "Naturfreunde Seekirchen"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "62",
+            "StartTime": "2019-04-28T12:44:11.000",
+            "FinishTime": "2019-04-28T13:01:49.000",
+            "Time": "1058",
+            "TimeBehind": "226",
+            "Position": "4",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "79"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "174"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "327"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "423"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "464"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "588"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "707"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "768"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "836"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "933"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "974"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1029"
+              }
+            ],
+            "ControlCard": "8447777",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Name": {
+              "Family": "Mages",
+              "Given": "Franz"
+            },
+            "BirthDate": "1955-01-01",
+            "Address": {
+              "City": "0"
+            }
+          },
+          "Organisation": {
+            "Id": "35",
+            "Name": "SSV Hallein-Neualm",
+            "ShortName": "SSV Hallein-Neualm"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "60",
+            "StartTime": "2019-04-28T12:42:00.000",
+            "Status": "DidNotStart",
+            "SplitTimes": [
+              {
+                "-status": "Missing",
+                "ControlCode": "104"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "94"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "115"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "114"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "111"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "109"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "108"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "103"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "117"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "106"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "105"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "100"
+              }
+            ],
+            "ControlCard": "8646963",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "4.50"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Class": {
+        "-resultListMode": "Default",
+        "-sex": "M",
+        "Id": "67",
+        "Name": "Herrren 65-",
+        "ShortName": "S H65",
+        "Fee": {
+          "Name": "Default",
+          "Amount": "4.50"
+        }
+      },
+      "Course": {
+        "Id": "3",
+        "Name": "D/H55-(2)",
+        "Length": "1420",
+        "Climb": "35",
+        "NumberOfControls": "12"
+      },
+      "PersonResults": [
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "557",
+            "Name": {
+              "Family": "Buchberger",
+              "Given": "Jakob"
+            },
+            "BirthDate": "1953-01-01"
+          },
+          "Organisation": {
+            "Id": "33",
+            "Name": "HSV Wals",
+            "ShortName": "HSV Wals"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "53",
+            "StartTime": "2019-04-28T12:36:29.000",
+            "FinishTime": "2019-04-28T12:51:04.000",
+            "Time": "875",
+            "TimeBehind": "0",
+            "Position": "1",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "60"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "91"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "249"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "323"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "359"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "438"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "544"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "603"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "669"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "757"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "794"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "846"
+              }
+            ],
+            "ControlCard": "8150253",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Name": {
+              "Family": "BreitschÃ¤del",
+              "Given": "Christian"
+            }
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "14",
+            "StartTime": "2019-04-28T12:41:07.000",
+            "FinishTime": "2019-04-28T12:58:17.000",
+            "Time": "1030",
+            "TimeBehind": "155",
+            "Position": "2",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "52"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "92"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "247"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "345"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "389"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "477"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "603"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "665"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "761"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "873"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "923"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "993"
+              }
+            ],
+            "ControlCard": "8111014",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "4.50"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "3078",
+            "Name": {
+              "Family": "SchÃ¼tz",
+              "Given": "Wolfgang"
+            },
+            "BirthDate": "1953-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "56",
+            "StartTime": "2019-04-28T12:38:06.000",
+            "FinishTime": "2019-04-28T12:59:23.000",
+            "Time": "1277",
+            "TimeBehind": "402",
+            "Position": "3",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "87"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "127"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "432"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "537"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "594"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "679"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "841"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "914"
+              },
+              {
+                "ControlCode": "117",
+                "Time": "995"
+              },
+              {
+                "ControlCode": "106",
+                "Time": "1116"
+              },
+              {
+                "ControlCode": "105",
+                "Time": "1177"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1243"
+              }
+            ],
+            "ControlCard": "5337",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "7071",
+            "Name": {
+              "Family": "Buchberger Sen.",
+              "Given": "Wolfgang"
+            },
+            "BirthDate": "1953-01-01"
+          },
+          "Organisation": {
+            "Id": "33",
+            "Name": "HSV Wals",
+            "ShortName": "HSV Wals"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "61",
+            "StartTime": "2019-04-28T12:33:05.000",
+            "Status": "MissingPunch",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "235"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "277"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "462"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "559"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "647"
+              },
+              {
+                "ControlCode": "109",
+                "Time": "728"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "108"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "3036"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "117"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "106"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "105"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "100"
+              }
+            ],
+            "ControlCard": "9070007",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "71",
+            "Name": {
+              "Family": "MÃ¼ller",
+              "Given": "Leo"
+            },
+            "BirthDate": "1949-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "59",
+            "StartTime": "2019-04-28T12:41:00.000",
+            "Status": "DidNotStart",
+            "SplitTimes": [
+              {
+                "-status": "Missing",
+                "ControlCode": "104"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "94"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "115"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "114"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "111"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "109"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "108"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "103"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "117"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "106"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "105"
+              },
+              {
+                "-status": "Missing",
+                "ControlCode": "100"
+              }
+            ],
+            "ControlCard": "2116263",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "9.00"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Class": {
+        "-resultListMode": "Default",
+        "-sex": "M",
+        "Id": "70",
+        "Name": "Offen Kurz",
+        "ShortName": "OK",
+        "Fee": {
+          "Name": "Default",
+          "Amount": "3.00"
+        }
+      },
+      "Course": {
+        "Id": "1",
+        "Name": "D/H-15 (2)",
+        "Length": "1000",
+        "Climb": "25",
+        "NumberOfControls": "9"
+      },
+      "PersonResults": [
+        {
+          "Person": {
+            "-sex": "F",
+            "Id": "5368",
+            "Name": {
+              "Family": "Fink",
+              "Given": "Daniela"
+            },
+            "BirthDate": "1976-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "7",
+            "StartTime": "2019-04-28T12:41:03.000",
+            "FinishTime": "2019-04-28T12:53:32.000",
+            "Time": "749",
+            "TimeBehind": "0",
+            "Position": "1",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "146"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "182"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "257"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "407"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "478"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "524"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "612"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "673"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "726"
+              }
+            ],
+            "ControlCard": "1680101",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "6.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "9014",
+            "Name": {
+              "Family": "Buchberger",
+              "Given": "Jakob Felix"
+            },
+            "BirthDate": "2009-01-01"
+          },
+          "Organisation": {
+            "Id": "33",
+            "Name": "HSV Wals",
+            "ShortName": "HSV Wals"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "10",
+            "StartTime": "2019-04-28T12:44:08.000",
+            "FinishTime": "2019-04-28T12:59:21.000",
+            "Time": "913",
+            "TimeBehind": "164",
+            "Position": "2",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "129"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "160"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "243"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "427"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "543"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "627"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "766"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "840"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "894"
+              }
+            ],
+            "ControlCard": "680724",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "6.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Name": {
+              "Family": "Brawisch",
+              "Given": "Ludwig"
+            }
+          },
+          "Organisation": {
+            "Id": "33",
+            "Name": "HSV Wals",
+            "ShortName": "HSV Wals"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "16",
+            "StartTime": "2019-04-28T13:00:06.000",
+            "FinishTime": "2019-04-28T13:16:38.000",
+            "Time": "992",
+            "TimeBehind": "243",
+            "Position": "3",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "106"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "156"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "272"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "508"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "642"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "714"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "838"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "907"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "965"
+              }
+            ],
+            "ControlCard": "7615",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "3.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "M",
+            "Id": "6242",
+            "Name": {
+              "Family": "Fink",
+              "Given": "Lorenz und Hanna"
+            },
+            "BirthDate": "2009-01-01"
+          },
+          "Organisation": {
+            "Id": "32",
+            "Name": "ASKÃ Henndorf",
+            "ShortName": "ASKÃ Henndorf"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "9",
+            "StartTime": "2019-04-28T12:43:03.000",
+            "FinishTime": "2019-04-28T13:04:26.000",
+            "Time": "1283",
+            "TimeBehind": "534",
+            "Position": "4",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "305"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "378"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "479"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "688"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "817"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "981"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "1118"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "1178"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1256"
+              }
+            ],
+            "ControlCard": "46309",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "6.00"
+              }
+            }
+          }
+        },
+        {
+          "Person": {
+            "-sex": "F",
+            "Name": {
+              "Family": "Brawisch",
+              "Given": "Charlotta"
+            }
+          },
+          "Organisation": {
+            "Id": "33",
+            "Name": "HSV Wals",
+            "ShortName": "HSV Wals"
+          },
+          "Result": {
+            "-raceNumber": "2",
+            "BibNumber": "5",
+            "StartTime": "2019-04-28T12:43:03.000",
+            "FinishTime": "2019-04-28T13:04:29.000",
+            "Time": "1286",
+            "TimeBehind": "537",
+            "Position": "5",
+            "Status": "OK",
+            "SplitTimes": [
+              {
+                "ControlCode": "104",
+                "Time": "292"
+              },
+              {
+                "ControlCode": "94",
+                "Time": "380"
+              },
+              {
+                "ControlCode": "116",
+                "Time": "480"
+              },
+              {
+                "ControlCode": "115",
+                "Time": "733"
+              },
+              {
+                "ControlCode": "111",
+                "Time": "817"
+              },
+              {
+                "ControlCode": "114",
+                "Time": "981"
+              },
+              {
+                "ControlCode": "108",
+                "Time": "1119"
+              },
+              {
+                "ControlCode": "103",
+                "Time": "1179"
+              },
+              {
+                "ControlCode": "100",
+                "Time": "1258"
+              }
+            ],
+            "ControlCard": "500775",
+            "AssignedFee": {
+              "Fee": {
+                "Name": "Actual",
+                "Amount": "3.00"
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

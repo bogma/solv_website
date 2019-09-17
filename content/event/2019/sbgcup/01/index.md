@@ -82,4 +82,5 @@ SPORTIdent; SI-Air+ (touch free) aktiviert.
 - Privatgrundstücke dürfen nicht betreten werden.
 
 ### Hinweis des SOLV
+
 Für die Jahreswertung des SOLV-Cup werden nur SOLV-Mitglieder berücksichtigt!

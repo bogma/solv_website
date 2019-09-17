@@ -1,0 +1,53 @@
+<CupConfiguration>
+  <Cup name="Salzburger Sportvoglcup 2019"
+    year="2019" numberOfEvents="11" takeBest="7" calcRule="calcPointsFromPosition" resultFilePrefix="SbgCup" recurseSubDirs="true" convertToJson="true"
+    includeStatus="DidNotFinish, MissingPunch" eventTitle="Sbg.Cup">
+    <!-- set num to 0 if not needed -->
+    <Event num="11" multiply="2" />
+  </Cup>
+  <Classes>
+    <Class name="S-Damen -13" id="50" diplayName="D13" />
+    <Class name="S-Damen -15" id="51" diplayName="D15" />
+    <Class name="S-Damen -18" id="52" diplayName="D18" />
+    <Class name="S-Damen 19-" id="53" diplayName="D Elite" />
+    <Class name="S-Damen 35-" id="54" diplayName="D35" />
+    <Class name="S-Damen 45-" id="55" diplayName="D45" />
+    <Class name="S-Damen 55-" id="56" diplayName="D55" />
+    <Class name="S-Damen 65-" id="57" diplayName="D65" />
+    <Class name="S-Herren -13" id="60" diplayName="H13" />
+    <Class name="S-Herren -15" id="61" diplayName="H15" />
+    <Class name="S-Herren -18" id="62" diplayName="H18" />
+    <Class name="S-Herren 19-" id="63" diplayName="H Elite" />
+    <Class name="S-Herren 35-" id="64" diplayName="H35" />
+    <Class name="S-Herren 45-" id="65" diplayName="H45" />
+    <Class name="S-Herren 55-" id="66" diplayName="H55" />
+    <Class name="S-Herren 65-" id="67" diplayName="H65" />
+  </Classes>
+  <Organisations>
+    <Organisation name="ASKÖ Henndorf" id="32" />
+    <Organisation name="SSV Hallein" id="35" />
+    <Organisation name="HBLA Ursprung" id="200" />
+    <Organisation name="HSV Wals" id="33" />
+    <Organisation name="TV Zell am See" id="124" />
+    <Organisation name="NF Seekirchen" id="34" />
+  </Organisations>
+  <Output>
+    <Html active="false" fileName="Scup_19.html" cssInline="true" docTemplate="sbgcup_document_template.html" classTemplate="sbgcup_class_template.html" detailsTemplate="sbgcup_details_template.html" cssFile="default.css" />
+    <Pdf active="true" fileName="sbgcup.pdf" orientation="Landscape" />
+    <Json active="true" fileName="sbgcup.json" />
+  </Output>
+  <Names>
+    <Name name="Bubu" aliasFor="der Hund, the great"/>
+    <Name name="Tscharlie Hackl" aliasFor="Karl Hackl"/>
+    <Name name="Sepp Wimmer" aliasFor="Josef Wimmer"/>
+    <Name name="Roland Berner" aliasFor="Roland Perner"/>
+    <Name name="Yschi Tiefenbrunner" aliasFor="Yschai Tiefenbrunner"/>
+    <Name name="Jonas Königstorfer" aliasFor="Jonas Königsdorfer"/>
+    <!-- <Name name="Wolfgang Buchberger Sen." aliasFor="Wolfgang Buchberger"/> -->
+  </Names>
+  <Translations>
+    <Translation key="DidNotFinish" translate="aufg." />
+    <Translation key="DidNotStart" translate="n ang." />
+    <Translation key="MissingPunch" translate="Fehlst." />
+  </Translations>
+</CupConfiguration>

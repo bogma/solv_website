@@ -2,7 +2,7 @@
 title: "2. + 3. Salzburger Sportvoglcup 2019"
 date: 2019-04-07T10:30:00+01:00 # date of creation of the file
 draft: false
-status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
+status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 2567
 
 archives: []
@@ -10,7 +10,7 @@ tags: [ "SBG Cup"]
 
 
 event:
-  name_amend: ""
+  name_amend: "1. + 2. Sportvogl Sprintcup 2019"
   form: "Sprint OL"
   location: "Zell am See"
   type: "sbgcup"
@@ -53,7 +53,7 @@ resources:
   title: "Splits"
 - src: "**/resu**"
   title: "Ergebnisse"
-- src: "**/lau**"
+- src: "**/info**"
   title: "Läuferinfo"
 ---
 
@@ -77,4 +77,5 @@ SPORTIdent; SI-Air+ (touch free) aktiviert.
 - Privatgrundstücke dürfen nicht betreten werden.
 
 ### Hinweis des SOLV
+
 Für die Jahreswertung des SOLV-Cup werden nur SOLV-Mitglieder berücksichtigt!

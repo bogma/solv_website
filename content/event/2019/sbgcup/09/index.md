@@ -1,8 +1,10 @@
 ---
+hero: true
+
 title: "9. Salzburger Sportvoglcup 2019"
 date: 2019-10-05T00:00:00+01:00 # date of creation of the file
 draft: false
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 2565
 
 archives: []

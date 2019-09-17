@@ -1,8 +1,8 @@
 ---
 title: "5. + 6. Salzburger Sportvoglcup 2019"
-date: 2019-04-28T00:00:00+01:00 # date of creation of the file
+date: 2019-04-28T11:00:00+01:00 # date of creation of the file
 draft: false
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
+status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 2568
 
 archives: []
@@ -17,30 +17,30 @@ championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orientieering" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Martin Lejsek"
+  event: "Christian Breitschädel"
+  inspection: "Martin Lejsek"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -5 # x days from event->date
 meeting:
-  point: ""
+  point: "Jugendgästehaus Mauser Mühlthaler"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.133246, 13.680107]
 map:
-  name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
+  name: "Mauterndorf"
+  scale: "1:4.000"
+  equidistance: "2,5m"
+  update: "April 2019"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: ""
+hints: "Sprint-OL in 2 Läufen. Die Salzburger Meister/innen werden aus der Summe aus beiden Läufen errechnet! Der zweite Lauf wird gemeinsam mit dem ersten Lauf ausgelost und die Startliste veröffentlicht, kein Jagdstart. Für den Salzburgcup wird jeder Durchgang als eigener Lauf gewertet (daher 5. und 6. Salzburger Sportvoglcup); Wer im 1. Lauf nicht in die Wertung kommt, kann natürlich im 2. Lauf starten und für den Salzburgcup punkten. Startintervall für beide Läufe 2 Minuten."
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
@@ -58,8 +58,8 @@ resources:
 
 ### Startgeld
 
-- bis D/H -15 und OL: € 3,-
-- ab D/H 16-: € 4,50
+- bis D/H -15 und OL: € 6,-
+- ab D/H 16-: € 9
 
 ### Zeitnehmung
 
@@ -76,4 +76,5 @@ SPORTIdent; SI-Air+ (touch free) aktiviert.
 - Privatgrundstücke dürfen nicht betreten werden.
 
 ### Hinweis des SOLV
+
 Für die Jahreswertung des SOLV-Cup werden nur SOLV-Mitglieder berücksichtigt!
