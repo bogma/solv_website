@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+  {{ partial "head.splitsbrowser" . }}
+  <body>
+    <div class="uk-offcanvas-content">
+      {{ partial "header" . }}
+      {{ partial "navigation" . }}
+      {{ block "main" . }}{{ end }}
+      {{ partial "footer" . }}
+    </div>
+  </body>
+</html>

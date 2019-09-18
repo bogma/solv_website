@@ -1,0 +1,253 @@
+{{ define "main" }}
+
+<div class="uk-container">
+    {{ with .Resources.Match "results/*.json" }}
+        {{ $cnt := len .}}
+        {{ if gt $cnt 1 }}
+            <ul class="uk-tab" data-uk-tab="{connect:'#my-id'}">
+                {{ range . }}
+                    {{ $json := getJSON "content" .RelPermalink }}
+                    <li><a href="">{{$json.ResultList.Event.Race.Name}}</a></li>
+                {{ end }}
+            </ul>
+            <ul id="my-id" class="uk-switcher uk-margin">
+                {{ range $index, $element := . }}
+                <li>
+                    {{ $json := getJSON "content" $element.RelPermalink }}
+                    <div class="uk-container uk-container-xsmall uk-section">
+                        <div id="result-table-{{- $index -}}"></div>
+                    </div>
+                    <script type="text/javascript">
+                        var tabledata{{- $index -}} = [
+                            {{- range $json.ResultList.ClassResult -}}
+                                {{- $count := 0 -}}
+                                {{- range $i, $p := .PersonResult -}}
+                                    {{- if eq $i "Person" -}}
+                                        {{- $count = 0 -}}
+                                    {{- else -}}
+                                        {{- $count = add $count 1 -}}
+                                    {{- end -}}
+                                {{- end -}}
+                                {{- $class := .Class -}}
+                                {{- $course := .Course -}}
+                                {{- $plOffset := 1 -}}
+                                {{- if eq $count 1 -}}
+                    {
+                        pos: {{ if eq .PersonResult.Result.Status "OK" }}{{ .PersonResult.Result.Position }}{{ else }}-1{{ end }},
+                        className: "{{ $class.Name }}",
+                        classShortName: "{{ $class.ShortName }}",
+                        courseName: "{{ $course.Name }}",
+                        courseLength: {{ $course.Length }},
+                        courseNoC: {{ $course.NumberOfControls }},
+                        name: "{{ .PersonResult.Person.Name.Given }} {{ .PersonResult.Person.Name.Family}}",
+                        birthYear: "{{ with .PersonResult.Person.BirthDate}}{{ . | dateFormat "06"}}{{ end }}",
+                        club: "{{ .PersonResult.Organisation.Name }}",
+                        time: {{ if eq .PersonResult.Result.Status "OK" }}{{ .PersonResult.Result.Time }}{{ else }}-1{{ end }},
+                        timeBehind: {{ if eq .PersonResult.Result.Status "OK" }}{{ .PersonResult.Result.TimeBehind }}{{ else }}-1{{ end }},
+                        status:"{{ .PersonResult.Result.Status }}"
+                    },                
+                                {{- else -}}
+                                    {{- range $i, $p := .PersonResult -}}
+                    {
+                        pos: {{ if eq $p.Result.Status "OK" }}{{ $p.Result.Position }}{{ else }}-1{{ end }},
+                        className: "{{ $class.Name }}",
+                        classShortName: "{{ $class.ShortName }}",
+                        courseName: "{{ $course.Name }}",
+                        courseLength: {{ $course.Length }},
+                        courseNoC: {{ $course.NumberOfControls }},
+                        name: "{{ $p.Person.Name.Given }} {{ $p.Person.Name.Family}}",
+                        birthYear: "{{ with $p.Person.BirthDate}}{{ . | dateFormat "06"}}{{ end }}",
+                        club: "{{ $p.Organisation.Name }}",
+                        time: {{ if eq $p.Result.Status "OK" }}{{ $p.Result.Time }}{{ else }}-1{{ end }},
+                        timeBehind: {{ if eq $p.Result.Status "OK" }}{{ $p.Result.TimeBehind }}{{ else }}-1{{ end }},
+                        status:"{{ $p.Result.Status }}"
+                    },
+                    
+                    {{- $plOffset = add $plOffset 1 -}}
+                    
+                                    {{- end -}}
+                                {{- end -}}
+                            {{- end -}}
+                            ];
+                    
+                            var table = new Tabulator("#result-table-{{- $index -}}", {
+                                data:tabledata{{- $index -}},
+                                headerSort: false,
+                                layout:"fitDataFill",
+                                responsiveLayout:"collapse",
+                                groupBy:"classShortName",
+                                groupHeader:function(value, count, data, group){
+                                    //value - the value all members of this group share
+                                    //count - the number of rows in this group
+                                    //data - an array of all the row data objects in this group
+                                    //group - the group component for the group
+                                    var courseInfo = "Bahn: " + data[0].courseName + ", " + data[0].courseLength + " m, " + data[0].courseNoC + " P";
+                                    return value + "<span style='color:#d00; margin-left:10px;'>(" + count + ")</span>" + "<span style='color:#b88; margin-left:10px;'>" + courseInfo + "</span>";
+                                },
+                                initialSort:[
+                                    {column:"classShortName", dir:"asc"},
+                                ],
+                                columns:[
+                                    {title:"Pl", field:"pos", formatter:function(cell, formatterParams, onRendered) {
+                                      //cell - the cell component
+                                      //formatterParams - parameters set for the column
+                                      //onRendered - function to call when the formatter has been rendered
+                                      if (cell.getValue() < 0) {
+                                        return "";
+                                      }
+                                      return cell.getValue();
+                                    }},
+                                    {title:"Name", field:"name"},
+                                    {title:"Jg", field:"birthYear", align:"center"},
+                                    {title:"Verein", field:"club"},
+                                    {title:"Zeit", field:"time", formatter:function(cell, formatterParams, onRendered) {
+                                      //cell - the cell component
+                                      //formatterParams - parameters set for the column
+                                      //onRendered - function to call when the formatter has been rendered
+                                      if (cell.getValue() < 0) {
+                                        return "-";
+                                      }
+                                      var duration = moment.duration(cell.getValue(), 'seconds');
+                                      return duration.format("h:mm:ss", {trim: "large",stopTrim: "m"});
+                                    }, align:"center"},
+                                    {title:"Diff.", field:"timeBehind", formatter:function(cell, formatterParams, onRendered) {
+                                        //cell - the cell component
+                                        //formatterParams - parameters set for the column
+                                        //onRendered - function to call when the formatter has been rendered
+                                        if (cell.getValue() <= 0) {
+                                            return "-";
+                                        }
+                                        var duration = moment.duration(cell.getValue(), 'seconds');
+                                        return duration.format("+ h:mm:ss", {trim: "large",stopTrim: "m"});
+                                    }, align:"center"},
+                                    {title:"Status", field:"status", align:"center"},
+                                ],
+                            });
+                    </script>
+                </li>
+                {{ end }}
+            </ul>
+        {{ else }}
+            {{ range $index, $element := . }}
+                {{ $json := getJSON "content" $element.RelPermalink }}
+                <div class="uk-container">
+                    <h3 class="uk-text-center">
+                        {{$json.ResultList.Event.Name}}{{ with $json.note.from }} - {{.}} {{ end }}
+                    </h3>
+                </div>
+                <div class="uk-container uk-container-xsmall uk-section">
+                    <div id="result-table-{{- $index -}}"></div>
+                </div>
+                <script type="text/javascript">
+                    var tabledata{{- $index -}} = [
+                        {{- range $json.ResultList.ClassResult -}}
+                            {{- $count := 0 -}}
+                            {{- range $i, $p := .PersonResult -}}
+                                {{- if eq $i "Person" -}}
+                                    {{- $count = 0 -}}
+                                {{- else -}}
+                                    {{- $count = add $count 1 -}}
+                                {{- end -}}
+                            {{- end -}}
+                            {{- $class := .Class -}}
+                            {{- $course := .Course -}}
+                            {{- $plOffset := 1 -}}
+                            {{- if eq $count 1 -}}
+                {
+                    pos: {{ if eq .PersonResult.Result.Status "OK" }}{{ .PersonResult.Result.Position }}{{ else }}-1{{ end }},
+                    className: "{{ $class.Name }}",
+                    classShortName: "{{ $class.ShortName }}",
+                    courseName: "{{ $course.Name }}",
+                    courseLength: {{ $course.Length }},
+                    courseNoC: {{ $course.NumberOfControls }},
+                    name: "{{ .PersonResult.Person.Name.Given }} {{ .PersonResult.Person.Name.Family}}",
+                    birthYear: "{{ with .PersonResult.Person.BirthDate}}{{ . | dateFormat "06"}}{{ end }}",
+                    club: "{{ .PersonResult.Organisation.Name }}",
+                    time: {{ if eq .PersonResult.Result.Status "OK" }}{{ .PersonResult.Result.Time }}{{ else }}-1{{ end }},
+                    timeBehind: {{ if eq .PersonResult.Result.Status "OK" }}{{ .PersonResult.Result.TimeBehind }}{{ else }}-1{{ end }},
+                    status:"{{ .PersonResult.Result.Status }}"
+                },                
+                            {{- else -}}
+                                {{- range $i, $p := .PersonResult -}}
+                {
+                    pos: {{ if eq $p.Result.Status "OK" }}{{ $p.Result.Position }}{{ else }}-1{{ end }},
+                    className: "{{ $class.Name }}",
+                    classShortName: "{{ $class.ShortName }}",
+                    courseName: "{{ $course.Name }}",
+                    courseLength: {{ $course.Length }},
+                    courseNoC: {{ $course.NumberOfControls }},
+                    name: "{{ $p.Person.Name.Given }} {{ $p.Person.Name.Family}}",
+                    birthYear: "{{ with $p.Person.BirthDate}}{{ . | dateFormat "06"}}{{ end }}",
+                    club: "{{ $p.Organisation.Name }}",
+                    time: {{ if eq $p.Result.Status "OK" }}{{ $p.Result.Time }}{{ else }}-1{{ end }},
+                    timeBehind: {{ if eq $p.Result.Status "OK" }}{{ $p.Result.TimeBehind }}{{ else }}-1{{ end }},
+                    status:"{{ $p.Result.Status }}"
+                },
+                
+                {{- $plOffset = add $plOffset 1 -}}
+                
+                                {{- end -}}
+                            {{- end -}}
+                        {{- end -}}
+                        ];
+                
+                        var table = new Tabulator("#result-table-{{- $index -}}", {
+                            data:tabledata{{- $index -}},
+                            headerSort: false,
+                            layout:"fitDataFill",
+                            responsiveLayout:"collapse",
+                            groupBy:"classShortName",
+                            groupHeader:function(value, count, data, group){
+                                //value - the value all members of this group share
+                                //count - the number of rows in this group
+                                //data - an array of all the row data objects in this group
+                                //group - the group component for the group
+                                var courseInfo = "Bahn: " + data[0].courseName + ", " + data[0].courseLength + " m, " + data[0].courseNoC + " P";
+                                return value + "<span style='color:#d00; margin-left:10px;'>(" + count + ")</span>" + "<span style='color:#b88; margin-left:10px;'>" + courseInfo + "</span>";
+                            },
+                            initialSort:[
+                                {column:"classShortName", dir:"asc"},
+                            ],
+                            columns:[
+                                {title:"Pl", field:"pos", formatter:function(cell, formatterParams, onRendered) {
+                                  //cell - the cell component
+                                  //formatterParams - parameters set for the column
+                                  //onRendered - function to call when the formatter has been rendered
+                                  if (cell.getValue() < 0) {
+                                    return "";
+                                  }
+                                  return cell.getValue();
+                                }},
+                                {title:"Name", field:"name"},
+                                {title:"Jg", field:"birthYear", align:"center"},
+                                {title:"Verein", field:"club"},
+                                {title:"Zeit", field:"time", formatter:function(cell, formatterParams, onRendered) {
+                                  //cell - the cell component
+                                  //formatterParams - parameters set for the column
+                                  //onRendered - function to call when the formatter has been rendered
+                                  if (cell.getValue() < 0) {
+                                    return "-";
+                                  }
+                                  var duration = moment.duration(cell.getValue(), 'seconds');
+                                  return duration.format("h:mm:ss", {trim: "large",stopTrim: "m"});
+                                }, align:"center"},
+                                {title:"Diff.", field:"timeBehind", formatter:function(cell, formatterParams, onRendered) {
+                                    //cell - the cell component
+                                    //formatterParams - parameters set for the column
+                                    //onRendered - function to call when the formatter has been rendered
+                                    if (cell.getValue() <= 0) {
+                                        return "-";
+                                    }
+                                    var duration = moment.duration(cell.getValue(), 'seconds');
+                                    return duration.format("+ h:mm:ss", {trim: "large",stopTrim: "m"});
+                                }, align:"center"},
+                                {title:"Status", field:"status", align:"center"},
+                            ],
+                        });
+                </script>
+            {{ end }}
+        {{ end }}
+    {{ end }}
+</div>
+
+{{ end }}

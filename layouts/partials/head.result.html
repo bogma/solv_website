@@ -1,0 +1,24 @@
+<head>
+    <!-- im the result head -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ if ne .Title .Site.Title }}{{ .Title }}{{ end }} {{ .Site.Title }}</title>
+    {{ if .IsHome }}
+    <meta name="description" content="{{ .Site.Params.description }}">
+    {{ end }}
+    <script src="{{ "js/uikit.min.js" | relURL }}"></script>
+    <script src="{{ "js/uikit-icons.min.js" | relURL }}"></script>
+    <link rel="stylesheet" href="{{ "css/uikit.min.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ "css/all.min.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/print.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ "css/cards.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ "css/additional.css" | relURL }}" />
+    <link rel="canonical" href="{{ .Permalink }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ "images/solv-logo-neu-16x16.png" | relURL }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "images/solv-logo-neu-32x32.png" | relURL }}">
+    <link rel="stylesheet" href="https://unpkg.com/tabulator-tables@4.4.1/dist/css/tabulator.min.css">
+    <script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.4.1/dist/js/tabulator.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment-duration-format/2.3.2/moment-duration-format.min.js"></script>
+</head>

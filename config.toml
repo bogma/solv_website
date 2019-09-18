@@ -108,3 +108,15 @@ paginate = 10
     home = ["HTML", "JSON"]
     page = ["HTML"]
     section = ["HTML"]
+
+[outputFormats]
+  [outputFormats.result]
+    baseName = "resu" 
+    isPlainText = true
+    mediaType = "text/html"
+    permalinkable = true
+  [outputFormats.splitsbrowser]
+    baseName = "splitsbrowser" 
+    isPlainText = true
+    mediaType = "text/html"
+    permalinkable = true
