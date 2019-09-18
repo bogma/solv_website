@@ -44,8 +44,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -114,8 +114,8 @@
           },
           "Organisation": {
             "Id": "125",
-            "Name": "NF KitzbÃ¼hel",
-            "ShortName": "NF KitzbÃ¼hel"
+            "Name": "NF Kitzbühel",
+            "ShortName": "NF Kitzbühel"
           },
           "Result": {
             "-raceNumber": "1",
@@ -256,8 +256,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -390,15 +390,15 @@
             "-sex": "F",
             "Id": "41",
             "Name": {
-              "Family": "HÃ¶henberger",
+              "Family": "Höhenberger",
               "Given": "Lara"
             },
             "BirthDate": "2006-01-01"
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -564,8 +564,8 @@
           },
           "Organisation": {
             "Id": "125",
-            "Name": "NF KitzbÃ¼hel",
-            "ShortName": "NF KitzbÃ¼hel"
+            "Name": "NF Kitzbühel",
+            "ShortName": "NF Kitzbühel"
           },
           "Result": {
             "-raceNumber": "1",
@@ -900,8 +900,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -987,8 +987,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -1074,8 +1074,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -1247,8 +1247,8 @@
           },
           "Organisation": {
             "Id": "125",
-            "Name": "NF KitzbÃ¼hel",
-            "ShortName": "NF KitzbÃ¼hel"
+            "Name": "NF Kitzbühel",
+            "ShortName": "NF Kitzbühel"
           },
           "Result": {
             "-raceNumber": "1",
@@ -1334,8 +1334,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -1413,15 +1413,15 @@
             "-sex": "F",
             "Id": "8446",
             "Name": {
-              "Family": "GrÃ¶mer",
+              "Family": "Grömer",
               "Given": "Bernadette"
             },
             "BirthDate": "1999-01-01"
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -1612,8 +1612,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -1695,8 +1695,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -1800,8 +1800,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -1887,8 +1887,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -2160,15 +2160,15 @@
           "Person": {
             "-sex": "M",
             "Name": {
-              "Family": "BreitschÃ¤del",
+              "Family": "Breitschädel",
               "Given": "Eva"
             },
             "BirthDate": "1953-01-01"
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -2235,15 +2235,15 @@
             "-sex": "F",
             "Id": "69",
             "Name": {
-              "Family": "MÃ¼ller",
+              "Family": "Müller",
               "Given": "Brigitte"
             },
             "BirthDate": "1948-01-01"
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -2413,8 +2413,8 @@
           },
           "Organisation": {
             "Id": "125",
-            "Name": "NF KitzbÃ¼hel",
-            "ShortName": "NF KitzbÃ¼hel"
+            "Name": "NF Kitzbühel",
+            "ShortName": "NF Kitzbühel"
           },
           "Result": {
             "-raceNumber": "1",
@@ -2624,8 +2624,8 @@
           },
           "Organisation": {
             "Id": "125",
-            "Name": "NF KitzbÃ¼hel",
-            "ShortName": "NF KitzbÃ¼hel"
+            "Name": "NF Kitzbühel",
+            "ShortName": "NF Kitzbühel"
           },
           "Result": {
             "-raceNumber": "1",
@@ -2694,8 +2694,8 @@
           },
           "Organisation": {
             "Id": "125",
-            "Name": "NF KitzbÃ¼hel",
-            "ShortName": "NF KitzbÃ¼hel"
+            "Name": "NF Kitzbühel",
+            "ShortName": "NF Kitzbühel"
           },
           "Result": {
             "-raceNumber": "1",
@@ -2834,8 +2834,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -2997,8 +2997,8 @@
           },
           "Organisation": {
             "Id": "125",
-            "Name": "NF KitzbÃ¼hel",
-            "ShortName": "NF KitzbÃ¼hel"
+            "Name": "NF Kitzbühel",
+            "ShortName": "NF Kitzbühel"
           },
           "Result": {
             "-raceNumber": "1",
@@ -3168,8 +3168,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -3251,8 +3251,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -3327,15 +3327,15 @@
             "-sex": "M",
             "Id": "7608",
             "Name": {
-              "Family": "KÃ¶nigstorfer",
+              "Family": "Königstorfer",
               "Given": "Jonas"
             },
             "BirthDate": "2001-01-01"
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -3433,8 +3433,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -3601,8 +3601,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -3766,8 +3766,8 @@
           },
           "Organisation": {
             "Id": "125",
-            "Name": "NF KitzbÃ¼hel",
-            "ShortName": "NF KitzbÃ¼hel"
+            "Name": "NF Kitzbühel",
+            "ShortName": "NF Kitzbühel"
           },
           "Result": {
             "-raceNumber": "1",
@@ -3847,8 +3847,8 @@
           },
           "Organisation": {
             "Id": "125",
-            "Name": "NF KitzbÃ¼hel",
-            "ShortName": "NF KitzbÃ¼hel"
+            "Name": "NF Kitzbühel",
+            "ShortName": "NF Kitzbühel"
           },
           "Result": {
             "-raceNumber": "1",
@@ -4010,8 +4010,8 @@
           },
           "Organisation": {
             "Id": "125",
-            "Name": "NF KitzbÃ¼hel",
-            "ShortName": "NF KitzbÃ¼hel"
+            "Name": "NF Kitzbühel",
+            "ShortName": "NF Kitzbühel"
           },
           "Result": {
             "-raceNumber": "1",
@@ -4093,8 +4093,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -4194,8 +4194,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -4281,8 +4281,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -4628,8 +4628,8 @@
           },
           "Organisation": {
             "Id": "125",
-            "Name": "NF KitzbÃ¼hel",
-            "ShortName": "NF KitzbÃ¼hel"
+            "Name": "NF Kitzbühel",
+            "ShortName": "NF Kitzbühel"
           },
           "Result": {
             "-raceNumber": "1",
@@ -5444,8 +5444,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -5519,8 +5519,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -5587,15 +5587,15 @@
             "-sex": "M",
             "Id": "8",
             "Name": {
-              "Family": "BÃ¶hm",
+              "Family": "Böhm",
               "Given": "Eduard"
             },
             "BirthDate": "1948-01-01"
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -5759,15 +5759,15 @@
             "-sex": "M",
             "Id": "71",
             "Name": {
-              "Family": "MÃ¼ller",
+              "Family": "Müller",
               "Given": "Leo"
             },
             "BirthDate": "1949-01-01"
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -5834,15 +5834,15 @@
             "-sex": "M",
             "Id": "3078",
             "Name": {
-              "Family": "SchÃ¼tz",
+              "Family": "Schütz",
               "Given": "Wolfgang"
             },
             "BirthDate": "1953-01-01"
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -5984,15 +5984,15 @@
             "-sex": "M",
             "Id": "13",
             "Name": {
-              "Family": "BreitschÃ¤del",
+              "Family": "Breitschädel",
               "Given": "Christian"
             },
             "BirthDate": "1953-01-01"
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -6087,8 +6087,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -6151,13 +6151,13 @@
             "-sex": "M",
             "Name": {
               "Family": "Fink",
-              "Given": "H  L"
+              "Given": "H + L"
             }
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -6225,8 +6225,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -6386,8 +6386,8 @@
           },
           "Organisation": {
             "Id": "125",
-            "Name": "NF KitzbÃ¼hel",
-            "ShortName": "NF KitzbÃ¼hel"
+            "Name": "NF Kitzbühel",
+            "ShortName": "NF Kitzbühel"
           },
           "Result": {
             "-raceNumber": "1",
@@ -6461,8 +6461,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASKÃ Henndorf",
-            "ShortName": "ASKÃ Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
