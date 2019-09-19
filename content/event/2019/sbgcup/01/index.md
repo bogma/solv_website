@@ -5,7 +5,7 @@ draft: false
 outputs:
 - html
 - result
-- splitsbrowser
+
 status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 2574
 
