@@ -1,0 +1,40 @@
+year: 2019
+type: sprint
+name: Sprint
+evlink: <none>
+results:
+  - category: Damen -15
+    valid: true
+    result:
+      - name: Jana Lechner
+      - name: Emma Rothauer
+      - name: Josefine Erhard
+  - category: Herren -15
+    valid: true
+    result:
+      - name: Nick Lechner
+      - name: Simon Wally
+      - name: Jakob Felix Buchberger
+  - category: Damen 16-
+    valid: true
+    result:
+      - name: Karin Hillebrand
+      - name: Franziska Rogl
+      - name: Margit Elstner
+  - category: Herren 16-
+    valid: true
+    result:
+      - name: Leon Ebster
+      - name: Bernhard Fink
+      - name: Norbert Helminger
+  - category: Damen 55-
+    valid: true
+    result:
+      - name: Eva Breitschädel
+      - name: Berta Buchberger
+  - category: Herren 55-
+    valid: true
+    result:
+      - name: Horst Mayer
+      - name: Karl Hackl
+      - name: Jakob Buchberger
