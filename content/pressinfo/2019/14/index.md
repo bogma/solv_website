@@ -1,5 +1,5 @@
 ---
-hero: true
+
 title: "Erfolgreicher Start in die Herbstsaison der Orientierungsläufer"
 date: 2019-09-15T21:57:16+02:00 # date for 'written on'
 draft: false
