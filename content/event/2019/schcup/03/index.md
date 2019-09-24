@@ -1,8 +1,8 @@
 ---
 title: "3. Salzburger Sportvogl Schulcup 2019"
-date: 2019-05-22T00:00:00+01:00 # date of creation of the file
+date: 2019-05-22T10:00:00+01:00 # date of creation of the file
 draft: false
-status: planned
+status: done
 
 archives: []
 tags: [ "Schul Cup"]
@@ -25,7 +25,7 @@ entry: # TODO for schulcup
   text: ""
   closing_date_days: -2 # x days from event->date
 meeting:
-  point: ""
+  point: "Hellbrunn"
   time_minutes: -60 # x minutes from event->date
 timing: "SPORTIdent"
 hints: ""
@@ -38,12 +38,14 @@ resources:
   title: "Ausschreibung"
 - src: "**/start**"
   title: "Startliste"
-- src: "**/resu**"
-  title: "Ergebnisse"
-- src: "**/split**"
+- src: "**/res*split*"
   title: "Splits"
+- src: "**/res**"
+  title: "Ergebnisse"
 - src: "**/laeu**"
   title: "Läuferinfo"
+- src: "**/schulms**"
+  title: "Mannschaftswertung"
 ---
 
 ### Nennung

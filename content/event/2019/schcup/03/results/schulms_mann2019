@@ -1,0 +1,450 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <style>body{
+  background:#fff;
+  margin:20px;
+  padding:0px;
+}
+
+body,td{
+  color:#444;
+  font-family:Tahoma,Verdana,Arial,sans-serif;
+  font-size:11px;
+}
+
+dd{
+  border-left:1px solid #aaa;
+  margin-left:10px;
+  padding-left:2px;
+}
+
+dt{
+  margin-top:15px;
+}
+
+div.category_title{
+  border-bottom:1px solid #999;
+  font-size:16px;
+  font-weight:bold;
+  letter-spacing:2px;
+  margin-bottom:10px;
+}
+
+div.time{
+ color:blue;
+}
+
+h1{
+  color:#f00;
+  font-size:25px;
+  font-weight:bold;
+  margin-bottom:10px;
+  margin-top:0px;
+}
+
+
+td.whitetext{
+  color:#fff;
+}
+
+td.ranking_header{
+  border-bottom:1px solid #888;
+  vertical-align:bottom;
+}
+
+tr.cal_out_dark{
+  background:#bbb;
+  height:45px;
+}
+
+tr.row_style_even{
+  background:#ddd;
+  height:45px;
+}
+
+tr.row_style_odd{
+  background:#fff;
+  height:45px;
+}
+ 
+
+
+</style>
+    <title>Salzburger Schulcup 2019 - Mannschaftswertung</title>
+</head>
+
+<body>
+    <h1>Salzburger Schulcup 2019 - Mannschaftswertung</h1>
+    <br>
+    <br>
+    <div><div>
+    <div class="category_title">Oberstufe Herren (OS H)</div>
+    <br>
+    <table border="0" cellpadding="2" cellspacing="0" width="90%"> 
+        <tbody>
+            <tr>
+                <td class="ranking_header" valign="bottom" align="right" width="5%">Pl</td>
+                <td class="ranking_header" valign="bottom" width="12%">Schule</td>
+                <td class="ranking_header" valign="bottom" align="right" style="padding-right:10px;border-right:1px solid #888;">Zeit</td>
+                <td class="ranking_header" valign="bottom" align="center" colspan="3">Team</td>
+            </tr>
+            <tr class="row_style_odd">
+                <td align="right">
+                    <div style="overflow:hidden;">1</div>
+                </td>
+                <td>
+                    <div style="overflow:hidden;">HBLA Ursprung</div>
+                </td>
+                <td align="right" style="padding-right:10px;border-right:1px solid #888;">
+                    <div style="overflow:hidden;">42:40</div>
+                </td>
+                <td align="center">
+                    <b>Peter Ebster</b> (12:07)<br>
+                </td><td align="center">
+                    <b>Hannes Lindner</b> (14:14)<br>
+                </td><td align="center">
+                    <b>Johannes Siller</b> (16:19)<br>
+                </td>
+            </tr><tr class="row_style_even">
+                <td align="right">
+                    <div style="overflow:hidden;">2</div>
+                </td>
+                <td>
+                    <div style="overflow:hidden;">HBLA Ursprung</div>
+                </td>
+                <td align="right" style="padding-right:10px;border-right:1px solid #888;">
+                    <div style="overflow:hidden;">54:39</div>
+                </td>
+                <td align="center">
+                    <b>Sebastian Baldauf</b> (17:55)<br>
+                </td><td align="center">
+                    <b>Michael Eisl</b> (18:00)<br>
+                </td><td align="center">
+                    <b>Michael Nöhmer</b> (18:44)<br>
+                </td>
+            </tr><tr class="row_style_odd">
+                <td align="right">
+                    <div style="overflow:hidden;">3</div>
+                </td>
+                <td>
+                    <div style="overflow:hidden;">HAK Neumarkt</div>
+                </td>
+                <td align="right" style="padding-right:10px;border-right:1px solid #888;">
+                    <div style="overflow:hidden;">59:55</div>
+                </td>
+                <td align="center">
+                    <b>Martin Kastner</b> (17:16)<br>
+                </td><td align="center">
+                    <b>Abbas Mohammadi</b> (18:43)<br>
+                </td><td align="center">
+                    <b>Nikolaus Klautzner</b> (23:56)<br>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <br>
+    <br>
+</div>
+</div><div><div>
+    <div class="category_title">Oberstufe Damen (OS D)</div>
+    <br>
+    <table border="0" cellpadding="2" cellspacing="0" width="90%"> 
+        <tbody>
+            <tr>
+                <td class="ranking_header" valign="bottom" align="right" width="5%">Pl</td>
+                <td class="ranking_header" valign="bottom" width="12%">Schule</td>
+                <td class="ranking_header" valign="bottom" align="right" style="padding-right:10px;border-right:1px solid #888;">Zeit</td>
+                <td class="ranking_header" valign="bottom" align="center" colspan="3">Team</td>
+            </tr>
+            <tr class="row_style_odd">
+                <td align="right">
+                    <div style="overflow:hidden;">1</div>
+                </td>
+                <td>
+                    <div style="overflow:hidden;">HLW Ried am Wolfgangsee</div>
+                </td>
+                <td align="right" style="padding-right:10px;border-right:1px solid #888;">
+                    <div style="overflow:hidden;">54:54</div>
+                </td>
+                <td align="center">
+                    <b>Chiara Selig</b> (17:25)<br>
+                </td><td align="center">
+                    <b>Emma Steinegger</b> (17:42)<br>
+                </td><td align="center">
+                    <b>Carina Zand</b> (19:47)<br>
+                </td>
+            </tr><tr class="row_style_even">
+                <td align="right">
+                    <div style="overflow:hidden;">2</div>
+                </td>
+                <td>
+                    <div style="overflow:hidden;">HLW Ried am Wolfgangsee</div>
+                </td>
+                <td align="right" style="padding-right:10px;border-right:1px solid #888;">
+                    <div style="overflow:hidden;">1:22:03</div>
+                </td>
+                <td align="center">
+                    <b>Bernadette Kastenauer</b> (20:40)<br>
+                </td><td align="center">
+                    <b>Shirley Bierbaumer</b> (25:39)<br>
+                </td><td align="center">
+                    <b>Bianca Hirnböck</b> (35:44)<br>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <br>
+    <br>
+</div>
+</div><div><div>
+    <div class="category_title">Unterstufe Herren (US H)</div>
+    <br>
+    <table border="0" cellpadding="2" cellspacing="0" width="90%"> 
+        <tbody>
+            <tr>
+                <td class="ranking_header" valign="bottom" align="right" width="5%">Pl</td>
+                <td class="ranking_header" valign="bottom" width="12%">Schule</td>
+                <td class="ranking_header" valign="bottom" align="right" style="padding-right:10px;border-right:1px solid #888;">Zeit</td>
+                <td class="ranking_header" valign="bottom" align="center" colspan="3">Team</td>
+            </tr>
+            <tr class="row_style_odd">
+                <td align="right">
+                    <div style="overflow:hidden;">1</div>
+                </td>
+                <td>
+                    <div style="overflow:hidden;">MMS Henndorf</div>
+                </td>
+                <td align="right" style="padding-right:10px;border-right:1px solid #888;">
+                    <div style="overflow:hidden;">40:31</div>
+                </td>
+                <td align="center">
+                    <b>Yschi Tiefenbrunner</b> (11:47)<br>
+                </td><td align="center">
+                    <b>Noah Brunner</b> (14:16)<br>
+                </td><td align="center">
+                    <b>Simon Wally</b> (14:28)<br>
+                </td>
+            </tr><tr class="row_style_even">
+                <td align="right">
+                    <div style="overflow:hidden;">2</div>
+                </td>
+                <td>
+                    <div style="overflow:hidden;">NSMS Hallein-Neualm</div>
+                </td>
+                <td align="right" style="padding-right:10px;border-right:1px solid #888;">
+                    <div style="overflow:hidden;">42:15</div>
+                </td>
+                <td align="center">
+                    <b>Sadmir Pobric</b> (11:06)<br>
+                </td><td align="center">
+                    <b>Alexander Mooslechner</b> (15:17)<br>
+                </td><td align="center">
+                    <b>Michael Radetic</b> (15:52)<br>
+                </td>
+            </tr><tr class="row_style_odd">
+                <td align="right">
+                    <div style="overflow:hidden;">3</div>
+                </td>
+                <td>
+                    <div style="overflow:hidden;">BG Seekirchen</div>
+                </td>
+                <td align="right" style="padding-right:10px;border-right:1px solid #888;">
+                    <div style="overflow:hidden;">43:47</div>
+                </td>
+                <td align="center">
+                    <b>Thomas Seidl</b> (11:59)<br>
+                </td><td align="center">
+                    <b>Maximilian Uitz</b> (14:50)<br>
+                </td><td align="center">
+                    <b>Maximilian Weyringer</b> (16:58)<br>
+                </td>
+            </tr><tr class="row_style_even">
+                <td align="right">
+                    <div style="overflow:hidden;">4</div>
+                </td>
+                <td>
+                    <div style="overflow:hidden;">NSMS Hallein-Neualm</div>
+                </td>
+                <td align="right" style="padding-right:10px;border-right:1px solid #888;">
+                    <div style="overflow:hidden;">57:37</div>
+                </td>
+                <td align="center">
+                    <b>Luca Windhofer</b> (17:46)<br>
+                </td><td align="center">
+                    <b>Christian Kastner</b> (19:28)<br>
+                </td><td align="center">
+                    <b>Luca Ostermann</b> (20:23)<br>
+                </td>
+            </tr><tr class="row_style_odd">
+                <td align="right">
+                    <div style="overflow:hidden;">5</div>
+                </td>
+                <td>
+                    <div style="overflow:hidden;">BG Seekirchen</div>
+                </td>
+                <td align="right" style="padding-right:10px;border-right:1px solid #888;">
+                    <div style="overflow:hidden;">1:02:20</div>
+                </td>
+                <td align="center">
+                    <b>Lorenz Veitl</b> (19:46)<br>
+                </td><td align="center">
+                    <b>Abas Mohammad</b> (20:40)<br>
+                </td><td align="center">
+                    <b>Florian Kittl</b> (21:54)<br>
+                </td>
+            </tr><tr class="row_style_even">
+                <td align="right">
+                    <div style="overflow:hidden;">6</div>
+                </td>
+                <td>
+                    <div style="overflow:hidden;">BG Seekirchen</div>
+                </td>
+                <td align="right" style="padding-right:10px;border-right:1px solid #888;">
+                    <div style="overflow:hidden;">1:10:19</div>
+                </td>
+                <td align="center">
+                    <b>Florian Jakob</b> (22:38)<br>
+                </td><td align="center">
+                    <b>Martin Kristof-Kriszt</b> (23:41)<br>
+                </td><td align="center">
+                    <b>Roland Baischer</b> (24:00)<br>
+                </td>
+            </tr><tr class="row_style_odd">
+                <td align="right">
+                    <div style="overflow:hidden;">7</div>
+                </td>
+                <td>
+                    <div style="overflow:hidden;">NSMS Hallein-Neualm</div>
+                </td>
+                <td align="right" style="padding-right:10px;border-right:1px solid #888;">
+                    <div style="overflow:hidden;">1:23:35</div>
+                </td>
+                <td align="center">
+                    <b>Felix Kolmbauer</b> (25:00)<br>
+                </td><td align="center">
+                    <b>Jonas Gimpl</b> (29:10)<br>
+                </td><td align="center">
+                    <b>Tobias Schnuderl</b> (29:25)<br>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <br>
+    <br>
+</div>
+</div><div><div>
+    <div class="category_title">Unterstufe Damen (US D)</div>
+    <br>
+    <table border="0" cellpadding="2" cellspacing="0" width="90%"> 
+        <tbody>
+            <tr>
+                <td class="ranking_header" valign="bottom" align="right" width="5%">Pl</td>
+                <td class="ranking_header" valign="bottom" width="12%">Schule</td>
+                <td class="ranking_header" valign="bottom" align="right" style="padding-right:10px;border-right:1px solid #888;">Zeit</td>
+                <td class="ranking_header" valign="bottom" align="center" colspan="3">Team</td>
+            </tr>
+            <tr class="row_style_odd">
+                <td align="right">
+                    <div style="overflow:hidden;">1</div>
+                </td>
+                <td>
+                    <div style="overflow:hidden;">SUM RG Salzburg</div>
+                </td>
+                <td align="right" style="padding-right:10px;border-right:1px solid #888;">
+                    <div style="overflow:hidden;">32:26</div>
+                </td>
+                <td align="center">
+                    <b>Emma Rothauer</b> (07:58)<br>
+                </td><td align="center">
+                    <b>Lisa Hangler</b> (09:28)<br>
+                </td><td align="center">
+                    <b>Sarah Baumgartner</b> (15:00)<br>
+                </td>
+            </tr><tr class="row_style_even">
+                <td align="right">
+                    <div style="overflow:hidden;">2</div>
+                </td>
+                <td>
+                    <div style="overflow:hidden;">MMS Henndorf</div>
+                </td>
+                <td align="right" style="padding-right:10px;border-right:1px solid #888;">
+                    <div style="overflow:hidden;">32:41</div>
+                </td>
+                <td align="center">
+                    <b>Josefine Erhard</b> (09:27)<br>
+                </td><td align="center">
+                    <b>Lara Höhenbeerger</b> (11:19)<br>
+                </td><td align="center">
+                    <b>Helena Rottenhofer</b> (11:55)<br>
+                </td>
+            </tr><tr class="row_style_odd">
+                <td align="right">
+                    <div style="overflow:hidden;">3</div>
+                </td>
+                <td>
+                    <div style="overflow:hidden;">MMS Henndorf</div>
+                </td>
+                <td align="right" style="padding-right:10px;border-right:1px solid #888;">
+                    <div style="overflow:hidden;">41:25</div>
+                </td>
+                <td align="center">
+                    <b>Jasmin Guggenberger</b> (11:58)<br>
+                </td><td align="center">
+                    <b>Carla Berger</b> (13:24)<br>
+                </td><td align="center">
+                    <b>Lisa Eberhartinger</b> (16:03)<br>
+                </td>
+            </tr><tr class="row_style_even">
+                <td align="right">
+                    <div style="overflow:hidden;">4</div>
+                </td>
+                <td>
+                    <div style="overflow:hidden;">NSMS Hallein-Neualm</div>
+                </td>
+                <td align="right" style="padding-right:10px;border-right:1px solid #888;">
+                    <div style="overflow:hidden;">44:35</div>
+                </td>
+                <td align="center">
+                    <b>Layla Rindler</b> (11:13)<br>
+                </td><td align="center">
+                    <b>Rebecca Müller</b> (12:25)<br>
+                </td><td align="center">
+                    <b>Lara Steindl</b> (20:57)<br>
+                </td>
+            </tr><tr class="row_style_odd">
+                <td align="right">
+                    <div style="overflow:hidden;">5</div>
+                </td>
+                <td>
+                    <div style="overflow:hidden;">BG Seekirchen</div>
+                </td>
+                <td align="right" style="padding-right:10px;border-right:1px solid #888;">
+                    <div style="overflow:hidden;">54:47</div>
+                </td>
+                <td align="center">
+                    <b>Astrid Bach</b> (13:12)<br>
+                </td><td align="center">
+                    <b>Larissa Sickeringer</b> (15:20)<br>
+                </td><td align="center">
+                    <b>Nina Zimmermann</b> (26:15)<br>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <br>
+    <br>
+</div>
+</div>
+    <br>
+    <div>(c) 2019 by solv.at</div><br>
+    <div>webmaster@solv.at</div>
+    <div>Erstellt: Wed, 22 May 2019 11:42:32 GMT</div>
+</body>
+
+</html>

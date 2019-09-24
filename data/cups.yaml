@@ -1,5 +1,8 @@
 cup:
   - year: 2019
+    cup:
+      - link: schcup/schulcup2019.pdf
+        text: Salzburger Schulcup
   - year: 2018
     cup:
       - link: schcup/schulcup2018.pdf
