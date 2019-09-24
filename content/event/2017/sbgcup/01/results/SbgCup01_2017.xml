@@ -19,7 +19,7 @@
 </Class>
 <Course>
 <Id>1</Id>
-<Name>Neulinge</Name>
+<Name>Einfach</Name>
 <Length>1060</Length>
 <NumberOfControls>10</NumberOfControls>
 </Course>
@@ -34,8 +34,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>8</BibNumber>
@@ -114,8 +114,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>19</BibNumber>
@@ -138,15 +138,15 @@
 <Person sex="F">
 <Id>8446</Id>
 <Name>
-<Family>Grömer</Family>
+<Family>Grï¿½mer</Family>
 <Given>Bernadette</Given>
 </Name>
 <BirthDate>1999-01-01</BirthDate>
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>22</BibNumber>
@@ -176,8 +176,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>32</BibNumber>
@@ -207,8 +207,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>38</BibNumber>
@@ -268,8 +268,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>47</BibNumber>
@@ -316,8 +316,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>65</BibNumber>
@@ -347,8 +347,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>75</BibNumber>
@@ -409,8 +409,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>77</BibNumber>
@@ -497,7 +497,7 @@
 <Person sex="F">
 <Id>1527</Id>
 <Name>
-<Family>Eschlböck</Family>
+<Family>Eschlbï¿½ck</Family>
 <Given>Gudrun</Given>
 </Name>
 <BirthDate>1968-01-01</BirthDate>
@@ -535,8 +535,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>73</BibNumber>
@@ -566,8 +566,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>57</BibNumber>
@@ -597,8 +597,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>56</BibNumber>
@@ -628,8 +628,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>62</BibNumber>
@@ -655,8 +655,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>67</BibNumber>
@@ -682,8 +682,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>60</BibNumber>
@@ -709,8 +709,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>61</BibNumber>
@@ -815,8 +815,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>16</BibNumber>
@@ -835,15 +835,15 @@
 <Person sex="F">
 <Id>69</Id>
 <Name>
-<Family>Müller</Family>
+<Family>Mï¿½ller</Family>
 <Given>Brigitte</Given>
 </Name>
 <BirthDate>1948-01-01</BirthDate>
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>30</BibNumber>
@@ -862,15 +862,15 @@
 <Person sex="M">
 <Id>14</Id>
 <Name>
-<Family>Breitschädel</Family>
+<Family>Breitschï¿½del</Family>
 <Given>Eva</Given>
 </Name>
 <BirthDate>1953-01-01</BirthDate>
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>27</BibNumber>
@@ -898,7 +898,7 @@
 </Class>
 <Course>
 <Id>1</Id>
-<Name>Neulinge</Name>
+<Name>Einfach</Name>
 <Length>1060</Length>
 <NumberOfControls>10</NumberOfControls>
 </Course>
@@ -913,8 +913,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>6</BibNumber>
@@ -962,8 +962,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>21</BibNumber>
@@ -993,8 +993,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>39</BibNumber>
@@ -1024,8 +1024,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>28</BibNumber>
@@ -1082,8 +1082,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>35</BibNumber>
@@ -1119,15 +1119,15 @@
 <Person sex="M">
 <Id>7608</Id>
 <Name>
-<Family>Königstorfer</Family>
+<Family>Kï¿½nigstorfer</Family>
 <Given>Jonas</Given>
 </Name>
 <BirthDate>2001-01-01</BirthDate>
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>58</BibNumber>
@@ -1157,8 +1157,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>25</BibNumber>
@@ -1184,8 +1184,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>69</BibNumber>
@@ -1228,8 +1228,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>93</BibNumber>
@@ -1259,8 +1259,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>86</BibNumber>
@@ -1334,8 +1334,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>83</BibNumber>
@@ -1365,8 +1365,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>90</BibNumber>
@@ -1396,8 +1396,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>96</BibNumber>
@@ -1426,8 +1426,8 @@
 </Person>
 <Organisation>
 <Id>36</Id>
-<Name>NF Kitzbühel</Name>
-<ShortName>NF Kitzbühel</ShortName>
+<Name>NF Kitzbï¿½hel</Name>
+<ShortName>NF Kitzbï¿½hel</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>94</BibNumber>
@@ -1457,8 +1457,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>97</BibNumber>
@@ -1627,8 +1627,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>59</BibNumber>
@@ -1689,8 +1689,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>63</BibNumber>
@@ -1806,7 +1806,7 @@
 <Person sex="M">
 <Id>1528</Id>
 <Name>
-<Family>Eschlböck</Family>
+<Family>Eschlbï¿½ck</Family>
 <Given>Rainer</Given>
 </Name>
 <BirthDate>1965-01-01</BirthDate>
@@ -1922,8 +1922,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>23</BibNumber>
@@ -1953,8 +1953,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>20</BibNumber>
@@ -1977,15 +1977,15 @@
 <Person sex="M">
 <Id>8</Id>
 <Name>
-<Family>Böhm</Family>
+<Family>Bï¿½hm</Family>
 <Given>Eduard</Given>
 </Name>
 <BirthDate>1948-01-01</BirthDate>
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>18</BibNumber>
@@ -2008,15 +2008,15 @@
 <Person sex="M">
 <Id>13</Id>
 <Name>
-<Family>Breitschädel</Family>
+<Family>Breitschï¿½del</Family>
 <Given>Christian</Given>
 </Name>
 <BirthDate>1953-01-01</BirthDate>
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>43</BibNumber>
@@ -2070,15 +2070,15 @@
 <Person sex="M">
 <Id>3078</Id>
 <Name>
-<Family>Schütz</Family>
+<Family>Schï¿½tz</Family>
 <Given>Wolfgang</Given>
 </Name>
 <BirthDate>1953-01-01</BirthDate>
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>26</BibNumber>
@@ -2131,15 +2131,15 @@
 <Person sex="M">
 <Id>71</Id>
 <Name>
-<Family>Müller</Family>
+<Family>Mï¿½ller</Family>
 <Given>Leo</Given>
 </Name>
 <BirthDate>1949-01-01</BirthDate>
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>51</BibNumber>
@@ -2165,8 +2165,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>55</BibNumber>
@@ -2194,7 +2194,7 @@
 </Class>
 <Course>
 <Id>1</Id>
-<Name>Neulinge</Name>
+<Name>Einfach</Name>
 <Length>1060</Length>
 <NumberOfControls>10</NumberOfControls>
 </Course>
@@ -2268,8 +2268,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>12</BibNumber>
@@ -2298,8 +2298,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>14</BibNumber>
@@ -2356,8 +2356,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>4</BibNumber>
@@ -2405,8 +2405,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>41</BibNumber>
@@ -2463,8 +2463,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
+<Name>ASKï¿½ Henndorf</Name>
+<ShortName>ASKï¿½ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <BibNumber>29</BibNumber>

@@ -23,7 +23,7 @@ type: "page"
     </thead>
     <tbody>
         <tr>
-            <td>Neulinge</td>
+            <td>Einfach</td>
             <td>Damen -13, Herren -13, Offen Kurz</td>
             <td>D -13, H -13, OK</td>
         </tr>

@@ -22,7 +22,7 @@ official:
   inspection: "Georg Gittmaier sen."
 course:
   valid: false
-  lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
+  lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: false
   email: leo.mueller@sbg.at

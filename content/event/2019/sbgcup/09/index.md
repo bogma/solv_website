@@ -5,7 +5,7 @@ title: "9. Salzburger Sportvoglcup 2019"
 date: 2019-10-05T00:00:00+01:00 # date of creation of the file
 draft: false
 status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
-anne_id: 2565
+anne_id: 2648
 
 archives: []
 tags: [ "SBG Cup"]
@@ -25,7 +25,7 @@ official: # names of course setter, event organizer and inspector
   inspection: ""
 course:
   valid: false # set to true when the course lenghts are final
-  lenghts: [["Neulinge","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
+  lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at

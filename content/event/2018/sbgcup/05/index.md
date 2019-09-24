@@ -22,7 +22,7 @@ official: # names of course setter, event organizer and inspector
   inspection: "Georg Gittmaier"
 course:
   valid: true # set to true when the course lenghts are final
-  lenghts: [["Neulinge","~2,6 km"], ["Kurz","~3,5 km"], ["Mittel = LMS D","~4,9 km"], ["Lang = LMS H","~7,1 km"]]
+  lenghts: [["Einfach","~2,6 km"], ["Kurz","~3,5 km"], ["Mittel = LMS D","~4,9 km"], ["Lang = LMS H","~7,1 km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: martin.bogensperger@gmail.com

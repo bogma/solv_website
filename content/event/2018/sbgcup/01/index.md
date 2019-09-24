@@ -23,7 +23,7 @@ official: # names of course setter, event organizer and inspector
   inspection: ""
 course:
   valid: true # set to true when the course lenghts are final
-  lenghts: [["Neulinge","1,5 km - 30 hm"], ["Kurz Kurz","3,0 km - 80 hm"], ["Kurz Lang","3,8 km - 90 hm"], ["Mittel","4,9 km - 120 hm"], ["Lang","6,3 km - 160 hm"]]
+  lenghts: [["Einfach","1,5 km - 30 hm"], ["Kurz Kurz","3,0 km - 80 hm"], ["Kurz Lang","3,8 km - 90 hm"], ["Mittel","4,9 km - 120 hm"], ["Lang","6,3 km - 160 hm"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: leo.mueller@sbg.at

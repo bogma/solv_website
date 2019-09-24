@@ -22,7 +22,7 @@ official:
   inspection: "Franz Helminger"
 course:
   valid: true
-  lenghts: [["Neulinge","2,3 km"], ["Kurz","4,7 km"], ["Mittel","5,4 km"], ["Lang","7,5 km"]]
+  lenghts: [["Einfach","2,3 km"], ["Kurz","4,7 km"], ["Mittel","5,4 km"], ["Lang","7,5 km"]]
 entry:
   anne: true
   email: leo.mueller@sbg.at

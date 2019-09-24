@@ -22,7 +22,7 @@ official:
   inspection: "Martin Lejsek"
 course:
   valid: true
-  lenghts: [["Neulinge","1,7 km"], ["Kurz","2,7 km"], ["Mittel","4,0 km"], ["Lang","6,0 km"]]
+  lenghts: [["Einfach","1,7 km"], ["Kurz","2,7 km"], ["Mittel","4,0 km"], ["Lang","6,0 km"]]
 entry:
   anne: true
   email: leo.mueller@sbg.at

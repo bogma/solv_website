@@ -22,7 +22,7 @@ official: # names of course setter, event organizer and inspector
   inspection: "Christian Breitschädel"
 course:
   valid: true # set to true when the course lenghts are final
-  lenghts: [["Neulinge","1,7 km"], ["Kurz","2,5 km"], ["Mittel","4,7 km"], ["Lang","6,3 km"]]
+  lenghts: [["Einfach","1,7 km"], ["Kurz","2,5 km"], ["Mittel","4,7 km"], ["Lang","6,3 km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: martin.bogensperger@gmail.com
