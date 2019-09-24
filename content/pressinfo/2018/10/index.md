@@ -4,7 +4,7 @@ date: 2018-07-04T21:35:21+01:00 # date for 'written on'
 draft: false
 author: ""
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2018"]
 tags: ["International", "Robert Merl"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Henndorf, Sigulda und Riga (LAT)"
 info_date: 2018-08-04 - 2018-08-11 # date in article (YYYY-MM-dd)

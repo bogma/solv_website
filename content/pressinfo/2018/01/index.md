@@ -4,7 +4,7 @@ date: 2018-03-14T20:06:35+01:00
 draft: false
 author: ""
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2018"]
 tags: [] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Henndorf, Lipica/SLO"
 info_date: 2018-03-11

@@ -4,7 +4,7 @@ date: 2018-04-10T20:25:08+01:00 # date for 'written on'
 draft: false
 author: ""
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2018"]
 tags: ["Austria Cup", "Robert Merl"]
 location: ""
 info_date: 2018-04-07 # date in article (YYYY-MM-dd)

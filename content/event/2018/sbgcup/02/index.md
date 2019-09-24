@@ -5,7 +5,7 @@ draft: false
 status: done
 anne_id: 2358
 
-archives: []
+archives: ["2018"]
 tags: [ "SBG Cup"]
 
 

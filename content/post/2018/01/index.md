@@ -3,7 +3,7 @@ title: "Kinder- und Anfägertraining"
 date: 2018-01-12T19:52:43+01:00
 draft: false
 
-archives: []
+archives: ["2018"]
 tags: ["Training"]
 
 ---

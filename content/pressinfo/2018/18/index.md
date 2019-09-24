@@ -4,7 +4,7 @@ date: 2018-10-21T22:12:02+01:00 # date for 'written on'
 draft: false
 author: ""
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2018"]
 tags: ["Austria Cup"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Henndorf"
 info_date: 2018-10-20 / 2018-10-21 # date in article (YYYY-MM-dd)
