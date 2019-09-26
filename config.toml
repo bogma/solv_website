@@ -95,6 +95,7 @@ paginate = 10
     use_google = false
     num_of_planned_events_preview = 4
     add_invalid_champs = false
+    show_hero = false
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
