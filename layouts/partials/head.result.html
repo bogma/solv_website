@@ -7,9 +7,11 @@
     {{ if .IsHome }}
     <meta name="description" content="{{ .Site.Params.description }}">
     {{ end }}
-    <script src="{{ "js/uikit.min.js" | relURL }}"></script>
-    <script src="{{ "js/uikit-icons.min.js" | relURL }}"></script>
-    <link rel="stylesheet" href="{{ "css/uikit.min.css" | relURL }}" />
+    <!-- UIkit JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.2.0/js/uikit.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.2.0/js/uikit-icons.min.js"></script>
+    <!-- UIkit CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.2.0/css/uikit.min.css" />
     <link rel="stylesheet" href="{{ "css/all.min.css" | relURL }}">
     <link rel="stylesheet" href="{{ "css/print.css" | relURL }}" />
     <link rel="stylesheet" href="{{ "css/cards.css" | relURL }}" />
