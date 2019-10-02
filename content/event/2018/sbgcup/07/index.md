@@ -57,6 +57,13 @@ resources:
   title: "Ergebnisse LM Sprint"
 - src: "**/lau**"
   title: "Läuferinfo"
+
+resource_links:
+  results:
+  - link: "/resources/2018/resu7sc2018.html"
+    title: "Ergebnisse 7.SC"
+  - link: "/resources/2018/resu7sc2018.html"
+    title: "Ergebnisse 8.SC"
 ---
 
 ### Startgeld

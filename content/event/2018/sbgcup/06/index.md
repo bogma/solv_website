@@ -59,6 +59,14 @@ resources:
   title: "Ergebnisse"
 - src: "**/lau**"
   title: "Läuferinfo"
+
+resource_links:
+  infos:
+  - link: "/resources/2018/start6sc2018.html"
+    title: "Startliste"
+  results:
+  - link: "/resources/2018/resu6sc2018.html"
+    title: "Ergebnisse"
 ---
 
 ### Startgeld

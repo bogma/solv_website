@@ -55,6 +55,12 @@ resources:
   title: "Ergebnisse"
 - src: "**/lau**"
   title: "Läuferinfo"
+
+resource_links:
+  infos:
+  - link: "/resources/2018/start4sc2018.html"
+    title: "Startliste"
+
 ---
 
 ### Startgeld

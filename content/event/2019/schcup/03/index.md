@@ -46,6 +46,11 @@ resources:
   title: "Läuferinfo"
 - src: "**/schulms**"
   title: "Mannschaftswertung"
+
+resource_links:
+  results:
+  - link: "/resources/2019/schulms_mann2019.html"
+    title: "Mannschaftswertung"
 ---
 
 ### Nennung

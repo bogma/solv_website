@@ -55,6 +55,14 @@ resources:
   title: "Info Postenbeschreibung"
 - src: "**/info**"
   title: "Läuferinfo"
+
+resource_links:
+  infos:
+  - link: "/resources/2017/start5sc2017.html"
+    title: "Startliste"
+  results:
+  - link: "/resources/2017/resu5sc2017.html"
+    title: "Ergebnisse"
 ---
 
 ### Startgeld

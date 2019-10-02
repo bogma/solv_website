@@ -52,6 +52,13 @@ resources:
 - src: "**/laeu**"
   title: "Läuferinfo"
 
+resource_links:
+  infos:
+  - link: "/resources/2017/start1sc2017.html"
+    title: "Startliste"
+  results:
+  - link: "/resources/2017/resu1sc2017.html"
+    title: "Ergebnisse"
 ---
 ### Startgeld
 

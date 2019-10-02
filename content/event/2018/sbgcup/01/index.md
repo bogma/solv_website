@@ -55,6 +55,11 @@ resources:
   title: "Splits"
 - src: "**/laeu**"
   title: "Läuferinfo"
+
+resource_links:
+  results:
+  - link: "/resources/2018/resu1sc2018.html"
+    title: "Ergebnisse"
 ---
 
 ### Startgeld

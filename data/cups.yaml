@@ -1,9 +1,9 @@
 cup:
   - year: 2019
     cup:
-      - link: sbgcup/sbgcup2019
+      - link: sbgcup/sbgcup2019/
         text: Salzburger Sportvoglcup
-      - link: sbgcup/sprintcup2019.pdf
+      - link: sbgcup/sprintcup2019/
         text: Salzburger Sprintcup
       - link: schcup/schulcup2019.pdf
         text: Salzburger Schulcup

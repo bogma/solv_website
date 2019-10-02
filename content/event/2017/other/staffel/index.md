@@ -12,7 +12,7 @@ event:
   name_ammend: ""
   form: "Staffel OL"
   location: "Ottnang am Hausruck"
-  type: ""
+  type: "staffel"
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "HSV Ried" # remove one of the 3 options
@@ -54,6 +54,11 @@ resources:
   title: "Ergebnisse"
 - src: "**/laeu**"
   title: "Läuferinfo"
+
+resource_links:
+  results:
+  - link: "/resources/2017/resu_staffelMS2017.html"
+    title: "Ergebnisse"
 ---
 
 Weitere Details bitte der Ausschreibung entnehmen!

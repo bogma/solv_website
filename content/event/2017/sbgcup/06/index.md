@@ -62,6 +62,16 @@ resources:
   title: "Ergebniss Sprint LMS"
 - src: "**/laeu**"
   title: "Läuferinfo"
+
+resource_links:
+  infos:
+  - link: "/resources/2017/start6und7sc2017.html"
+    title: "Startliste"
+  results:
+  - link: "/resources/2017/resu6sc2017.html"
+    title: "Ergebnisse 6. SC"
+  - link: "/resources/2017/resu7sc2017.html"
+    title: "Ergebnisse 7. SC"
 ---
 
 ### Startgeld

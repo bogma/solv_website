@@ -12,7 +12,7 @@ event:
   name_amend: ""
   form: "Staffel OL - Zweierstaffel"
   location: "Riedelwald/Seekirchen"
-  type: ""
+  type: "staffel"
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orienteering" # remove one of the 3 options
@@ -58,6 +58,11 @@ resources:
   title: "Ergebnisse"
 - src: "**/laeu**"
   title: "Läuferinfo"
+
+resource_links:
+  results:
+  - link: "/resources/2018/resuStaffel2017.html"
+    title: "Ergebnisse"
 ---
 
 Weitere Details bitte der Ausschreibung entnehmen!

@@ -2,7 +2,7 @@
 title: "LMS Staffel OL"
 date: 2019-10-06T00:00:00+02:00 # date of creation of the file
 draft: false
-status: planned
+status: active
 anne_id: 2569
 
 archives: []
@@ -24,7 +24,7 @@ course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
-  anne: true # if true, a link to ANNE will be provided
+  anne: false # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
   closing_date_days: -6 # x days from event->date
 meeting:
