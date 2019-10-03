@@ -2,9 +2,9 @@
 title: "1. Salzburger Sportvoglcup 2019"
 date: 2019-03-30T13:30:00+01:00 # date of creation of the file
 draft: false
-outputs:
-- html
-- result
+# outputs:
+# - html
+# - result
 
 status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 2574
@@ -54,7 +54,7 @@ resources:
   title: "Ausschreibung"
 - src: "**/start**"
   title: "Startliste"
-- src: "**/resu*split**"
+- src: "**/split**"
   title: "Splits"
 - src: "**/resu**"
   title: "Ergebnisse"
@@ -64,6 +64,13 @@ resources:
   title: "Alte Karte"
 - src: "**/over**"
   title: "Übersichtsplan"
+
+resource_links:
+  results:
+  - link: "/resources/2018/resu1sc2018.html"
+    title: "Ergebnisse"
+  - link: "http://www.splitsbrowser.org.uk/splitsgraph.php?eventId=10303"
+    title: "Splitsbrowser"
 ---
 
 ### Startgeld
