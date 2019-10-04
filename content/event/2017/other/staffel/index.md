@@ -12,7 +12,7 @@ event:
   name_ammend: ""
   form: "Staffel OL"
   location: "Ottnang am Hausruck"
-  type: "staffel"
+  type: "relay"
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "HSV Ried" # remove one of the 3 options
