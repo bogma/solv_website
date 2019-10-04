@@ -1,6 +1,6 @@
 ---
 title: "LMS Staffel OL"
-date: 2019-10-06T00:00:00+02:00 # date of creation of the file
+date: 2019-10-06T10:00:00+02:00 # date of creation of the file
 draft: false
 status: active
 anne_id: 2569
@@ -11,14 +11,14 @@ tags: [ "Landesmeisterschaft", "Staffel"]
 event:
   name_amend: ""
   form: "Staffel OL"
-  location: "Pillersee"
+  location: "St.Ulrich am Pillersee"
   type: "relay"
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "NF Kitzbühel" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
+  course: "Wolfgang Pötsch"
+  event: "Georg Hechl"
   inspection: ""
 course:
   valid: false # set to true when the course lenghts are final
@@ -28,14 +28,14 @@ entry:
   email: anmeldung@ol-sbg.at
   closing_date_days: -6 # x days from event->date
 meeting:
-  point: ""
+  point: "Forellenranch (am Nordufer des Sees) – Mautstraße (2.-€) 1km zum Parkplatz an der NO-Seite des Sees."
   time_minutes: -60 # x minutes from event->date
-  location: [0.0, 0.0]
+  location: [47.549794, 12.569585]
 map:
-  name: ""
-  scale: "1:7.500"
-  equidistance: "2,5m"
-  update: "Oktober 2018"
+  name: "St.Ulrich am Pillersee"
+  scale: "1:5000"
+  equidistance: "5m"
+  update: "2019"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
@@ -48,9 +48,9 @@ Bei D/H 16- started jeder Läufer 2 mal."
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
-- src: "**/aus**"
+- src: "**/**aus**"
   title: "Ausschreibung"
-- src: "**/start**"
+- src: "**/**start**"
   title: "Startliste"
 - src: "**/resu**split**"
   title: "Splits"
@@ -58,6 +58,8 @@ resources:
   title: "Ergebnisse"
 - src: "**/laeu**"
   title: "Läuferinfo"
+- src: "**/**bahn**"
+  title: "Bahndaten"
 ---
 
 Weitere Details bitte der Ausschreibung entnehmen!
