@@ -2,9 +2,9 @@
 title: "2. + 3. Salzburger Sportvoglcup 2019"
 date: 2019-04-07T10:30:00+01:00 # date of creation of the file
 draft: false
-outputs:
-- html
-- result
+# outputs:
+# - html
+# - result
 status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 2567
 
@@ -13,7 +13,7 @@ tags: [ "SBG Cup"]
 
 
 event:
-  name_amend: "1. + 2. Sportvogl Sprintcup 2019"
+  name_amend: "1. + 2. Sportvogl Sprintcup"
   form: "Sprint OL"
   location: "Zell am See"
   type: "sbgcup"
@@ -52,12 +52,27 @@ resources:
   title: "Ausschreibung"
 - src: "**/start**"
   title: "Startliste"
-- src: "**/resu*split**"
-  title: "Splits"
-- src: "**/resu**"
-  title: "Ergebnisse"
+- src: "**/splits2**"
+  title: "Splits 2.SC"
+- src: "**/splits3**"
+  title: "Splits 3.SC"
+- src: "**/resu2**"
+  title: "Ergebnisse 2.SC"
+- src: "**/resu3**"
+  title: "Ergebnisse 3.SC"
 - src: "**/info**"
   title: "Läuferinfo"
+
+resource_links:
+  infos:
+  - link: "/resources/2019/start23sc2019.html"
+    title: "Startliste"
+  results:
+  - link: "/resources/2019/resu2sc2019.html"
+    title: "Ergebnisse 2.SC"
+  - link: "/resources/2019/resu3sc2019.html"
+    title: "Ergebnisse 3.SC"
+
 ---
 
 ### Startgeld

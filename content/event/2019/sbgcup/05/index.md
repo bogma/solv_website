@@ -2,17 +2,17 @@
 title: "5. + 6. Salzburger Sportvoglcup 2019"
 date: 2019-04-28T11:00:00+01:00 # date of creation of the file
 draft: false
-outputs:
-- html
-- result
+# outputs:
+# - html
+# - result
 status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 2568
 
 archives: []
-tags: [ "SBG Cup"]
+tags: [ "SBG Cup", "Landesmeisterschaft"]
 
 event:
-  name_amend: "LM Sprint"
+  name_amend: "LM Sprint, 3. + 4. Sportvogl Sprintcup"
   form: "Sprint OL"
   location: "Tamsweg"
   type: "sbgcup"
@@ -51,12 +51,28 @@ resources:
   title: "Ausschreibung"
 - src: "**/start**"
   title: "Startliste"
-- src: "**/resu*split**"
-  title: "Splits"
-- src: "**/resu**"
-  title: "Ergebnisse"
+- src: "**/splits5**"
+  title: "Splits 5.SC"
+- src: "**/splits6**"
+  title: "Splits 6.SC"
+- src: "**/resu5**"
+  title: "Ergebnisse 5.SC"
+- src: "**/resu6**"
+  title: "Ergebnisse 6.SC"
+- src: "**/resu_s**"
+  title: "Ergebnisse Sprint LMS"
 - src: "**/lau**"
   title: "Läuferinfo"
+
+resource_links:
+  infos:
+  - link: "/resources/2019/start5sc2019.html"
+    title: "Startliste"
+  results:
+  - link: "/resources/2019/resu5sc2019.html"
+    title: "Ergebnisse 5.SC"
+  - link: "/resources/2019/resu6sc2019.html"
+    title: "Ergebnisse 6.SC"
 ---
 
 ### Startgeld

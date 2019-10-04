@@ -2,14 +2,14 @@
 title: "4. Salzburger Sportvoglcup 2019"
 date: 2019-04-27T14:00:00+01:00 # date of creation of the file
 draft: false
-outputs:
-- html
-- result
+# outputs:
+# - html
+# - result
 status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 2562
 
 archives: []
-tags: [ "SBG Cup"]
+tags: [ "SBG Cup", "Landesmeisterschaft"]
 
 event:
   name_amend: "LM allgemeine Klasse"
@@ -55,12 +55,23 @@ resources:
   title: "Ausschreibung"
 - src: "**/start**"
   title: "Startliste"
-- src: "**/resu*split**"
+- src: "**/split**"
   title: "Splits"
 - src: "**/resu**"
   title: "Ergebnisse"
+- src: "**/resu_lms**"
+  title: "Ergebnisse LMS"
 - src: "**/lau**"
   title: "Läuferinfo"
+
+resource_links:
+  infos:
+  - link: "/resources/2019/start4sc2019.html"
+    title: "Startliste"
+  results:
+  - link: "/resources/2019/resu4sc2019.html"
+    title: "Ergebnisse"
+
 ---
 
 ### Startgeld

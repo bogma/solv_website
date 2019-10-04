@@ -2,9 +2,9 @@
 title: "7. Salzburger Sportvoglcup 2019"
 date: 2019-05-11T14:00:00+01:00 # date of creation of the file
 draft: false
-outputs:
-- html
-- result
+# outputs:
+# - html
+# - result
 status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 2564
 
@@ -52,12 +52,18 @@ resources:
   title: "Ausschreibung"
 - src: "**/start**"
   title: "Startliste"
-- src: "**/resu*split**"
+- src: "**/split**"
   title: "Splits"
 - src: "**/resu**"
   title: "Ergebnisse"
 - src: "**/lau**"
   title: "Läuferinfo"
+
+resource_links:
+  results:
+  - link: "/resources/2019/resu7sc2019.html"
+    title: "Ergebnisse"
+
 ---
 
 ### Startgeld
