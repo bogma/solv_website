@@ -1,7 +1,14 @@
 <CupConfiguration>
   <Cup name="Salzburger Sportvoglcup 2019"
-    year="2019" numberOfEvents="11" takeBest="7" calcRule="calcPointsFromPosition" resultFilePrefix="SbgCup" recurseSubDirs="true" convertToJson="true"
-    includeStatus="DidNotFinish, MissingPunch" eventTitle="Sbg.Cup">
+    year="2019"
+    numberOfEvents="11"
+    takeBest="7"
+    calcRule="calcPointsFromPosition"
+    resultFilePrefix="SbgCup"
+    recurseSubDirs="true"
+    convertToJson="true"
+    includeStatus="DidNotFinish, MissingPunch"
+    eventTitle="Sbg.Cup">
     <!-- set num to 0 if not needed -->
     <Event num="11" multiply="2" />
   </Cup>
@@ -32,8 +39,8 @@
     <Organisation name="NF Seekirchen" id="34" />
   </Organisations>
   <Output>
-    <Html active="false" fileName="Scup_19.html" cssInline="true" docTemplate="sbgcup_document_template.html" classTemplate="sbgcup_class_template.html" detailsTemplate="sbgcup_details_template.html" cssFile="default.css" />
-    <Pdf active="true" fileName="sbgcup.pdf" orientation="Landscape" />
+    <Html active="true" fileName="..\..\..\..\static\resources\2019\sbgcup2019.html" cssInline="true" docTemplate="..\..\..\..\templates\sbgcup_document_template.html" classTemplate="..\..\..\..\templates\sbgcup_class_template.html" detailsTemplate="..\..\..\..\templates\sbgcup_details_template.html" cssFile="..\..\..\..\templates\default.css" />
+    <Pdf active="false" fileName="sbgcup.pdf" orientation="Landscape" />
     <Json active="true" fileName="sbgcup.json" />
   </Output>
   <Names>

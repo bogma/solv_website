@@ -1,0 +1,4038 @@
+<?xml version="1.0" encoding="windows-1252"?>
+ <ResultList xmlns="http://www.orienteering.org/datastandard/3.0"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ iofVersion="3.0"
+ createTime="2019-10-05T21:21:30.034"
+ creator="SportSoftware OE2010 (M) V.11.0">
+<Event>
+<Name>7TC_9SC_2019</Name>
+</Event>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>50</Id>
+<Name>S-Damen -13</Name>
+<ShortName>S D13</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>5.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>2</Id>
+<Name>Bahn 2</Name>
+<Length>1800</Length>
+<NumberOfControls>11</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="F">
+<Id>8366</Id>
+<Name>
+<Family>Rothauer</Family>
+<Given>Emma</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>124</BibNumber>
+<StartTime>2018-09-29T14:13:00.000</StartTime>
+<FinishTime>2018-09-29T14:29:13.000</FinishTime>
+<Time>973</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>45</ControlCode>
+<Time>81</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>46</ControlCode>
+<Time>155</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>44</ControlCode>
+<Time>239</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>60</ControlCode>
+<Time>395</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>513</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>76</ControlCode>
+<Time>592</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>69</ControlCode>
+<Time>648</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>72</ControlCode>
+<Time>710</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>874</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>75</ControlCode>
+<Time>901</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>935</Time>
+</SplitTime>
+<ControlCard>8044004</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>5.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>8778</Id>
+<Name>
+<Family>Lechner</Family>
+<Given>Jana</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>121</BibNumber>
+<StartTime>2018-09-29T14:07:00.000</StartTime>
+<FinishTime>2018-09-29T14:27:05.000</FinishTime>
+<Time>1205</Time>
+<TimeBehind>232</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>45</ControlCode>
+<Time>78</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>46</ControlCode>
+<Time>356</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>44</ControlCode>
+<Time>446</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>60</ControlCode>
+<Time>604</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>701</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>76</ControlCode>
+<Time>788</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>69</ControlCode>
+<Time>855</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>72</ControlCode>
+<Time>934</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>1096</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>75</ControlCode>
+<Time>1127</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>1165</Time>
+</SplitTime>
+<ControlCard>8200800</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>5.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>5314</Id>
+<Name>
+<Family>Erhard</Family>
+<Given>Josefine</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>120</BibNumber>
+<StartTime>2018-09-29T14:05:00.000</StartTime>
+<FinishTime>2018-09-29T14:26:55.000</FinishTime>
+<Time>1315</Time>
+<TimeBehind>342</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>45</ControlCode>
+<Time>98</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>46</ControlCode>
+<Time>209</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>44</ControlCode>
+<Time>339</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>60</ControlCode>
+<Time>576</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>684</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>76</ControlCode>
+<Time>799</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>69</ControlCode>
+<Time>861</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>72</ControlCode>
+<Time>963</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>1183</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>75</ControlCode>
+<Time>1235</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>1272</Time>
+</SplitTime>
+<ControlCard>8035035</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>5.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>8702</Id>
+<Name>
+<Family>Helminger</Family>
+<Given>Katja</Given>
+</Name>
+<BirthDate>2008-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>123</BibNumber>
+<StartTime>2018-09-29T14:11:00.000</StartTime>
+<FinishTime>2018-09-29T14:35:47.000</FinishTime>
+<Time>1487</Time>
+<TimeBehind>514</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>45</ControlCode>
+<Time>149</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>46</ControlCode>
+<Time>278</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>44</ControlCode>
+<Time>381</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>60</ControlCode>
+<Time>606</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>739</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>76</ControlCode>
+<Time>892</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>69</ControlCode>
+<Time>986</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>72</ControlCode>
+<Time>1156</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>1352</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>75</ControlCode>
+<Time>1392</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>1440</Time>
+</SplitTime>
+<ControlCard>8180108</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>5.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>41</Id>
+<Name>
+<Family>Höhenberger</Family>
+<Given>Lara</Given>
+</Name>
+<BirthDate>2006-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>122</BibNumber>
+<StartTime>2018-09-29T14:09:00.000</StartTime>
+<Status>MissingPunch</Status>
+<SplitTime>
+<ControlCode>45</ControlCode>
+<Time>107</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>46</ControlCode>
+<Time>162</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>44</ControlCode>
+<Time>287</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>60</ControlCode>
+<Time>538</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>696</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>76</ControlCode>
+<Time>816</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>69</ControlCode>
+<Time>889</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>72</ControlCode>
+<Time>1083</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>1324</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>75</ControlCode>
+<Time>1369</Time>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>99</ControlCode>
+</SplitTime>
+<ControlCard>2056415</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>5.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>9017</Id>
+<Name>
+<Family>Brawisch</Family>
+<Given>Charlotte</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>125</BibNumber>
+<StartTime>2018-09-29T14:15:00.000</StartTime>
+<FinishTime>2018-09-29T15:02:48.000</FinishTime>
+<Time>2868</Time>
+<TimeBehind>1894</TimeBehind>
+<Status>DidNotFinish</Status>
+<SplitTime>
+<ControlCode>45</ControlCode>
+<Time>275</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>46</ControlCode>
+<Time>1182</Time>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>44</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>60</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>63</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>76</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>69</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>72</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>74</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>75</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>99</ControlCode>
+</SplitTime>
+<ControlCard>500775</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>5.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>9185</Id>
+<Name>
+<Family>Schober</Family>
+<Given>Anja</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>126</BibNumber>
+<StartTime>2018-09-29T14:17:00.000</StartTime>
+<Status>DidNotStart</Status>
+<SplitTime status="Missing">
+<ControlCode>45</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>46</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>44</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>60</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>63</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>76</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>69</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>72</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>74</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>75</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>99</ControlCode>
+</SplitTime>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>5.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>51</Id>
+<Name>S-Damen -15</Name>
+<ShortName>S D15</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>5.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>3</Id>
+<Name>Bahn 3</Name>
+<Length>2500</Length>
+<NumberOfControls>12</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="F">
+<Id>8105</Id>
+<Name>
+<Family>Seitlinger</Family>
+<Given>Antonia</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>128</BibNumber>
+<StartTime>2018-09-29T14:23:00.000</StartTime>
+<FinishTime>2018-09-29T14:56:53.000</FinishTime>
+<Time>2033</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>38</ControlCode>
+<Time>136</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>395</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>50</ControlCode>
+<Time>569</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>56</ControlCode>
+<Time>716</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>58</ControlCode>
+<Time>1062</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>1172</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>62</ControlCode>
+<Time>1361</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>76</ControlCode>
+<Time>1496</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>69</ControlCode>
+<Time>1601</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>72</ControlCode>
+<Time>1704</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>1951</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>1997</Time>
+</SplitTime>
+<ControlCard>8210605</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>5.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>53</Id>
+<Name>S-Damen 19-</Name>
+<ShortName>S D19</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>5</Id>
+<Name>Bahn 5</Name>
+<Length>3200</Length>
+<NumberOfControls>17</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="F">
+<Id>9</Id>
+<Name>
+<Family>Rothauer</Family>
+<Given>Lucie</Given>
+</Name>
+<BirthDate>1974-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>133</BibNumber>
+<StartTime>2018-09-29T14:20:00.000</StartTime>
+<FinishTime>2018-09-29T14:49:45.000</FinishTime>
+<Time>1785</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>32</ControlCode>
+<Time>66</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>40</ControlCode>
+<Time>220</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>277</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>42</ControlCode>
+<Time>397</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>506</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>569</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>51</ControlCode>
+<Time>750</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>864</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>53</ControlCode>
+<Time>934</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>1021</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>1210</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>1327</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>1390</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>1480</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>1545</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>1704</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>1743</Time>
+</SplitTime>
+<ControlCard>502094</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>1069</Id>
+<Name>
+<Family>Rogl</Family>
+<Given>Franziska</Given>
+</Name>
+<BirthDate>1988-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>131</BibNumber>
+<StartTime>2018-09-29T14:16:00.000</StartTime>
+<FinishTime>2018-09-29T14:57:06.000</FinishTime>
+<Time>2466</Time>
+<TimeBehind>681</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>32</ControlCode>
+<Time>62</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>40</ControlCode>
+<Time>270</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>348</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>42</ControlCode>
+<Time>548</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>660</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>729</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>51</ControlCode>
+<Time>946</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>1094</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>53</ControlCode>
+<Time>1187</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>1302</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>1648</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>1801</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>1901</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>2044</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>2146</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>2366</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>2424</Time>
+</SplitTime>
+<ControlCard>8111012</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>54</Id>
+<Name>S-Damen 35-</Name>
+<ShortName>S D35</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>5</Id>
+<Name>Bahn 5</Name>
+<Length>3200</Length>
+<NumberOfControls>17</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="F">
+<Id>1071</Id>
+<Name>
+<Family>Kennerknecht</Family>
+<Given>Stefanie</Given>
+</Name>
+<BirthDate>1984-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>34</Id>
+<Name>Naturfreunde Seekirchen</Name>
+<ShortName>Naturfreunde Seekirchen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>135</BibNumber>
+<StartTime>2018-09-29T14:24:00.000</StartTime>
+<FinishTime>2018-09-29T15:25:37.000</FinishTime>
+<Time>3697</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>32</ControlCode>
+<Time>89</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>40</ControlCode>
+<Time>337</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>416</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>42</ControlCode>
+<Time>853</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>1046</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>1188</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>51</ControlCode>
+<Time>1660</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>2109</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>53</ControlCode>
+<Time>2218</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>2328</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>2698</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>2945</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>3087</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>3246</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>3367</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>3584</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>3660</Time>
+</SplitTime>
+<ControlCard>8477577</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>6483</Id>
+<Name>
+<Family>Ebster</Family>
+<Given>Tanja</Given>
+</Name>
+<BirthDate>1975-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>136</BibNumber>
+<StartTime>2018-09-29T14:26:00.000</StartTime>
+<FinishTime>2018-09-29T15:33:17.000</FinishTime>
+<Time>4037</Time>
+<TimeBehind>339</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>32</ControlCode>
+<Time>323</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>40</ControlCode>
+<Time>648</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>739</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>42</ControlCode>
+<Time>1019</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>1339</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>1441</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>51</ControlCode>
+<Time>1959</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>2214</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>53</ControlCode>
+<Time>2337</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>2478</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>2885</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>3106</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>3254</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>3434</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>3582</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>3889</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>3971</Time>
+</SplitTime>
+<ControlCard>7077770</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>70</Id>
+<Name>
+<Family>Müller</Family>
+<Given>Edith</Given>
+</Name>
+<BirthDate>1982-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>138</BibNumber>
+<StartTime>2018-09-29T14:30:00.000</StartTime>
+<Status>DidNotFinish</Status>
+<SplitTime>
+<ControlCode>32</ControlCode>
+<Time>76</Time>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>40</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>41</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>42</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>47</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>49</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>51</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>52</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>53</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>54</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>59</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>63</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>41</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>67</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>70</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>74</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>99</ControlCode>
+</SplitTime>
+<ControlCard>5325</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>8414</Id>
+<Name>
+<Family>Böhm</Family>
+<Given>Petra</Given>
+</Name>
+<BirthDate>1979-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>134</BibNumber>
+<StartTime>2018-09-29T14:22:00.000</StartTime>
+<Status>DidNotStart</Status>
+<SplitTime status="Missing">
+<ControlCode>32</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>40</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>41</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>42</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>47</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>49</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>51</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>52</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>53</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>54</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>59</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>63</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>41</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>67</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>70</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>74</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>99</ControlCode>
+</SplitTime>
+<ControlCard>7889900</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>55</Id>
+<Name>S-Damen 45-</Name>
+<ShortName>S D45</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>5</Id>
+<Name>Bahn 5</Name>
+<Length>3200</Length>
+<NumberOfControls>17</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="F">
+<Id>2836</Id>
+<Name>
+<Family>Hillebrand</Family>
+<Given>Karin</Given>
+</Name>
+<BirthDate>1968-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>139</BibNumber>
+<StartTime>2018-09-29T14:32:00.000</StartTime>
+<FinishTime>2018-09-29T15:19:46.000</FinishTime>
+<Time>2866</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>32</ControlCode>
+<Time>77</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>40</ControlCode>
+<Time>276</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>343</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>42</ControlCode>
+<Time>658</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>850</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>916</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>51</ControlCode>
+<Time>1140</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>1282</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>53</ControlCode>
+<Time>1514</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>1599</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>1967</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>2120</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>2210</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>2404</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>2539</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>2743</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>2818</Time>
+</SplitTime>
+<ControlCard>8377177</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>8240</Id>
+<Name>
+<Family>Hinterhofer</Family>
+<Given>Katharina</Given>
+</Name>
+<BirthDate>1969-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>141</BibNumber>
+<StartTime>2018-09-29T14:36:00.000</StartTime>
+<FinishTime>2018-09-29T15:25:44.000</FinishTime>
+<Time>2984</Time>
+<TimeBehind>117</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>32</ControlCode>
+<Time>79</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>40</ControlCode>
+<Time>318</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>438</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>42</ControlCode>
+<Time>678</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>884</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>960</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>51</ControlCode>
+<Time>1395</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>1613</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>53</ControlCode>
+<Time>1689</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>1799</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>2218</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>2360</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>2450</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>2597</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>2709</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>2901</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>2948</Time>
+</SplitTime>
+<ControlCard>8111131</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>30</Id>
+<Name>
+<Family>Elstner</Family>
+<Given>Margit</Given>
+</Name>
+<BirthDate>1964-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>140</BibNumber>
+<StartTime>2018-09-29T14:34:00.000</StartTime>
+<FinishTime>2018-09-29T15:25:40.000</FinishTime>
+<Time>3100</Time>
+<TimeBehind>233</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>32</ControlCode>
+<Time>81</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>40</ControlCode>
+<Time>279</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>355</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>42</ControlCode>
+<Time>569</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>710</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>777</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>51</ControlCode>
+<Time>1041</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>1504</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>53</ControlCode>
+<Time>1624</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>1732</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>2187</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>2384</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>2493</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>2649</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>2767</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>2992</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>3059</Time>
+</SplitTime>
+<ControlCard>640718</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>2707</Id>
+<Name>
+<Family>Hackl</Family>
+<Given>Claudia</Given>
+</Name>
+<BirthDate>1964-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>142</BibNumber>
+<StartTime>2018-09-29T14:38:00.000</StartTime>
+<Status>DidNotStart</Status>
+<SplitTime status="Missing">
+<ControlCode>32</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>40</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>41</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>42</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>47</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>49</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>51</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>52</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>53</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>54</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>59</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>63</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>41</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>67</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>70</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>74</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>99</ControlCode>
+</SplitTime>
+<ControlCard>2034090</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>56</Id>
+<Name>S-Damen 55-</Name>
+<ShortName>S D55</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>3</Id>
+<Name>Bahn 3</Name>
+<Length>2500</Length>
+<NumberOfControls>12</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="F">
+<Id>555</Id>
+<Name>
+<Family>Buchberger</Family>
+<Given>Berta</Given>
+</Name>
+<BirthDate>1955-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>145</BibNumber>
+<StartTime>2018-09-29T14:31:00.000</StartTime>
+<FinishTime>2018-09-29T15:14:23.000</FinishTime>
+<Time>2603</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>38</ControlCode>
+<Time>181</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>633</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>50</ControlCode>
+<Time>818</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>56</ControlCode>
+<Time>979</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>58</ControlCode>
+<Time>1430</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>1536</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>62</ControlCode>
+<Time>1781</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>76</ControlCode>
+<Time>1938</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>69</ControlCode>
+<Time>2041</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>72</ControlCode>
+<Time>2157</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>2449</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>2532</Time>
+</SplitTime>
+<ControlCard>8310555</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="F">
+<Id>69</Id>
+<Name>
+<Family>Müller</Family>
+<Given>Brigitte</Given>
+</Name>
+<BirthDate>1948-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>144</BibNumber>
+<StartTime>2018-09-29T14:29:00.000</StartTime>
+<Status>DidNotStart</Status>
+<SplitTime status="Missing">
+<ControlCode>38</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>47</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>50</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>56</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>58</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>59</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>62</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>76</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>69</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>72</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>74</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>99</ControlCode>
+</SplitTime>
+<ControlCard>5399</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>60</Id>
+<Name>S-Herren -13</Name>
+<ShortName>S H13</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>5.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>2</Id>
+<Name>Bahn 2</Name>
+<Length>1800</Length>
+<NumberOfControls>11</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Id>8777</Id>
+<Name>
+<Family>Lechner</Family>
+<Given>Nick</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>147</BibNumber>
+<StartTime>2018-09-29T14:01:00.000</StartTime>
+<FinishTime>2018-09-29T14:27:01.000</FinishTime>
+<Time>1561</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>45</ControlCode>
+<Time>91</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>46</ControlCode>
+<Time>151</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>44</ControlCode>
+<Time>260</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>60</ControlCode>
+<Time>467</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>900</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>76</ControlCode>
+<Time>1040</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>69</ControlCode>
+<Time>1108</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>72</ControlCode>
+<Time>1206</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>1426</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>75</ControlCode>
+<Time>1473</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>1516</Time>
+</SplitTime>
+<ControlCard>8200040</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>5.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>61</Id>
+<Name>S-Herren -15</Name>
+<ShortName>S H15</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>5.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>3</Id>
+<Name>Bahn 3</Name>
+<Length>2500</Length>
+<NumberOfControls>12</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Id>9186</Id>
+<Name>
+<Family>Schober</Family>
+<Given>Manuel</Given>
+</Name>
+<BirthDate>2005-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>149</BibNumber>
+<StartTime>2018-09-29T14:55:00.000</StartTime>
+<Status>DidNotStart</Status>
+<SplitTime status="Missing">
+<ControlCode>38</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>47</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>50</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>56</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>58</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>59</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>62</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>76</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>69</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>72</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>74</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>99</ControlCode>
+</SplitTime>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>5.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>63</Id>
+<Name>S-Herren 19-</Name>
+<ShortName>S H19</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>6</Id>
+<Name>Bahn 6</Name>
+<Length>3500</Length>
+<NumberOfControls>17</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Id>7611</Id>
+<Name>
+<Family>Ebster</Family>
+<Given>Leon</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>153</BibNumber>
+<StartTime>2018-09-29T14:23:00.000</StartTime>
+<FinishTime>2018-09-29T14:51:59.000</FinishTime>
+<Time>1739</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>34</ControlCode>
+<Time>72</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>171</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>355</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>64</ControlCode>
+<Time>415</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>48</ControlCode>
+<Time>486</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>531</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>578</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>57</ControlCode>
+<Time>745</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>37</ControlCode>
+<Time>842</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>946</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>1053</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>58</ControlCode>
+<Time>1213</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>61</ControlCode>
+<Time>1302</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>39</ControlCode>
+<Time>1397</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>1535</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>73</ControlCode>
+<Time>1659</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>1711</Time>
+</SplitTime>
+<ControlCard>8068068</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>2418</Id>
+<Name>
+<Family>Gassner</Family>
+<Given>Manuel</Given>
+</Name>
+<BirthDate>1991-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>152</BibNumber>
+<StartTime>2018-09-29T14:21:00.000</StartTime>
+<FinishTime>2018-09-29T14:55:36.000</FinishTime>
+<Time>2076</Time>
+<TimeBehind>336</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>34</ControlCode>
+<Time>83</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>181</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>482</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>64</ControlCode>
+<Time>539</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>48</ControlCode>
+<Time>619</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>666</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>715</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>57</ControlCode>
+<Time>888</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>37</ControlCode>
+<Time>1008</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>1115</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>1241</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>58</ControlCode>
+<Time>1412</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>61</ControlCode>
+<Time>1503</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>39</ControlCode>
+<Time>1650</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>1799</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>73</ControlCode>
+<Time>1934</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>2039</Time>
+</SplitTime>
+<ControlCard>558855</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>64</Id>
+<Name>S-Herren 35-</Name>
+<ShortName>S H35</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>6</Id>
+<Name>Bahn 6</Name>
+<Length>3500</Length>
+<NumberOfControls>17</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Id>1707</Id>
+<Name>
+<Family>Helminger</Family>
+<Given>Franz</Given>
+</Name>
+<BirthDate>1973-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>162</BibNumber>
+<StartTime>2018-09-29T14:41:00.000</StartTime>
+<FinishTime>2018-09-29T15:10:35.000</FinishTime>
+<Time>1775</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>34</ControlCode>
+<Time>74</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>175</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>286</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>64</ControlCode>
+<Time>353</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>48</ControlCode>
+<Time>423</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>478</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>526</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>57</ControlCode>
+<Time>693</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>37</ControlCode>
+<Time>781</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>893</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>1011</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>58</ControlCode>
+<Time>1209</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>61</ControlCode>
+<Time>1306</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>39</ControlCode>
+<Time>1403</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>1524</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>73</ControlCode>
+<Time>1658</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>1734</Time>
+</SplitTime>
+<ControlCard>887755</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>50</Id>
+<Name>
+<Family>König</Family>
+<Given>Markus</Given>
+</Name>
+<BirthDate>1979-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>155</BibNumber>
+<StartTime>2018-09-29T14:27:00.000</StartTime>
+<FinishTime>2018-09-29T14:59:38.000</FinishTime>
+<Time>1958</Time>
+<TimeBehind>183</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>34</ControlCode>
+<Time>78</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>212</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>418</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>64</ControlCode>
+<Time>469</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>48</ControlCode>
+<Time>532</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>596</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>644</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>57</ControlCode>
+<Time>828</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>37</ControlCode>
+<Time>925</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>1039</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>1161</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>58</ControlCode>
+<Time>1366</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>61</ControlCode>
+<Time>1457</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>39</ControlCode>
+<Time>1547</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>1679</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>73</ControlCode>
+<Time>1863</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>1918</Time>
+</SplitTime>
+<ControlCard>8228288</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>42</Id>
+<Name>
+<Family>Helminger</Family>
+<Given>Norbert</Given>
+</Name>
+<BirthDate>1975-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>158</BibNumber>
+<StartTime>2018-09-29T14:33:00.000</StartTime>
+<FinishTime>2018-09-29T15:07:56.000</FinishTime>
+<Time>2096</Time>
+<TimeBehind>321</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>34</ControlCode>
+<Time>71</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>513</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>613</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>64</ControlCode>
+<Time>663</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>48</ControlCode>
+<Time>743</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>788</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>838</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>57</ControlCode>
+<Time>1006</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>37</ControlCode>
+<Time>1098</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>1208</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>1331</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>58</ControlCode>
+<Time>1500</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>61</ControlCode>
+<Time>1594</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>39</ControlCode>
+<Time>1738</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>1866</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>73</ControlCode>
+<Time>1997</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>2059</Time>
+</SplitTime>
+<ControlCard>8131131</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>558</Id>
+<Name>
+<Family>Buchberger</Family>
+<Given>Markus</Given>
+</Name>
+<BirthDate>1980-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>160</BibNumber>
+<StartTime>2018-09-29T14:37:00.000</StartTime>
+<FinishTime>2018-09-29T15:13:12.000</FinishTime>
+<Time>2172</Time>
+<TimeBehind>397</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>34</ControlCode>
+<Time>77</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>276</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>512</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>64</ControlCode>
+<Time>597</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>48</ControlCode>
+<Time>661</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>699</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>752</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>57</ControlCode>
+<Time>928</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>37</ControlCode>
+<Time>1029</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>1166</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>1303</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>58</ControlCode>
+<Time>1520</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>61</ControlCode>
+<Time>1617</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>39</ControlCode>
+<Time>1755</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>1927</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>73</ControlCode>
+<Time>2077</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>2135</Time>
+</SplitTime>
+<ControlCard>8024024</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>7741</Id>
+<Name>
+<Family>Bogensperger</Family>
+<Given>Martin</Given>
+</Name>
+<BirthDate>1972-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>163</BibNumber>
+<StartTime>2018-09-29T14:43:00.000</StartTime>
+<FinishTime>2018-09-29T15:22:22.000</FinishTime>
+<Time>2362</Time>
+<TimeBehind>587</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>34</ControlCode>
+<Time>98</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>349</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>493</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>64</ControlCode>
+<Time>572</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>48</ControlCode>
+<Time>670</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>765</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>819</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>57</ControlCode>
+<Time>993</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>37</ControlCode>
+<Time>1101</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>1210</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>1347</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>58</ControlCode>
+<Time>1551</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>61</ControlCode>
+<Time>1669</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>39</ControlCode>
+<Time>1786</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>1955</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>73</ControlCode>
+<Time>2272</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>2326</Time>
+</SplitTime>
+<ControlCard>8003005</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>8460</Id>
+<Name>
+<Family>Grambichler</Family>
+<Given>Johann</Given>
+</Name>
+<BirthDate>1978-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>159</BibNumber>
+<StartTime>2018-09-29T14:35:00.000</StartTime>
+<FinishTime>2018-09-29T15:23:25.000</FinishTime>
+<Time>2905</Time>
+<TimeBehind>1130</TimeBehind>
+<Position>6</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>34</ControlCode>
+<Time>126</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>403</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>530</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>64</ControlCode>
+<Time>756</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>48</ControlCode>
+<Time>853</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>924</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>992</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>57</ControlCode>
+<Time>1248</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>37</ControlCode>
+<Time>1383</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>1540</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>1692</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>58</ControlCode>
+<Time>1940</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>61</ControlCode>
+<Time>2087</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>39</ControlCode>
+<Time>2245</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>2589</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>73</ControlCode>
+<Time>2785</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>2861</Time>
+</SplitTime>
+<ControlCard>1090478</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>7763</Id>
+<Name>
+<Family>Böhm</Family>
+<Given>Martin</Given>
+</Name>
+<BirthDate>1976-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>157</BibNumber>
+<StartTime>2018-09-29T14:31:00.000</StartTime>
+<Status>DidNotStart</Status>
+<SplitTime status="Missing">
+<ControlCode>34</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>67</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>41</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>64</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>48</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>47</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>49</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>57</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>37</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>52</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>54</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>58</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>61</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>39</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>70</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>73</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>99</ControlCode>
+</SplitTime>
+<ControlCard>8014014</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>1812</Id>
+<Name>
+<Family>Fink</Family>
+<Given>Bernhard</Given>
+</Name>
+<BirthDate>1977-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>161</BibNumber>
+<StartTime>2018-09-29T14:39:00.000</StartTime>
+<Status>DidNotStart</Status>
+<SplitTime status="Missing">
+<ControlCode>34</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>67</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>41</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>64</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>48</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>47</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>49</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>57</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>37</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>52</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>54</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>58</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>61</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>39</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>70</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>73</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>99</ControlCode>
+</SplitTime>
+<ControlCard>8101808</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>65</Id>
+<Name>S-Herren 45-</Name>
+<ShortName>S H45</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>5</Id>
+<Name>Bahn 5</Name>
+<Length>3200</Length>
+<NumberOfControls>17</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Id>1389</Id>
+<Name>
+<Family>Kohlbacher</Family>
+<Given>Roland</Given>
+</Name>
+<BirthDate>1966-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>168</BibNumber>
+<StartTime>2018-09-29T14:10:00.000</StartTime>
+<FinishTime>2018-09-29T14:42:07.000</FinishTime>
+<Time>1927</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>32</ControlCode>
+<Time>64</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>40</ControlCode>
+<Time>205</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>265</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>42</ControlCode>
+<Time>421</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>516</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>568</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>51</ControlCode>
+<Time>733</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>842</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>53</ControlCode>
+<Time>918</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>1013</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>1251</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>1399</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>1470</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>1613</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>1691</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>1853</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>1891</Time>
+</SplitTime>
+<ControlCard>8188882</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>7774</Id>
+<Name>
+<Family>Ebster Sen.</Family>
+<Given>Peter</Given>
+</Name>
+<BirthDate>1968-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>167</BibNumber>
+<StartTime>2018-09-29T14:08:00.000</StartTime>
+<FinishTime>2018-09-29T14:43:11.000</FinishTime>
+<Time>2111</Time>
+<TimeBehind>183</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>32</ControlCode>
+<Time>62</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>40</ControlCode>
+<Time>269</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>319</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>42</ControlCode>
+<Time>538</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>642</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>695</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>51</ControlCode>
+<Time>880</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>1001</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>53</ControlCode>
+<Time>1072</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>1167</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>1413</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>1573</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>1647</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>1745</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>1856</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>2024</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>2076</Time>
+</SplitTime>
+<ControlCard>8446677</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>28</Id>
+<Name>
+<Family>Elstner</Family>
+<Given>Florian</Given>
+</Name>
+<BirthDate>1963-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>165</BibNumber>
+<StartTime>2018-09-29T14:04:00.000</StartTime>
+<FinishTime>2018-09-29T14:42:21.000</FinishTime>
+<Time>2301</Time>
+<TimeBehind>373</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>32</ControlCode>
+<Time>62</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>40</ControlCode>
+<Time>225</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>318</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>42</ControlCode>
+<Time>475</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>639</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>710</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>51</ControlCode>
+<Time>970</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>1214</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>53</ControlCode>
+<Time>1283</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>1364</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>1616</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>1751</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>1842</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>1960</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>2042</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>2216</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>2257</Time>
+</SplitTime>
+<ControlCard>8030563</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>8099</Id>
+<Name>
+<Family>Lechner</Family>
+<Given>Hannes</Given>
+</Name>
+<BirthDate>1972-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>166</BibNumber>
+<StartTime>2018-09-29T14:06:00.000</StartTime>
+<FinishTime>2018-09-29T14:50:09.000</FinishTime>
+<Time>2649</Time>
+<TimeBehind>721</TimeBehind>
+<Position>4</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>32</ControlCode>
+<Time>59</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>40</ControlCode>
+<Time>208</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>418</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>42</ControlCode>
+<Time>665</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>759</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>810</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>51</ControlCode>
+<Time>979</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>1092</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>53</ControlCode>
+<Time>1161</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>1249</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>2057</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>2180</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>2244</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>2329</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>2397</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>2571</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>2609</Time>
+</SplitTime>
+<ControlCard>8041972</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>8106</Id>
+<Name>
+<Family>Seitlinger</Family>
+<Given>Gabriel</Given>
+</Name>
+<BirthDate>1970-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>164</BibNumber>
+<StartTime>2018-09-29T14:02:00.000</StartTime>
+<FinishTime>2018-09-29T14:49:51.000</FinishTime>
+<Time>2871</Time>
+<TimeBehind>944</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>32</ControlCode>
+<Time>72</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>40</ControlCode>
+<Time>620</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>671</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>42</ControlCode>
+<Time>896</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>997</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>49</ControlCode>
+<Time>1240</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>51</ControlCode>
+<Time>1444</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>52</ControlCode>
+<Time>1946</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>53</ControlCode>
+<Time>1996</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>54</ControlCode>
+<Time>2103</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>2292</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>2414</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>41</ControlCode>
+<Time>2476</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>67</ControlCode>
+<Time>2566</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>70</ControlCode>
+<Time>2627</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>2793</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>2830</Time>
+</SplitTime>
+<ControlCard>8250170</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>66</Id>
+<Name>S-Herren 55-</Name>
+<ShortName>S H55</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>3</Id>
+<Name>Bahn 3</Name>
+<Length>2500</Length>
+<NumberOfControls>12</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Id>1904</Id>
+<Name>
+<Family>Mayer</Family>
+<Given>Horst</Given>
+</Name>
+<BirthDate>1960-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>35</Id>
+<Name>SSV Hallein-Neualm</Name>
+<ShortName>SSV Hallein-Neualm</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>170</BibNumber>
+<StartTime>2018-09-29T14:35:00.000</StartTime>
+<FinishTime>2018-09-29T14:58:04.000</FinishTime>
+<Time>1384</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>38</ControlCode>
+<Time>103</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>225</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>50</ControlCode>
+<Time>353</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>56</ControlCode>
+<Time>454</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>58</ControlCode>
+<Time>686</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>738</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>62</ControlCode>
+<Time>890</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>76</ControlCode>
+<Time>976</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>69</ControlCode>
+<Time>1025</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>72</ControlCode>
+<Time>1108</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>1288</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>1349</Time>
+</SplitTime>
+<ControlCard>8021260</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>2420</Id>
+<Name>
+<Family>Hackl</Family>
+<Given>Karl</Given>
+</Name>
+<BirthDate>1956-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>171</BibNumber>
+<StartTime>2018-09-29T14:37:00.000</StartTime>
+<FinishTime>2018-09-29T15:10:29.000</FinishTime>
+<Time>2009</Time>
+<TimeBehind>624</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>38</ControlCode>
+<Time>220</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>588</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>50</ControlCode>
+<Time>720</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>56</ControlCode>
+<Time>842</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>58</ControlCode>
+<Time>1129</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>1202</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>62</ControlCode>
+<Time>1379</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>76</ControlCode>
+<Time>1494</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>69</ControlCode>
+<Time>1563</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>72</ControlCode>
+<Time>1703</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>1899</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>1964</Time>
+</SplitTime>
+<ControlCard>1680505</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>2357</Id>
+<Name>
+<Family>Mages</Family>
+<Given>Franz</Given>
+</Name>
+<BirthDate>1955-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>35</Id>
+<Name>SSV Hallein-Neualm</Name>
+<ShortName>SSV Hallein-Neualm</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>172</BibNumber>
+<StartTime>2018-09-29T14:39:00.000</StartTime>
+<FinishTime>2018-09-29T15:14:00.000</FinishTime>
+<Time>2100</Time>
+<TimeBehind>716</TimeBehind>
+<Position>3</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>38</ControlCode>
+<Time>140</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>305</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>50</ControlCode>
+<Time>482</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>56</ControlCode>
+<Time>650</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>58</ControlCode>
+<Time>1042</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>1116</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>62</ControlCode>
+<Time>1350</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>76</ControlCode>
+<Time>1472</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>69</ControlCode>
+<Time>1556</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>72</ControlCode>
+<Time>1673</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>1950</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>2039</Time>
+</SplitTime>
+<ControlCard>8646983</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<Class resultListMode="Default" sex="M">
+<Id>67</Id>
+<Name>S-Herren 65-</Name>
+<ShortName>S H65</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>3</Id>
+<Name>Bahn 3</Name>
+<Length>2500</Length>
+<NumberOfControls>12</NumberOfControls>
+</Course>
+<PersonResult>
+<Person sex="M">
+<Id>557</Id>
+<Name>
+<Family>Buchberger</Family>
+<Given>Jakob</Given>
+</Name>
+<BirthDate>1953-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>176</BibNumber>
+<StartTime>2018-09-29T14:47:00.000</StartTime>
+<FinishTime>2018-09-29T15:11:18.000</FinishTime>
+<Time>1458</Time>
+<TimeBehind>0</TimeBehind>
+<Position>1</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>38</ControlCode>
+<Time>115</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>240</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>50</ControlCode>
+<Time>372</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>56</ControlCode>
+<Time>488</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>58</ControlCode>
+<Time>742</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>796</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>62</ControlCode>
+<Time>952</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>76</ControlCode>
+<Time>1032</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>69</ControlCode>
+<Time>1092</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>72</ControlCode>
+<Time>1168</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>1356</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>1409</Time>
+</SplitTime>
+<ControlCard>8150253</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>3078</Id>
+<Name>
+<Family>Schütz</Family>
+<Given>Wolfgang</Given>
+</Name>
+<BirthDate>1953-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>177</BibNumber>
+<StartTime>2018-09-29T14:49:00.000</StartTime>
+<FinishTime>2018-09-29T15:28:00.000</FinishTime>
+<Time>2340</Time>
+<TimeBehind>882</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>38</ControlCode>
+<Time>184</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>47</ControlCode>
+<Time>377</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>50</ControlCode>
+<Time>548</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>56</ControlCode>
+<Time>707</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>58</ControlCode>
+<Time>1067</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>59</ControlCode>
+<Time>1293</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>62</ControlCode>
+<Time>1496</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>76</ControlCode>
+<Time>1681</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>69</ControlCode>
+<Time>1798</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>72</ControlCode>
+<Time>1969</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>2192</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>99</ControlCode>
+<Time>2271</Time>
+</SplitTime>
+<ControlCard>5337</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>7071</Id>
+<Name>
+<Family>Buchberger Sen.</Family>
+<Given>Wolfgang</Given>
+</Name>
+<BirthDate>1953-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>174</BibNumber>
+<StartTime>2018-09-29T14:43:00.000</StartTime>
+<Status>DidNotStart</Status>
+<SplitTime status="Missing">
+<ControlCode>38</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>47</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>50</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>56</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>58</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>59</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>62</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>76</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>69</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>72</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>74</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>99</ControlCode>
+</SplitTime>
+<ControlCard>9070007</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>565</Id>
+<Name>
+<Family>Nagele</Family>
+<Given>Franz</Given>
+</Name>
+<BirthDate>1946-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>178</BibNumber>
+<StartTime>2018-09-29T14:51:00.000</StartTime>
+<Status>DidNotStart</Status>
+<SplitTime status="Missing">
+<ControlCode>38</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>47</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>50</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>56</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>58</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>59</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>62</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>76</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>69</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>72</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>74</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>99</ControlCode>
+</SplitTime>
+<ControlCard>8623921</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>71</Id>
+<Name>
+<Family>Müller</Family>
+<Given>Leo</Given>
+</Name>
+<BirthDate>1949-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<BibNumber>179</BibNumber>
+<StartTime>2018-09-29T14:53:00.000</StartTime>
+<Status>DidNotStart</Status>
+<SplitTime status="Missing">
+<ControlCode>38</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>47</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>50</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>56</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>58</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>59</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>62</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>76</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>69</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>72</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>74</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>99</ControlCode>
+</SplitTime>
+<ControlCard>2116263</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+</ClassResult>
+</ResultList>
