@@ -2,14 +2,14 @@
 title: "LMS Staffel OL"
 date: 2019-10-06T10:00:00+02:00 # date of creation of the file
 draft: false
-status: active
+status: done
 anne_id: 2569
 
 archives: []
 tags: [ "Landesmeisterschaft", "Staffel"]
 
 event:
-  name_amend: ""
+  name_amend: "Salzburger Staffel LMS"
   form: "Staffel OL"
   location: "St.Ulrich am Pillersee"
   type: "relay"
@@ -52,10 +52,10 @@ resources:
   title: "Ausschreibung"
 - src: "**/**start**"
   title: "Startliste"
-- src: "**/resu**split**"
+- src: "**/split**"
   title: "Splits"
 - src: "**/resu**"
-  title: "Ergebnisse"
+  title: "Ergebnisse LMS"
 - src: "**/laeu**"
   title: "Läuferinfo"
 - src: "**/**bahn**"

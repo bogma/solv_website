@@ -1,0 +1,36 @@
+year: 2019
+type: relay
+name: Staffel
+evlink: /event/2019/other/staffel
+results:
+  - category: D/H -15
+    valid: true
+    result:
+      - names:
+        - name: Katja Helminger
+        - name: Jana Lechner
+      - names:
+        - name: Emma Rothauer
+        - name: Josefine Erhard
+      - names:
+        - name: Nick Lechner
+        - name: Manuel Schober
+  - category: Damen 16-
+    valid: true
+    result:
+      - names:
+        - name: Lucie Rothauer
+        - name: Edith Müller
+  - category: Herren 16-
+    valid: true
+    result:
+      - names:
+        - name: Leon Ebster
+        - name: Markus König
+      - names:
+        - name: Bernhard Fink
+        - name: Peter Ebster Sen.
+      - names:
+        - name: Martin Bogensperger
+        - name: Hannes Lechner
+
