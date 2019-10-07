@@ -76,6 +76,19 @@ paginate = 10
     parent = "solv"
 
 [[menu.main]]
+    identifier = "solv_divider2"
+    name = "divider"
+    weight = 298
+    parent = "solv"
+
+[[menu.main]]
+    identifier = "legacyweb"
+    name = "Alte SOLV website"
+    url = "http://old.ol-sbg.at"
+    weight = 299
+    parent = "solv"
+
+[[menu.main]]
     identifier = "cup"
     name = "CUPS & LMS"
     url = "/event/"
