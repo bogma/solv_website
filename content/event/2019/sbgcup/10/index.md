@@ -1,13 +1,12 @@
 ---
 title: "10. Salzburger Sportvoglcup 2019"
-date: 2019-10-26T00:00:00+01:00 # date of creation of the file
+date: 2019-10-26T10:30:00+01:00 # date of creation of the file
 draft: false
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
-anne_id: 2575
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
+anne_id: 2691
 
 archives: []
-tags: [ "SBG Cup"]
-
+tags: [ "SBG Cup", "Landesmeisterschaft"]
 
 event:
   name_amend: "LM Jugend und Senioren"
@@ -18,30 +17,31 @@ championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "HSV Wals" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
+  course: "Franz Nagele"
+  event: "Franz Nagele"
   inspection: ""
 course:
-  valid: false # set to true when the course lenghts are final
-  lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
+  valid: true # set to true when the course lenghts are final
+  lenghts: [["Einfach","2,5 km"], ["Mittel A","3,8 km"], ["Mittel B","3,1 km"], ["Lang","5,3 km"], ["Family","1,4 km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -6 # x days from event->date
 meeting:
-  point: ""
+  point: "Parkplatz am Nordende der Schmiedingerstraße"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.839230, 13.013150]
 map:
-  name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
+  name: "Salzachseen"
+  scale: "1:5.000"
+  equidistance: "2m"
+  update: "Oktober 2019"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: ""
+hints: "Wer sich nicht sicher ist (auch Familien oder Offene) ob er/sie teilnehmen kann/will, auf jeden Fall anmelden!
+Für den Veranstalter ist es besser er bleibt auf Karten sitzen weil jemand nicht kommt, als er hat zu wenig Karten weil Teilnehmer kommen die sich nicht zeitgerecht angemeldet haben!"
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
@@ -55,6 +55,8 @@ resources:
   title: "Ergebnisse"
 - src: "**/lau**"
   title: "Läuferinfo"
+- src: "**/Alte**"
+  title: "Alte Karte"
 ---
 
 ### Startgeld
@@ -77,4 +79,5 @@ SPORTIdent; SI-Air+ (touch free) aktiviert.
 - Privatgrundstücke dürfen nicht betreten werden.
 
 ### Hinweis des SOLV
+
 Für die Jahreswertung des SOLV-Cup werden nur SOLV-Mitglieder berücksichtigt!
