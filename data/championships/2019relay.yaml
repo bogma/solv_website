@@ -3,7 +3,7 @@ type: relay
 name: Staffel
 evlink: /event/2019/other/staffel
 results:
-  - category: D/H -15
+  - category: D -15
     valid: true
     result:
       - names:
@@ -13,8 +13,8 @@ results:
         - name: Emma Rothauer
         - name: Josefine Erhard
       - names:
-        - name: Nick Lechner
-        - name: Manuel Schober
+        - name: Lara Höhenberger
+        - name: Antonia Seitlinger
   - category: Damen 16-
     valid: true
     result:
