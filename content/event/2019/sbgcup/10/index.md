@@ -3,7 +3,7 @@ title: "10. Salzburger Sportvoglcup 2019"
 date: 2019-10-26T10:30:00+01:00 # date of creation of the file
 draft: false
 status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
-anne_id: 2691
+anne_id: 2680
 
 archives: []
 tags: [ "SBG Cup", "Landesmeisterschaft"]
@@ -53,10 +53,13 @@ resources:
   title: "Splits"
 - src: "**/resu**"
   title: "Ergebnisse"
-- src: "**/lau**"
+- src: "**/laeu**"
   title: "Läuferinfo"
 - src: "**/Alte**"
   title: "Alte Karte"
+- src: "**/InfoK**"
+  title: "Übersichtsplan Salzachseen"
+
 ---
 
 ### Startgeld
