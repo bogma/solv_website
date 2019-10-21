@@ -1,0 +1,39 @@
+workflows:
+  version: 2
+  main:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only: master
+
+version: 2
+jobs:
+  build:
+    docker:
+      # specify the version
+      - image: cibuilds/hugo:latest
+
+    working_directory: ~/hugo
+    environment:
+      HUGO_BUILD_DIR: ~/hugo/public
+    steps:
+      - checkout
+      - run: git submodule sync && git submodule update --init
+
+      - run: hugo version
+      - run: HUGO_ENV=production hugo -v -F # -d $HUGO_BUILD_DIR
+
+      # - run: htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html --empty-alt-ignore --disable-external
+
+      - run:
+          name: install lftp
+          command: |
+            apt-get update -q
+            apt-get install -y lftp
+
+      - run:
+          name: deploy docs
+          command: lftp ftp://${DEPLOY_USER}:${DEPLOY_PASS}@${DEPLOY_HOST} -e "mirror -v -R --ignore-time ${HUGO_BUILD_DIR} /; quit"
+
+
