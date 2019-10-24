@@ -41,7 +41,8 @@ map:
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
 hints: "Wer sich nicht sicher ist (auch Familien oder Offene) ob er/sie teilnehmen kann/will, auf jeden Fall anmelden!
-Für den Veranstalter ist es besser er bleibt auf Karten sitzen weil jemand nicht kommt, als er hat zu wenig Karten weil Teilnehmer kommen die sich nicht zeitgerecht angemeldet haben!"
+Für den Veranstalter ist es besser er bleibt auf Karten sitzen weil jemand nicht kommt, als er hat zu wenig Karten weil Teilnehmer kommen die sich nicht zeitgerecht angemeldet haben!
+<p>Freie Startzeit in der Family Klasse!</p>"
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
