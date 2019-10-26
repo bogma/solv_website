@@ -2,7 +2,7 @@
 title: "10. Salzburger Sportvoglcup 2019"
 date: 2019-10-26T10:30:00+01:00 # date of creation of the file
 draft: false
-status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
+status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 2680
 
 archives: []
@@ -50,7 +50,7 @@ resources:
   title: "Ausschreibung"
 - src: "**/start**"
   title: "Startliste"
-- src: "**/resu*split**"
+- src: "**/split**"
   title: "Splits"
 - src: "**/resu**"
   title: "Ergebnisse"
