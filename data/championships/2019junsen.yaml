@@ -1,0 +1,58 @@
+year: 2019
+type: junsen
+name: Jugend/Senjoren
+evlink: /event/2019/sbgcup/10
+results:
+  - category: Damen -13
+    valid: true
+    result:
+      - name: Jana Lechner
+      - name: Emma Rothauer
+      - name: Katja Helminger
+  - category: Herren -13
+    valid: true
+    result:
+      - name: Nick Lechner
+      - name: Simon Wally
+      - name: Jakob Felix Buchberger
+  - category: Damen -15
+    valid: true
+    result:
+      - name: Antonia Seitlinger
+      - name: Carla Berger
+      - name: Rebecca Müller
+  - category: Damen 35-
+    valid: true
+    result:
+      - name: Edith Müller
+      - name: Stefanie Kennerknecht
+      - name: Daniela Buchberger
+  - category: Herren 35-
+    valid: true
+    result:
+      - name: Franz Helminger
+      - name: Martin Bogensperger
+      - name: Markus Buchberger
+  - category: Herren 45-
+    valid: true
+    result:
+      - name: Roland Kohlbacher
+      - name: Peter Ebster Sen.
+      - name: Hannes Lechner
+  - category: Damen 55-
+    valid: true
+    result:
+      - name: Heidi Bordihn
+      - name: Brigitte Müller
+  - category: Herren 55-
+    valid: true
+    result:
+      - name: Horst Mayer
+      - name: Josef Wimmer
+      - name: Eduard Böhm
+  - category: Herren 65-
+    valid: true
+    result:
+      - name: Leopold Tonka
+      - name: Leo Müller
+      - name: Ekkehard Berger

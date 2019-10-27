@@ -52,6 +52,8 @@ resources:
   title: "Startliste"
 - src: "**/split**"
   title: "Splits"
+- src: "**/resu_**"
+  title: "Ergebnisse LMS"
 - src: "**/resu**"
   title: "Ergebnisse"
 - src: "**/laeu**"
