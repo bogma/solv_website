@@ -3,7 +3,7 @@ title: "11. Salzburger Sportvoglcup 2019"
 date: 2019-11-03T14:00:00+01:00 # date of creation of the file
 draft: false
 status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
-anne_id: 2570
+anne_id: 2876
 
 archives: []
 tags: [ "SBG Cup"]
