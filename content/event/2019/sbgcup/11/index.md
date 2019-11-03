@@ -2,7 +2,7 @@
 title: "11. Salzburger Sportvoglcup 2019"
 date: 2019-11-03T14:00:00+01:00 # date of creation of the file
 draft: false
-status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
+status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 2867
 
 archives: []
@@ -49,7 +49,7 @@ resources:
   title: "Ausschreibung"
 - src: "**/start**"
   title: "Startliste"
-- src: "**/resu*split**"
+- src: "**/split**"
   title: "Splits"
 - src: "**/resu**"
   title: "Ergebnisse"
@@ -77,4 +77,5 @@ SPORTIdent; SI-Air+ (touch free) aktiviert.
 - Privatgrundstücke dürfen nicht betreten werden.
 
 ### Hinweis des SOLV
+
 Für die Jahreswertung des SOLV-Cup werden nur SOLV-Mitglieder berücksichtigt!
