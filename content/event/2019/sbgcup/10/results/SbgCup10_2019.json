@@ -2,7 +2,7 @@
   "-xmlns": "http://www.orienteering.org/datastandard/3.0",
   "-xsi": "http://www.w3.org/2001/XMLSchema-instance",
   "-iofVersion": "3.0",
-  "-createTime": "2019-10-26T14:35:14.564",
+  "-createTime": "2019-11-03T16:13:05.640",
   "-creator": "SportSoftware OE12 (M) V.11.95",
   "ResultList": {
     "Event": {
@@ -165,8 +165,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -401,8 +401,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -519,8 +519,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -779,8 +779,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -1043,8 +1043,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -1201,8 +1201,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -1359,8 +1359,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -1545,8 +1545,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -2018,8 +2018,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -2176,8 +2176,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -2360,8 +2360,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -2676,8 +2676,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -2834,8 +2834,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -3134,8 +3134,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -3749,8 +3749,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -4011,8 +4011,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASK֠Henndorf",
-            "ShortName": "ASK֠Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -4155,8 +4155,8 @@
           },
           "Organisation": {
             "Id": "32",
-            "Name": "ASK֠Henndorf",
-            "ShortName": "ASK֠Henndorf"
+            "Name": "ASKÖ Henndorf",
+            "ShortName": "ASKÖ Henndorf"
           },
           "Result": {
             "-raceNumber": "1",
@@ -4340,8 +4340,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -4498,8 +4498,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -4842,13 +4842,13 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
               "StartTime": "2019-10-26T10:10:02.000",
-              "FinishTime": "2019-10-26T10:47:16.000",
+              "FinishTime": "2019-10-26T10:42:16.000",
               "Time": "1934",
               "TimeBehind": "88",
               "Position": "2",
@@ -4887,96 +4887,96 @@
                   "Time": "525"
                 },
                 {
-                  "-status": "Missing",
-                  "ControlCode": "108"
+                  "ControlCode": "108",
+                  "Time": "86964"
                 },
                 {
                   "ControlCode": "110",
-                  "Time": "925"
+                  "Time": "87025"
                 },
                 {
                   "ControlCode": "111",
-                  "Time": "963"
+                  "Time": "87063"
                 },
                 {
                   "ControlCode": "112",
-                  "Time": "1017"
+                  "Time": "87117"
                 },
                 {
                   "ControlCode": "115",
-                  "Time": "1111"
+                  "Time": "87211"
                 },
                 {
                   "ControlCode": "85",
-                  "Time": "1211"
+                  "Time": "87311"
                 },
                 {
                   "ControlCode": "79",
-                  "Time": "1224"
+                  "Time": "87324"
                 },
                 {
                   "ControlCode": "103",
-                  "Time": "1314"
+                  "Time": "87414"
                 },
                 {
                   "ControlCode": "125",
-                  "Time": "1429"
+                  "Time": "87529"
                 },
                 {
                   "ControlCode": "119",
-                  "Time": "1467"
+                  "Time": "87567"
                 },
                 {
                   "ControlCode": "118",
-                  "Time": "1523"
+                  "Time": "1223"
                 },
                 {
                   "ControlCode": "120",
-                  "Time": "1586"
+                  "Time": "1286"
                 },
                 {
                   "ControlCode": "121",
-                  "Time": "1646"
+                  "Time": "1346"
                 },
                 {
                   "ControlCode": "122",
-                  "Time": "1686"
+                  "Time": "1386"
                 },
                 {
                   "ControlCode": "91",
-                  "Time": "1727"
+                  "Time": "1427"
                 },
                 {
                   "ControlCode": "123",
-                  "Time": "1868"
+                  "Time": "1568"
                 },
                 {
                   "ControlCode": "124",
-                  "Time": "1914"
+                  "Time": "1614"
                 },
                 {
                   "ControlCode": "117",
-                  "Time": "1972"
+                  "Time": "1672"
                 },
                 {
                   "ControlCode": "97",
-                  "Time": "2045"
+                  "Time": "1745"
                 },
                 {
                   "ControlCode": "95",
-                  "Time": "2073"
+                  "Time": "1773"
                 },
                 {
                   "ControlCode": "105",
-                  "Time": "2165"
+                  "Time": "1865"
                 },
                 {
                   "ControlCode": "92",
-                  "Time": "2205"
+                  "Time": "1905"
                 },
                 {
                   "ControlCode": "100",
-                  "Time": "2228"
+                  "Time": "1928"
                 }
               ],
               "ControlCard": "8003005",
@@ -5470,8 +5470,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -5813,8 +5813,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -5971,8 +5971,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -6287,8 +6287,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -7663,8 +7663,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -7788,140 +7788,6 @@
           {
             "Person": {
               "-sex": "M",
-              "Id": "8",
-              "Name": {
-                "Family": "Böhm",
-                "Given": "Eduard"
-              },
-              "BirthDate": "1948-01-01"
-            },
-            "Organisation": {
-              "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
-            },
-            "Result": {
-              "-raceNumber": "1",
-              "StartTime": "2019-10-26T10:34:05.000",
-              "FinishTime": "2019-10-26T11:07:27.000",
-              "Time": "2014",
-              "TimeBehind": "398",
-              "Position": "5",
-              "Status": "OK",
-              "SplitTime": [
-                {
-                  "ControlCode": "80",
-                  "Time": "39"
-                },
-                {
-                  "ControlCode": "113",
-                  "Time": "65"
-                },
-                {
-                  "ControlCode": "78",
-                  "Time": "166"
-                },
-                {
-                  "ControlCode": "81",
-                  "Time": "324"
-                },
-                {
-                  "ControlCode": "106",
-                  "Time": "374"
-                },
-                {
-                  "ControlCode": "83",
-                  "Time": "460"
-                },
-                {
-                  "ControlCode": "84",
-                  "Time": "516"
-                },
-                {
-                  "ControlCode": "101",
-                  "Time": "585"
-                },
-                {
-                  "ControlCode": "79",
-                  "Time": "619"
-                },
-                {
-                  "ControlCode": "85",
-                  "Time": "656"
-                },
-                {
-                  "ControlCode": "102",
-                  "Time": "737"
-                },
-                {
-                  "ControlCode": "103",
-                  "Time": "813"
-                },
-                {
-                  "ControlCode": "87",
-                  "Time": "873"
-                },
-                {
-                  "ControlCode": "125",
-                  "Time": "990"
-                },
-                {
-                  "ControlCode": "119",
-                  "Time": "1040"
-                },
-                {
-                  "ControlCode": "118",
-                  "Time": "1172"
-                },
-                {
-                  "ControlCode": "120",
-                  "Time": "1254"
-                },
-                {
-                  "ControlCode": "121",
-                  "Time": "1348"
-                },
-                {
-                  "ControlCode": "122",
-                  "Time": "1390"
-                },
-                {
-                  "ControlCode": "91",
-                  "Time": "1448"
-                },
-                {
-                  "ControlCode": "123",
-                  "Time": "1621"
-                },
-                {
-                  "ControlCode": "95",
-                  "Time": "1795"
-                },
-                {
-                  "ControlCode": "105",
-                  "Time": "1890"
-                },
-                {
-                  "ControlCode": "92",
-                  "Time": "1960"
-                },
-                {
-                  "ControlCode": "100",
-                  "Time": "1995"
-                }
-              ],
-              "ControlCard": "1480913",
-              "AssignedFee": {
-                "Fee": {
-                  "Name": "Actual",
-                  "Amount": "4.50"
-                }
-              }
-            }
-          },
-          {
-            "Person": {
-              "-sex": "M",
               "Id": "2420",
               "Name": {
                 "Family": "Hackl",
@@ -7931,8 +7797,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -7940,7 +7806,7 @@
               "FinishTime": "2019-10-26T11:11:13.000",
               "Time": "2412",
               "TimeBehind": "796",
-              "Position": "6",
+              "Position": "5",
               "Status": "OK",
               "SplitTime": [
                 {
@@ -8074,7 +7940,7 @@
               "FinishTime": "2019-10-26T11:25:18.000",
               "Time": "2536",
               "TimeBehind": "920",
-              "Position": "7",
+              "Position": "6",
               "Status": "OK",
               "SplitTime": [
                 {
@@ -8179,6 +8045,139 @@
                 }
               ],
               "ControlCard": "8646983",
+              "AssignedFee": {
+                "Fee": {
+                  "Name": "Actual",
+                  "Amount": "4.50"
+                }
+              }
+            }
+          },
+          {
+            "Person": {
+              "-sex": "M",
+              "Id": "8",
+              "Name": {
+                "Family": "Böhm",
+                "Given": "Eduard"
+              },
+              "BirthDate": "1948-01-01"
+            },
+            "Organisation": {
+              "Id": "32",
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
+            },
+            "Result": {
+              "-raceNumber": "1",
+              "StartTime": "2019-10-26T10:34:05.000",
+              "FinishTime": "2019-10-26T11:07:27.000",
+              "Time": "2014",
+              "TimeBehind": "398",
+              "Status": "Disqualified",
+              "SplitTime": [
+                {
+                  "ControlCode": "80",
+                  "Time": "39"
+                },
+                {
+                  "ControlCode": "113",
+                  "Time": "65"
+                },
+                {
+                  "ControlCode": "78",
+                  "Time": "166"
+                },
+                {
+                  "ControlCode": "81",
+                  "Time": "324"
+                },
+                {
+                  "ControlCode": "106",
+                  "Time": "374"
+                },
+                {
+                  "ControlCode": "83",
+                  "Time": "460"
+                },
+                {
+                  "ControlCode": "84",
+                  "Time": "516"
+                },
+                {
+                  "ControlCode": "101",
+                  "Time": "585"
+                },
+                {
+                  "ControlCode": "79",
+                  "Time": "619"
+                },
+                {
+                  "ControlCode": "85",
+                  "Time": "656"
+                },
+                {
+                  "ControlCode": "102",
+                  "Time": "737"
+                },
+                {
+                  "ControlCode": "103",
+                  "Time": "813"
+                },
+                {
+                  "ControlCode": "87",
+                  "Time": "873"
+                },
+                {
+                  "ControlCode": "125",
+                  "Time": "990"
+                },
+                {
+                  "ControlCode": "119",
+                  "Time": "1040"
+                },
+                {
+                  "ControlCode": "118",
+                  "Time": "1172"
+                },
+                {
+                  "ControlCode": "120",
+                  "Time": "1254"
+                },
+                {
+                  "ControlCode": "121",
+                  "Time": "1348"
+                },
+                {
+                  "ControlCode": "122",
+                  "Time": "1390"
+                },
+                {
+                  "ControlCode": "91",
+                  "Time": "1448"
+                },
+                {
+                  "ControlCode": "123",
+                  "Time": "1621"
+                },
+                {
+                  "ControlCode": "95",
+                  "Time": "1795"
+                },
+                {
+                  "ControlCode": "105",
+                  "Time": "1890"
+                },
+                {
+                  "ControlCode": "92",
+                  "Time": "1960"
+                },
+                {
+                  "ControlCode": "100",
+                  "Time": "1995"
+                }
+              ],
+              "ControlCard": "1480913",
               "AssignedFee": {
                 "Fee": {
                   "Name": "Actual",
@@ -8361,8 +8360,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -8495,8 +8494,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",
@@ -8895,8 +8894,8 @@
             },
             "Organisation": {
               "Id": "32",
-              "Name": "ASK֠Henndorf",
-              "ShortName": "ASK֠Henndorf"
+              "Name": "ASKÖ Henndorf",
+              "ShortName": "ASKÖ Henndorf"
             },
             "Result": {
               "-raceNumber": "1",

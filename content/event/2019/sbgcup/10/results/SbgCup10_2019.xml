@@ -2,7 +2,7 @@
  <ResultList xmlns="http://www.orienteering.org/datastandard/3.0"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  iofVersion="3.0"
- createTime="2019-10-26T14:35:14.564"
+ createTime="2019-11-03T16:13:05.640"
  creator="SportSoftware OE12 (M) V.11.95">
 <Event>
 <Name>10. Salzburger Sportvoglcup 2019</Name>
@@ -153,8 +153,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T10:30:04.000</StartTime>
@@ -381,8 +381,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T10:42:00.000</StartTime>
@@ -495,8 +495,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T10:33:00.000</StartTime>
@@ -720,8 +720,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T10:39:01.000</StartTime>
@@ -970,8 +970,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T10:36:01.000</StartTime>
@@ -1124,8 +1124,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T10:34:03.000</StartTime>
@@ -1278,8 +1278,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T10:32:01.000</StartTime>
@@ -1454,8 +1454,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T22:28:02.000</StartTime>
@@ -1915,8 +1915,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T10:44:01.000</StartTime>
@@ -2069,8 +2069,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T10:52:03.000</StartTime>
@@ -2243,8 +2243,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T11:06:01.000</StartTime>
@@ -2551,8 +2551,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T11:10:01.000</StartTime>
@@ -2705,8 +2705,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T11:06:00.000</StartTime>
@@ -2960,8 +2960,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T10:53:01.000</StartTime>
@@ -3548,8 +3548,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T10:54:01.000</StartTime>
@@ -3797,8 +3797,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T11:03:00.000</StartTime>
@@ -3933,8 +3933,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T10:30:03.000</StartTime>
@@ -4109,8 +4109,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T10:42:02.000</StartTime>
@@ -4263,8 +4263,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T10:38:01.000</StartTime>
@@ -4593,12 +4593,12 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T10:10:02.000</StartTime>
-<FinishTime>2019-10-26T10:47:16.000</FinishTime>
+<FinishTime>2019-10-26T10:42:16.000</FinishTime>
 <Time>1934</Time>
 <TimeBehind>88</TimeBehind>
 <Position>2</Position>
@@ -4635,96 +4635,97 @@
 <ControlCode>107</ControlCode>
 <Time>525</Time>
 </SplitTime>
-<SplitTime status="Missing">
+<SplitTime>
 <ControlCode>108</ControlCode>
+<Time>86964</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>110</ControlCode>
-<Time>925</Time>
+<Time>87025</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>111</ControlCode>
-<Time>963</Time>
+<Time>87063</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>112</ControlCode>
-<Time>1017</Time>
+<Time>87117</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>115</ControlCode>
-<Time>1111</Time>
+<Time>87211</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>85</ControlCode>
-<Time>1211</Time>
+<Time>87311</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>79</ControlCode>
-<Time>1224</Time>
+<Time>87324</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>103</ControlCode>
-<Time>1314</Time>
+<Time>87414</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>125</ControlCode>
-<Time>1429</Time>
+<Time>87529</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>119</ControlCode>
-<Time>1467</Time>
+<Time>87567</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>118</ControlCode>
-<Time>1523</Time>
+<Time>1223</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>120</ControlCode>
-<Time>1586</Time>
+<Time>1286</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>121</ControlCode>
-<Time>1646</Time>
+<Time>1346</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>122</ControlCode>
-<Time>1686</Time>
+<Time>1386</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>91</ControlCode>
-<Time>1727</Time>
+<Time>1427</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>123</ControlCode>
-<Time>1868</Time>
+<Time>1568</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>124</ControlCode>
-<Time>1914</Time>
+<Time>1614</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>117</ControlCode>
-<Time>1972</Time>
+<Time>1672</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>97</ControlCode>
-<Time>2045</Time>
+<Time>1745</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>95</ControlCode>
-<Time>2073</Time>
+<Time>1773</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>105</ControlCode>
-<Time>2165</Time>
+<Time>1865</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>92</ControlCode>
-<Time>2205</Time>
+<Time>1905</Time>
 </SplitTime>
 <SplitTime>
 <ControlCode>100</ControlCode>
-<Time>2228</Time>
+<Time>1928</Time>
 </SplitTime>
 <ControlCard>8003005</ControlCard>
 <AssignedFee>
@@ -5204,8 +5205,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T11:28:00.000</StartTime>
@@ -5532,8 +5533,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T11:22:00.000</StartTime>
@@ -5686,8 +5687,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T11:14:01.000</StartTime>
@@ -5994,8 +5995,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T11:12:01.000</StartTime>
@@ -7328,8 +7329,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T10:40:06.000</StartTime>
@@ -7449,136 +7450,6 @@
 </PersonResult>
 <PersonResult>
 <Person sex="M">
-<Id>8</Id>
-<Name>
-<Family>Böhm</Family>
-<Given>Eduard</Given>
-</Name>
-<BirthDate>1948-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2019-10-26T10:34:05.000</StartTime>
-<FinishTime>2019-10-26T11:07:27.000</FinishTime>
-<Time>2014</Time>
-<TimeBehind>398</TimeBehind>
-<Position>5</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>39</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>113</ControlCode>
-<Time>65</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>78</ControlCode>
-<Time>166</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>81</ControlCode>
-<Time>324</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>106</ControlCode>
-<Time>374</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>83</ControlCode>
-<Time>460</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>516</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>101</ControlCode>
-<Time>585</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>619</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>656</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>737</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>103</ControlCode>
-<Time>813</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>87</ControlCode>
-<Time>873</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>125</ControlCode>
-<Time>990</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>119</ControlCode>
-<Time>1040</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>118</ControlCode>
-<Time>1172</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>120</ControlCode>
-<Time>1254</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>121</ControlCode>
-<Time>1348</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>122</ControlCode>
-<Time>1390</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>91</ControlCode>
-<Time>1448</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>123</ControlCode>
-<Time>1621</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>95</ControlCode>
-<Time>1795</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>105</ControlCode>
-<Time>1890</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>1960</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>1995</Time>
-</SplitTime>
-<ControlCard>1480913</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
 <Id>2420</Id>
 <Name>
 <Family>Hackl</Family>
@@ -7588,15 +7459,15 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T10:31:01.000</StartTime>
 <FinishTime>2019-10-26T11:11:13.000</FinishTime>
 <Time>2412</Time>
 <TimeBehind>796</TimeBehind>
-<Position>6</Position>
+<Position>5</Position>
 <Status>OK</Status>
 <SplitTime>
 <ControlCode>80</ControlCode>
@@ -7726,7 +7597,7 @@
 <FinishTime>2019-10-26T11:25:18.000</FinishTime>
 <Time>2536</Time>
 <TimeBehind>920</TimeBehind>
-<Position>7</Position>
+<Position>6</Position>
 <Status>OK</Status>
 <SplitTime>
 <ControlCode>80</ControlCode>
@@ -7829,6 +7700,135 @@
 <Time>2529</Time>
 </SplitTime>
 <ControlCard>8646983</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>4.50</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>8</Id>
+<Name>
+<Family>Böhm</Family>
+<Given>Eduard</Given>
+</Name>
+<BirthDate>1948-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2019-10-26T10:34:05.000</StartTime>
+<FinishTime>2019-10-26T11:07:27.000</FinishTime>
+<Time>2014</Time>
+<TimeBehind>398</TimeBehind>
+<Status>Disqualified</Status>
+<SplitTime>
+<ControlCode>80</ControlCode>
+<Time>39</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>113</ControlCode>
+<Time>65</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>78</ControlCode>
+<Time>166</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>81</ControlCode>
+<Time>324</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>106</ControlCode>
+<Time>374</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>83</ControlCode>
+<Time>460</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>84</ControlCode>
+<Time>516</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>101</ControlCode>
+<Time>585</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>79</ControlCode>
+<Time>619</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>85</ControlCode>
+<Time>656</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>102</ControlCode>
+<Time>737</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>103</ControlCode>
+<Time>813</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>87</ControlCode>
+<Time>873</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>125</ControlCode>
+<Time>990</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>119</ControlCode>
+<Time>1040</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>118</ControlCode>
+<Time>1172</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>120</ControlCode>
+<Time>1254</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>121</ControlCode>
+<Time>1348</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>122</ControlCode>
+<Time>1390</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>91</ControlCode>
+<Time>1448</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>123</ControlCode>
+<Time>1621</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>95</ControlCode>
+<Time>1795</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>105</ControlCode>
+<Time>1890</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>92</ControlCode>
+<Time>1960</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>100</ControlCode>
+<Time>1995</Time>
+</SplitTime>
+<ControlCard>1480913</ControlCard>
 <AssignedFee>
 <Fee>
 <Name>Actual</Name>
@@ -8000,8 +8000,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T11:01:01.000</StartTime>
@@ -8130,8 +8130,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T10:55:01.000</StartTime>
@@ -8518,8 +8518,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASK֠Henndorf</Name>
-<ShortName>ASK֠Henndorf</ShortName>
+<Name>ASKÖ Henndorf</Name>
+<ShortName>ASKÖ Henndorf</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2019-10-26T11:13:00.000</StartTime>
