@@ -5,7 +5,7 @@ person:
     address2: A-5071 Wals
     phone: 0662/855508
     email: franz.nagele@aon.at
-  - position: Vizepräsident
+  - position: Vizepräsident / ARGE Alp
     name: Eva Breitschädel
     address1: Grafenwies 4
     address2: A-5302 Henndorf
@@ -17,7 +17,7 @@ person:
     address2: A-5071 Wals
     phone: 0662/850109
     email: julia.helminger@gmail.com
-  - position: Kassier
+  - position: Kassier Stellvertreter
     name: Jakob Buchberger
     address: ''
     phone: 0680/2063608
@@ -28,7 +28,7 @@ person:
     address2: A-5302 Henndorf
     phone: 06214/8544
     email: BrigitteMueller@gmx.at
-  - position: Schriftführer
+  - position: Schriftführer Stellvertreter
     name: Horst Mayer
     address1: Waidach 146a
     address2: A-5421 Adnet
@@ -46,7 +46,7 @@ person:
     address2: A-5202 Neumarkt
     phone: 06216/7100
     email: rogl@gmx.at
-  - position: Rechnungsprüfer
+  - position: Rechnungsprüfer / Vereinsvertreter (NF Seekirchen, Sektion OL)
     name: Hartwig Rogl
     address1: Sportplatzstraße 19
     address2: A-5202 Neumarkt
@@ -77,11 +77,11 @@ person:
     phone: 06232/4681
     email: ck.hackl@aon.at
   - position: Vereinsvertreter (ASKÖ Henndorf)
-    name: Leo Müller
-    address1: Hausstattstraße 33
+    name: Christian Breitschädel
+    address1: Grafenwies 4
     address2: A-5302 Henndorf
-    phone: 06214/8544
-    email: leo.mueller@sbg.at
+    phone: 0664/4245042
+    email: breitschaedel@aon.at
   - position: Vereinsvertreter (SSV Hallein)
     name: Horst Mayer
     address1: Waidach 146a
@@ -94,3 +94,9 @@ person:
     address2: A-5020 Salzburg
     phone: 0662/433807
     email: frwirth@gmx.at
+  - position: Vereinsvertreter (TV Zell am See, Sektion OL)
+    name: Gabriel Seitlinger
+    address1: 
+    address2: 
+    phone: 
+    email: 
