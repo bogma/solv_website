@@ -2,7 +2,7 @@ club:
   - name: ASKÖ Henndorf Orienteering
     short: AHD
     website: www.henndorf.at/ol
-    membercount: 90
+    membercount: 55
     logo: /images/logo-ahd.jpg
     board:
       - position: Obmann
@@ -16,7 +16,7 @@ club:
   - name: HSV Wals, Sektion OL
     short: HSW
     website: www.orientierungslauf-wals.at/home.html
-    membercount: 25
+    membercount: 20
     logo: /images/logo-hws.jpg
     board:
       - position: Obmann
@@ -25,7 +25,7 @@ club:
         name: Franz Wirth
   - name: SSV Hallein-Neualm
     short: SHN
-    membercount: 17
+    membercount: 10
     logo: /images/logo-shn.gif
     board:
       - position: Obmann
@@ -33,7 +33,7 @@ club:
       - position: Obmannstellvertreter
         name: 
   - name: NF Seekirchen, Sektion OL
-    membercount: 6
+    membercount: 3
     board:
       - position: Obmann
         name: Hartwig Rogl
