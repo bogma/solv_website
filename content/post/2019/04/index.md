@@ -16,6 +16,7 @@ Es ist wieder soweit. Nach der Saison ist vor der Saison und deshalb starten wir
 
 ### Anmerkungen
 
++ Treffpunkt ist jeweils um ***9:45***
 + witterungsbeständige Änderungen vorbehalten (Info über Whatsapp)
 + es werden je nach Trainginszustand/Laufvermögen verschiedene Distanzen angeboten.
 + **TIP:** erstellt euch einen link auf diese Seite
@@ -63,7 +64,7 @@ Es ist wieder soweit. Nach der Saison ist vor der Saison und deshalb starten wir
 <td>Parkplatz Egelseen {{< maplink "47.969305" "13.122004" >}}</td>
 <td align="center">30/50/80</td>
 <td align="center">-</td>
-<td></td>
+<td><a href="./Mattsee_Map_LJ.pdf">Karte</a></td>
 </tr>
 
 <tr>
