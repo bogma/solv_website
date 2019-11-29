@@ -1,7 +1,7 @@
 ---
-title: "x. Salzburger Sportvoglcup {{now.Format "2006"}}"
-date: {{now.Format "2006"}}-01-01T00:00:00 # keep time 0 until start time is known
-draft: true
+title: "7. + 8. Salzburger Sportvoglcup 2020"
+date: 2020-09-26T00:00:00
+draft: false
 
 # outputs:
 # - html
@@ -9,22 +9,21 @@ draft: true
 # - splitsbrowser
 
 status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+anne_id: 0
 
 archives: []
-tags: [ "SBG Cup"]
+tags: [ "Landesmeisterschaft", "SBG Cup"]
 
 event:
-  name_amend: ""
-  form: "Normaler OL"
-  location: ""
+  name_amend: "3. + 4. Sportvogl Sprintcup (LM Sprint)"
+  form: "Sprint OL"
+  location: "Tamsweg"
   type: "sbgcup"
-championship: false
+championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove 2 of the 3 options
+implementation: "ASKÖ Henndorf Orientieering" # remove one of the 3 options
 
 # active section ------------------------------------------------
-
-anne_id: 0
 
 official: # names of course setter, event organizer and inspector
   course: ""

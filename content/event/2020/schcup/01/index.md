@@ -1,7 +1,7 @@
 ---
-title: "x. Salzburger Sportvogl Schulcup {{now.Format "2006"}}"
-date: {{now.Format "2006"}}-01-01T00:00:00 # date of creation of the file
-draft: true
+title: "1. Salzburger Sportvogl Schulcup 2020"
+date: 2020-03-26T00:00:00+01:00 # date of creation of the file
+draft: false
 status: planned
 
 archives: []
@@ -10,11 +10,11 @@ tags: [ "Schul Cup"]
 event:
   name_amend: ""
   form: "Normaler OL"
-  location: ""
+  location: "Berufsschule Hallein"
   type: "schcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove one of the 3 options
+implementation: "SSV Hallein-Neualm" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
   course: "Der Wettkampfleiter der jeweiligen Veranstaltung"
   event: "Dir. Horst Mayer und Christian Breitschädel"

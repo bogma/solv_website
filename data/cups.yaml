@@ -1,22 +1,30 @@
 cup:
+  - year: 2020
+    cup:
+      - link: none
+        text: Salzburger Sportvoglcup
+      - link: none
+        text: Salzburger Sprintcup
+      - link: none
+        text: Salzburger Schulcup
   - year: 2019
     cup:
       - link: /resources/2019/sbgcup2019.html
-        text: Salzburger Sportvoglcup
+        text: Salzburger Sportvoglcup (Endstand)
       - link: /resources/2019/sprintcup2019.html
-        text: Salzburger Sprintcup
+        text: Salzburger Sprintcup (Endstand)
       - link: schcup/schulcup2019.pdf
-        text: Salzburger Schulcup
+        text: Salzburger Schulcup (Endstand)
   - year: 2018
     cup:
       - link: schcup/schulcup2018.pdf
-        text: Salzburger Schulcup
+        text: Salzburger Schulcup (Endstand)
       - link: sbgcup/sbgcup.pdf
-        text: Salzburger Sportvogl Cup
+        text: Salzburger Sportvogl Cup (Endstand)
   - year: 2017
     cup:
       - link: schcup/SchulCup-2017.pdf
-        text: Salzburger Schulcup
+        text: Salzburger Schulcup (Endstand)
       - link: sbgcup/sbgcup.pdf
-        text: Salzburger Sportvogl Cup
+        text: Salzburger Sportvogl Cup (Endstand)
 
