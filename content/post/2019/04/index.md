@@ -82,7 +82,7 @@ Es ist wieder soweit. Nach der Saison ist vor der Saison und deshalb starten wir
 <td>Friedburg Kirche {{< maplink "48.020041" "13.2413651" >}}</td>
 <td align="center">-/70/90</td>
 <td align="center">-</td>
-<td></td>
+<td><a href="./Friedburg_Map_LJ.pdf">Karte</a></td>
 </tr>
 
 <tr>
