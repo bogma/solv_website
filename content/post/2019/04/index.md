@@ -91,7 +91,7 @@ Es ist wieder soweit. Nach der Saison ist vor der Saison und deshalb starten wir
 <td>Hochfuchs Parkplatz {{< maplink "37.843667" "13.135639" >}}</td>
 <td align="center">35-40/75/90</td>
 <td align="center">-</td>
-<td></td>
+<td><a href="./Heuberg_Map_LJ.pdf">Karte</a></td>
 </tr>
 
 <tr>
