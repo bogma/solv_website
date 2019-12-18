@@ -100,7 +100,7 @@ Es ist wieder soweit. Nach der Saison ist vor der Saison und deshalb starten wir
 <td>Parkplatz Schneegattern Tennisplätze {{< maplink "48.022313" "13.303761" >}}</td>
 <td align="center">-/80/100</td>
 <td align="center">-</td>
-<td></td>
+<td><a href="./Krenwald_LJ.jpg">Karte</a></td>
 </tr>
 
 <tr>
