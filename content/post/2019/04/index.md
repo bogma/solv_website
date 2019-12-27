@@ -109,7 +109,7 @@ Es ist wieder soweit. Nach der Saison ist vor der Saison und deshalb starten wir
 <td>Parkplatz Jagawiesn {{< maplink "47.908159" "13.254668" >}}</td>
 <td align="center">40/80/100</td>
 <td align="center">-</td>
-<td></td>
+<td><a href="./Gaisberg_LJ.pdf">Karte</a></td>
 </tr>
 
 <tr>
