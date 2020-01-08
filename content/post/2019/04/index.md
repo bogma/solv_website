@@ -127,7 +127,7 @@ Es ist wieder soweit. Nach der Saison ist vor der Saison und deshalb starten wir
 <td>Parkplatz Egelseen {{< maplink "47.969305" "13.122004" >}}</td>
 <td align="center">40/85/110</td>
 <td align="center">-</td>
-<td></td>
+<td><a href="./Mattsee_Map_LJ.pdf">Karte</a></td>
 </tr>
 
 <tr>
@@ -136,7 +136,7 @@ Es ist wieder soweit. Nach der Saison ist vor der Saison und deshalb starten wir
 <td>Roidwalchen, Parken entlang der Straße {{< maplink "47.983321" "13.225263" >}}</td>
 <td align="center">40/90/110</td>
 <td align="center">Ja</td>
-<td></td>
+<td><a href="./Tannberg-Ost_Map_LJ.pdf">Karte</a></td>
 </tr>
 
 <tr>
@@ -145,7 +145,7 @@ Es ist wieder soweit. Nach der Saison ist vor der Saison und deshalb starten wir
 <td>Friedburg Kirche {{< maplink "48.020041" "13.2413651" >}}</td>
 <td align="center">-/90/110</td>
 <td align="center">-</td>
-<td></td>
+<td><a href="./Friedburg_Map_LJ.pdf">Karte</a></td>
 </tr>
 
 <tr>
