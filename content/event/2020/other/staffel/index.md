@@ -18,8 +18,8 @@ organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "HSV Wals" # remove one of the 3 options
 
 official: # names of course setter, event organizer and inspector
-  course: "Wolfgang Pötsch"
-  event: "Georg Hechl"
+  course: ""
+  event: ""
   inspection: ""
 course:
   valid: false # set to true when the course lenghts are final
@@ -29,23 +29,19 @@ entry:
   email: anmeldung@ol-sbg.at
   closing_date_days: -6 # x days from event->date
 meeting:
-  point: "Forellenranch (am Nordufer des Sees) – Mautstraße (2.-€) 1km zum Parkplatz an der NO-Seite des Sees."
+  point: ""
   time_minutes: -60 # x minutes from event->date
-  location: [47.549794, 12.569585]
+  location: [0.0,0.0]
 map:
-  name: "St.Ulrich am Pillersee"
+  name: "0"
   scale: "1:5000"
   equidistance: "5m"
-  update: "2019"
+  update: "0"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: "Falls in den Klassen D/H 16- genügend Staffeln starten ist auch eine Extrawertung für D/H 45- möglich.
-
-Vereinsübergreifende Staffeln sind erlaubt!
-
-Bei D/H 16- started jeder Läufer 2 mal."
+hints: ""
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
