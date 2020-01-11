@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "http://www.ol-sbg.at"
 languageCode = "de-de"
 title = "Salzburger Orientierungslauf Verband"
 theme = "hugo-solv"
@@ -107,6 +107,8 @@ paginate = 10
 	time_format_RFC822 = "Mon, 02 Jan 2006 15:04:05 -0700" 
 	time_format_default = "Jan 2, 2006"
     time_format_last_mod = "2. Jan 2006 (15:04)"
+    time_format_ical_date = "20060102"
+    time_format_ical_date_time = "20060102T150405"
 	time_format_event_daymonth = "2 Jan"
 	time_format_event_year = "2006"
     time_format_hhmm = "15:04"
@@ -127,7 +129,7 @@ paginate = 10
 [outputs]
     home = ["HTML", "JSON"]
     page = ["HTML"]
-    section = ["HTML"]
+    section = ["HTML", "Calendar"]
 
 [outputFormats]
   [outputFormats.result]
@@ -140,3 +142,5 @@ paginate = 10
     isPlainText = true
     mediaType = "text/html"
     permalinkable = true
+  [outputFormats.Calendar]
+	protocol = "https://"

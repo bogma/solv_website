@@ -1,0 +1,20 @@
+{{- $ctx := .ctx -}}
+{{- $txt := .txt | default $ctx.point -}}
+{{- $tag := .tag -}}
+
+{{- if isset $ctx "location"}}
+  {{- $lat := index $ctx.location 0 -}}
+  {{- $long := index $ctx.location 1 -}}
+  {{- if not (eq $lat 0.0) -}}
+    {{- if eq $tag "location" -}}
+      {{$lat}}, {{$long}}
+    {{- else -}}
+      {{ $txt }}\,
+    {{- end -}}
+  {{- else -}}
+    {{ $txt }}
+  {{- end -}}
+{{- else -}}
+  {{ $txt }}
+{{- end -}}
+

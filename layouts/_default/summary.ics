@@ -1,0 +1,32 @@
+BEGIN:VEVENT
+{{- $t := dateFormat .Site.Params.time_format_hhmm .Date -}}
+{{- if eq $t "00:00" }}
+DTSTART;VALUE=DATE:{{ dateFormat .Site.Params.time_format_ical_date .Date }}
+DTEND;VALUE=DATE:{{ dateFormat .Site.Params.time_format_ical_date (.Date.AddDate 0 0 1) }}
+{{- else }}
+DTSTART:{{- $date_start := (time .Date).Unix -}}
+        {{- $date_start = (sub $date_start 3600) -}}
+        {{- dateFormat .Site.Params.time_format_ical_date_time $date_start }}
+DTEND:{{- $date_end := (time .Date).Unix -}}
+      {{- $date_end = (add $date_end 7200) -}}
+      {{- dateFormat .Site.Params.time_format_ical_date_time $date_end }}
+{{- end }}
+DTSTAMP:{{dateFormat .Site.Params.time_format_ical_date_time now }}
+STATUS:CONFIRMED
+UID:{{.Params.event.type}}.{{- partial "functions/get_uid.ics" . -}}@ol-sbg.at
+SUMMARY:{{ .Title }}
+DESCRIPTION:{{ partial "functions/map_link.ics" (dict "ctx" .Params.meeting "txt" .Params.event.location "tag" "description") }}{{with .Params.link}}{{. | absURL}}{{else}}{{.Permalink | absURL}}{{end}}
+LOCATION:{{ partial "functions/map_link.ics" (dict "ctx" .Params.meeting "txt" .Params.event.location "tag" "location") }}
+{{- if gt .Date now }}
+BEGIN:VALARM
+TRIGGER:-PT7D
+ACTION:DISPLAY
+DESCRIPTION:Anmelden
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+{{- end }}
+END:VEVENT

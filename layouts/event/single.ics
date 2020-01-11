@@ -1,0 +1,7 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://www.ol-sbg.at/solv/event
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+{{- .Render "summary" -}}
+END:VCALENDAR
