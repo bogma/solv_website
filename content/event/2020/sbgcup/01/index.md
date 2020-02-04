@@ -1,6 +1,6 @@
 ---
 title: "1. Salzburger Sportvoglcup 2020"
-date: 2020-03-14T10:00:00+01:00
+date: 2020-03-14T10:45:00+01:00
 draft: false
 
 outputs:
@@ -39,7 +39,7 @@ entry:
   closing_date_days: -6 # x days from event->date
 meeting:
   point: "Sport Zentrum Nord"
-  time_minutes: -60 # x minutes from event->date
+  time_minutes: -45 # x minutes from event->date
   location: [47.831720, 13.024874]
 map:
   name: "Salzachseen"

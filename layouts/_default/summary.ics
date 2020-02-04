@@ -4,11 +4,12 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:{{ dateFormat .Site.Params.time_format_ical_date .Date }}
 DTEND;VALUE=DATE:{{ dateFormat .Site.Params.time_format_ical_date (.Date.AddDate 0 0 1) }}
 {{- else }}
-DTSTART:{{- $date_start := (time .Date).Unix -}}
-        {{- $date_start = (sub $date_start 3600) -}}
+DTSTART:{{- $t := time .Date -}}
+        {{- $duration := time.Duration "hour" -2 }}
+        {{- $date_start := $t.Add ($duration) -}}
         {{- dateFormat .Site.Params.time_format_ical_date_time $date_start }}
-DTEND:{{- $date_end := (time .Date).Unix -}}
-      {{- $date_end = (add $date_end 7200) -}}
+DTEND:{{- $duration = time.Duration "hour" 2 }}
+      {{- $date_end := $t.Add ($duration) -}}
       {{- dateFormat .Site.Params.time_format_ical_date_time $date_end }}
 {{- end }}
 DTSTAMP:{{dateFormat .Site.Params.time_format_ical_date_time now }}
