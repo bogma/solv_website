@@ -1,6 +1,6 @@
 ---
 title: "1. Salzburger Sportvoglcup 2020"
-date: 2020-03-14T00:00:00+01:00
+date: 2020-03-14T10:00:00+01:00
 draft: false
 
 outputs:
@@ -9,8 +9,8 @@ outputs:
 # - result
 # - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
-anne_id: 0
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+anne_id: 2906
 
 archives: []
 tags: [ "SBG Cup"]
@@ -27,35 +27,41 @@ implementation: "HSV Wals" # remove one of the 3 options
 # active section ------------------------------------------------
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
+  course: "Franz Nagele"
+  event: "Franz Nagele"
   inspection: ""
 course:
-  valid: false # set to true when the course lenghts are final
-  lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
+  valid: true # set to true when the course lenghts are final
+  lenghts: [["Einfach","2,2 km"], ["Kurz","3,6 km"], ["Kurz D Sen","2,7 km"], ["Mittel","4,0 km"], ["Lang","5,0 km"], ["Family","1,5 km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -6 # x days from event->date
 meeting:
-  point: ""
+  point: "Sport Zentrum Nord"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.831720, 13.024874]
 map:
-  name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
+  name: "Salzachseen"
+  scale: "1:4.000"
+  equidistance: "2m"
+  update: "März 2020"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: ""
+hints: "Zielschluss 13:15 Uhr
+
+Umkleidekabinen und Duschen stehen zur Verfügung"
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
 - src: "**/aus**"
   title: "Ausschreibung"
+- src: "**/Uebersicht**"
+  title: "WKZ, Parken, Start"
+- src: "**/Zaun**"
+  title: "Zaunöffnungen Badessee"
 - src: "**/start**"
   title: "Startliste"
 - src: "**/split**"

@@ -154,23 +154,23 @@ Es ist wieder soweit. Nach der Saison ist vor der Saison und deshalb starten wir
 <td>Hochfuchs Parkplatz {{< maplink "37.843667" "13.135639" >}}</td>
 <td align="center">45/90/110</td>
 <td align="center">Ja</td>
-<td></td>
+<td><a href="./Heuberg_Map_LJ.pdf">Karte</a></td>
 </tr>
 
 <tr>
 <td>09.02.2020</td>
-<td>Krennwald</td>
-<td>Parkplatz Schneegattern Tennisplätze {{< maplink "48.022313" "13.303761" >}}</td>
-<td align="center">45/90/120</td>
+<td>Henndorf/Gaisberg</td>
+<td>Parkplatz Jagawiesn {{< maplink "47.908159" "13.254668" >}}</td>
+<td align="center">45/100/120</td>
 <td align="center">Ja</td>
-<td></td>
+<td><a href="./Gaisberg_LJ.pdf">Karte</a></td>
 </tr>
 
 <tr>
 <td>16.02.2020</td>
-<td>Henndorf/Gaisberg</td>
-<td>Parkplatz Jagawiesn {{< maplink "47.908159" "13.254668" >}}</td>
-<td align="center">45/100/120</td>
+<td>Krennwald</td>
+<td>Parkplatz Schneegattern Tennisplätze {{< maplink "48.022313" "13.303761" >}}</td>
+<td align="center">45/90/120</td>
 <td align="center">Ja</td>
 <td></td>
 </tr>
