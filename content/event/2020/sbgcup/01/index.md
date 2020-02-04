@@ -50,9 +50,7 @@ map:
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: "Zielschluss 13:15 Uhr
-
-Umkleidekabinen und Duschen stehen zur Verfügung"
+hints: "Zielschluss 13:15 Uhr. Umkleidekabinen und Duschen stehen zur Verfügung"
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
