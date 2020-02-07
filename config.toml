@@ -143,4 +143,5 @@ paginate = 10
     mediaType = "text/html"
     permalinkable = true
   [outputFormats.Calendar]
-	protocol = "https://"
+    protocol = "https://"
+    permalinkable = true

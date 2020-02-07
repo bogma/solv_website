@@ -3,8 +3,9 @@ title: "x. Salzburger Sportvoglcup {{now.Format "2006"}}"
 date: {{now.Format "2006"}}-01-01T00:00:00 # keep time 0 until start time is known
 draft: true
 
-# outputs:
-# - html
+outputs:
+- html
+- Calendar
 # - result
 # - splitsbrowser
 
