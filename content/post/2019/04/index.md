@@ -169,10 +169,10 @@ Es ist wieder soweit. Nach der Saison ist vor der Saison und deshalb starten wir
 <tr>
 <td>16.02.2020</td>
 <td>Krennwald</td>
-<td>Parkplatz Schneegattern Tennisplätze {{< maplink "48.022313" "13.303761" >}}</td>
+<td>Ameisberg {{< maplink "48.006973" "13.244019" >}}</td>
 <td align="center">45/90/120</td>
 <td align="center">Ja</td>
-<td></td>
+<td><a href="./LJ_16_02_20.pdf">Karte</a></td>
 </tr>
 
 <tr>
