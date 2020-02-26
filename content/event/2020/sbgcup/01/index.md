@@ -68,6 +68,8 @@ resources:
   title: "Ergebnisse"
 - src: "**/lau**"
   title: "Läuferinfo"
+- src: "**/aufwaerm**"
+  title: "Aufwärmgebiet"
 ---
 
 ### Startgeld
