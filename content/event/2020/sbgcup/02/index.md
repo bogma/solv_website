@@ -40,7 +40,7 @@ entry:
 meeting:
   point: "VS Hallein-Stadt/Turnhalle"
   time_minutes: -60 # x minutes from event->date
-  location: [47.68715, 13.091632]
+  location: [47.678914, 13.091657]
 map:
   name: "Hallein"
   scale: "1:4.000"
