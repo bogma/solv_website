@@ -1,5 +1,4 @@
 ---
-hero: true
 title: "Medaillenregen für Salzburger Orientierungsläufer in Litschau"
 date: 2019-09-24T21:28:09+02:00 # date for 'written on'
 draft: false

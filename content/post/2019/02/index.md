@@ -1,5 +1,4 @@
 ---
-hero: true
 title: "Tragischer Unfall bei den Europäischen Betriebsmeisterschaften"
 date: 2019-06-27T18:50:14+02:00 # date of creation of the file (written)
 draft: false

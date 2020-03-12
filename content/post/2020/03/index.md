@@ -1,5 +1,5 @@
 ---
-title: "Kinder- bzw. Anfängertraining 2020"
+title: "ABGESAGT - Kinder- bzw. Anfängertraining 2020"
 date: 2020-02-26T23:00:16+01:00 # date of creation of the file (written)
 draft: false
 
@@ -19,7 +19,7 @@ Freu mich, wenn ein paar von Euch zu einem Training kommen.
 Datum | Treffpunkt
 --- | ---
 28.2. | 15:00 Hellbrunn - Treffpunkt Hellbrunn Spielplatz
-13.3. | 15:30 Seekirchen - SMS Seekirchen
+13.3. | 15:30 Seekirchen - SMS Seekirchen *Abgesagt*
 
 #### Kontakt für etwaige Information:
 

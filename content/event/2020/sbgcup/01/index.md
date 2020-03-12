@@ -1,5 +1,5 @@
 ---
-title: "1. Salzburger Sportvoglcup 2020"
+title: "ABGESAGT - 1. Salzburger Sportvoglcup 2020"
 date: 2020-03-14T10:45:00+01:00
 draft: false
 
@@ -9,8 +9,8 @@ outputs:
 # - result
 # - splitsbrowser
 
-status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
-anne_id: 2906
+status: canceled # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+anne_id: 0
 
 archives: []
 tags: [ "SBG Cup"]
@@ -70,6 +70,8 @@ resources:
   title: "Läuferinfo"
 - src: "**/aufwaerm**"
   title: "Aufwärmgebiet"
+- src: "**/absage**"
+  title: "ABSAGE"
 ---
 
 ### Startgeld

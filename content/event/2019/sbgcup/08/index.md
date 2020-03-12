@@ -1,6 +1,4 @@
 ---
-hero: true
-
 title: "8. Salzburger Sportvoglcup 2019"
 date: 2019-06-29T11:00:00+01:00 # date of creation of the file
 draft: false
