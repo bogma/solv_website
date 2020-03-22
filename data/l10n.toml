@@ -18,6 +18,12 @@
     placeholder = "Suche ..."
     title = "Suche"
 
+[eventstatus]
+    planned = "planned"
+    active = "active"
+    done = "done"
+    canceled = "ABGESAGT"
+    
 [pagination]
     first = "«« Anfang"
     previous = "« Zurück"
