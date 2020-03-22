@@ -2,7 +2,7 @@
 title: "3. Salzburger Sportvogl Schulcup 2020"
 date: 2020-05-05T00:00:00+01:00 # date of creation of the file
 draft: false
-status: planned
+status: canceled
 
 archives: []
 tags: [ "Schul Cup"]

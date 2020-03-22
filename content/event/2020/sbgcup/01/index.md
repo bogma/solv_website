@@ -1,5 +1,5 @@
 ---
-title: "ABGESAGT - 1. Salzburger Sportvoglcup 2020"
+title: "1. Salzburger Sportvoglcup 2020"
 date: 2020-03-14T10:45:00+01:00
 draft: false
 

@@ -5,7 +5,7 @@ draft: false
 hero: true
 
 archives: []
-tags: ["SBG Cup", "Training"] # tag your article here, i.e ["Training", "Administratives"]
+tags: ["SBG Cup", "Schul Cup", "Training"] # tag your article here, i.e ["Training", "Administratives"]
 
 calendar_date: 2020-03-12T18:08:42+01:00 # TODO: date in calendar
 
