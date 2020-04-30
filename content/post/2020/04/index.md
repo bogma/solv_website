@@ -2,7 +2,6 @@
 title: "ABSAGEN: Sbg-Cups, Schulcups und Trainings"
 date: 2020-03-12T18:08:42+01:00 # date of creation of the file (written)
 draft: false
-hero: true
 
 archives: []
 tags: ["SBG Cup", "Schul Cup", "Training"] # tag your article here, i.e ["Training", "Administratives"]
