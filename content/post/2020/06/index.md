@@ -19,10 +19,10 @@ Alle Posten sind mit kleinen weißen Fähnchen markiert.
 
 ### Gebiet Gmoawald:
 
-+ **[Karte mittel](./WSIBI_Gmoawald_mittel.pdf)**
++ **[Karte mittel](./WISBI_Gmoawald_mittel.pdf)**
 + **Parken mittel:** Parken sollte man genau beim Ziel (unterhalb Mühlbergkirche) und dann außen rum über Straße / Radweg zum Start
    
-+ **[Karte lang](./WSIBI_Gmoawald_lang.pdf)** 
++ **[Karte lang](./WISBI_Gmoawald_lang.pdf)**
 + **Parken lang:** Parken z.B. bei Spar Zentrum
 
 ### Gebiet Tannberg:
