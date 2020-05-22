@@ -115,7 +115,7 @@ paginate = 10
     use_google = false
     num_of_planned_events_preview = 4
     add_invalid_champs = false
-    show_hero = true
+    show_hero = false
     link_national_events = "http://www.oefol.at/kuenftige-termine/"
 
 # Enable and disable widgets for the right sidebar
