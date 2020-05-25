@@ -1,16 +1,15 @@
 ---
 title: "1. Salzburger Sportvoglcup 2020"
-date: 2020-03-14T10:45:00+01:00
+date: 2020-06-06T00:00:00
 draft: false
 
-outputs:
-- html
-- Calendar
+# outputs:
+# - html
 # - result
 # - splitsbrowser
 
-status: canceled # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
-anne_id: 0
+status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+anne_id: 3074
 
 archives: []
 tags: [ "SBG Cup"]
@@ -18,7 +17,7 @@ tags: [ "SBG Cup"]
 event:
   name_amend: ""
   form: "Normaler OL"
-  location: "Salzachseen"
+  location: "Saalachau"
   type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
@@ -27,39 +26,35 @@ implementation: "HSV Wals" # remove one of the 3 options
 # active section ------------------------------------------------
 
 official: # names of course setter, event organizer and inspector
-  course: "Franz Nagele"
-  event: "Franz Nagele"
+  course: ""
+  event: ""
   inspection: ""
 course:
-  valid: true # set to true when the course lenghts are final
-  lenghts: [["Einfach","2,2 km"], ["Kurz","3,6 km"], ["Kurz D Sen","2,7 km"], ["Mittel","4,0 km"], ["Lang","5,0 km"], ["Family","1,5 km"]]
+  valid: false # set to true when the course lenghts are final
+  lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -6 # x days from event->date
+  closing_date_days: -7 # x days from event->date
 meeting:
-  point: "Sport Zentrum Nord"
-  time_minutes: -45 # x minutes from event->date
-  location: [47.831720, 13.024874]
+  point: ""
+  time_minutes: -60 # x minutes from event->date
+  location: [0.0,0.0]
 map:
-  name: "Salzachseen"
-  scale: "1:4.000"
-  equidistance: "2m"
-  update: "März 2020"
+  name: ""
+  scale: "1:10.000"
+  equidistance: "5m"
+  update: "März 2006"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: "Zielschluss 13:15 Uhr. Umkleidekabinen und Duschen stehen zur Verfügung"
+hints: ""
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
 - src: "**/aus**"
   title: "Ausschreibung"
-- src: "**/Uebersicht**"
-  title: "WKZ, Parken, Start"
-- src: "**/Zaun**"
-  title: "Zaunöffnungen Badessee"
 - src: "**/start**"
   title: "Startliste"
 - src: "**/split**"
@@ -68,10 +63,6 @@ resources:
   title: "Ergebnisse"
 - src: "**/lau**"
   title: "Läuferinfo"
-- src: "**/aufwaerm**"
-  title: "Aufwärmgebiet"
-- src: "**/absage**"
-  title: "ABSAGE"
 ---
 
 ### Startgeld

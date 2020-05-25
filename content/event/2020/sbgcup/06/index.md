@@ -1,7 +1,7 @@
 ---
 title: "6. Salzburger Sportvoglcup 2020"
 date: 2020-09-19T00:00:00
-draft: false
+draft: true
 
 # outputs:
 # - html

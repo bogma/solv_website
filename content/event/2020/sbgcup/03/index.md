@@ -1,33 +1,34 @@
 ---
-title: "5. Salzburger Sportvoglcup 2020"
-date: 2020-06-20T00:00:00
+title: "3. Salzburger Sportvoglcup 2020"
+date: 2020-07-04T00:00:00
 draft: false
 
-# outputs:
-# - html
+outputs:
+- html
+- Calendar
 # - result
 # - splitsbrowser
 
 status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
-anne_id: 0
+anne_id: 2907
 
 archives: []
-tags: [ "Landesmeisterschaft", "SBG Cup"]
+tags: [ "SBG Cup"]
 
 event:
-  name_amend: "LMS Jugend & Senjoren"
+  name_amend: ""
   form: "Normaler OL"
-  location: "(noch offen)"
+  location: "Salzachseen"
   type: "sbgcup"
-championship: true
+championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering" # remove one of the 3 options
+implementation: "HSV Wals" # remove one of the 3 options
 
 # active section ------------------------------------------------
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
+  course: "Horst Mayer"
+  event: "Horst Mayer"
   inspection: ""
 course:
   valid: false # set to true when the course lenghts are final
@@ -35,21 +36,23 @@ course:
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -6 # x days from event->date
 meeting:
-  point: ""
+  point: "VS Hallein-Stadt/Turnhalle"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.678914, 13.091657]
 map:
-  name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
-  format: ""
+  name: "Hallein"
+  scale: "1:4.000"
+  equidistance: "2m"
+  update: "Februar 2020"
+  format: "A4"
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: ""
+hints: "- Zweiter Start geplant um 15:00
+- Parkmöglichkeit bei der Turnhalle oder beim BG/Brg Hallein
+- Umkleiden, Duschen und Toiletten stehen zur Verfügung"
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:

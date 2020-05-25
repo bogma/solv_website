@@ -1,34 +1,33 @@
 ---
-title: "2. + 3. Salzburger Sportvoglcup 2020"
-date: 2020-03-21T12:30:00
+title: "2. Salzburger Sportvoglcup 2020"
+date: 2020-06-27T00:00:00
 draft: false
 
-outputs:
-- html
-- Calendar
+# outputs:
+# - html
 # - result
 # - splitsbrowser
 
-status: canceled # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 anne_id: 0
 
 archives: []
 tags: [ "SBG Cup"]
 
 event:
-  name_amend: "1. + 2. Sportvogl Sprintcup"
-  form: "Sprint OL"
-  location: "Hallein"
+  name_amend: ""
+  form: "Normaler OL"
+  location: "Eugendorferberg"
   type: "sbgcup"
-championship: false
+championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "SSV Hallein-Neualm" # remove one of the 3 options
+implementation: "ASKÖ Henndorf Orientieering" # remove one of the 3 options
 
 # active section ------------------------------------------------
 
 official: # names of course setter, event organizer and inspector
-  course: "Horst Mayer"
-  event: "Horst Mayer"
+  course: ""
+  event: ""
   inspection: ""
 course:
   valid: false # set to true when the course lenghts are final
@@ -36,23 +35,21 @@ course:
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -6 # x days from event->date
+  closing_date_days: -7 # x days from event->date
 meeting:
-  point: "VS Hallein-Stadt/Turnhalle"
+  point: ""
   time_minutes: -60 # x minutes from event->date
-  location: [47.678914, 13.091657]
+  location: [0.0,0.0]
 map:
-  name: "Hallein"
-  scale: "1:4.000"
-  equidistance: "2m"
-  update: "Februar 2020"
-  format: "A4"
+  name: ""
+  scale: "1:10.000"
+  equidistance: "5m"
+  update: "März 2006"
+  format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: "- Zweiter Start geplant um 15:00
-- Parkmöglichkeit bei der Turnhalle oder beim BG/Brg Hallein
-- Umkleiden, Duschen und Toiletten stehen zur Verfügung"
+hints: ""
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
