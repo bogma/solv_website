@@ -1,6 +1,6 @@
 ---
 title: "1. Salzburger Sportvoglcup 2020"
-date: 2020-06-06T00:00:00
+date: 2020-06-06T10:45:00
 draft: false
 
 # outputs:
@@ -8,7 +8,7 @@ draft: false
 # - result
 # - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 anne_id: 3074
 
 archives: []
@@ -26,34 +26,34 @@ implementation: "HSV Wals" # remove one of the 3 options
 # active section ------------------------------------------------
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
+  course: "Franz Nagele"
+  event: "Franz Nagele"
   inspection: ""
 course:
-  valid: false # set to true when the course lenghts are final
-  lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
+  valid: true # set to true when the course lenghts are final
+  lenghts: [["Einfach","2,2 km"], ["Kurz regulär","3,1 km"], ["Kurz extra","2,4 km"], ["Mittel","3,5 km"], ["Lang","5,8 km"], ["Family","2,0 km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -8 # x days from event->date
 meeting:
-  point: ""
-  time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  point: "Parkplatz Mil-GÜPL Saalachau"
+  time_minutes: -45 # x minutes from event->date
+  location: [47.802126, 12.974996]
 map:
-  name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
+  name: "Saalachau"
+  scale: "1:7.500"
+  equidistance: "2m"
+  update: "Mai 2020"
   format: ""
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
+control_point_description: "Nur auf der Laufkarte"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: ""
+hints: "Unbedingt zeitgerecht anmelden – Corona-bedingt sind keine Anmeldungen vor Ort erwünscht!!!"
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
-- src: "**/aus**"
+- src: "**/*anno*"
   title: "Ausschreibung"
 - src: "**/start**"
   title: "Startliste"
@@ -63,12 +63,16 @@ resources:
   title: "Ergebnisse"
 - src: "**/lau**"
   title: "Läuferinfo"
+- src: "**/*dir**"
+  title: "Anfahrt"
 ---
 
 ### Startgeld
 
 - bis D/H -15 und OL: € 3,-
 - ab D/H 16-: € 4,50
+
+**Einzahlung erwünscht!**
 
 ### Zeitnehmung
 
