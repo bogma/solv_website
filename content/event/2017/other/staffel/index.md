@@ -9,7 +9,7 @@ archives: ["2017"]
 tags: [ "Landesmeisterschaft", "Staffel"]
 
 event:
-  name_ammend: ""
+  name_amend: ""
   form: "Staffel OL"
   location: "Ottnang am Hausruck"
   type: "relay"
