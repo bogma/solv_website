@@ -15,7 +15,7 @@ archives: []
 tags: [ "SBG Cup"]
 
 event:
-  name_amend: "<span style='color:red;font-size:20px;'>ACHTUNG: Geänderter Wettkampfort</span>"
+  name_amend: "<span style='color:red;font-size:20px;'>ACHTUNG: Geänderter Wettkampfort</span>" # respects markdown
   form: "Normaler OL"
   location: "Salzachseen"
   type: "sbgcup"
@@ -55,7 +55,7 @@ greetings: "" # Der Verein wünscht Euch ...
 resources:
 - src: "**/*anno**"
   title: "Ausschreibung"
-- src: "**/start**"
+- src: "**/*start**"
   title: "Startliste"
 - src: "**/split**"
   title: "Splits"

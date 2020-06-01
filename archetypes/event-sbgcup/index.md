@@ -15,7 +15,7 @@ archives: []
 tags: [ "SBG Cup"]
 
 event:
-  name_amend: ""
+  name_amend: "" # respects markdown
   form: "Normaler OL"
   location: ""
   type: "sbgcup"
@@ -51,20 +51,22 @@ map:
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: ""
+hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
-- src: "**/aus**"
+- src: "**/*announcement**"
   title: "Ausschreibung"
-- src: "**/start**"
+- src: "**/*start**"
   title: "Startliste"
-- src: "**/split**"
+- src: "**/*split**"
   title: "Splits"
-- src: "**/resu**"
+- src: "**/*resu**"
   title: "Ergebnisse"
-- src: "**/lau**"
+- src: "**/*info**"
   title: "Läuferinfo"
+- src: "**/*directions**"
+  title: "Anfahrt"
 ---
 
 ### Startgeld
