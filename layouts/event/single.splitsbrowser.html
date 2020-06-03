@@ -1,12 +1,14 @@
 {{ define "main" }}
 
+{{ $eventTitle := .Title}}
+
 <div class="uk-container">
 {{ with .Resources.Match "results/*.xml" }}
     {{ $cnt := len .}}
     {{ if gt $cnt 1 }}
     <ul class="uk-tab" data-uk-tab="{connect:'#my-id'}">
         {{ range $index, $element := . }}
-            {{ $file := printf "content/%s" $element.RelPermalink }}
+            {{ $file := printf "%s" $element.RelPermalink }}
             <li><a href="">{{ $element.Title }} {{$index}}</a></li>
         {{ end }}
     </ul>
@@ -17,10 +19,10 @@
     </ul>
     {{ else }}
         {{ range $index, $element := . }}
-            {{ $file := printf "content/%s" $element.RelPermalink }}
+            {{ $file := printf "%s" $element.RelPermalink }}
             <div class="uk-container">
                 <h3 class="uk-text-center">
-                    {{ .Title }}
+                    {{$eventTitle}}
                 </h3>
             </div>
             <section class="uk-section uk-section-xsmall uk-section-muted">
