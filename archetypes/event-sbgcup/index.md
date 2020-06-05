@@ -67,6 +67,16 @@ resources:
   title: "Läuferinfo"
 - src: "**/*directions**"
   title: "Anfahrt"
+
+# resource_links:
+#   infos:
+#   - link: "/resources/2019/start5sc2019.html"
+#     title: "Startliste"
+#   results:
+#   - link: "/resources/2019/resu5sc2019.html"
+#     title: "Ergebnisse 5.SC"
+#   - link: "/resources/2019/resu6sc2019.html"
+#     title: "Ergebnisse 6.SC"
 ---
 
 ### Startgeld

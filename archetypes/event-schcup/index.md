@@ -44,6 +44,16 @@ resources:
   title: "Splits"
 - src: "**/laeu**"
   title: "Läuferinfo"
+
+# resource_links:
+#   infos:
+#   - link: "/resources/2019/start5sc2019.html"
+#     title: "Startliste"
+#   results:
+#   - link: "/resources/2019/resu5sc2019.html"
+#     title: "Ergebnisse 5.SC"
+#   - link: "/resources/2019/resu6sc2019.html"
+#     title: "Ergebnisse 6.SC"
 ---
 
 ### Nennung
