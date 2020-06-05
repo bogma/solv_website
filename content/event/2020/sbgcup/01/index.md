@@ -3,10 +3,10 @@ title: "1. Salzburger Sportvoglcup 2020"
 date: 2020-06-06T10:45:00
 draft: false
 
-# outputs:
-# - html
+outputs:
+- html
 # - result
-# - splitsbrowser
+- splitsbrowser
 
 status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 anne_id: 3074
@@ -67,6 +67,12 @@ resources:
   title: "Läuferinfo"
 - src: "**/*dir**"
   title: "Anfahrt"
+
+resource_links:
+  infos:
+  results:
+  - link: "https://liveresultat.orientering.se/followfull.php?comp=17432&lang=de"
+    title: "Live Resultat"
 ---
 
 ### Startgeld

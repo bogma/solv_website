@@ -10,7 +10,7 @@ tags: [ "SBG Cup"]
 
 
 event:
-  name_amend: "+ div. Siegerehrungen"
+  name_amend: "mit div. Siegerehrungen"
   form: "Normaler OL"
   location: "Eugendorfberg"
   type: "sbgcup"
