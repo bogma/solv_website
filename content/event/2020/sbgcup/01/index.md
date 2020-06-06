@@ -6,7 +6,7 @@ draft: false
 outputs:
 - html
 # - result
-- splitsbrowser
+#- splitsbrowser
 
 status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 anne_id: 3074
@@ -15,7 +15,7 @@ archives: []
 tags: [ "SBG Cup"]
 
 event:
-  name_amend: "<span style='color:red;font-size:20px;'>ACHTUNG: Geänderter Wettkampfort</span>" # respects markdown
+  name_amend: "" # respects markdown
   form: "Normaler OL"
   location: "Salzachseen"
   type: "sbgcup"
@@ -57,9 +57,9 @@ resources:
   title: "Ausschreibung"
 - src: "**/*start**"
   title: "Startliste"
-- src: "**/split**"
+- src: "**/*split**"
   title: "Splits"
-- src: "**/resu**"
+- src: "**/*resu**"
   title: "Ergebnisse"
 - src: "**/*info2**"
   title: "Treffpunkt & Aufwärmen"
@@ -68,11 +68,6 @@ resources:
 - src: "**/*dir**"
   title: "Anfahrt"
 
-resource_links:
-  infos:
-  results:
-  - link: "https://liveresultat.orientering.se/followfull.php?comp=17432&lang=de"
-    title: "Live Resultat"
 ---
 
 ### Startgeld
