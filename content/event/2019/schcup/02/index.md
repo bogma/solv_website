@@ -4,7 +4,7 @@ date: 2019-04-30T13:00:00+01:00 # date of creation of the file
 draft: false
 status: done
 
-archives: []
+archives: ["2019"]
 tags: [ "Schul Cup"]
 
 event:

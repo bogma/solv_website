@@ -4,7 +4,7 @@ date: 2019-10-19T16:07:18+02:00 # date for 'written on'
 draft: false
 author: "r.merl"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2019"]
 tags: ["International"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Wuhan (CHN)"
 info_date: 2019-10-18 - 2019-10-27 # date in article (YYYY-MM-dd)

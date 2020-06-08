@@ -5,7 +5,7 @@ draft: false
 status: done
 
 
-archives: []
+archives: ["2019"]
 tags: [ "Schul Cup"]
 
 event:

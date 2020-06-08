@@ -4,7 +4,7 @@ date: 2019-09-24T21:28:09+02:00 # date for 'written on'
 draft: false
 author: "r.merl"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2019"]
 tags: ["Austria Cup"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Litschau (NÖ)"
 info_date: 2019-09-21 - 2019-09-22

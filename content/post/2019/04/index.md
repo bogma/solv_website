@@ -3,7 +3,7 @@ title: "Longjogg Serie 2019/2020"
 date: 2019-11-20T17:35:32+01:00 # date of creation of the file (written)
 draft: false
 
-archives: []
+archives: ["2019"]
 tags: ["Training"]
 
 calendar_date: 2019-11-20T17:35:32+01:00 # TODO: date in calendar

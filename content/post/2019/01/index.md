@@ -3,7 +3,7 @@ title: "Kinder- bzw. Anfängertraining 2019"
 date: 2019-03-10T17:00:33+01:00 # date of creation of the file (written)
 draft: false
 
-archives: []
+archives: ["2019"]
 tags: ["Training"]
 
 calendar_date: 2019-03-23T17:00:33+01:00 # TODO: date in calendar

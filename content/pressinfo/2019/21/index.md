@@ -4,7 +4,7 @@ date: 2019-10-31T20:56:47+01:00 # date for 'written on'
 draft: false
 author: "r.merl"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2019"]
 tags: ["International", "Robert Merl"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Hubei und Guangdong (CHN)"
 info_date: 2019-10-20 - 2019-10-29 # date in article (YYYY-MM-dd)

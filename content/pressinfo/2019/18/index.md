@@ -4,7 +4,7 @@ date: 2019-10-19T15:07:58+02:00 # date for 'written on'
 draft: false
 author: ""
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2019"]
 tags: ["Tobias Breitschädel", "MTBO"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: ""
 info_date: # date in article (YYYY-MM-dd)

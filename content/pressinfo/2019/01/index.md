@@ -4,7 +4,7 @@ date: 2019-03-10T22:30:45+01:00 # date for 'written on'
 draft: false
 author: "r.merl"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2019"]
 tags: [] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Lipica (SLO)"
 info_date: 2019-03-09, 2019-03-19 # date in article (YYYY-MM-dd)

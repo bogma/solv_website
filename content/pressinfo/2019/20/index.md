@@ -4,7 +4,7 @@ date: 2019-10-28T19:10:33+01:00 # date for 'written on'
 draft: fakse
 author: "r.merl"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2019"]
 tags: ["International"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Guangdong (CHN)"
 info_date: 2019-10-26 - 2019-10-29 # date in article (YYYY-MM-dd)

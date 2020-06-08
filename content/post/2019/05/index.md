@@ -3,7 +3,7 @@ title: "SOLV Termine 2020"
 date: 2019-11-29T16:30:58+01:00 # date of creation of the file (written)
 draft: false
 
-archives: []
+archives: ["2019"]
 tags: ["Termine"]
 
 calendar_date: 2019-11-29T16:30:58+01:00 # TODO: date in calendar

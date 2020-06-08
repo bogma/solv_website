@@ -4,7 +4,7 @@ date: 2019-10-14T21:28:07+02:00 # date for 'written on'
 draft: false
 author: "f.elstner"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2019"]
 tags: ["ARGE Alp"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Savognin (CH)"
 info_date: 2019-10-12 - 2019-10-13 # date in article (YYYY-MM-dd)

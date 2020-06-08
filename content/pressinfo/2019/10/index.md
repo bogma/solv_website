@@ -4,7 +4,7 @@ date: 2019-08-06T18:48:32+02:00 # date for 'written on'
 draft: false
 author: ""
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2019"]
 tags: ["Tobias Breitschädel", "International", "MTBO"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Viborg (DNK)"
 info_date: # date in article (YYYY-MM-dd)

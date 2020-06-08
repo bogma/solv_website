@@ -5,7 +5,7 @@ draft: false
 status: done
 anne_id: 2569
 
-archives: []
+archives: ["2019"]
 tags: [ "Landesmeisterschaft", "Staffel"]
 
 event:

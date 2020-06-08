@@ -3,7 +3,7 @@ title: "Tragischer Unfall bei den Europäischen Betriebsmeisterschaften"
 date: 2019-06-27T18:50:14+02:00 # date of creation of the file (written)
 draft: false
 
-archives: []
+archives: ["2019"]
 tags: []
 
 calendar_date: 2019-08-29T18:50:14+02:00 # TODO: date in calendar

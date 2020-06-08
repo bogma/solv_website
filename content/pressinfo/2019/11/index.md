@@ -4,7 +4,7 @@ date: 2019-08-12T18:48:37+02:00 # date for 'written on'
 draft: false
 author: "r.merl"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2019"]
 tags: ["Robert Merl", "International"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Östfold (NOR)"
 info_date: 2019-08-12 -2019-08-18 # date in article (YYYY-MM-dd)

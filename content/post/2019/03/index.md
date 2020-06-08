@@ -3,7 +3,7 @@ title: "Unsere Jugend bei der ÖM Nacht in Sonnberg"
 date: 2019-10-20T19:15:28+02:00 # date of creation of the file (written)
 draft: false
 
-archives: []
+archives: ["2019"]
 tags: []
 
 calendar_date: 2019-10-20T19:15:28+02:00 # TODO: date in calendar

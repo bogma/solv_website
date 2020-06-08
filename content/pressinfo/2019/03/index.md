@@ -4,7 +4,7 @@ date: 2019-04-29T08:16:33+02:00 # date for 'written on'
 draft: false
 author: "c.wartbichler"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2019"]
 tags: ["Robert Merl", "Christian Wartbichler", "International"]
 location: "Glimåkra (SWE)"
 info_date: 2019-04-27 - 2019-04-28

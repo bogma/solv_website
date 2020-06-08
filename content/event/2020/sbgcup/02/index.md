@@ -56,7 +56,7 @@ map:
   update: "Oktober 2019"
   format: ""
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
+control_point_description: "Nur auf der Laufkarte"
 hints: "
 + Unbedingt zeitgerecht anmelden – Corona-bedingt sind keine Anmeldungen vor Ort erwünscht!
 

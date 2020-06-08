@@ -4,7 +4,7 @@ date: 2019-06-03T18:48:10+02:00 # date for 'written on'
 draft: false
 author: "r.merl"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2019"]
 tags: ["Austria Cup"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Schiefling und Techendorf (Ktn.)"
 info_date: 2019-06-01 - 2019-06-02 # date in article (YYYY-MM-dd)
