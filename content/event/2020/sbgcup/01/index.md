@@ -49,7 +49,7 @@ map:
   hints: "" # additional hints to map
 control_point_description: "Nur auf der Laufkarte"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: "Unbedingt zeitgerecht anmelden – Corona-bedingt sind keine Anmeldungen vor Ort erwünscht!!!"
+hints: "Unbedingt zeitgerecht anmelden – Corona-bedingt sind keine Anmeldungen vor Ort erwünscht!!!" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:

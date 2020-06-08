@@ -14,6 +14,8 @@ status: planned # planned (= for preview Calendar), active (= Announcement...), 
 archives: []
 tags: [ "SBG Cup"]
 
+anne_id: 0
+
 event:
   name_amend: "" # respects markdown
   form: "Normaler OL"
@@ -25,7 +27,8 @@ implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" #
 
 # active section ------------------------------------------------
 
-anne_id: 0
+end: 150 # x minutes from event->date (remove if not needed)
+start_amend: "(WKZ - Start 0m)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
   course: ""
@@ -50,7 +53,6 @@ map:
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
-timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
 hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
@@ -83,6 +85,7 @@ resources:
 
 - bis D/H -15 und OL: € 3,-
 - ab D/H 16-: € 4,50
+- Family: € 5,- (Für Kartendruck bitte alle Teilnehmer angeben!)
 
 ### Zeitnehmung
 

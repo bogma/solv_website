@@ -12,9 +12,14 @@ event:
   form: "Normaler OL"
   location: ""
   type: "schcup"
+
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove one of the 3 options
+
+end: 150 # x minutes from event->date (remove if not needed)
+start_amend: "(WKZ - Start 0m)" # respects markdown
+
 official: # names of course setter, event organizer and inspector
   course: "Der Wettkampfleiter der jeweiligen Veranstaltung"
   event: "Dir. Horst Mayer und Christian Breitschädel"
@@ -27,8 +32,7 @@ entry: # TODO for schulcup
 meeting:
   point: ""
   time_minutes: -60 # x minutes from event->date
-timing: "SPORTIdent"
-hints: ""
+hints: "" # respects markdown
 greetings: "Die Veranstalter wünschen erfolgreiche und unfallfreie Veranstaltungen
 
 Dir. Horst Mayer und Christian Breitschädel" # Der Verein wünscht Euch ...
