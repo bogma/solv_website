@@ -3,10 +3,10 @@ title: "2. Salzburger Sportvoglcup 2020"
 date: 2020-06-27T11:00:00
 draft: false
 
-# outputs:
-# - html
+outputs:
+- html
 # - result
-# - splitsbrowser
+- splitsbrowser
 
 status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 anne_id: 3106
