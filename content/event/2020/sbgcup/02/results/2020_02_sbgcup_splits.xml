@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ResultList xmlns="http://www.orienteering.org/datastandard/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" iofVersion="3.0" createTime="2020-06-28T15:42:38.431" creator="SportSoftware OE12 (M) V.11.95">
+<ResultList xmlns="http://www.orienteering.org/datastandard/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" iofVersion="3.0" createTime="2020-06-30T09:21:21.884" creator="SportSoftware OE12 (M) V.11.95">
   <Event>
     <Name>2. Salzburger Sportvoglcup 2020</Name>
   </Event>
@@ -3982,9 +3982,9 @@
         </Name>
       </Person>
       <Organisation>
-        <Id>32</Id>
-        <Name>ASKÖ Henndorf</Name>
-        <ShortName>ASKÖ Henndorf</ShortName>
+        <Id>9994</Id>
+        <Name>Egri Spartacus SE</Name>
+        <ShortName>Egri Spartacus SE</ShortName>
       </Organisation>
       <Result raceNumber="1">
         <BibNumber>50</BibNumber>

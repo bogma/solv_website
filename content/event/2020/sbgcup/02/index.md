@@ -5,10 +5,10 @@ draft: false
 
 outputs:
 - html
-# - result
+- Calendar
 - splitsbrowser
 
-status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 anne_id: 3106
 
 archives: []
@@ -71,6 +71,10 @@ resources:
   title: "Ausschreibung"
 - src: "**/*start**"
   title: "Startliste"
+- src: "**/*splits_class**"
+  title: "Splits (Kategorie)"
+- src: "**/*splits_course**"
+  title: "Splits (Bahn)"
 - src: "**/*split**"
   title: "Splits"
 - src: "**/*resu**"
