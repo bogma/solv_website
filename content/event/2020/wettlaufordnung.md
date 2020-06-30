@@ -7,11 +7,9 @@ type: "page"
 
 ## Wertungen 2020
 
-**Salzburger Sportvogl-Cup:** Die sechs besten Resultate (von 10 möglichen)
+**Salzburger Sportvogl-Cup:** Die sechs besten Resultate (von 8 möglichen). Für die Kategorien Offen Kurz (OK) und Offen Lang (OL) gibt es keine Cupwertung.
 
-**Salzburger Sprint-Cup:** Die drei besten Resultate (von 4 möglichen)
-
-**Sportvogl - Schulcup:** Die zwei besten Resultate (von 3 möglichen)
+Die **Salzburger Sprint-Cup Wertung** und der **Sportvogl - Schulcup** entfallen diese Saison.
 
 ## Einteilung der Salzburgcup Kategorien und Bahnen 2020
 
@@ -97,55 +95,6 @@ type: "page"
 </table>
 
 
-
-## Einteilung der Salzburger Schulcup Kategorien 2020
-
-<table class="uk-table uk-table-divider uk-table-striped">
-    <thead>
-        <tr>
-            <th>Laufklasse</th>
-            <th>Kurzbezeichnung</th>
-            <th>Jahrgang</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Unterstufe Herren -2007</td>
-            <td>US H -07</td>
-            <td>2007 und jünger</td>
-        </tr>
-        <tr>
-            <td>Unterstufe Damen -2007</td>
-            <td>US D -07</td>
-            <td>2007 und jünger</td>
-        </tr>
-        <tr>
-            <td>Unterstufe Herren 2005/06</td>
-            <td>US H 05/06</td>
-            <td>2005 und 2006</td>
-        </tr>
-        <tr>
-            <td>Unterstufe Damen 2005/06</td>
-            <td>US D 05/06</td>
-            <td>2005 und 2006</td>
-        </tr>
-        <tr>
-            <td>Oberstufe Herren</td>
-            <td>OS H</td>
-            <td>2002 und jünger</td>
-        </tr>
-        <tr>
-            <td>Oberstufe Damen</td>
-            <td>OS D</td>
-            <td>2002 und jünger</td>
-        </tr>
-        <tr>
-            <td>Paare</td>
-            <td>P</td>
-            <td>keine Altersbeschränkung</td>
-        </tr>
-    </tbody>
-</table>
 
 ## Hinweise
 

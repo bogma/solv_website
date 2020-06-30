@@ -6,8 +6,7 @@ draft: true
 outputs:
 - html
 - Calendar
-# - result
-# - splitsbrowser
+- splitsbrowser
 
 status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
@@ -57,17 +56,23 @@ hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
-- src: "**/*announcement**"
+- src: "**/*anno**"
   title: "Ausschreibung"
 - src: "**/*start**"
   title: "Startliste"
+- src: "**/*splits_class**"
+  title: "Splits (Kategorie)"
+- src: "**/*splits_course**"
+  title: "Splits (Bahn)"
 - src: "**/*split**"
   title: "Splits"
 - src: "**/*resu**"
   title: "Ergebnisse"
+- src: "**/*info2**"
+  title: "Treffpunkt & Aufwärmen"
 - src: "**/*info**"
   title: "Läuferinfo"
-- src: "**/*directions**"
+- src: "**/*dir**"
   title: "Anfahrt"
 
 # resource_links:

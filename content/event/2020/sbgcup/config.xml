@@ -1,0 +1,79 @@
+<CupConfiguration type="Cup">
+  <General name="Salzburger Sportvoglcup 2020"
+           year="2020"
+           numberOfEvents="8"
+           takeBest="6"
+           calcRule="sbgcup"
+           resultFileRegex="2020_(\d{2})_sbgcup.*"
+           recurseSubDirs="true"
+           includeStatus="DidNotFinish, MissingPunch"
+           eventTitle="Sbg.Cup">
+  </General>
+  <PreProcessing>
+    <!-- options for input file preprocessing -->
+    <Task name="toUtf8" active="true" />
+    <Task name="toJson" active="false" />
+  </PreProcessing>
+  <Events>
+    <!-- set num to 0 if not needed -->
+    <Event num="1" name="Salzachseen"/>
+    <Event num="2" name="Eugendorferberg"/>
+    <Event num="8" multiply="2.0" />
+  </Events>
+  <Classes filter="include">
+    <Class name="S-Damen -13" id="50" diplayName="D13" />
+    <Class name="S-Damen -15" id="51" diplayName="D15" />
+    <Class name="S-Damen -18" id="52" diplayName="D18" />
+    <Class name="S-Damen 19-" id="53" diplayName="D Elite" />
+    <Class name="S-Damen 35-" id="54" diplayName="D35" />
+    <Class name="S-Damen 45-" id="55" diplayName="D45" />
+    <Class name="S-Damen 55-" id="56" diplayName="D55" />
+    <Class name="S-Herren -13" id="60" diplayName="H13" />
+    <Class name="S-Herren -15" id="61" diplayName="H15" />
+    <Class name="S-Herren -18" id="62" diplayName="H18" />
+    <Class name="S-Herren 19-" id="63" diplayName="H Elite" />
+    <Class name="S-Herren 35-" id="64" diplayName="H35" />
+    <Class name="S-Herren 45-" id="65" diplayName="H45" />
+    <Class name="S-Herren 55-" id="66" diplayName="H55" />
+    <Class name="S-Herren 65-" id="67" diplayName="H65" />
+  </Classes>
+  <Organisations filter="include" >
+    <Organisation name="ASKÖ Henndorf" id="32" />
+    <Organisation name="SSV Hallein" id="35" />
+    <Organisation name="HBLA Ursprung" id="200" />
+    <Organisation name="HSV Wals" id="33" />
+    <Organisation name="TV Zell am See" id="124" />
+    <Organisation name="NF Seekirchen" id="34" />
+  </Organisations>
+  <Output>
+    <Html active="true"
+          fileName="..\..\..\..\static\resources\2020\sbgcup2020.html"
+          cssInline="true"
+          docTemplate="..\..\..\..\templates\sbgcup_document_template.html"
+          classTemplate="..\..\..\..\templates\sbgcup_class_template.html"
+          detailsTemplate="..\..\..\..\templates\sbgcup_details_template.html"
+          cssFile="..\..\..\..\templates\default.css" />
+    <Pdf active="true"
+         fileName="sbgcup2020.pdf"
+         pageOrientation="Landscape"
+         pageSize="A4"
+         marginLeft="10"
+         marginTop="20"
+         marginRight="10"
+         marginBottom="20"></Pdf>
+    <Json active="false" fileName="sbgcup2020.json" />
+  </Output>
+  <Names>
+    <!-- <Name name="Bubu" aliasFor="der Hund, the great"/> -->
+    <Name name="Tcharlie Hackl" aliasFor="Karl Hackl"/>
+    <Name name="Sepp Wimmer" aliasFor="Josef Wimmer"/>
+    <Name name="Roland Berner" aliasFor="Roland Perner"/>
+    <Name name="Yschi Tiefenbrunner" aliasFor="Yschai Tiefenbrunner"/>
+    <Name name="Jonas Königstorfer" aliasFor="Jonas Königsdorfer"/> 
+  </Names>
+  <Translations>
+    <Translation key="DidNotFinish" translate="aufg." />
+    <Translation key="DidNotStart" translate="n ang." />
+    <Translation key="MissingPunch" translate="Fehlst." />
+  </Translations>
+</CupConfiguration>

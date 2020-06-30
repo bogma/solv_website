@@ -1,29 +1,33 @@
 ---
-title: "10. Salzburger Sportvoglcup 2020"
-date: 2020-11-07T00:00:00
-draft: true
+title: "4. Salzburger Sportvoglcup 2020"
+date: 2020-09-05T00:00:00 # keep time 0 until start time is known
+draft: false
 
-# outputs:
-# - html
-# - result
-# - splitsbrowser
+outputs:
+- html
+- Calendar
+- splitsbrowser
 
 status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
-anne_id: 0
 
 archives: []
 tags: [ "SBG Cup"]
 
+anne_id: 0
+
 event:
-  name_amend: ""
-  form: "Normaler OL"
-  location: "Mönchsberg"
+  name_amend: "" # respects markdown
+  form: "Sprint OL"
+  location: "Berufsschule Hallein"
   type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "HSV Wals" # remove one of the 3 options
+implementation: "SSV Hallein-Neualm" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
+
+end: 150 # x minutes from event->date (remove if not needed)
+start_amend: "(WKZ - Start 0m)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
   course: ""
@@ -48,27 +52,45 @@ map:
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
-timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: ""
+hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
-- src: "**/aus**"
+- src: "**/*anno**"
   title: "Ausschreibung"
-- src: "**/start**"
+- src: "**/*start**"
   title: "Startliste"
-- src: "**/split**"
+- src: "**/*splits_class**"
+  title: "Splits (Kategorie)"
+- src: "**/*splits_course**"
+  title: "Splits (Bahn)"
+- src: "**/*split**"
   title: "Splits"
-- src: "**/resu**"
+- src: "**/*resu**"
   title: "Ergebnisse"
-- src: "**/lau**"
+- src: "**/*info2**"
+  title: "Treffpunkt & Aufwärmen"
+- src: "**/*info**"
   title: "Läuferinfo"
+- src: "**/*dir**"
+  title: "Anfahrt"
+
+# resource_links:
+#   infos:
+#   - link: "/resources/2019/start5sc2019.html"
+#     title: "Startliste"
+#   results:
+#   - link: "/resources/2019/resu5sc2019.html"
+#     title: "Ergebnisse 5.SC"
+#   - link: "/resources/2019/resu6sc2019.html"
+#     title: "Ergebnisse 6.SC"
 ---
 
 ### Startgeld
 
 - bis D/H -15 und OL: € 3,-
 - ab D/H 16-: € 4,50
+- Family: € 5,- (Für Kartendruck bitte alle Teilnehmer angeben!)
 
 ### Zeitnehmung
 

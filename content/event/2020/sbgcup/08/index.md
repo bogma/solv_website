@@ -1,6 +1,6 @@
 ---
-title: "6. Salzburger Sportvoglcup 2020"
-date: 2020-09-26T00:00:00 # keep time 0 until start time is known
+title: "8. Salzburger Sportvoglcup 2020"
+date: 2020-11-07T00:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -16,13 +16,13 @@ tags: [ "SBG Cup"]
 anne_id: 0
 
 event:
-  name_amend: "LM Sprint (Finale)" # respects markdown
-  form: "Sprint OL"
-  location: "Lungau"
+  name_amend: "" # respects markdown
+  form: "Normaler OL"
+  location: "Mönchsberg"
   type: "sbgcup"
-championship: true
+championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering" # remove 2 of the 3 options
+implementation: "HSV Wals" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 

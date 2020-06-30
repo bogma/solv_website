@@ -1,12 +1,8 @@
 cup:
   - year: 2020
     cup:
-      - link: none
+      - link: /resources/2020/sbgcup2020.html
         text: Salzburger Sportvoglcup
-      - link: none
-        text: Salzburger Sprintcup
-      - link: none
-        text: Salzburger Schulcup
   - year: 2019
     cup:
       - link: /resources/2019/sbgcup2019.html

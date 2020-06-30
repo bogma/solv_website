@@ -13,7 +13,6 @@ tags: [ "SBG Cup", "Landesmeisterschaft"]
 
 event:
   name_amend: "LM allgemeine Klasse"
-
   form: "Normaler OL"
   location: "Lungau"
   type: "sbgcup"

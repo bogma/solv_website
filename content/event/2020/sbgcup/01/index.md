@@ -5,7 +5,7 @@ draft: false
 
 outputs:
 - html
-# - result
+- Calendar
 - splitsbrowser
 
 status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
@@ -57,6 +57,10 @@ resources:
   title: "Ausschreibung"
 - src: "**/*start**"
   title: "Startliste"
+- src: "**/*splits_class**"
+  title: "Splits (Kategorie)"
+- src: "**/*splits_course**"
+  title: "Splits (Bahn)"
 - src: "**/*split**"
   title: "Splits"
 - src: "**/*resu**"
