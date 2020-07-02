@@ -72,6 +72,8 @@ resources:
 - src: "**/*dir**"
   title: "Anfahrt"
 
+liveresultat_id: 17432
+
 ---
 
 ### Startgeld

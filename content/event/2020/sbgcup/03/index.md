@@ -93,6 +93,9 @@ resources:
   title: "Läuferinfo"
 - src: "**/*dir**"
   title: "Anfahrt"
+
+liveresultat_id: 17565
+
 ---
 
 ### Startgeld
