@@ -2,7 +2,7 @@
 title: "ARGE Alp Einzel"
 date: 2020-10-11 # date of creation of the file
 draft: false
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
+status: canceled # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 0
 
 archives: []
