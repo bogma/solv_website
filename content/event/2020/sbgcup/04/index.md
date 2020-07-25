@@ -1,6 +1,6 @@
 ---
 title: "4. Salzburger Sportvoglcup 2020"
-date: 2020-09-05T00:00:00 # keep time 0 until start time is known
+date: 2020-09-05T11:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,17 +8,17 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
 
-anne_id: 0
+anne_id: 3130
 
 event:
   name_amend: "" # respects markdown
   form: "Sprint OL"
-  location: "Berufsschule Hallein"
+  location: "Landes-Berufsschule Hallein"
   type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
@@ -26,33 +26,48 @@ implementation: "SSV Hallein-Neualm" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 
-end: 150 # x minutes from event->date (remove if not needed)
-start_amend: "(WKZ - Start 0m)" # respects markdown
+end: 120 # x minutes from event->date (remove if not needed)
+start_amend: "" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
+  course: "Horst Mayer"
+  event: "Horst Mayer"
   inspection: ""
 course:
   valid: false # set to true when the course lenghts are final
-  lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
+  lenghts:
+    [
+      ["Einfach", "D-13, H-13, Offen Kurz", "Bahn 1", "2,3 km", "15 Posten"],
+      ["Kurz regulär", "D-15, D-18, H-15, H55-, H65-, Offen Lang", "Bahn 2 a", "3,3 km", "18 Posten"],
+      ["Kurz extra", "D55-", "Bahn 2 b", "2,7 km", "16 Posten"],
+      ["Mittel", "H-18, D19-, D35-, D45-, H45-", "Bahn 3", "4,2 km", "14 Posten"],
+      ["Lang", "H19-, H35-", "Bahn 4", "5,8 km", "20 Posten"],
+      ["Family", "Kinder, Familien, Anfänger", "Family", "2,0 km", "13 Posten"]
+    ]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -10 # x days from event->date
 meeting:
-  point: ""
+  point: "Landes-Berufsschule Hallein"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.689324, 13.091962]
 map:
-  name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
-  format: ""
+  name: "Landes-Berufsschule Hallein"
+  scale: "1:2.000"
+  equidistance: "2m"
+  update: "August 2020"
+  format: "A4"
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
-hints: "" # respects markdown
+control_point_description: "Nur auf der Karte"
+hints: "
++ Unbedingt zeitgerecht anmelden – Keine Nachmeldungen vor Ort!
+
++ Bitte die Corona-Regeln einhalten. Hier gelten **2 Meter Abstand!**
+
++ Einzahlung auf das Konto des SSV Hallein-Neualm erwünscht! Kontoverbindung: IBAN: AT48 3502 2000 0201 0148
+  
++ Bei Kategorie Family unbedingt anmelden und Anzahl der teilnehmenden Familienmitglieder angeben!"
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
