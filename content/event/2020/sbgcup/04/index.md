@@ -1,4 +1,6 @@
 ---
+hero: true
+
 title: "4. Salzburger Sportvoglcup 2020"
 date: 2020-09-05T11:00:00 # keep time 0 until start time is known
 draft: false

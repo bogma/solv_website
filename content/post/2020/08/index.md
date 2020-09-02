@@ -2,7 +2,6 @@
 title: "Neue Termine!"
 date: 2020-05-25T19:48:23+02:00 # date of creation of the file (written)
 draft: false
-hero: true
 
 archives: []
 tags: ["SBG Cup"] # tag your article here, i.e ["Training", "Administratives"]

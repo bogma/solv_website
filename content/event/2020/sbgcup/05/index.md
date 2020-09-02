@@ -1,4 +1,6 @@
 ---
+hero: true
+
 title: "5. Salzburger Sportvoglcup 2020"
 date: 2020-09-25T00:00:00 # keep time 0 until start time is known
 draft: false
@@ -8,7 +10,7 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
