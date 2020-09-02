@@ -34,15 +34,14 @@ official: # names of course setter, event organizer and inspector
   event: "Horst Mayer"
   inspection: ""
 course:
-  valid: false # set to true when the course lenghts are final
+  valid: true # set to true when the course lenghts are final
   lenghts:
     [
-      ["Einfach", "D-13, H-13, Offen Kurz", "Bahn 1", "2,3 km", "15 Posten"],
-      ["Kurz regulär", "D-15, D-18, H-15, H55-, H65-, Offen Lang", "Bahn 2 a", "3,3 km", "18 Posten"],
-      ["Kurz extra", "D55-", "Bahn 2 b", "2,7 km", "16 Posten"],
-      ["Mittel", "H-18, D19-, D35-, D45-, H45-", "Bahn 3", "4,2 km", "14 Posten"],
-      ["Lang", "H19-, H35-", "Bahn 4", "5,8 km", "20 Posten"],
-      ["Family", "Kinder, Familien, Anfänger", "Family", "2,0 km", "13 Posten"]
+      ["Einfach", "D-13, H-13, Offen Kurz", "Bahn 1", "1100 m", "17 Posten"],
+      ["Kurz regulär", "D-15, D-18, H-15, H55-, H65-, Offen Lang", "Bahn 2", "1700 m", "21 Posten"],
+      ["Mittel", "H-18, D19-, D35-, D45-, H45-", "Bahn 3", "1800 m", "24 Posten"],
+      ["Lang", "H19-, H35-", "Bahn 4", "1900 m", "25 Posten"],
+      ["Family", "Kinder, Familien, Anfänger", "Family", "800 m", "14 Posten"]
     ]
 entry:
   anne: true # if true, a link to ANNE will be provided
@@ -89,6 +88,8 @@ resources:
   title: "Läuferinfo"
 - src: "**/*dir**"
   title: "Anfahrt"
+
+liveresultat_id: 18020
 
 # resource_links:
 #   infos:
