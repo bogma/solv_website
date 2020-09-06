@@ -15,7 +15,7 @@ status: active # planned (= for preview Calendar), active (= Announcement...), d
 archives: []
 tags: [ "SBG Cup"]
 
-anne_id: 0
+anne_id: 3175
 
 event:
   name_amend: "LM Sprint (Qualifikation)" # respects markdown

@@ -13,7 +13,7 @@ status: active # planned (= for preview Calendar), active (= Announcement...), d
 archives: []
 tags: [ "SBG Cup"]
 
-anne_id: 0
+anne_id: 3177
 
 event:
   name_amend: "LM allgemeine Klasse" # respects markdown
