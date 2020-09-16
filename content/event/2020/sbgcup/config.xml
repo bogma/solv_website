@@ -1,7 +1,7 @@
 <CupConfiguration type="Cup">
   <General name="Salzburger Sportvoglcup 2020"
            year="2020"
-           numberOfEvents="8"
+           numberOfEvents="9"
            takeBest="6"
            calcRule="sbgcup"
            resultFileRegex="2020_(\d{2})_sbgcup.*"

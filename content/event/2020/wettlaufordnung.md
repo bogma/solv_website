@@ -7,7 +7,7 @@ type: "page"
 
 ## Wertungen 2020
 
-**Salzburger Sportvogl-Cup:** Die sechs besten Resultate (von 8 möglichen). Für die Kategorien Offen Kurz (OK) und Offen Lang (OL) gibt es keine Cupwertung.
+**Salzburger Sportvogl-Cup:** Die 6 besten Resultate (von 9 möglichen). Für die Kategorien Offen Kurz (OK) und Offen Lang (OL) gibt es keine Cupwertung.
 
 Die **Salzburger Sprint-Cup Wertung** und der **Sportvogl - Schulcup** entfallen diese Saison.
 

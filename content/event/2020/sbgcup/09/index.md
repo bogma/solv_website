@@ -1,6 +1,6 @@
 ---
-title: "8. Salzburger Sportvoglcup 2020"
-date: 2020-10-10T00:00:00 # keep time 0 until start time is known
+title: "9. Salzburger Sportvoglcup 2020"
+date: 2020-11-07T00:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -13,14 +13,14 @@ status: planned # planned (= for preview Calendar), active (= Announcement...), 
 archives: []
 tags: [ "SBG Cup"]
 
-anne_id: 3183
+anne_id: 0
 
 event:
-  name_amend: "LM allgemeine Klasse" # respects markdown
+  name_amend: "" # respects markdown
   form: "Normaler OL"
-  location: "Adnet"
+  location: "Mönchsberg"
   type: "sbgcup"
-championship: true
+championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "HSV Wals" # remove 2 of the 3 options
 
