@@ -18,7 +18,13 @@
     <!-- set num to 0 if not needed -->
     <Event num="1" name="Salzachseen"/>
     <Event num="2" name="Eugendorferberg"/>
-    <Event num="8" multiply="2.0" />
+    <Event num="3" name="Saalachau"/>
+    <Event num="4" name="Hallein"/>
+    <Event num="5" name="Mauterndorf"/>
+    <Event num="6" name="Mariapfarr"/>
+    <Event num="7" name="Bannwald"/>
+    <Event num="8" name="Adnet"/>
+    <Event num="9" name="Mönchsberg" multiply="2.0" />
   </Events>
   <Classes filter="include">
     <Class name="S-Damen -13" id="50" shortName="D13" />
