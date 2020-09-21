@@ -1,6 +1,6 @@
 ---
 title: "7. Salzburger Sportvoglcup 2020"
-date: 2020-09-27T10:30:00 # keep time 0 until start time is known
+date: 2020-09-27T10:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
