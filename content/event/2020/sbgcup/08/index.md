@@ -1,6 +1,6 @@
 ---
 title: "8. Salzburger Sportvoglcup 2020"
-date: 2020-10-10T00:00:00 # keep time 0 until start time is known
+date: 2020-10-10T11:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,7 +8,7 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
@@ -22,37 +22,41 @@ event:
   type: "sbgcup"
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "HSV Wals" # remove 2 of the 3 options
+implementation: "HSV Wals (mit Unterstützung durch ASKÖ Henndorf und SSV Hallein-Neualm)" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 
-end: 150 # x minutes from event->date (remove if not needed)
-start_amend: "(WKZ - Start 0m)" # respects markdown
+end: 165 # x minutes from event->date (remove if not needed)
+start_amend: "(WKZ - Start 800m)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Franz Nagele"
+  event: "Christian Breitschädel"
+  inspection: "Christian Breitschädel, Jakob Buchberger"
 course:
-  valid: false # set to true when the course lenghts are final
-  lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
+  valid: true # set to true when the course lenghts are final
+  lenghts: [["Einfach","1,9 km", "90 HM"], ["Kurz","2,4 km", "120 HM"], ["D55","2,2 km", "110 HM"], ["Mittel","4,4 km", "240 HM"], ["Lang","5,4 km", "320 HM"], ["Family","1,9 km", "85 HM"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -10 # x days from event->date
 meeting:
-  point: ""
-  time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  point: "Parkplatz ADNET (Nähe Kirche)"
+  time_minutes: -75 # x minutes from event->date
+  location: [47.695248, 13.132724]
 map:
-  name: ""
-  scale: "1:10.000"
+  name: "Adnet"
+  scale: "1:6.000"
   equidistance: "5m"
-  update: "März 2006"
+  update: "September 2020"
   format: ""
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
-hints: "" # respects markdown
+control_point_description: "Auf der Laufkarte und zum Download (für den Ausdruck zuhause)"
+hints: "- Die Bahnlegung auf den Bahnen Mittel (LM Damen) und Lang (LM Herren) ist auf einem (sehr) fordernden Niveau und entspricht den Ansprüchen die an eine Landesmeisterschaft gestellt werden!
+
+- Unbedingt zeitgerecht anmelden – **Auch Familien**!!!
+
+- Banküberweisung! IBAN: AT37 4501 0000 0410 5755" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
