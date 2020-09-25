@@ -32,8 +32,9 @@ div.time{
  color:blue;
 }
 
+
 h1{
-  color:#f00;
+  color:#9b0913;
   font-size:25px;
   font-weight:bold;
   margin-bottom:10px;
@@ -42,10 +43,11 @@ h1{
 
 table{
   margin:30px;
+  width: 60%;
 }
 
 td{
-  font-style: 1px solid #176795;
+  font-style:1px solid #176795;
   font-family:Tahoma,Verdana,Arial,sans-serif;
   font-size:10px;
   padding-left:3px;
@@ -74,5 +76,52 @@ tr.row_style_odd{
   height:45px;
 }
  
+.page-header, .page-header-space {
+  height: 4rem;
+}
 
+.page-footer, .page-footer-space {
+  height: 4rem;
 
+}
+
+.page-footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: #222; /* for demo */
+  text-align: center;
+  color: rgba(255,255,255,.7);
+}
+
+.page-header {
+  position: fixed;
+  top: 0mm;
+  width: 100%;
+  background: #9b0913;
+  text-align: center;
+}
+
+.page-header * {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.page-header--text {
+  font-size: 2rem;
+  color: rgba(255,255,255,.7);
+}
+
+.page {
+  page-break-after: always;
+}
+
+@page {
+  margin: 20mm
+}
+
+@media print {
+   thead {display: table-header-group;} 
+   tfoot {display: table-footer-group;}
+   body {margin: 0;}
+}

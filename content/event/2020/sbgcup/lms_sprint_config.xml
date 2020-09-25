@@ -1,0 +1,80 @@
+<CupConfiguration type="Sum">
+  <General name="Salzburger LMS Sprint OL 2020"
+           year="2020"
+           numberOfEvents="2"
+           takeBest="2"
+           calcRule="sum"
+           resultFileRegex=".*"
+           recurseSubDirs="true"
+           includeStatus="DidNotFinish, MissingPunch"
+           eventTitle="Sbg.Cup">
+  </General>
+  <PreProcessing>
+    <!-- options for input file preprocessing -->
+    <Task name="toUtf8" active="true" />
+    <Task name="toJson" active="false" />
+  </PreProcessing>
+  <Events>
+    <!-- set num to 0 if not needed -->
+    <Event num="1" name="Qualifiktaion" fileName=".\05\results\2020_05_sbgcup_splits.xml"/>
+    <Event num="2" name="Finale" fileName=".\06\results\2020_06_sbgcup_splits.xml"/>
+  </Events>
+  <Classes filter="include">
+    <Class name="S-Damen -13" id="50" shortName="D13" />
+    <Class name="S-Damen -15" id="51" shortName="D15" />
+    <Class name="S-Damen -18" id="52" shortName="D18" />
+    <Class name="S-Damen 19-" id="53" shortName="D Elite" />
+    <Class name="S-Damen 35-" id="54" shortName="D35" />
+    <Class name="S-Damen 45-" id="55" shortName="D45" />
+    <Class name="S-Damen 55-" id="56" shortName="D55" />
+    <Class name="S-Herren -13" id="60" shortName="H13" />
+    <Class name="S-Herren -15" id="61" shortName="H15" />
+    <Class name="S-Herren -18" id="62" shortName="H18" />
+    <Class name="S-Herren 19-" id="63" shortName="H Elite" />
+    <Class name="S-Herren 35-" id="64" shortName="H35" />
+    <Class name="S-Herren 45-" id="65" shortName="H45" />
+    <Class name="S-Herren 55-" id="66" shortName="H55" />
+    <Class name="S-Herren 65-" id="67" shortName="H65" />
+    <!-- list class ids (comma separated) to be combined to one virtual 'class' -->
+    <Combine name="Damen -15" classIds="50,51" shortName="D -15"/>
+    <Combine name="Herren -15" classIds="60,61" shortName="H -15"/>
+    <Combine name="Damen 16-" classIds="52,53,54,55" shortName="D 16-"/>
+    <Combine name="Herren 16-" classIds="62,63,64,65" shortName="H 16-"/>
+    <Combine name="Damen 55-" classIds="56,57" shortName="D 55-"/>
+    <Combine name="Herren 55-" classIds="66,67" shortName="H 55-"/>
+  </Classes>
+  <Organisations filter="include" >
+    <Organisation name="ASKÖ Henndorf" id="32" />
+    <Organisation name="SSV Hallein" id="35" />
+    <Organisation name="HBLA Ursprung" id="200" />
+    <Organisation name="HSV Wals" id="33" />
+    <Organisation name="TV Zell am See" id="124" />
+    <Organisation name="NF Seekirchen" id="34" />
+  </Organisations>
+  <Output>
+    <Html active="true"
+          fileName="..\..\..\..\static\resources\2020\2020_lms_sprint.html"
+          cssInline="true"
+          docTemplate="..\..\..\..\templates\sum_document_template.html"
+          classTemplate="..\..\..\..\templates\sum_class_template.html"
+          detailsTemplate="..\..\..\..\templates\sum_details_template.html"
+          cssFile="..\..\..\..\templates\style.css" />
+    <Pdf active="true"
+         fileName=".\06\results\2020_lms_sprint.pdf"
+         pageOrientation="Landscape"
+         pageSize="A4"
+         marginLeft="10"
+         marginTop="20"
+         marginRight="10"
+         marginBottom="20"></Pdf>
+    <Json active="false" fileName="2020_lms_sprint.json" />
+  </Output>
+  <Names>
+    <Name name="Bubu" aliasFor="der Hund, the great"/>
+  </Names>
+  <Translations>
+    <Translation key="DidNotFinish" translate="aufg." />
+    <Translation key="DidNotStart" translate="n ang." />
+    <Translation key="MissingPunch" translate="Fehlst." />
+  </Translations>
+</CupConfiguration>
