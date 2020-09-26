@@ -31,8 +31,8 @@ official: # names of course setter, event organizer and inspector
   event: "Martin Lejsek"
   inspection: "Thomas Kohlbacher"
 course:
-  valid: false # set to true when the course lenghts are final
-  lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
+  valid: true # set to true when the course lenghts are final
+  lenghts: [["Einfach","2,5 km", "11 P"], ["Kurz","3,5 km", "14 P"], ["Mittel","4,9 km", "14 P"], ["Lang","5,4 km", "17 P"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
