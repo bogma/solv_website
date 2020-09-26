@@ -65,6 +65,8 @@ resources:
   title: "Splits"
 - src: "**/*resu**"
   title: "Ergebnisse"
+- src: "**/*lms**"
+  title: "Ergebniss Sprint LMS"
 - src: "**/*info2**"
   title: "Treffpunkt & Aufwärmen"
 - src: "**/*info**"
