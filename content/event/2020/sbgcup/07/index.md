@@ -14,6 +14,7 @@ archives: []
 tags: [ "SBG Cup"]
 
 anne_id: 3177
+liveresultat_id: 18291
 
 event:
   name_amend: "LM Jugen und Senioren" # respects markdown
