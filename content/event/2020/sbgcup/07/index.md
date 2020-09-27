@@ -8,7 +8,7 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
@@ -19,7 +19,7 @@ liveresultat_id: 18291
 event:
   name_amend: "LM Jugen und Senioren" # respects markdown
   form: "Normaler OL"
-  location: "Bannwald"
+  location: "Passeggen"
   type: "sbgcup"
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
@@ -28,9 +28,9 @@ implementation: "ASKÖ Henndorf Orientieering" # remove 2 of the 3 options
 # active section ------------------------------------------------
 
 official: # names of course setter, event organizer and inspector
-  course: "Martin Lejsek"
-  event: "Martin Lejsek"
-  inspection: "Thomas Kohlbacher"
+  course: "Franz Nagele"
+  event: "Christian Breitschädel"
+  inspection: ""
 course:
   valid: true # set to true when the course lenghts are final
   lenghts: [["Einfach","2,5 km", "11 P"], ["Kurz","3,5 km", "14 P"], ["Mittel","4,9 km", "14 P"], ["Lang","5,4 km", "17 P"]]
@@ -43,10 +43,10 @@ meeting:
   time_minutes: -60 # x minutes from event->date
   location: [47.138312, 13.773744]
 map:
-  name: "Bannwald"
-  scale: "1:10.000"
+  name: "Passegen"
+  scale: "1:6.500"
   equidistance: "5m"
-  update: "August 2020"
+  update: "2017"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte"
