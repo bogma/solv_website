@@ -1,0 +1,47 @@
+year: 2020
+type: junsen
+name: Jugend/Senjoren
+evlink: /event/2020/sbgcup/07
+results:
+  - category: Damen -13
+    valid: true
+    result:
+      - name: Jana Lechner
+      - name: Emma Rothauer
+      - name: Katja Helminger
+  - category: Damen 45-
+    valid: true
+    result:
+      - name: Karin Hillebrand
+      - name: Katharina Hinterhofer
+      - name: Claudia Hackl
+  - category: Damen 55-
+    valid: true
+    result:
+      - name: Berta Buchberger
+      - name: Heidi Bordihn
+      - name: Brigitte Müller
+  - category: Herren 35-
+    valid: true
+    result:
+      - name: Franz Helminger
+      - name: Bernhard Fink
+      - name: Martin Böhm
+  - category: Herren 45-
+    valid: true
+    result:
+      - name: Roland Kohlbacher
+      - name: Peter Ebster Sen.
+      - name: Hannes Lechner
+  - category: Herren 55-
+    valid: true
+    result:
+      - name: Horst Mayer
+      - name: Karl Hackl
+      - name: Franz Mages
+  - category: Herren 65-
+    valid: true
+    result:
+      - name: Jakob Buchberger
+      - name: Eduard Böhm
+      - name: Christian Breitschädel
