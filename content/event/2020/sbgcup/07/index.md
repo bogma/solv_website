@@ -72,6 +72,8 @@ resources:
   title: "Läuferinfo"
 - src: "**/*dir**"
   title: "Anfahrt"
+- src: "**/*lms**"
+  title: "Ergebnis Landesmeisterschaft Jugend & Senioren"
 # resource_links:
 #   infos:
 #   - link: "/resources/2019/start5sc2019.html"
