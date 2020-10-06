@@ -14,6 +14,7 @@ archives: []
 tags: [ "SBG Cup"]
 
 anne_id: 3183
+liveresultat_id: 18394
 
 event:
   name_amend: "LM allgemeine Klasse" # respects markdown
@@ -78,6 +79,20 @@ resources:
   title: "Läuferinfo"
 - src: "**/*dir**"
   title: "Anfahrt"
+- src: "**/*map**"
+  title: "Alte Karte"
+- src: "**/*pb1**"
+  title: "Postenbeschreibung Einfach"
+- src: "**/*pb2_d**"
+  title: "Postenbeschreibung D55"
+- src: "**/*pb2**"
+  title: "Postenbeschreibung Kurz"
+- src: "**/*pb3**"
+  title: "Postenbeschreibung Mittel"
+- src: "**/*pb4**"
+  title: "Postenbeschreibung Lang"
+- src: "**/*pb5**"
+  title: "Postenbeschreibung Family"
 
 # resource_links:
 #   infos:
