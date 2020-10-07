@@ -74,6 +74,8 @@ resources:
   title: "Läuferinfo"
 - src: "**/*dir**"
   title: "Anfahrt"
+- src: "**/*lms**"
+  title: "Ergebnis Landesmeisterschaft Jugend & Senioren"
 
 # resource_links:
 #   infos:

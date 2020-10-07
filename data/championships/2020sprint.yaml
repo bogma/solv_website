@@ -1,0 +1,35 @@
+year: 2020
+type: sprint
+name: Sprint
+evlink: /event/2020/sbgcup/05
+results:
+  - category: Damen -15
+    valid: true
+    result:
+      - name: Emma Rothauer
+      - name: Katja Helminger
+      - name: Carla Berger
+  - category: Damen 16-
+    valid: true
+    result:
+      - name: Kitti Boros
+      - name: Katharina Hinterhofer
+      - name: Franziska Rogl
+  - category: Herren 16-
+    valid: true
+    result:
+      - name: Leon Ebster
+      - name: Franz Helminger
+      - name: Bernhard Fink
+  - category: Herren 55-
+    valid: true
+    result:
+      - name: Horst Mayer
+      - name: Karl Hackl
+      - name: Franz Mages
+  - category: Herren 65-
+    valid: true
+    result:
+      - name: Jakob Buchberger
+      - name: Eduard Böhm
+      - name: Christian Breitschädel

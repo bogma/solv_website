@@ -75,6 +75,8 @@ resources:
   title: "Läuferinfo"
 - src: "**/*dir**"
   title: "Anfahrt"
+- src: "**/*lms**"
+  title: "Ergebnis Landesmeisterschaft Sprint OL"
 
 # resource_links:
 #   infos:
