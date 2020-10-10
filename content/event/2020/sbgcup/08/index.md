@@ -8,7 +8,7 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
@@ -93,6 +93,9 @@ resources:
   title: "Postenbeschreibung Lang"
 - src: "**/*pb5**"
   title: "Postenbeschreibung Family"
+- src: "**/*lms**"
+  title: "Ergebnis Landesmeisterschaft allg. Klasse"
+
 
 # resource_links:
 #   infos:
