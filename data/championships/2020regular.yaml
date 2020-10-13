@@ -1,0 +1,17 @@
+year: 2020
+type: regular
+name: Allgemein
+evlink: /event/2020/sbgcup/08
+results:
+  - category: Damen
+    valid: true
+    result:
+      - name: Birgit Eisl
+      - name: Lucie Rothauer
+      - name: Andrea Strasser
+  - category: Herren
+    valid: true
+    result:
+      - name: Leon Ebster
+      - name: Markus König
+      - name: Franz Helminger
