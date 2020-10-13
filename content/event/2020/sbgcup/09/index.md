@@ -1,6 +1,6 @@
 ---
 title: "9. Salzburger Sportvoglcup 2020"
-date: 2020-11-07T00:00:00 # keep time 0 until start time is known
+date: 2020-11-07T11:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,12 +8,12 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
 
-anne_id: 0
+anne_id: 2905
 
 event:
   name_amend: "" # respects markdown
@@ -26,33 +26,40 @@ implementation: "HSV Wals" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 
-end: 150 # x minutes from event->date (remove if not needed)
-start_amend: "(WKZ - Start 0m)" # respects markdown
+end: 165 # x minutes from event->date (remove if not needed)
+start_amend: "(WKZ - Start 500m + 50HM)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Franz Nagele"
+  event: "Franz Nagele"
+  inspection: "Jakob Buchberger, Leopold Tonka"
 course:
-  valid: false # set to true when the course lenghts are final
-  lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
+  valid: true # set to true when the course lenghts are final
+  lenghts: [["Family","1,7 km", "65HM", "15Po"], ["Einfach","2,9 km", "100HM", "20Po"], ["Kurz","3,0 km", "115HM", "24Po"], ["D55","2,5 km", "100HM", "19Po"], ["Mittel","4,4 km", "230HM", "30Po"], ["Lang","5,1 km", "330HM", "38Po"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -9 # x days from event->date
 meeting:
-  point: ""
-  time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  point: "Parkplatz Augustinerbräu"
+  time_minutes: -75 # x minutes from event->date
+  location: [47.804756, 13.032753]
 map:
-  name: ""
-  scale: "1:10.000"
+  name: "Mönchsberg"
+  scale: "1:4.000"
   equidistance: "5m"
-  update: "März 2006"
+  update: "Herbst 2020"
   format: ""
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
-hints: "" # respects markdown
+control_point_description: "Auf der Laufkarte und zum Download (für den Ausdruck zuhause)"
+hints: "
++ Unbedingt zeitgerecht anmelden – Corona-bedingt sind keine Anmeldungen vor Ort erwünscht!
+
++ Bitte die Corona-Regeln einhalten. Hier gelten **2 Meter Abstand!**
+
++ Banküberweisung! IBAN: AT37 4501 0000 0410 5755
+  
++ Bei Kategorie Family unbedingt anmelden und Anzahl der teilnehmenden Familienmitglieder angeben!" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
@@ -73,7 +80,21 @@ resources:
 - src: "**/*info**"
   title: "Läuferinfo"
 - src: "**/*dir**"
-  title: "Anfahrt"
+  title: "Übersichtsplan"
+- src: "**/*map**"
+  title: "Alte Karte"
+- src: "**/*pb1**"
+  title: "Postenbeschreibung Einfach"
+- src: "**/*pb2_d**"
+  title: "Postenbeschreibung D55"
+- src: "**/*pb2**"
+  title: "Postenbeschreibung Kurz"
+- src: "**/*pb3**"
+  title: "Postenbeschreibung Mittel"
+- src: "**/*pb4**"
+  title: "Postenbeschreibung Lang"
+- src: "**/*pb5**"
+  title: "Postenbeschreibung Family"
 
 # resource_links:
 #   infos:
