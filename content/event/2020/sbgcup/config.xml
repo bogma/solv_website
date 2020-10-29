@@ -1,13 +1,16 @@
 <CupConfiguration type="Cup">
   <General name="Salzburger Sportvoglcup 2020"
            year="2020"
-           numberOfEvents="9"
-           takeBest="6"
+           numberOfPlannedEvents="9"
+           numberOfValidEvents="7"
+           numberOfCountingEvents="5"
            calcRule="sbgcup"
            resultFileRegex="2020_(\d{2})_sbgcup.*"
            recurseSubDirs="true"
            includeStatus="DidNotFinish, MissingPunch"
-           eventTitle="Sbg.Cup">
+           eventTitle="Sbg.Cup"
+           showEvents="OmitAllMissing"
+           showCompetitors="-1">
   </General>
   <PreProcessing>
     <!-- options for input file preprocessing -->
@@ -72,7 +75,6 @@
   <Names>
     <!-- <Name name="Bubu" aliasFor="der Hund, the great"/> -->
     <Name name="Tscharlie Hackl" aliasFor="Karl Hackl"/>
-    <Name name="Sepp Wimmer" aliasFor="Josef Wimmer"/>
     <Name name="Roland Berner" aliasFor="Roland Perner"/>
     <Name name="Yschi Tiefenbrunner" aliasFor="Yschai Tiefenbrunner"/>
     <Name name="Jonas Königstorfer" aliasFor="Jonas Königsdorfer"/> 
