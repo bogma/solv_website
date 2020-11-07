@@ -69,10 +69,16 @@ paginate = 10
     parent = "blog"
 
 [[menu.main]]
+    identifier = "training"
+    name = "Training"
+    url = "/training/"
+    weight = 20
+
+[[menu.main]]
     identifier = "solv"
     name = "Verband"
     url = "/board/"
-    weight = 20
+    weight = 30
 
 [[menu.main]]
     identifier = "solv_divider1"
@@ -97,7 +103,7 @@ paginate = 10
     identifier = "cup"
     name = "CUPS & LMS"
     url = "/event/"
-    weight = 30
+    weight = 40
 
 [params]
     description = "SOLV website"
