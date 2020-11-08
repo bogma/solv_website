@@ -15,6 +15,15 @@ menu:
     parent: "training"
 ---
 
+#### 09.11.2020 - 22.11.2020 / Eugendorfberg
+
+Posten sind mit rot-weißen Schleifen markiert.
+
++ [Kurz](./OL-Training%20KW%2046%20-%20Multitechnik%20-%20Eugendorfberg.Kurz.pdf)
++ [Mittel](./OL-Training%20KW%2046%20-%20Multitechnik%20-%20Eugendorfberg.Mittel.pdf), [Mittel mit Fenster-OL](./OL-Training%20KW%2046%20-%20Multitechnik%20-%20Eugendorfberg.Mittel%201.pdf)
++ [Lang](./OL-Training%20KW%2046%20-%20Multitechnik%20-%20Eugendorfberg.Lang.pdf)
+
+
 #### 4.11.2020 - 22.11.2020 / Geißberg
 
 Von der Dichtlalm aus können gelbe Stoffstreifen gesucht werden.
