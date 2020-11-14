@@ -15,6 +15,14 @@ menu:
     parent: "training"
 ---
 
+#### 15.11.2020 - 29.11.2020 / Köstendorf - Tannberg
+
+Posten sind mit kleinen weißen Bändern markiert.
+
++ [Kurz](./Tannberg_einfach1120_5000.pdf)
++ [Mittel](./Tannberg_mittel1120_5000.pdf)
++ [Lang](./Tannberg_lang1120_7500.pdf)
+
 #### 09.11.2020 - 22.11.2020 / Eugendorfberg
 
 Posten sind mit bunten Stoffbändern markiert.
