@@ -1,4 +1,4 @@
-baseURL = "http://www.ol-sbg.at"
+baseURL = "https://www.ol-sbg.at"
 languageCode = "de-de"
 title = "Salzburger Orientierungslauf Verband"
 theme = "hugo-solv"
