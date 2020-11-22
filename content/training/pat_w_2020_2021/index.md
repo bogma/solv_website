@@ -15,6 +15,18 @@ menu:
     parent: "training"
 ---
 
+#### 23.11.2020 - 6.12.2020 / Henndorf - Weiland
+
+Leider gibt es in dem Laufgebiet ein paar neue Zäune und Veränderungen. Bei neuen Zäunen hängen die Posten immer außerhalb oder direkt am Zaun.
+Zusätzlich hat sich die Karte noch bei folgenden Posten verändert:
+- Posten 40 am Zaun außerhalb 
+- Posten 48 alles gerodet, Vegetation nicht vorhanden 
+- Posten 41 alles gerodet
+
++ [Kurz](./KW%2048%20-%20OL-Intervalle.Kurz.pdf)
++ [Mittel](./KW%2048%20-%20OL-Intervalle.Mittel.pdf)
++ [Lang](./KW%2048%20-%20OL-Intervalle.Lang.pdf)
+
 #### 15.11.2020 - 29.11.2020 / Köstendorf - Tannberg
 
 Posten sind mit kleinen weißen Bändern markiert.
