@@ -15,6 +15,14 @@ menu:
     parent: "training"
 ---
 
+#### 29.11.2020 - 13.12.2020 / Seekirchen - Gmoawald
+
+Posten sind mit 40cm langen rot-weiß-roten Bändern markiert. Es gibt die Bahnen jeweils normal und mit reduzierter Karte.
+
++ Kurz: [normal](./KW%2049.Kurz.pdf) / [reduziert](KW%2049.Kurz_reduziert.pdf)
++ Mittel: [normal](./KW%2049.Mittel.pdf) / [reduziert](KW%2049.Mittel_reduziert.pdf)
++ Lang: [normal](KW%2049.Lang.pdf) / [reduziert](KW%2049.Lang_reduziert.pdf)
+
 #### 23.11.2020 - 6.12.2020 / Henndorf - Weiland
 
 Leider gibt es in dem Laufgebiet ein paar neue Zäune und Veränderungen. Bei neuen Zäunen hängen die Posten immer außerhalb oder direkt am Zaun.
