@@ -15,6 +15,28 @@ menu:
     parent: "training"
 ---
 
+#### 06.12.2020 - 20.12.2020 / Gaisberg - Aigen / Vorderfager
+
+Posten sind mit 20-30 cm langen gelben Bändern markiert.
+Reduzierte Karte – ohne „Grün“.
+
+*Achtung* – die beiden langen Bahnen queren eine Straße – bitte um Vorsicht.
+
+**Vegetation:** Teils gut belaufbar / Manche Wege etwas überwachsen.
+
+Weg zum Start – ca. 1km
+
+**Parkmöglichkeit:**
++ Parkplatz Vorderfager {{< maplink "47.77264907413974" "13.107625643896151" >}}
++ Kleiner Parkplatz direkt in Vorderfager {{< maplink "47.77143829189903" "13.102735513603799" >}}
+
+**Postenbeschreibung:** steht aus technischen Gründen (Ocad File) diesmal leider nur für die Anfänger-Strecker zur Verfügung.
+
++ [Kurz](Bahnlegung_Aigen_Dez_20.Kurz_Anfänger.pdf) / [Postenbeschreibung](Bahnlegung_Aigen_Dez_20.Kurz_Anfänger_Postenbeschreibung.pdf)
++ [Mittel 1](Bahnlegung_Aigen_Dez_20.Mittel_Fortgeschrittene.pdf)
++ [Mittel 2](Bahnlegung_Aigen_Dez_20.Mittel_Sehr%20Erfahrene.pdf)
+
+
 #### 29.11.2020 - 13.12.2020 / Seekirchen - Gmoawald
 
 Posten sind mit 40cm langen rot-weiß-roten Bändern markiert. Es gibt die Bahnen jeweils normal und mit reduzierter Karte.
