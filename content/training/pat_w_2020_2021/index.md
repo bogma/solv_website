@@ -15,6 +15,16 @@ menu:
     parent: "training"
 ---
 
+#### 14.12.2020 - 28.12.2020 / Neumarkt Stadt
+
+*Fehlende und falsche Posten Adventlauf*
+
+Die Bahnen sind mit weißen 40 cm langen Posten markiert. Aufgabe ist, sich alle UNmarkierten Posten und alle falsch markierten Posten zu merken. Wer sich bis 28.12. per WhatsApp an Katharina Hinterhofer mit Angabe der fehlenden Posten und Beschreibung der falschen Posten und – bei Bahnen mittel und lang – mit Angabe der Zeit meldet, kommt in die Verlosung eines kleinen Preises für die jeweils ersten drei der einzelnen Bahnen.
+
++ [Kurz](Neumarkt%20Bahn%20Starters%20Nov20.Starters.pdf)
++ [Mittel](Neumarkt%20Bahn%20Starters%20Nov20.Middle.pdf)
++ [Lang](Neumarkt%20Bahn%20Starters%20Nov20.Lang.pdf)
+
 #### 06.12.2020 - 20.12.2020 / Gaisberg - Aigen / Vorderfager
 
 Posten sind mit 20-30 cm langen gelben Bändern markiert.
