@@ -15,6 +15,9 @@ menu:
     parent: "training"
 ---
 
+"Diese Woche gibt es einen *Weihnachts-OL*. Dieser wir euch ab 24.12. zur Verfügung stehen.
+Viel Spaß, frohe Weihnachten und einen guten Rutsch!"
+
 #### 14.12.2020 - 28.12.2020 / Neumarkt Stadt
 
 *Fehlende und falsche Posten Adventlauf*
