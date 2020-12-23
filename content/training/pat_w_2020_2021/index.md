@@ -15,8 +15,16 @@ menu:
     parent: "training"
 ---
 
-"Diese Woche gibt es einen *Weihnachts-OL*. Dieser wir euch ab 24.12. zur Verfügung stehen.
-Viel Spaß, frohe Weihnachten und einen guten Rutsch!"
+#### 24.12.2020 - 3.1.2021 / Seekirchen - Riedelwald
+
+Um uns die Zeit bis zur Bescherung zu verkürzen gibt es ab 24.12 um 9:00 einen Christkindl OL.
+
+**Hier einmal vielen Dank an Lukas und die vielen Helfer für die Organisation der wöchentlichen Trainings.**
+
+Frohe Weihnachten an alle OLer.
+
++ [Baum](Weihnachts-OL.Tree.pdf)
++ [Stern](Weihnachts-OL.Star.pdf)
 
 #### 14.12.2020 - 28.12.2020 / Neumarkt Stadt
 
