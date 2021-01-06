@@ -14,6 +14,13 @@ menu:
     identifier: "pat_w_20_21"
     parent: "training"
 ---
+#### 6.1.2021 - 17.1.2021 / Straßwalchen - Krenwald
+
+Achtung! Die Karte ist insbesondere im Bezug auf Bewuchs und menschliche Objekte (Hochstände, usw.) nicht mehr ganz korrekt.
+
++ [Kurz](KW%201.Kurz.pdf)
++ [Mittel](KW%201.Mittel.pdf)
++ [Lang](KW%201.Lang.pdf)
 
 #### 24.12.2020 - 3.1.2021 / Seekirchen - Riedelwald
 
