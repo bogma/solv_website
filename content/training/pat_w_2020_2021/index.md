@@ -14,6 +14,12 @@ menu:
     identifier: "pat_w_20_21"
     parent: "training"
 ---
+
+#### 11.1.2021 - 24.1.2021 / Hellbrunn
+
++ [Kurz](Bahn%20Edi%20Jan%202021.Kurz.pdf)
++ [Lang](Bahn%20Edi%20Jan%202021.Lang.pdf)
+
 #### 6.1.2021 - 17.1.2021 / Straßwalchen - Krenwald
 
 Achtung! Die Karte ist insbesondere im Bezug auf Bewuchs und menschliche Objekte (Hochstände, usw.) nicht mehr ganz korrekt.
