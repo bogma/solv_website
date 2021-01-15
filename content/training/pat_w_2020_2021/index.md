@@ -15,6 +15,13 @@ menu:
     parent: "training"
 ---
 
+#### 15.1.2021 - 29.1.2021 / Thalgauberg *Ski-OL*
+
+Die Ski-O Saison ist eröffnet. Rauf nach Thalgauberg, 5 Euro am Automaten lösen und los geht’s. Mit Dank an den Tourismusverband Thalgau, können die Übungspostenschirme bis 29.1. hängen bleiben. Viel Spaß beim Trainieren und auf dass wir am 6. und 7.2. in Kitzbühel starten können.
+
++ [Starters](Bahn%20Thalgauberg%20Ski%20Training%202021_Starters.prn.pdf)
++ [Mittel](Bahn%20Thalgauberg%20Ski%20Training%202021_Mittel.prn.pdf)
+
 #### 11.1.2021 - 24.1.2021 / Hellbrunn
 
 + [Kurz](Bahn%20Edi%20Jan%202021.Kurz.pdf)
