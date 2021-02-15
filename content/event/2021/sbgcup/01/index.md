@@ -1,5 +1,5 @@
 ---
-title: "1. Salzburger Sportvoglcup 2021"
+title: "1. Salzburger Trainingscup 2021"
 date: 2021-03-06T00:00:00 # keep time 0 until start time is known
 draft: false
 
@@ -17,7 +17,7 @@ anne_id: 3330
 
 event:
   name_amend: "" # respects markdown
-  form: "Normaler OL"
+  form: "Come-Run-Go"
   location: "Ursprung"
   type: "sbgcup"
 championship: false
