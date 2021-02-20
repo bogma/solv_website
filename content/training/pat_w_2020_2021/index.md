@@ -15,6 +15,17 @@ menu:
     parent: "training"
 ---
 
+#### 23.2.2021 - 9.3.2021 / Enzing, Henndorf
+
+Für alle, die dazu eine Herausforderung a la Kerschi-Training benötigen: Vor jedem Loop zuerst vom Start der Straße hinunter zum Wartbichler Sepp laufen und wieder hinauf zum Start, Karte nehmen und Loop laufen. Vom Ziel gemütlich zum Start, wieder volle Kraft runter und rauf und nächsten Loop.
+
+Weiße Stoffmarkierung mit orangem OL Symbol.
+
++ [Loop 1](Training%20KW%207.Loop%201.pdf)
++ [Loop 2](Training%20KW%207.Loop%202.pdf)
++ [Loop 3](Training%20KW%207.Loop%203.pdf)
++ [Loop 4](Training%20KW%207.Loop%204.pdf)
+
 #### 15.1.2021 - 29.1.2021 / Thalgauberg *Ski-OL*
 
 Die Ski-O Saison ist eröffnet. Rauf nach Thalgauberg, 5 Euro am Automaten lösen und los geht’s. Mit Dank an den Tourismusverband Thalgau, können die Übungspostenschirme bis 29.1. hängen bleiben. Viel Spaß beim Trainieren und auf dass wir am 6. und 7.2. in Kitzbühel starten können.
