@@ -19,7 +19,7 @@ event:
   name_amend: "" # respects markdown
   form: "Come-Run-Go"
   location: "Mönchsberg"
-  type: "sbgcup"
+  type: "trgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "HSV Wals" # remove 2 of the 3 options

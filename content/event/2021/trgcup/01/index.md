@@ -1,6 +1,6 @@
 ---
 title: "1. Salzburger Trainingscup 2021"
-date: 2021-03-06T00:00:00 # keep time 0 until start time is known
+date: 2021-03-06T11:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,7 +8,7 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
@@ -19,18 +19,17 @@ event:
   name_amend: "" # respects markdown
   form: "Come-Run-Go"
   location: "Ursprung"
-  type: "sbgcup"
+  type: "trgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orientieering" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 
-end: 150 # x minutes from event->date (remove if not needed)
-start_amend: "(WKZ - Start 0m)" # respects markdown
+start_amend: "" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
+  course: "Markus König"
   event: ""
   inspection: ""
 course:
@@ -39,24 +38,24 @@ course:
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -6 # x days from event->date
 meeting:
-  point: ""
-  time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  point: "HBLA Ursprung - Ursprungstrasse 4, A-5161 Elixhausen"
+  time_minutes: -0 # x minutes from event->date
+  location: [47.87985, 13.06459]
 map:
-  name: ""
-  scale: "1:10.000"
+  name: "Ursprung"
+  scale: "1:7.500"
   equidistance: "5m"
-  update: "März 2006"
+  update: "Februar 2021"
   format: ""
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
+control_point_description: "Auf der Laufkarte und zum Download (für den Ausdruck zuhause)"
 hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
-- src: "**/*anno**"
+- src: "**/*Auss**"
   title: "Ausschreibung"
 - src: "**/*start**"
   title: "Startliste"
@@ -102,12 +101,13 @@ SPORTIdent; SI-Air+ (touch free) aktiviert.
 
 - Der Veranstalter sowie der durchführende Verein übernimmt keinerlei Haftung für auftretende Schäden jeglicher Art, auch nicht gegenüber Dritten.
 - Die Bestimmungen des Forstgesetzes und der StVO sind einzuhalten.
-- Die Veranstaltung wird nach den gültigen Regeln der [Wettlaufordnung](../../wettlaufordnung) des SOLV durchgeführt.
-- Im Laufgebiet besteht bis zum Wettkampf Trainingsverbot.
 - Jede\(r) Läufer(in) startet auf eigene Gefahr und ist für die entsprechenden Versicherungen selbst verantwortlich.
 - Die Regeln der Straßenverkehrsordnung sind unbedingt einzuhalten.
 - Privatgrundstücke dürfen nicht betreten werden.
 
-### Hinweis des SOLV
+### Covid-19
 
-Für die Jahreswertung des SOLV-Cup werden nur SOLV-Mitglieder berücksichtigt!
+Aktualisierung der Informationen in ANNE bitte beachten. Corona-bedingt kann es leider noch immer sein, dass wir das Training absagen müssen. 
+Alle LäuferInnen müssen sich zum Ziel begeben (auch wenn sie aufgegeben haben) und selbständig den SI-Stick auslesen. 
+Nach den aktuellen Regelungen bitte von nicht dem gleichen Haushalt angehörigen Personen mindestens 2 Meter Abstand halten!
+Einhaltung der gültigen Covid-19 Vorgaben. **Durch die Anmeldung werden diese Regeln zur Kenntnis genommen und akzeptiert!**
