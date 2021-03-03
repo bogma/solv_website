@@ -55,7 +55,7 @@ hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
-- src: "**/*Auss**"
+- src: "**/*anno**"
   title: "Ausschreibung"
 - src: "**/*start**"
   title: "Startliste"
@@ -73,8 +73,12 @@ resources:
   title: "Läuferinfo"
 - src: "**/*dir**"
   title: "Anfahrt"
-- src: "**/*lms**"
-  title: "Ergebnis Landesmeisterschaft Jugend & Senioren"
+- src: "**/*text**"
+  title: "Postenbeschreibungen Text"
+- src: "**/*post**"
+  title: "Postenbeschreibungen"
+
+#liveresultat_id: 18741
 
 # resource_links:
 #   infos:
