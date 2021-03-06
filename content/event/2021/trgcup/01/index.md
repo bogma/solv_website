@@ -78,7 +78,7 @@ resources:
 - src: "**/*post**"
   title: "Postenbeschreibungen"
 
-#liveresultat_id: 18741
+liveresultat_id: 18741
 
 # resource_links:
 #   infos:
