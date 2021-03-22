@@ -2,7 +2,7 @@
 title: "Landesmeisterschaft der Schulen 2021"
 date: 2021-05-20T00:00:00 # date of creation of the file
 draft: false
-status: planned
+status: canceled
 
 archives: []
 tags: [ "Schul Cup"]
