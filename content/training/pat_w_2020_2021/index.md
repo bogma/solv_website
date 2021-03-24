@@ -9,7 +9,7 @@ disable_rightbar: true
 
 menu:
   main:
-    weight: 10
+    weight: 20
     name: "Winter 20/21 (P&T)"
     identifier: "pat_w_20_21"
     parent: "training"
