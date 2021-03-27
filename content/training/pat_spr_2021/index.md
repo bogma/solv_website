@@ -15,4 +15,10 @@ menu:
     parent: "training"
 ---
 
-#### 28.3.2021 - ? / Ried in Seekirchen
+#### 29.3.2021 - 8.4.2021 / Ried in Seekirchen
+
+Zwei kleine Bahnen ab Montag 29.3.21 belaufbar. Weiße Stoffstreifen mit OL Symbol hängen bis ca 8.4.21.
+
++ [Bahn 1](Bahn1.pdf)
++ [Bahn 2](Bahn2.pdf)
++ [Postenbeschreibung](Postenbeschreibung_Kindertraining%20Ried.pdf)
