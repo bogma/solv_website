@@ -15,6 +15,14 @@ menu:
     parent: "training"
 ---
 
+#### **Nur** am Freitag 16.4.2021 von 15:00 bis 17:00 / Salzachseen (Badeparkplatz, Busumkehrstelle).
+
+2 Kinderbahnen und eine Jugendbahn stehen zum Download zur Verfügung. Die Kinderbahnen können auch als Gedächtnis-OL gelaufen werden.
+
++ [Kinder Bahn 1](BahnenFr16April.Bahn1.pdf)
++ [Kinder Bahn 2](BahnenFr16April.Bahn2.pdf)
++ [Jugendliche](BahnenFr16April.BahnLang.pdf)
+
 #### 30.3.2021 - 16.4.2021 / Ursprunger Moor
 
 Training vom Dienstagnachmittag 30.3. bis Donnerstag 16.4. mit rot-weißen Absperrbändern markiert.
