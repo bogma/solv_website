@@ -15,6 +15,14 @@ menu:
     parent: "training"
 ---
 
+#### 24.4.2021 - 9.5.2021 / Eugendorfberg
+
+Eugendorfberg ruft: rot-weiß-rote Medaillienbänder auf drei möglichen Bahnen müssen gefunden werden.
+
++ [Kurz](BahnlegungEugendorfbergTrainingApr021.Kurz.prn.pdf)
++ [Mittel](BahnlegungEugendorfbergTrainingApr021.Mittel.prn.pdf)
++ [Lang](BahnlegungEugendorfbergTrainingApr021.Lang.prn.pdf)
+
 #### **Nur** am Freitag 16.4.2021 von 15:00 bis 17:00 / Salzachseen (Badeparkplatz, Busumkehrstelle).
 
 2 Kinderbahnen und eine Jugendbahn stehen zum Download zur Verfügung. Die Kinderbahnen können auch als Gedächtnis-OL gelaufen werden.
