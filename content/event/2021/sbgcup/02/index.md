@@ -1,6 +1,6 @@
 ---
 title: "2. Salzburger Trainingscup 2021"
-date: 2021-03-20T00:00:00 # keep time 0 until start time is known
+date: 2021-05-22T00:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,7 +8,7 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: canceled # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
@@ -17,9 +17,9 @@ anne_id: 3299
 
 event:
   name_amend: "" # respects markdown
-  form: "Come-Run-Go"
+  form: "Normaler OL"
   location: "Mönchsberg"
-  type: "trgcup"
+  type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "HSV Wals" # remove 2 of the 3 options
