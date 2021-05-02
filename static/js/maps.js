@@ -24,7 +24,7 @@ function style(feature) {
 function highlightFeature(e) {
     var layer = e.target;
     layer.setStyle({
-        weight: 5,
+        weight: 4,
         color: '#666',
         dashArray: '',
         fillOpacity: 0.7
@@ -47,4 +47,23 @@ function onEachFeature(feature, layer) {
         mouseout: resetHighlight,
         click: zoomToFeature
     });
+}
+function buildNameList(names){
+    var res = '';
+    if (names && names.length > 0) {
+        res += ' (';
+        for (var i = 0; i < names.length; i++) {
+            var nSplit = names[i].split(' ');
+            if (nSplit.length > 1) {
+                res += names[i].replace(nSplit[0], nSplit[0][0] + '.');
+            } else {
+                res += names[i];
+            }
+            if (i < names.length - 1) {
+                res += ', ';
+            }
+        }
+        res += ')';
+    }
+    return res;
 }

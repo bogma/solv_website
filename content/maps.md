@@ -36,12 +36,37 @@ info.onAdd = function (map) {
 };
 // method that we will use to update the control based on feature properties passed
 info.update = function (props) {
+    var created = '', updated = '';
+    if (props) {
+      if (props.creationDate) {
+        created = '<b>erstellt: </b>' + props.creationDate;
+        created += buildNameList(props.createdBy);
+        created += '<br />';
+      }
+      if (props.lastUpdate) {
+        updated = '<b>aktualisiert: </b>' + props.lastUpdate;
+        updated += buildNameList(props.updatedBy);
+        updated += '<br />';
+      }
+    }
     this._div.innerHTML = (props
       ? '<h4>' + props.name + '</h4>' +
         '<b>Verein: </b>' + props.owner + '<br />' +
-        '<b>Äquidistanz: </b>' + props.ae + 'm<br />' +
-        '<b>aktualisiert: </b>' + props.lastUpdate + '<br />'
+        '<b>Äquidistanz: </b>' + props.ae + '<br />' +
+        created + updated
       : 'Hover over a map');
 };
 info.addTo(map);
+var legend = L.control({ position: "bottomleft" });
+legend.onAdd = function(map) {
+  var div = L.DomUtil.create("div", "legend");
+  div.innerHTML += "<h4>Legende</h4>";
+  div.innerHTML += '<i style="background: ' + getColor('AHD') + '"></i><span>AHD</span><br>';
+  div.innerHTML += '<i style="background: ' + getColor('HSW') + '"></i><span>HSW</span><br>';
+  div.innerHTML += '<i style="background: ' + getColor('SHN') + '"></i><span>SHN</span><br>';
+  div.innerHTML += '<i style="background: ' + getColor('TVZ') + '"></i><span>TVZ</span><br>';
+  div.innerHTML += '<i style="background: ' + getColor('x') + '"></i><span>Andere</span><br>';
+  return div;
+};
+legend.addTo(map);
 </script>

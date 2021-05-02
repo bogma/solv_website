@@ -4,12 +4,15 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 5,
+        "name": "Ursprunger Moor",
         "owner": "ASKÖ Henndorf Orienteering",
         "club": "AHD",
+        "ae": "5m",
         "lastUpdate": 2021,
-        "mapper": "unknown",
-        "name": "Ursprunger Moor"
+        "updatedBy": ["Peter Ebster", "Josef Wimmer"],
+        "creationDate": 2013,
+        "createdBy": ["Martin Lejsek", "Josef Borůvka", "Jaroslav Opletal"]
+
       },
       "geometry": {
         "type": "Polygon",
@@ -182,13 +185,15 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 2,
+        "name": "Seekirchen - Stadt",
         "owner": "ASKÖ Henndorf Orienteering",
         "club": "AHD",
+        "ae": "2m",
         "lastUpdate": 2018,
-        "mapper": "Martin Lejsek",
-        "name": "Seekirchen - Stadt"
-      },
+        "updatedBy": ["Martin Lejsek"],
+        "creationDate": 2017,
+        "createdBy": ["Martin Lejsek"]
+     },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -332,12 +337,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 5,
+        "name": "Eugendorf Berg",
+        "ae": "5m",
         "owner": "ASKÖ Henndorf Orienteering",
         "club": "AHD",
         "lastUpdate": 2019,
-        "mapper": "Martin Lejsek",
-        "name": "Eugendorf Berg"
+        "updatedBy": ["Martin Lejsek"],
+        "creationDate": 0,
+        "createdBy": ["Martin Lejsek"]
       },
       "geometry": {
         "type": "Polygon",
@@ -682,12 +689,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 5,
+        "name": "Krenwald",
+        "ae": "5m",
         "owner": "ASKÖ Henndorf Orienteering",
         "club": "AHD",
         "lastUpdate": 2017,
-        "mapper": "Martin Lejsek",
-        "name": "Krenwald"
+        "updatedBy": ["Martin Lejsek"],
+        "creationDate": 0,
+        "createdBy": ["Martin Lejsek"]
       },
       "geometry": {
         "type": "Polygon",
@@ -900,12 +909,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 2,
+        "name": "Tannberg",
+        "ae": "5m",
         "owner": "ASKÖ Henndorf Orienteering",
         "club": "AHD",
         "lastUpdate": 2020,
-        "mapper": "Martin Lejsek",
-        "name": "Tannberg"
+        "updatedBy": ["Bernhard Fink"],
+        "creationDate": 2006,
+        "createdBy": ["Martin Lejsek", "Zdeněk Švec"]
       },
       "geometry": {
         "type": "Polygon",
@@ -1214,12 +1225,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 5,
+        "name": "Henndorf Seeseite",
+        "ae": "5m",
         "owner": "ASKÖ Henndorf Orienteering",
         "club": "AHD",
-        "lastUpdate": 0,
-        "mapper": "Martin Lejsek",
-        "name": "Henndorf Seeseite"
+        "lastUpdate": 2018,
+        "updatedBy": ["Martin Lejsek"],
+        "creationDate": 2016,
+        "createdBy": ["Martin Lejsek"]
       },
       "geometry": {
         "type": "Polygon",
@@ -1424,12 +1437,82 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 5,
+        "name": "ULSZ Hallein-Rif",
+        "ae": "2,5m",
+        "owner": "ASKÖ Henndorf Orienteering",
+        "club": "AHD",
+        "lastUpdate": 2016,
+        "updatedBy": [],
+        "creationDate": 1999,
+        "createdBy": []
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.07023286819458,
+              47.72475384866463
+            ],
+            [
+              13.065619468688965,
+              47.723728994496234
+            ],
+            [
+              13.063967227935791,
+              47.721708096212716
+            ],
+            [
+              13.064664602279663,
+              47.72129668945789
+            ],
+            [
+              13.066670894622801,
+              47.719167427141166
+            ],
+            [
+              13.072700500488281,
+              47.718907579002234
+            ],
+            [
+              13.074846267700194,
+              47.721282254074175
+            ],
+            [
+              13.075103759765625,
+              47.72258864010257
+            ],
+            [
+              13.074867725372314,
+              47.72373621184962
+            ],
+            [
+              13.07419180870056,
+              47.72440020408212
+            ],
+            [
+              13.073515892028809,
+              47.724551766340035
+            ],
+            [
+              13.07023286819458,
+              47.72475384866463
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gmoawald",
+        "ae": "5m",
         "owner": "ASKÖ Henndorf Orienteering",
         "club": "AHD",
         "lastUpdate": 2020,
-        "mapper": "Martin Lejsek",
-        "name": "Seekirchen - Gmoawald"
+        "updatedBy": ["Martin Lejsek"],
+        "creationDate": 2007,
+        "createdBy": ["Martin Lejsek"]
       },
       "geometry": {
         "type": "Polygon",
@@ -1542,12 +1625,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 5,
+        "name": "Riedelwald",
+        "ae": "2,5m",
         "owner": "ASKÖ Henndorf Orienteering",
         "club": "AHD",
         "lastUpdate": 2020,
-        "mapper": "Martin Lejsek",
-        "name": "Seekirchen - Riedelwald"
+        "updatedBy": ["Martin Lejsek"],
+        "creationDate": 2004,
+        "createdBy": ["Martin Lejsek", "Daniel Trojčák", "Zdeněk Švec", "Roman Horký"]
       },
       "geometry": {
         "type": "Polygon",
@@ -1948,12 +2033,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 2.5,
+        "name": "Ried am Wolfgangsee",
+        "ae": "2,5m",
         "owner": "ASKÖ Henndorf Orienteering",
         "club": "AHD",
         "lastUpdate": 2018,
-        "mapper": "Martin Lejsek",
-        "name": "Ried am Wolfgangsee"
+        "updatedBy": ["Martin Lejsek"],
+        "creationDate": 2008,
+        "createdBy": ["Martin Lejsek"]
       },
       "geometry": {
         "type": "Polygon",
@@ -2042,12 +2129,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 5,
+        "name": "Eugendorf - Höllgraben",
+        "ae": "5m",
         "owner": "ASKÖ Henndorf Orienteering",
         "club": "AHD",
         "lastUpdate": 2011,
-        "mapper": "",
-        "name": "Eugendorf - Höllgraben"
+        "updatedBy": ["Martin Lejsek"],
+        "creationDate": 1998,
+        "createdBy": ["Martin Lejsek"]
       },
       "geometry": {
         "type": "Polygon",
@@ -2264,12 +2353,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 5,
+        "name": "St. Gilgen - Fürberg",
         "owner": "ASKÖ Henndorf Orienteering",
         "club": "AHD",
-        "lastUpdate": 2011,
-        "mapper": "",
-        "name": "St. Gilgen - Fürberg"
+        "ae": "2,5m",
+        "lastUpdate": 2013,
+        "updatedBy": ["Jakob Buchberger"],
+        "creationDate": 2004,
+        "createdBy": ["Martin Lejsek", "Zdeněk Švec", "Roman Horký"]
       },
       "geometry": {
         "type": "Polygon",
@@ -2624,11 +2715,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 5,
+        "name": "Fernwald",
+        "ae": "5m",
         "owner": "ASKÖ Henndorf Orienteering",
+        "club": "AHD",
         "lastUpdate": 2018,
-        "mapper": "Martin Lejsek, Roman Horky, Josef Boruvka, Jaroslav Opletal, Daniel Trojcak",
-        "name": "Mariapfarr - Fernwald"
+        "updatedBy": ["Martin Lejsek"],
+        "creationDate": 2006,
+        "createdBy": ["Martin Lejsek", "Roman Horký", "Josef Borůvka", "Jaroslav Opletal", "Daniel Trojčák"]
       },
       "geometry": {
         "type": "Polygon",
@@ -2905,11 +2999,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 5,
+        "name": "Niederreinwald",
+        "ae": "5m",
         "owner": "ASKÖ Henndorf Orienteering",
+        "club": "AHD",
         "lastUpdate": 2018,
-        "mapper": "Martin Lejsek",
-        "name": "Mariapfarr - Niederreinwald"
+        "updatedBy": ["Martin Lejsek"],
+        "creationDate": 2004,
+        "createdBy": ["Martin Lejsek", "Roman Horký", "Ondřej Kotecký", "Zdeněk Švec"]
       },
       "geometry": {
         "type": "Polygon",
@@ -3106,11 +3203,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 2.5,
+        "name": "Mauterndorf",
+        "ae": "2,5m",
         "owner": "ASKÖ Henndorf Orienteering",
+        "club": "AHD",
         "lastUpdate": 2017,
-        "mapper": "Martin Lejsek",
-        "name": "Mauterndorf Ort"
+        "updatedBy": ["Martin Lejsek"],
+        "creationDate": 2010,
+        "createdBy": ["Martin Lejsek"]
       },
       "geometry": {
         "type": "Polygon",
@@ -3199,11 +3299,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 5,
+        "name": "Traningwald",
+        "ae": "5m",
         "owner": "ASKÖ Henndorf Orienteering",
+        "club": "AHD",
         "lastUpdate": 2018,
-        "mapper": "Martin Lejsek & Rudi De Ferrari",
-        "name": "Mauterndorf Traningwald"
+        "updatedBy": ["Martin Lejsek"],
+        "creationDate": 2010,
+        "createdBy": ["Martin Lejsek", "Rudi De Ferrari"]
       },
       "geometry": {
         "type": "Polygon",
@@ -3416,11 +3519,12 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 5,
+        "name": "St.Andrä Paßeggen",
+        "ae": "5m",
         "owner": "ASKÖ Henndorf Orienteering",
+        "club": "AHD",
         "lastUpdate": 2017,
-        "mapper": "Martin Lejsek",
-        "name": "St.Andrä Paßeggen"
+        "updatedBy": ["Martin Lejsek"]
       },
       "geometry": {
         "type": "Polygon",
@@ -3577,11 +3681,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 5,
+        "name": "Tamsweg",
+        "ae": "5m",
         "owner": "ASKÖ Henndorf Orienteering",
-        "lastUpdate": 0,
-        "mapper": "Martin Lejsek",
-        "name": "Tamsweg Ort"
+        "club": "AHD",
+        "lastUpdate": 2019,
+        "updatedBy": ["Martin Lejsek"],
+        "creationDate": 0,
+        "createdBy": ["Martin Lejsek", "Rudi DeFerrari"]
       },
       "geometry": {
         "type": "Polygon",
@@ -3698,11 +3805,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 5,
+        "name": "St. Margarethen",
+        "ae": "5m",
         "owner": "ASKÖ Henndorf Orienteering",
+        "club": "AHD",
         "lastUpdate": 2006,
-        "mapper": "",
-        "name": "St. Margarethen"
+        "updatedBy": [],
+        "creationDate": 0,
+        "createdBy": []
       },
       "geometry": {
         "type": "Polygon",
@@ -3823,76 +3933,92 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 5,
+        "name": "Matsee",
+        "ae": "2,5m",
         "owner": "ASKÖ Henndorf Orienteering",
-        "lastUpdate": 2020,
-        "mapper": "Martin Lejsek",
-        "name": "Seekirchen - Riedelwald"
+        "club": "AHD",
+        "creationDate": 2008,
+        "createdBy": ["Martin Lejsek", "Rudi DeFerrari"]
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
-
+          [
+            [
+              13.107333183288574,
+              47.971795168304105
+            ],
+            [
+              13.106356859207153,
+              47.97147911900685
+            ],
+            [
+              13.105005025863647,
+              47.9711917997854
+            ],
+            [
+              13.10442566871643,
+              47.97064588886061
+            ],
+            [
+              13.104532957077026,
+              47.9704878609369
+            ],
+            [
+              13.103824853897095,
+              47.96939601843368
+            ],
+            [
+              13.103610277175903,
+              47.969202070311496
+            ],
+            [
+              13.103631734848022,
+              47.968785438549205
+            ],
+            [
+              13.105294704437256,
+              47.967413403297556
+            ],
+            [
+              13.107022047042847,
+              47.966924921216005
+            ],
+            [
+              13.109081983566284,
+              47.96802399940271
+            ],
+            [
+              13.109350204467773,
+              47.96886445517618
+            ],
+            [
+              13.109768629074097,
+              47.97094039415532
+            ],
+            [
+              13.109650611877441,
+              47.97175207078655
+            ],
+            [
+              13.107333183288574,
+              47.971795168304105
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "ae": 5,
-        "owner": "ASKÖ Henndorf Orienteering",
-        "lastUpdate": 2018,
-        "mapper": "Martin Lejsek",
-        "name": "Salzburg - Mönchsberg"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ae": 5,
-        "owner": "ASKÖ Henndorf Orienteering",
-        "lastUpdate": 2017,
-        "mapper": "Martin Lejsek",
-        "name": "Neumarkt West"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ae": 2.5,
-        "owner": "ASKÖ Henndorf Orienteering",
-        "lastUpdate": 2018,
-        "mapper": "Martin Lejsek",
-        "name": "Ried am Wolfgangsee"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ae": 5,
+        "name": "Puch",
+        "ae": "5m",
         "owner": "SSV Hallein-Neualm",
         "club": "SHN",
         "lastUpdate": 2016,
-        "mapper": "Martin Lejsek, Horst Mayer",
-        "name": "Puch"
+        "updatedBy": ["Jakob Buchberger, Franz Nagele"],
+        "creationDate": 0,
+        "createdBy": ["Martin Lejsek", "Horst Mayer"]
       },
       "geometry": {
         "type": "Polygon",
@@ -4025,12 +4151,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 2,
+        "name": "Adnet - Marmorbrüche",
+        "ae": "5m",
         "owner": "SSV Hallein-Neualm",
         "club": "SHN",
         "lastUpdate": 2016,
-        "mapper": "Martin Lejsek",
-        "name": "Adnet"
+        "updatedBy": ["Franz Nagele"],
+        "creationDate": 2001,
+        "createdBy": ["Martin Lejsek", "Lucáš Hýbl"]
       },
       "geometry": {
         "type": "Polygon",
@@ -4399,12 +4527,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 2,
+        "name": "Hallein",
+        "ae": "2m",
         "owner": "SSV Hallein-Neualm",
         "club": "SHN",
         "lastUpdate": 2018,
-        "mapper": "",
-        "name": "Hallein"
+        "updatedBy": [],
+        "creationDate": 2007,
+        "createdBy": []
       },
       "geometry": {
         "type": "Polygon",
@@ -4557,12 +4687,15 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 2,
+        "name": "Landes-Berufsschule Hallein",
+        "ae": "2m",
         "owner": "SSV Hallein-Neualm",
         "club": "SHN",
         "lastUpdate": 2020,
-        "mapper": "",
-        "name": "Landes-Berufsschule Hallein"
+        "updatedBy": [],
+        "creationDate": 0,
+        "createdBy": []
+
       },
       "geometry": {
         "type": "Polygon",
@@ -4627,12 +4760,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 2,
+        "name": "Schwarzenbergkaserne",
+        "ae": "2m",
         "owner": "HSV Wals",
         "club": "HSW",
         "lastUpdate": 2018,
-        "mapper": "Franz Nagele",
-        "name": "Schwarzenbergkaserne"
+        "updatedBy": ["Franz Nagele"],
+        "creationDate": 0,
+        "createdBy": []
       },
       "geometry": {
         "type": "Polygon",
@@ -4837,128 +4972,158 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 2.5,
+        "name": "Wals-Siezenheim / Saalachau",
+        "ae": "2,5m",
         "owner": "HSV Wals",
         "club": "HSW",
-        "lastUpdate": 2019,
-        "mapper": "Franz Nagele",
-        "name": "Saalachau"
+        "lastUpdate": 2020,
+        "updatedBy": ["Franz Nagele"],
+        "creationDate": 2004,
+        "createdBy": ["Jakob Buchberger", "Franz Nagele"]
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              12.9753577709198,
-              47.81391823715417
-            ],
-            [
-              12.96412467956543,
-              47.80006867062824
-            ],
-            [
-              12.96284794807434,
-              47.798879539878115
-            ],
-            [
-              12.9598867893219,
-              47.79668137804891
-            ],
-            [
-              12.958277463912962,
-              47.79539847341613
-            ],
-            [
-              12.958652973175049,
-              47.79496602651422
-            ],
-            [
               12.97034740447998,
               47.79458402875719
             ],
             [
-              12.970765829086304,
-              47.79510296842257
+              12.970744371414185,
+              47.795095760962695
             ],
             [
-              12.971431016921995,
-              47.79552820678489
+              12.973673343658447,
+              47.79688318038884
             ],
             [
-              12.973705530166626,
-              47.79689038760076
+              12.974220514297484,
+              47.79732281848707
             ],
             [
-              12.974209785461426,
-              47.79731561133512
-            ],
-            [
-              12.975770831108093,
-              47.799319161084114
+              12.975744009017943,
+              47.799311954209074
             ],
             [
               12.97633409500122,
               47.799283126698995
             ],
             [
-              12.976806163787842,
-              47.800108307851175
+              12.976784706115723,
+              47.800119117997625
             ],
             [
               12.978404760360718,
-              47.80015515180295
+              47.80016235856098
             ],
             [
-              12.98035204410553,
-              47.80243604081508
+              12.980378866195679,
+              47.80243964403604
             ],
             [
-              12.98030912876129,
-              47.80263421759621
+              12.980303764343262,
+              47.80264142401037
             ],
             [
-              12.98259437084198,
-              47.80571486851226
+              12.98259973526001,
+              47.805696853540915
             ],
             [
-              12.984155416488647,
-              47.80510956205312
+              12.984166145324707,
+              47.80512037115889
             ],
             [
-              12.986129522323608,
-              47.807646037204634
+              12.98610806465149,
+              47.80764243434481
             ],
             [
-              12.986268997192381,
+              12.986279726028442,
               47.80761361145732
             ],
             [
-              12.986558675765991,
-              47.8074118507971
+              12.986537218093872,
+              47.80743346804817
             ],
             [
-              12.987041473388672,
+              12.987030744552612,
               47.807188472009024
             ],
             [
-              12.987524271011353,
+              12.987534999847412,
               47.80728935287099
             ],
             [
-              12.987631559371948,
-              47.80766405149993
+              12.987620830535887,
+              47.807678462931676
             ],
             [
-              12.990962862968445,
-              47.81245923470413
+              12.990968227386475,
+              47.812462837229766
             ],
             [
-              12.989959716796875,
-              47.81352917384231
+              12.990506887435913,
+              47.81286631852318
             ],
             [
-              12.9753577709198,
-              47.81391823715417
+              12.988640069961548,
+              47.81558253063732
+            ],
+            [
+              12.987749576568602,
+              47.81591394201839
+            ],
+            [
+              12.986022233963011,
+              47.81664880318749
+            ],
+            [
+              12.98306107521057,
+              47.818961386645874
+            ],
+            [
+              12.982696294784546,
+              47.81878848677249
+            ],
+            [
+              12.981323003768921,
+              47.82054627532148
+            ],
+            [
+              12.979724407196045,
+              47.820711965434946
+            ],
+            [
+              12.977074384689331,
+              47.816302987462294
+            ],
+            [
+              12.97534704208374,
+              47.81391103230451
+            ],
+            [
+              12.971345186233519,
+              47.80841344064833
+            ],
+            [
+              12.964081764221191,
+              47.800039843538045
+            ],
+            [
+              12.96234369277954,
+              47.798360637930294
+            ],
+            [
+              12.958180904388428,
+              47.79553541418476
+            ],
+            [
+              12.958642244338987,
+              47.794958819035365
+            ],
+            [
+              12.97034740447998,
+              47.79458402875719
             ]
           ]
         ]
@@ -4967,12 +5132,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 2,
+        "name": "Elsbethen Nord",
+        "ae": "2m",
         "owner": "HSV Wals",
         "club": "HSW",
         "lastUpdate": 2015,
-        "mapper": "Jakob Buchberger",
-        "name": "Elsbethen Nord"
+        "updatedBy": ["Jakob Buchberger"],
+        "creationDate": 2014,
+        "createdBy": ["Jakob Buchberger"]
       },
       "geometry": {
         "type": "Polygon",
@@ -5025,16 +5192,14 @@
           ]
         ]
 }
-},
+    },
     {
       "type": "Feature",
       "properties": {
-        "ae": 5,
+        "name": "Gaisberg - Aigen",
+        "ae": "5m",
         "owner": "HSV Wals",
-        "club": "HSW",
-        "lastUpdate": 2015,
-        "mapper": "",
-        "name": "Gaisberg - Aigen"
+        "club": "HSW"
       },
       "geometry": {
         "type": "Polygon",
@@ -5243,12 +5408,14 @@
     {
       "type": "Feature",
       "properties": {
-        "ae": 2,
+        "name": "Schüttdorf Nord",
+        "ae": "2m",
         "owner": "TV Zell am See",
         "club": "TVZ",
         "lastUpdate": 2019,
-        "mapper": "unknown",
-        "name": "Schüttdorf Nord"
+        "updatedBy": [],
+        "creationDate": 0,
+        "createdBy": []
       },
       "geometry": {
         "type": "Polygon",
@@ -5297,14 +5464,15 @@
           ]
         ]
       }
-    },    {
+    },
+    {
       "type": "Feature",
       "properties": {
-        "ae": 5,
+        "name": "Marktnerholz",
+        "ae": "5m",
         "owner": "Public",
-        "lastUpdate": 2021,
-        "mapper": "Martin Bogensperger",
-        "name": "Marktnerholz"
+        "creationDate": 2021,
+        "createdBy": ["Martin Bogensperger"]
       },
       "geometry": {
         "type": "Polygon",
