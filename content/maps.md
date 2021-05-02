@@ -36,7 +36,7 @@ info.onAdd = function (map) {
 };
 // method that we will use to update the control based on feature properties passed
 info.update = function (props) {
-    var created = '', updated = '';
+    var created = '', updated = '', title = '';
     if (props) {
       if (props.creationDate) {
         created = '<b>erstellt: </b>' + props.creationDate;
@@ -48,9 +48,16 @@ info.update = function (props) {
         updated += buildNameList(props.updatedBy);
         updated += '<br />';
       }
+      if (props.name) {
+        title = '<h4>' + props.name;
+        if (props.type) {
+          title += ' <i>/' + props.type + '/</i>';
+        }
+        title += '</h4>'
+      }
     }
     this._div.innerHTML = (props
-      ? '<h4>' + props.name + '</h4>' +
+      ? title +
         '<b>Verein: </b>' + props.owner + '<br />' +
         '<b>Äquidistanz: </b>' + props.ae + '<br />' +
         created + updated
