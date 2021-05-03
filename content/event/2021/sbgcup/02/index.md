@@ -1,5 +1,5 @@
 ---
-title: "2. Salzburger Trainingscup 2021"
+title: "2. Salzburger Sportvoglcup 2021"
 date: 2021-05-22T00:00:00 # keep time 0 until start time is known
 draft: false
 

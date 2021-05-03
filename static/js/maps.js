@@ -9,7 +9,7 @@ function getColor(club) {
            club == 'HSW' ? '#DC143C' :
            club == 'SHN' ? '#FFFF00' :
            club == 'TVZ' ? '#3E424B' :
-           club == 'SOLV' ? '#FD8D3C' :
+           //club == 'SOLV' ? '#FD8D3C' :
                            '#0000FF';
 }
 function style(feature) {
