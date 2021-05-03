@@ -21,7 +21,7 @@ var osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   maxZoom: 19,
   attribution: 'Map data © <a href="https://www.openstreetmap.org/" target="_blank" rel="noopener">OpenStreetMap</a> and contributors <a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank" rel="noopener">CC-BY-SA</a>'
 });
-var map = L.map('map', { layers: osm, tap: false }).setView([47.4643, 13.1479], 9);
+var map = L.map('map', { layers: osm, tap: false }).setView([47.5643, 13.1479], 9);
 L.control.scale({ imperial: false }).addTo(map);
 var geojson;
 fetchJSON('/maps/maps.geojson')
