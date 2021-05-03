@@ -15,6 +15,13 @@ menu:
     parent: "training"
 ---
 
+#### 12.5.2012 -17.5.2021 / Seekirchen Stadt
+
+Posten sind mit weißen Stofffähnchen markiert (am Objekt genau schauen!). **Verkehr beachten!**. Keine privaten Gärten queren (olivgrün / magenta schraffiert)!
+
++ [Kurz](Kurz_1_4000.pdf)
++ [Lang](Lang_1_4000.pdf)
+
 #### 24.4.2021 - 9.5.2021 / Eugendorfberg
 
 Eugendorfberg ruft: rot-weiß-rote Medaillienbänder auf drei möglichen Bahnen müssen gefunden werden.
