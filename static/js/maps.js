@@ -32,7 +32,7 @@ function highlightFeature(e) {
     if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
         layer.bringToFront();
     }
-    info.update(layer.feature.properties);
+    info.update(layer.feature.properties, turf.area(layer.feature.geometry));
 }
 function resetHighlight(e) {
     geojson.resetStyle(e.target);

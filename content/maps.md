@@ -35,7 +35,11 @@ info.onAdd = function (map) {
     return this._div;
 };
 // method that we will use to update the control based on feature properties passed
-info.update = function (props) {
+info.update = function (props, area) {
+    var size = '';
+    if (area) {
+      size = ' ~ ' + (area / 1000000).toFixed(1) + ' km²';
+    }
     var created = '', updated = '', title = '';
     if (props) {
       if (props.creationDate) {
@@ -53,7 +57,7 @@ info.update = function (props) {
         if (props.type) {
           title += ' <i>/' + props.type + '/</i>';
         }
-        title += '</h4>'
+        title += size + '</h4>'
       }
     }
     this._div.innerHTML = (props
