@@ -5,7 +5,7 @@ draft: true
 status: canceled
 anne_id: 0
 
-archives: []
+archives: ["2020"]
 tags: [ "Landesmeisterschaft", "Staffel"]
 
 event:

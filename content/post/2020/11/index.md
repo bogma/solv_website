@@ -3,7 +3,7 @@ title: "WISBI-(WieSchnellBinIch)-Strecken fürs individuelle OL-Laufen"
 date: 2020-10-30T16:57:03+01:00 # date of creation of the file (written)
 draft: false
 
-archives: []
+archives: ["2020"]
 tags: ["Training"] # tag your article here, i.e ["Training", "Administratives"]
 
 calendar_date: 2020-10-30T16:57:03+01:00 # TODO: date in calendar

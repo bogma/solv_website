@@ -4,7 +4,7 @@ date: 2020-09-14T19:53:36+02:00 # date for 'written on'
 draft: false
 author: ""
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2020"]
 tags: [] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Redleiten (OÖ)"
 info_date: 2020-09-13, 2020-09-14 # date in article (YYYY-MM-dd)

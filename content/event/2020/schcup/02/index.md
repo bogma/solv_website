@@ -4,7 +4,7 @@ date: 2020-04-22T00:00:00+01:00 # date of creation of the file
 draft: false
 status: canceled
 
-archives: []
+archives: ["2020"]
 tags: [ "Schul Cup"]
 
 event:

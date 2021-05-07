@@ -3,7 +3,7 @@ title: "Neue Termine!"
 date: 2020-05-25T19:48:23+02:00 # date of creation of the file (written)
 draft: false
 
-archives: []
+archives: ["2020"]
 tags: ["SBG Cup"] # tag your article here, i.e ["Training", "Administratives"]
 
 calendar_date: 2020-05-25T19:48:23+02:00 # TODO: date in calendar

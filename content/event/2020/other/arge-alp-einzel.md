@@ -5,7 +5,7 @@ draft: false
 status: canceled # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 0
 
-archives: []
+archives: ["2020"]
 tags: []
 
 event:

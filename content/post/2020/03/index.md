@@ -3,7 +3,7 @@ title: "ABGESAGT - Kinder- bzw. Anfängertraining 2020"
 date: 2020-02-26T23:00:16+01:00 # date of creation of the file (written)
 draft: false
 
-archives: []
+archives: ["2020"]
 tags: ["Training"] # tag your article here, i.e ["Training", "Administratives"]
 
 calendar_date: 2020-02-26T23:00:16+01:00 # TODO: date in calendar

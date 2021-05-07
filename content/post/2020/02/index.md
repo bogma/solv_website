@@ -3,7 +3,7 @@ title: "Einladung und Ausschreibung: SOLV-Trainingslager im Rahmen der Partnersc
 date: 2020-02-20T21:06:51+01:00 # date of creation of the file (written)
 draft: false
 
-archives: []
+archives: ["2020"]
 tags: ["Training", "Trainingslager"]
 
 calendar_date: 2020-02-20T21:06:51+01:00 # TODO: date in calendar

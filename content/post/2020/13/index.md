@@ -3,7 +3,7 @@ title: "SOLV Frühjahrstermine"
 date: 2020-12-25T20:24:08+01:00 # date of creation of the file (written)
 draft: false
 
-archives: []
+archives: ["2020"]
 tags: ["Termine"] # tag your article here, i.e ["Training", "Administratives"]
 
 calendar_date: 2020-12-25T20:24:08+01:00 # TODO: date in calendar

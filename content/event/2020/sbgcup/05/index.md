@@ -12,7 +12,7 @@ outputs:
 
 status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
-archives: []
+archives: ["2020"]
 tags: [ "SBG Cup"]
 
 anne_id: 3175

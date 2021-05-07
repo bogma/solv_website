@@ -4,7 +4,7 @@ date: 2020-04-30T21:16:26+02:00 # date of creation of the file (written)
 draft: false
 
 
-archives: []
+archives: ["2020"]
 tags: ["Training"] # tag your article here, i.e ["Training", "Administratives"]
 
 calendar_date: 2020-04-30T21:16:26+02:00 # TODO: date in calendar

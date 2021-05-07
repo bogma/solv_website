@@ -4,7 +4,7 @@ date: 2020-10-05T00:27:02+02:00 # date for 'written on'
 draft: false
 author: "r. merl"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2020"]
 tags: [] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Graz"
 info_date: 2020-10-04 # date in article (YYYY-MM-dd)
