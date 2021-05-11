@@ -1,6 +1,6 @@
 ---
-title: "2. Salzburger Sportvoglcup 2021"
-date: 2021-05-22T00:00:00 # keep time 0 until start time is known
+title: "2. Salzburger Trainingscup 2021"
+date: 2021-05-22T10:30:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,7 +8,7 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
@@ -19,39 +19,39 @@ event:
   name_amend: "" # respects markdown
   form: "Normaler OL"
   location: "Mönchsberg"
-  type: "sbgcup"
+  type: "trgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "HSV Wals" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 
-end: 150 # x minutes from event->date (remove if not needed)
-start_amend: "(WKZ - Start 0m)" # respects markdown
+end: 165 # x minutes from event->date (remove if not needed)
+start_amend: "(WKZ - Start 500m/50HM)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Franz Nagele"
+  event: "Franz Nagele"
+  inspection: "Jakob Buchberger, Leopold Tonka"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -8 # x days from event->date
 meeting:
-  point: ""
-  time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  point: "Parkplatz Augustinerbräu"
+  time_minutes: -30 # x minutes from event->date
+  location: [47.804756, 13.032753]
 map:
-  name: ""
-  scale: "1:10.000"
+  name: "Salzburg Mönchsberg"
+  scale: "1:4.000"
   equidistance: "5m"
-  update: "März 2006"
+  update: "Mai 2021"
   format: ""
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
+control_point_description: "Auf der Laufkarte und zum Download (für den Ausdruck zuhause)"
 hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
@@ -100,14 +100,11 @@ SPORTIdent; SI-Air+ (touch free) aktiviert.
 
 ### Allgemeines
 
-- Der Veranstalter sowie der durchführende Verein übernimmt keinerlei Haftung für auftretende Schäden jeglicher Art, auch nicht gegenüber Dritten.
-- Die Bestimmungen des Forstgesetzes und der StVO sind einzuhalten.
-- Die Veranstaltung wird nach den gültigen Regeln der [Wettlaufordnung](../../wettlaufordnung) des SOLV durchgeführt.
-- Im Laufgebiet besteht bis zum Wettkampf Trainingsverbot.
-- Jede\(r) Läufer(in) startet auf eigene Gefahr und ist für die entsprechenden Versicherungen selbst verantwortlich.
-- Die Regeln der Straßenverkehrsordnung sind unbedingt einzuhalten.
+- Jede(r) Läufer(in) nimmt am Training auf eigene Gefahr teil und ist für die entsprechende Versicherung selbst verantwortlich.
+- Insbesondere weisen wir die Eltern darauf hin, dass sie ihren Kindern die Gefahren von Fels-Abbrüchen am Mönchsberg erklären (auch wenn der Bahnleger bei den Jugendbahnen darauf Rücksicht genommen hat!).
+- Der Bahnleger sowie die durchführenden Vereine übernehmen keinerlei Haftung für auftretende Schäden jeglicher Art, auch nicht gegenüber dritten Personen.
 - Privatgrundstücke dürfen nicht betreten werden.
-
-### Hinweis des SOLV
-
-Für die Jahreswertung des SOLV-Cup werden nur SOLV-Mitglieder berücksichtigt!
+- Achtung: es gibt in verschiedenen Bereichen des Mönchsberges einen geringen Autoverkehr. Eine höhere Aufmerksamkeit ist den Radfahrern zu widmen!!!
+- Das Training wird nach den gültigen Regeln des ÖFOL durchgeführt.
+- Das Training wird unter strikter Einhaltung der geltenden COVID-19 Regeln durchgeführt. Kurzfristige Änderungen im Trainingsablauf sind deshalb möglich! Die Teilnehmer/innen verpflichten sich, alle öffentlich vorgeschriebenen Schutzmaßnahmen einzuhalten.
+- Durch die Anmeldung werden diese Regeln zur Kenntnis genommen und akzeptiert!
