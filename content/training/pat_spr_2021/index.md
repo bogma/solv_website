@@ -15,7 +15,7 @@ menu:
     parent: "training"
 ---
 
-#### 12.5.2012 -17.5.2021 / Seekirchen Stadt
+#### 12.5.2012 -23.5.2021 / Seekirchen Stadt
 
 Posten sind mit weißen Stofffähnchen markiert (am Objekt genau schauen!). **Verkehr beachten!**. Keine privaten Gärten queren (olivgrün / magenta schraffiert)!
 

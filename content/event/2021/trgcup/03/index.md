@@ -1,6 +1,6 @@
 ---
-title: "5. Salzburger Sportvoglcup 2021"
-date: 2021-05-29T00:00:00 # keep time 0 until start time is known
+title: "3. Salzburger Trainingscup 2021"
+date: 2021-05-29T10:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,7 +8,7 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
@@ -19,15 +19,15 @@ event:
   name_amend: "" # respects markdown
   form: "Sprint OL"
   location: "Schleedorf"
-  type: "sbgcup"
+  type: "trgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orientieering" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 
-end: 150 # x minutes from event->date (remove if not needed)
-start_amend: "(WKZ - Start 0m)" # respects markdown
+#end: 150 # x minutes from event->date (remove if not needed)
+start_amend: "" # respects markdown
 
 official: # names of course setter, event organizer and inspector
   course: ""
@@ -39,19 +39,19 @@ course:
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -8 # x days from event->date
 meeting:
-  point: ""
-  time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  point: "Sportplatz Schleedorf, Zufahrt nur über Tiefensteinklamm"
+  time_minutes: -30 # x minutes from event->date
+  location: [47.952027, 13.157421]
 map:
-  name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
+  name: "Schleedorf"
+  scale: "1:?"
+  equidistance: "2,5m"
+  update: "2021"
   format: ""
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
+control_point_description: ""
 hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
