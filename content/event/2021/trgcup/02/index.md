@@ -77,13 +77,13 @@ resources:
 - src: "**/*lms**"
   title: "Ergebnis Landesmeisterschaft Jugend & Senioren"
 
-# resource_links:
-#   infos:
-#   - link: "/resources/2019/start5sc2019.html"
-#     title: "Startliste"
-#   results:
-#   - link: "/resources/2019/resu5sc2019.html"
-#     title: "Ergebnisse 5.SC"
+resource_links:
+  infos:
+  - link: "/resources/3_G_Verordnung.pdf"
+    title: "3G Verordnung"
+  - link: "/resources/oefol_empfehlungen_covid_19_oeffnungsverordnung_20210519.pdf"
+    title: "Covid 19 ÖFOL Empfehlungen"
+#  results:
 #   - link: "/resources/2019/resu6sc2019.html"
 #     title: "Ergebnisse 6.SC"
 ---
