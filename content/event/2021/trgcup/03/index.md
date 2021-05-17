@@ -1,6 +1,6 @@
 ---
 title: "3. Salzburger Trainingscup 2021"
-date: 2021-05-29T10:00:00 # keep time 0 until start time is known
+date: 2021-05-29T10:30:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -30,9 +30,9 @@ implementation: "ASKÖ Henndorf Orientieering" # remove 2 of the 3 options
 start_amend: "" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Katharina Hinterhofer"
+  event: "Katharina Hinterhofer"
+  inspection: "Thomas Kohlbacher"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
@@ -46,12 +46,12 @@ meeting:
   location: [47.952027, 13.157421]
 map:
   name: "Schleedorf"
-  scale: "1:?"
+  scale: "1:4000"
   equidistance: "2,5m"
   update: "2021"
   format: ""
   hints: "" # additional hints to map
-control_point_description: ""
+control_point_description: "Auf der Karte und zum Download für den Ausdruck zuhause"
 hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
@@ -77,10 +77,10 @@ resources:
 - src: "**/*lms**"
   title: "Ergebnis Landesmeisterschaft Jugend & Senioren"
 
-# resource_links:
-#   infos:
-#   - link: "/resources/2019/start5sc2019.html"
-#     title: "Startliste"
+resource_links:
+  infos:
+  - link: "/resources/oefol_empfehlungen_covid_19_oeffnungsverordnung_20210519.pdf"
+    title: "Covid 19 ÖFOL Empfehlungen"
 #   results:
 #   - link: "/resources/2019/resu5sc2019.html"
 #     title: "Ergebnisse 5.SC"
