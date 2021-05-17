@@ -6,9 +6,11 @@ club:
     logo: /images/logo-ahd.jpg
     board:
       - position: Obmann
-        name: Christian Breitschädel
+        name: Roland Kohlbacher
       - position: Obmannstellvertreter
         name: Lucie Rothauer
+      - position: Obmannstellvertreter
+        name: Katharina Hinterhofer
       - position: Obmannstellvertreter
         name: Markus König
       - position: Obmannstellvertreter
