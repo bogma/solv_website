@@ -337,13 +337,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Eugendorf Berg",
+        "name": "Eugendorfer Berg",
         "ae": "5m",
         "owner": "ASKÖ Henndorf Orienteering",
         "club": "AHD",
         "lastUpdate": 2019,
         "updatedBy": ["Martin Lejsek"],
-        "creationDate": 0,
+        "creationDate": 2001,
         "createdBy": ["Martin Lejsek"]
       },
       "geometry": {
@@ -1731,8 +1731,8 @@
       "properties": {
         "name": "Salzburg - Mönchsberg - Altstadt",
         "ae": "5m",
-        "owner": "Salzburger OL Verband",
-        "club": "SOLV",
+        "owner": "ASKÖ Henndorf Orienteering",
+        "club": "AHD",
         "lastUpdate": 2021,
         "updatedBy": ["Franz Nagele"],
         "creationDate": 1998,
@@ -2584,7 +2584,7 @@
         "lastUpdate": 2011,
         "updatedBy": ["Martin Lejsek"],
         "creationDate": 1998,
-        "createdBy": ["Martin Lejsek"]
+        "createdBy": ["Martin Lejsek", "H.P. Mähönen"]
       },
       "geometry": {
         "type": "Polygon",
@@ -3010,9 +3010,9 @@
         "owner": "ASKÖ Henndorf Orienteering",
         "club": "AHD",
         "lastUpdate": 2015,
-        "updatedBy": [],
+        "updatedBy": ["Martin Lejsek"],
         "creationDate": 2008,
-        "createdBy": []
+        "createdBy": ["Martin Lejsek"]
       },
       "geometry": {
         "type": "Polygon",
@@ -8261,8 +8261,8 @@
       "properties": {
         "name": "Bischofshofen Missionshaus St.Rupert",
         "ae": "5m",
-        "owner": "ASKÖ Henndorf Orienteering",
-        "club": "AHD",
+        "owner": "SSV Hallein-Neualm",
+        "club": "SHN",
         "lastUpdate": 0,
         "updatedBy": [],
         "creationDate": 2003,
