@@ -8135,10 +8135,10 @@
         "ae": "5m",
         "owner": "ASKÖ Henndorf Orienteering",
         "club": "AHD",
-        "lastUpdate": 0,
-        "updatedBy": [],
-        "creationDate": 2012,
-        "createdBy": []
+        "lastUpdate": 2012,
+        "updatedBy": ["Martin Lejsek"],
+        "creationDate": 2004,
+        "createdBy": ["Martin Lejsek"]
       },
       "geometry": {
         "type": "Polygon",
