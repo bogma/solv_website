@@ -86,6 +86,9 @@ resource_links:
 #  results:
 #   - link: "/resources/2019/resu6sc2019.html"
 #     title: "Ergebnisse 6.SC"
+
+liveresultat_id: 19164
+
 ---
 
 ### Startgeld
