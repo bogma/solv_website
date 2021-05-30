@@ -2,7 +2,7 @@
  <ResultList xmlns="http://www.orienteering.org/datastandard/3.0"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  iofVersion="3.0"
- createTime="2021-05-29T13:48:58.446"
+ createTime="2021-05-30T09:34:32.284"
  creator="SportSoftware OE12 (M) V.11.95">
 <Event>
 <Name>3. Salzburger Trainingscup 2021</Name>
@@ -385,8 +385,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T11:28:00.000</StartTime>
@@ -496,8 +496,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T11:28:12.000</StartTime>
@@ -632,8 +632,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T11:05:21.000</StartTime>
@@ -788,8 +788,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T11:15:19.000</StartTime>
@@ -922,8 +922,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T11:13:15.000</StartTime>
@@ -1190,8 +1190,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T11:11:16.000</StartTime>
@@ -1571,8 +1571,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T10:58:17.000</StartTime>
@@ -1676,15 +1676,15 @@
 <Person sex="F">
 <Id>14</Id>
 <Name>
-<Family>Breitschädel</Family>
+<Family>Breitsch䤥l</Family>
 <Given>Eva</Given>
 </Name>
 <BirthDate>1953-01-01</BirthDate>
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T10:59:00.000</StartTime>
@@ -2019,6 +2019,119 @@
 </PersonResult>
 <PersonResult>
 <Person sex="M">
+<Id>55882</Id>
+<Name>
+<Family>Eibl</Family>
+<Given>Clemens</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>10001</Id>
+<Name>ohne Verein</Name>
+<ShortName>ohne Verein</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2021-05-29T10:47:22.000</StartTime>
+<FinishTime>2021-05-29T11:19:45.000</FinishTime>
+<Time>1943</Time>
+<TimeBehind>41</TimeBehind>
+<Position>2</Position>
+<Status>OK</Status>
+<SplitTime>
+<ControlCode>86</ControlCode>
+<Time>109</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>81</ControlCode>
+<Time>155</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>92</ControlCode>
+<Time>199</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>90</ControlCode>
+<Time>266</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>112</ControlCode>
+<Time>351</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>113</ControlCode>
+<Time>405</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>109</ControlCode>
+<Time>530</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>107</ControlCode>
+<Time>770</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>101</ControlCode>
+<Time>797</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>104</ControlCode>
+<Time>853</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>103</ControlCode>
+<Time>859</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>91</ControlCode>
+<Time>1001</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>85</ControlCode>
+<Time>1382</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>83</ControlCode>
+<Time>1446</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>97</ControlCode>
+<Time>1559</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>98</ControlCode>
+<Time>1617</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>93</ControlCode>
+<Time>1741</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>79</ControlCode>
+<Time>1795</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>77</ControlCode>
+<Time>1834</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>114</ControlCode>
+<Time>1885</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>100</ControlCode>
+<Time>1931</Time>
+</SplitTime>
+<ControlCard>52882</ControlCard>
+<AssignedFee>
+<Fee>
+<Name>Actual</Name>
+<Amount>3.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
 <Id>9278</Id>
 <Name>
 <Family>Emberger</Family>
@@ -2028,15 +2141,15 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T10:56:00.000</StartTime>
 <FinishTime>2021-05-29T11:55:31.000</FinishTime>
 <Time>3571</Time>
 <TimeBehind>1669</TimeBehind>
-<Position>2</Position>
+<Position>3</Position>
 <Status>OK</Status>
 <SplitTime>
 <ControlCode>86</ControlCode>
@@ -2123,94 +2236,6 @@
 <Time>3557</Time>
 </SplitTime>
 <ControlCard>8190507</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>3.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Id>55882</Id>
-<Name>
-<Family>Eibl</Family>
-<Given>Clemens</Given>
-</Name>
-</Person>
-<Organisation>
-<Id>10001</Id>
-<Name>ohne Verein</Name>
-<ShortName>ohne Verein</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-05-29T10:49:00.000</StartTime>
-<Status>OverTime</Status>
-<SplitTime status="Missing">
-<ControlCode>86</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>81</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>92</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>90</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>112</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>113</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>109</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>107</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>101</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>104</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>103</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>91</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>85</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>83</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>97</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>98</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>93</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>79</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>77</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>114</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>100</ControlCode>
-</SplitTime>
-<ControlCard>55882</ControlCard>
 <AssignedFee>
 <Fee>
 <Name>Actual</Name>
@@ -2408,8 +2433,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T11:23:19.000</StartTime>
@@ -2570,8 +2595,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T11:21:18.000</StartTime>
@@ -2732,8 +2757,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T11:25:00.000</StartTime>
@@ -3039,8 +3064,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T11:28:58.000</StartTime>
@@ -3361,8 +3386,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T11:08:30.000</StartTime>
@@ -3685,8 +3710,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T11:26:11.000</StartTime>
@@ -3867,8 +3892,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T10:50:46.000</StartTime>
@@ -4001,8 +4026,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T10:48:30.000</StartTime>
@@ -4506,8 +4531,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T11:18:18.000</StartTime>
@@ -4848,8 +4873,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T10:44:34.000</StartTime>
@@ -5210,8 +5235,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T10:36:40.000</StartTime>
@@ -5324,8 +5349,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T11:06:15.000</StartTime>
@@ -5428,15 +5453,15 @@
 <Person sex="M">
 <Id>13</Id>
 <Name>
-<Family>Breitschädel</Family>
+<Family>Breitsch䤥l</Family>
 <Given>Christian</Given>
 </Name>
 <BirthDate>1953-01-01</BirthDate>
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T11:00:00.000</StartTime>
@@ -5546,8 +5571,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T10:53:57.000</StartTime>
@@ -5644,8 +5669,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T10:57:13.000</StartTime>
@@ -5840,8 +5865,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T10:51:00.000</StartTime>
@@ -6072,8 +6097,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T11:25:20.000</StartTime>
@@ -6154,8 +6179,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T11:14:16.000</StartTime>
@@ -6236,8 +6261,8 @@
 </Person>
 <Organisation>
 <Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Name>ASK֠Henndorf Orienteering</Name>
+<ShortName>ASK֠Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2021-05-29T11:12:20.000</StartTime>
