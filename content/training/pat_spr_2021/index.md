@@ -15,7 +15,14 @@ menu:
     parent: "training"
 ---
 
-#### 12.5.2012 -23.5.2021 / Seekirchen Stadt
+#### 12.6.2021 - 21.6.2021 / Riedelwald
+
+Training im Riedelwald ist ausgebändert bis 21. Juni!
+
++ [Schlaufe 1](Training%20Riedelwald%20Juni21.Schlaufe%201.pdf) / [Schlaufe 2](Training%20Riedelwald%20Juni21.Schlaufe%202.pdf) / [Schlaufe 3](Training%20Riedelwald%20Juni21.Schlaufe%203.pdf)
++ [Lang](Training%20Riedelwald%20Juni21.Long.pdf)
+
+#### 12.5.2021 - 23.5.2021 / Seekirchen Stadt
 
 Posten sind mit weißen Stofffähnchen markiert (am Objekt genau schauen!). **Verkehr beachten!**. Keine privaten Gärten queren (olivgrün / magenta schraffiert)!
 
