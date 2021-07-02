@@ -15,6 +15,12 @@ menu:
     parent: "training"
 ---
 
+#### 2.7.2021 - 7.7.2021 / Gmoawald (östlicher Teil Richtung Henndorf)
+
+Unter dem Motto „Train your Brain“ hat Christian einen Tankstellen OL (weiß-rote Bänder) ausgehängt.
+
+Startpunkt und erster auswendig anzulaufender Posten ist auf der [Karte](Gmoawald_Tankstellen_OLJuli21.pdf) ersichtlich. Alle anderen Karten (immer gleicher Startpunkt bei der „Hütte“) mit 1 bis zu 4 auswendig zu laufenden Posten befinden sich in einer durchsichtigen Plastikbox hinter der „Hütte“.
+
 #### 12.6.2021 - 21.6.2021 / Riedelwald
 
 Training im Riedelwald ist ausgebändert bis 21. Juni!
