@@ -1,0 +1,86 @@
+<CupConfiguration type="Cup">
+  <General name="Salzburger Sportvoglcup 2021"
+           year="2021"
+           numberOfPlannedEvents="8"
+           numberOfValidEvents="8"
+           numberOfCountingEvents="5"
+           calcRule="sbgcup"
+           resultFileRegex="2021_(\d{2})_..gcup.*"
+           recurseSubDirs="true"
+           includeStatus="DidNotFinish, MissingPunch"
+           eventTitle="Sbg.Cup"
+           showEvents="OmitAllMissing"
+           showCompetitors="-1">
+  </General>
+  <PreProcessing>
+    <!-- options for input file preprocessing -->
+    <Task name="toUtf8" active="true" />
+    <Task name="toJson" active="false" />
+  </PreProcessing>
+  <Events>
+    <!-- set num to 0 if not needed -->
+    <Event num="1" name="Ursprung"/>
+    <Event num="2" name="Eugendorfberg"/>
+    <Event num="3" name="Mönchsberg"/>
+    <Event num="4" name="Fernwald"/>
+    <Event num="5" name="Tamsweg"/>
+    <Event num="6" name=""/>
+    <Event num="7" name="Salzburg Stadt"/>
+    <Event num="8" name="Salzburg Stadt" multiply="2.0" />
+  </Events>
+  <Classes filter="include">
+    <Class name="S-Damen -13" id="50" shortName="D13" />
+    <Class name="S-Damen -15" id="51" shortName="D15" />
+    <Class name="S-Damen -18" id="52" shortName="D18" />
+    <Class name="S-Damen 19-" id="53" shortName="D Elite" />
+    <Class name="S-Damen 35-" id="54" shortName="D35" />
+    <Class name="S-Damen 45-" id="55" shortName="D45" />
+    <Class name="S-Damen 55-" id="56" shortName="D55" />
+    <Class name="S-Herren -13" id="60" shortName="H13" />
+    <Class name="S-Herren -15" id="61" shortName="H15" />
+    <Class name="S-Herren -18" id="62" shortName="H18" />
+    <Class name="S-Herren 19-" id="63" shortName="H Elite" />
+    <Class name="S-Herren 35-" id="64" shortName="H35" />
+    <Class name="S-Herren 45-" id="65" shortName="H45" />
+    <Class name="S-Herren 55-" id="66" shortName="H55" />
+    <Class name="S-Herren 65-" id="67" shortName="H65" />
+  </Classes>
+  <Organisations filter="include" >
+    <Organisation name="ASKÖ Henndorf" id="32" />
+    <Organisation name="SSV Hallein" id="35" />
+    <Organisation name="HBLA Ursprung" id="200" />
+    <Organisation name="HSV Wals" id="33" />
+    <Organisation name="TV Zell am See" id="124" />
+    <Organisation name="NF Seekirchen" id="34" />
+  </Organisations>
+  <Output>
+    <Html active="true"
+          fileName="..\..\..\static\resources\2021\sbgcup2021.html"
+          cssInline="true"
+          docTemplate="..\..\..\templates\sbgcup_document_template.html"
+          classTemplate="..\..\..\templates\sbgcup_class_template.html"
+          detailsTemplate="..\..\..\templates\sbgcup_details_template.html"
+          cssFile="..\..\..\templates\default.css" />
+    <Pdf active="true"
+         fileName="sbgcup2020.pdf"
+         pageOrientation="Portrait"
+         pageSize="A4"
+         marginLeft="10"
+         marginTop="20"
+         marginRight="10"
+         marginBottom="20"></Pdf>
+    <Json active="false" fileName="sbgcup2021.json" />
+  </Output>
+  <Names>
+    <!-- <Name name="Bubu" aliasFor="der Hund, the great"/> -->
+    <Name name="Tscharlie Hackl" aliasFor="Karl Hackl"/>
+    <Name name="Roland Berner" aliasFor="Roland Perner"/>
+    <Name name="Yschi Tiefenbrunner" aliasFor="Yschai Tiefenbrunner"/>
+    <Name name="Jonas Königstorfer" aliasFor="Jonas Königsdorfer"/> 
+  </Names>
+  <Translations>
+    <Translation key="DidNotFinish" translate="aufg." />
+    <Translation key="DidNotStart" translate="n ang." />
+    <Translation key="MissingPunch" translate="Fehlst." />
+  </Translations>
+</CupConfiguration>
