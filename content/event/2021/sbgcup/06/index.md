@@ -1,6 +1,6 @@
 ---
-title: "3. Salzburger Sportvoglcup 2021"
-date: 2021-04-17T00:00:00 # keep time 0 until start time is known
+title: "6. Salzburger Sportvoglcup 2021"
+date: 2021-09-26T00:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,19 +8,19 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: canceled # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
 
-anne_id: 3300
+anne_id: 0
 
 event:
-  name_amend: "LM Sprint (Qualifikation)" # respects markdown
+  name_amend: "" # respects markdown
   form: "Sprint OL"
-  location: "Salzburg Stadt"
+  location: "Lungau"
   type: "sbgcup"
-championship: true
+championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "HSV Wals" # remove 2 of the 3 options
 

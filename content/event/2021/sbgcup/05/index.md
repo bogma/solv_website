@@ -1,6 +1,6 @@
 ---
-title: "4. Salzburger Sportvoglcup 2021"
-date: 2021-09-25T00:00:00 # keep time 0 until start time is known
+title: "5. Salzburger Sportvoglcup 2021"
+date: 2021-09-26T00:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -17,8 +17,8 @@ anne_id: 0
 
 event:
   name_amend: "" # respects markdown
-  form: "Normaler OL"
-  location: "Fernwald"
+  form: "Sprint OL"
+  location: "Tamsweg"
   type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
