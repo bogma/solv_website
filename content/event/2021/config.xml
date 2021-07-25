@@ -20,8 +20,8 @@
   <Events>
     <!-- set num to 0 if not needed -->
     <Event num="1" name="Ursprung"/>
-    <Event num="2" name="Eugendorfberg"/>
-    <Event num="3" name="Mönchsberg"/>
+    <Event num="2" name="Mönchsberg"/>
+    <Event num="3" name="Schleedorf"/>
     <Event num="4" name="Fernwald"/>
     <Event num="5" name="Tamsweg"/>
     <Event num="6" name=""/>
@@ -62,7 +62,7 @@
           detailsTemplate="..\..\..\templates\sbgcup_details_template.html"
           cssFile="..\..\..\templates\default.css" />
     <Pdf active="true"
-         fileName="sbgcup2020.pdf"
+         fileName="sbgcup2021.pdf"
          pageOrientation="Portrait"
          pageSize="A4"
          marginLeft="10"
