@@ -13,16 +13,16 @@ status: planned # planned (= for preview Calendar), active (= Announcement...), 
 archives: []
 tags: [ "SBG Cup"]
 
-anne_id: 0
+anne_id: 3490
 
 event:
   name_amend: "" # respects markdown
   form: "Normaler OL"
-  location: "Fernwald"
+  location: "Ramingstein"
   type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering" # remove 2 of the 3 options
+implementation: "HSV Wals" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 
@@ -39,7 +39,7 @@ course:
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -9 # x days from event->date
 meeting:
   point: ""
   time_minutes: -60 # x minutes from event->date
@@ -54,6 +54,8 @@ map:
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
+
+liveresultat_id: 20204
 
 resources:
 - src: "**/*anno**"

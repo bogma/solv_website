@@ -1,6 +1,6 @@
 ---
 title: "6. Salzburger Sportvoglcup 2021"
-date: 2021-09-26T00:00:00 # keep time 0 until start time is known
+date: 2021-09-26T11:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,29 +8,29 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
 
-anne_id: 0
+anne_id: 3477
 
 event:
-  name_amend: "" # respects markdown
-  form: "Sprint OL"
-  location: "Lungau"
+  name_amend: "Langdistanz" # respects markdown
+  form: "Normaler OL"
+  location: "Fernwald"
   type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "HSV Wals" # remove 2 of the 3 options
+implementation: "ASKÖ Henndorf Orientieering" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 
-end: 150 # x minutes from event->date (remove if not needed)
-start_amend: "(WKZ - Start 0m)" # respects markdown
+#end: 150 # x minutes from event->date (remove if not needed)
+start_amend: "(Weg zum Start: 800 m / 60 Hm)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
+  course: "Roland Kohlbacher"
   event: ""
   inspection: ""
 course:
@@ -39,21 +39,23 @@ course:
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -8 # x days from event->date
 meeting:
-  point: ""
+  point: "St. Andrä im Lungau - Volksschule"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.14943, 13.79233]
 map:
-  name: ""
+  name: "Fernwald"
   scale: "1:10.000"
   equidistance: "5m"
-  update: "März 2006"
+  update: "Juli 2021"
   format: ""
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
+control_point_description: "Auf der Karte und zum Download"
 hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
+
+liveresultat_id: 20206
 
 resources:
 - src: "**/*anno**"

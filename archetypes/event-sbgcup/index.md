@@ -26,8 +26,9 @@ implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" #
 
 # active section ------------------------------------------------
 
-end: 150 # x minutes from event->date (remove if not needed)
-start_amend: "(WKZ - Start 0m)" # respects markdown
+#liveresultat_id: 18741
+#end: 150 # x minutes from event->date (remove if not needed)
+#start_amend: "(WKZ - Start 0m)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
   course: ""
