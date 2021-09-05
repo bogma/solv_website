@@ -9,7 +9,7 @@ disable_rightbar: true
 
 menu:
   main:
-    weight: 10
+    weight: 890
     name: "Frühling 21 (P&T)"
     identifier: "pat_spr_21"
     parent: "training"
