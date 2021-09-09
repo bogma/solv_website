@@ -1,6 +1,6 @@
 ---
 title: "4. Salzburger Sportvoglcup 2021"
-date: 2021-09-25T00:00:00 # keep time 0 until start time is known
+date: 2021-09-25T11:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,7 +8,7 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
@@ -17,7 +17,7 @@ anne_id: 3490
 
 event:
   name_amend: "" # respects markdown
-  form: "Normaler OL"
+  form: "Sprint OL"
   location: "Ramingstein"
   type: "sbgcup"
 championship: false
@@ -26,13 +26,13 @@ implementation: "HSV Wals" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 
-end: 150 # x minutes from event->date (remove if not needed)
-start_amend: "(WKZ - Start 0m)" # respects markdown
+end: 120 # x minutes from event->date (remove if not needed)
+start_amend: "(Parkplatz – Start 950m + 100HM)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
+  course: "Franz Nagele"
   event: ""
-  inspection: ""
+  inspection: "Jakob Buchberger"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
@@ -41,17 +41,17 @@ entry:
   email: anmeldung@ol-sbg.at
   closing_date_days: -9 # x days from event->date
 meeting:
-  point: ""
+  point: "Parkplatz Gemeindeamt Ramingstein"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.07597, 13.84217]
 map:
-  name: ""
-  scale: "1:10.000"
+  name: "Burg Finstergrün"
+  scale: "1:1.000"
   equidistance: "5m"
-  update: "März 2006"
+  update: "September 2021"
   format: ""
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
+control_point_description: "Auf der Karte und zum Download"
 hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
