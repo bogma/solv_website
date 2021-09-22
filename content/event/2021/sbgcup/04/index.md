@@ -55,7 +55,7 @@ control_point_description: "Auf der Karte und zum Download"
 hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
-liveresultat_id: 20204
+#liveresultat_id: 20204
 
 resources:
 - src: "**/*anno**"
