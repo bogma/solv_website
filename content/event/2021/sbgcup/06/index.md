@@ -8,7 +8,7 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
@@ -77,7 +77,7 @@ resources:
 - src: "**/*dir**"
   title: "Anfahrt"
 - src: "**/*lms**"
-  title: "Ergebnis Landesmeisterschaft Jugend & Senioren"
+  title: "Ergebnis Landesmeisterschaft"
 
 # resource_links:
 #   infos:
