@@ -1,3315 +1,3311 @@
-<?xml version="1.0" encoding="windows-1252"?>
- <ResultList xmlns="http://www.orienteering.org/datastandard/3.0"
- xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- iofVersion="3.0"
- createTime="2021-09-26T14:03:21.711"
- creator="SportSoftware OE12 (M) V.11.95">
-<Event>
-<Name>6. Salzburger Sportvoglcup 2021</Name>
-</Event>
-<ClassResult>
-<Class resultListMode="Default" sex="F">
-<Id>50</Id>
-<Name>S-Damen -13</Name>
-<ShortName>S D13</ShortName>
-<Fee>
-<Name>Default</Name>
-<Amount>3.00</Amount>
-</Fee>
-<Fee>
-<Name>Startfee 2</Name>
-<Amount>0.00</Amount>
-</Fee>
-</Class>
-<Course>
-<Id>9001</Id>
-<Name>1 Einfach</Name>
-<Length>2070</Length>
-<Climb>95</Climb>
-<NumberOfControls>9</NumberOfControls>
-</Course>
-<PersonResult>
-<Person sex="F">
-<Id>9017</Id>
-<Name>
-<Family>Brawisch</Family>
-<Given>Charlotte</Given>
-</Name>
-<BirthDate>2009-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>33</Id>
-<Name>HSV Wals</Name>
-<ShortName>HSV Wals</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:01:22.000</StartTime>
-<FinishTime>2021-09-26T11:34:28.000</FinishTime>
-<Time>1986</Time>
-<TimeBehind>0</TimeBehind>
-<Position>1</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>86</ControlCode>
-<Time>193</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>87</ControlCode>
-<Time>333</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>95</ControlCode>
-<Time>708</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>91</ControlCode>
-<Time>957</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>90</ControlCode>
-<Time>1159</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>93</ControlCode>
-<Time>1308</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>97</ControlCode>
-<Time>1720</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>1897</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>1954</Time>
-</SplitTime>
-<ControlCard>500775</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>3.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-</ClassResult>
-<ClassResult>
-<Class resultListMode="Default" sex="F">
-<Id>51</Id>
-<Name>S-Damen -15</Name>
-<ShortName>S D15</ShortName>
-<Fee>
-<Name>Default</Name>
-<Amount>3.00</Amount>
-</Fee>
-<Fee>
-<Name>Startfee 2</Name>
-<Amount>0.00</Amount>
-</Fee>
-</Class>
-<Course>
-<Id>9002</Id>
-<Name>2 Kurz</Name>
-<Length>4330</Length>
-<Climb>150</Climb>
-<NumberOfControls>9</NumberOfControls>
-</Course>
-<PersonResult>
-<Person sex="F">
-<Id>41</Id>
-<Name>
-<Family>Höhenberger</Family>
-<Given>Lara</Given>
-</Name>
-<BirthDate>2006-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:05:43.000</StartTime>
-<FinishTime>2021-09-26T12:48:27.000</FinishTime>
-<Time>6164</Time>
-<TimeBehind>0</TimeBehind>
-<Position>1</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>522</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>2095</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>2929</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>3286</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>3517</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>4869</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>5572</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>6089</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>6137</Time>
-</SplitTime>
-<ControlCard>8190506</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>3.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="F">
-<Id>8702</Id>
-<Name>
-<Family>Helminger</Family>
-<Given>Katja</Given>
-</Name>
-<BirthDate>2008-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>33</Id>
-<Name>HSV Wals</Name>
-<ShortName>HSV Wals</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:06:00.000</StartTime>
-<Status>DidNotStart</Status>
-<SplitTime status="Missing">
-<ControlCode>85</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>84</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>82</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>79</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>80</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>92</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>94</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>102</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>100</ControlCode>
-</SplitTime>
-<ControlCard>8180108</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>3.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-</ClassResult>
-<ClassResult>
-<Class resultListMode="Default" sex="F">
-<Id>52</Id>
-<Name>S-Damen -18</Name>
-<ShortName>S D18</ShortName>
-<Fee>
-<Name>Default</Name>
-<Amount>4.50</Amount>
-</Fee>
-<Fee>
-<Name>Startfee 2</Name>
-<Amount>0.00</Amount>
-</Fee>
-</Class>
-<Course>
-<Id>9002</Id>
-<Name>2 Kurz</Name>
-<Length>4330</Length>
-<Climb>150</Climb>
-<NumberOfControls>9</NumberOfControls>
-</Course>
-<PersonResult>
-<Person sex="F">
-<Id>8831</Id>
-<Name>
-<Family>Müller</Family>
-<Given>Rebecca</Given>
-</Name>
-<BirthDate>2005-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>35</Id>
-<Name>SSV Hallein-Neualm</Name>
-<ShortName>SSV Hallein-Neualm</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:14:00.000</StartTime>
-<FinishTime>2021-09-26T12:31:31.000</FinishTime>
-<Time>4651</Time>
-<TimeBehind>0</TimeBehind>
-<Position>1</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>190</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>1619</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>2434</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>2776</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>3011</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>4098</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>4227</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>4573</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>4623</Time>
-</SplitTime>
-<ControlCard>2015815</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="F">
-<Id>2990</Id>
-<Name>
-<Family>Berger</Family>
-<Given>Carla</Given>
-</Name>
-<BirthDate>2005-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:11:58.000</StartTime>
-<FinishTime>2021-09-26T12:31:28.000</FinishTime>
-<Time>4770</Time>
-<TimeBehind>119</TimeBehind>
-<Position>2</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>309</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>1738</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>2536</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>2895</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>3130</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>4224</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>4369</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>4697</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>4744</Time>
-</SplitTime>
-<ControlCard>1500015</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-</ClassResult>
-<ClassResult>
-<Class resultListMode="Default" sex="F">
-<Id>53</Id>
-<Name>S-Damen 19-</Name>
-<ShortName>S D19</ShortName>
-<Fee>
-<Name>Default</Name>
-<Amount>4.50</Amount>
-</Fee>
-<Fee>
-<Name>Startfee 2</Name>
-<Amount>0.00</Amount>
-</Fee>
-</Class>
-<Course>
-<Id>9004</Id>
-<Name>3 Mittel</Name>
-<Length>5180</Length>
-<Climb>0</Climb>
-<NumberOfControls>11</NumberOfControls>
-</Course>
-<PersonResult>
-<Person sex="F">
-<Id>1069</Id>
-<Name>
-<Family>Rogl</Family>
-<Given>Franziska</Given>
-</Name>
-<BirthDate>1988-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T10:43:23.000</StartTime>
-<FinishTime>2021-09-26T11:46:13.000</FinishTime>
-<Time>3770</Time>
-<TimeBehind>0</TimeBehind>
-<Position>1</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>97</ControlCode>
-<Time>247</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>569</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>83</ControlCode>
-<Time>1229</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>76</ControlCode>
-<Time>1752</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>77</ControlCode>
-<Time>1988</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>2251</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>2674</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>88</ControlCode>
-<Time>3110</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>3251</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>101</ControlCode>
-<Time>3690</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>3738</Time>
-</SplitTime>
-<ControlCard>8151551</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Id>8110393</Id>
-<Name>
-<Family>Döllgast</Family>
-<Given>Nina</Given>
-</Name>
-</Person>
-<Organisation>
-<Id>10002</Id>
-<Name>MTV Seesen</Name>
-<ShortName>MTV Seesen</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:05:00.000</StartTime>
-<Status>DidNotStart</Status>
-<SplitTime status="Missing">
-<ControlCode>97</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>94</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>83</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>76</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>77</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>82</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>84</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>88</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>85</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>101</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>100</ControlCode>
-</SplitTime>
-<ControlCard>8110393</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-</ClassResult>
-<ClassResult>
-<Class resultListMode="Default" sex="F">
-<Id>54</Id>
-<Name>S-Damen 35-</Name>
-<ShortName>S D35</ShortName>
-<Fee>
-<Name>Default</Name>
-<Amount>4.50</Amount>
-</Fee>
-<Fee>
-<Name>Startfee 2</Name>
-<Amount>0.00</Amount>
-</Fee>
-</Class>
-<Course>
-<Id>9004</Id>
-<Name>3 Mittel</Name>
-<Length>5180</Length>
-<Climb>0</Climb>
-<NumberOfControls>11</NumberOfControls>
-</Course>
-<PersonResult>
-<Person sex="F">
-<Id>22</Id>
-<Name>
-<Family>Strasser</Family>
-<Given>Andrea</Given>
-</Name>
-<BirthDate>1980-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:09:41.000</StartTime>
-<FinishTime>2021-09-26T12:00:59.000</FinishTime>
-<Time>3078</Time>
-<TimeBehind>0</TimeBehind>
-<Position>1</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>97</ControlCode>
-<Time>493</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>789</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>83</ControlCode>
-<Time>1222</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>76</ControlCode>
-<Time>1551</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>77</ControlCode>
-<Time>1744</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>1926</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>2220</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>88</ControlCode>
-<Time>2576</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>2685</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>101</ControlCode>
-<Time>3007</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>3048</Time>
-</SplitTime>
-<ControlCard>8111016</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-</ClassResult>
-<ClassResult>
-<Class resultListMode="Default" sex="F">
-<Id>55</Id>
-<Name>S-Damen 45-</Name>
-<ShortName>S D45</ShortName>
-<Fee>
-<Name>Default</Name>
-<Amount>4.50</Amount>
-</Fee>
-<Fee>
-<Name>Startfee 2</Name>
-<Amount>0.00</Amount>
-</Fee>
-</Class>
-<Course>
-<Id>9004</Id>
-<Name>3 Mittel</Name>
-<Length>5180</Length>
-<Climb>0</Climb>
-<NumberOfControls>11</NumberOfControls>
-</Course>
-<PersonResult>
-<Person sex="F">
-<Id>2836</Id>
-<Name>
-<Family>Hillebrand</Family>
-<Given>Karin</Given>
-</Name>
-<BirthDate>1968-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:12:40.000</StartTime>
-<FinishTime>2021-09-26T12:21:06.000</FinishTime>
-<Time>4106</Time>
-<TimeBehind>0</TimeBehind>
-<Position>1</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>97</ControlCode>
-<Time>305</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>599</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>83</ControlCode>
-<Time>1282</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>76</ControlCode>
-<Time>1805</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>77</ControlCode>
-<Time>2050</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>2289</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>2963</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>88</ControlCode>
-<Time>3476</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>3614</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>101</ControlCode>
-<Time>4023</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>4071</Time>
-</SplitTime>
-<ControlCard>8377177</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="F">
-<Id>8240</Id>
-<Name>
-<Family>Hinterhofer</Family>
-<Given>Katharina</Given>
-</Name>
-<BirthDate>1969-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:34:57.000</StartTime>
-<FinishTime>2021-09-26T12:46:53.000</FinishTime>
-<Time>4316</Time>
-<TimeBehind>210</TimeBehind>
-<Position>2</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>97</ControlCode>
-<Time>284</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>674</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>83</ControlCode>
-<Time>1294</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>76</ControlCode>
-<Time>1770</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>77</ControlCode>
-<Time>2016</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>2310</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>2756</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>88</ControlCode>
-<Time>3157</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>3760</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>101</ControlCode>
-<Time>4238</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>4290</Time>
-</SplitTime>
-<ControlCard>8111131</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="F">
-<Id>6483</Id>
-<Name>
-<Family>Ebster</Family>
-<Given>Tanja</Given>
-</Name>
-<BirthDate>1975-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:17:15.000</StartTime>
-<FinishTime>2021-09-26T13:30:57.000</FinishTime>
-<Time>8022</Time>
-<TimeBehind>3916</TimeBehind>
-<Status>MissingPunch</Status>
-<SplitTime>
-<ControlCode>97</ControlCode>
-<Time>1229</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>1749</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>83</ControlCode>
-<Time>2900</Time>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>76</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>77</ControlCode>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>3963</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>5112</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>88</ControlCode>
-<Time>5873</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>6397</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>101</ControlCode>
-<Time>7832</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>7944</Time>
-</SplitTime>
-<ControlCard>7077770</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="F">
-<Name>
-<Family>Helminger</Family>
-<Given>Julia</Given>
-</Name>
-</Person>
-<Organisation>
-<Id>33</Id>
-<Name>HSV Wals</Name>
-<ShortName>HSV Wals</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:19:49.000</StartTime>
-<FinishTime>2021-09-26T12:11:59.000</FinishTime>
-<Time>3130</Time>
-<TimeBehind>-976</TimeBehind>
-<Status>DidNotFinish</Status>
-<SplitTime>
-<ControlCode>97</ControlCode>
-<Time>622</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>1029</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>83</ControlCode>
-<Time>1732</Time>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>76</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>77</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>82</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>84</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>88</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>85</ControlCode>
-</SplitTime>
-<SplitTime>
-<ControlCode>101</ControlCode>
-<Time>2981</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>3068</Time>
-</SplitTime>
-<ControlCard>887755</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-</ClassResult>
-<ClassResult>
-<Class resultListMode="Default" sex="F">
-<Id>56</Id>
-<Name>S-Damen 55-</Name>
-<ShortName>S D55</ShortName>
-<Fee>
-<Name>Default</Name>
-<Amount>4.50</Amount>
-</Fee>
-<Fee>
-<Name>Startfee 2</Name>
-<Amount>0.00</Amount>
-</Fee>
-</Class>
-<Course>
-<Id>9003</Id>
-<Name>2a Kurz (2)</Name>
-<Length>3800</Length>
-<Climb>0</Climb>
-<NumberOfControls>8</NumberOfControls>
-</Course>
-<PersonResult>
-<Person sex="F">
-<Id>555</Id>
-<Name>
-<Family>Buchberger</Family>
-<Given>Berta</Given>
-</Name>
-<BirthDate>1955-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>33</Id>
-<Name>HSV Wals</Name>
-<ShortName>HSV Wals</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:30:09.000</StartTime>
-<FinishTime>2021-09-26T13:11:23.000</FinishTime>
-<Time>6074</Time>
-<TimeBehind>0</TimeBehind>
-<Position>1</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>512</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>1901</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>3493</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>81</ControlCode>
-<Time>3867</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>4991</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>5371</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>101</ControlCode>
-<Time>5914</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>6010</Time>
-</SplitTime>
-<ControlCard>8310555</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="F">
-<Name>
-<Family>Müller</Family>
-<Given>Brigitte</Given>
-</Name>
-</Person>
-<Organisation>
-<Id>10001</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T22:42:40.000</StartTime>
-<FinishTime>2021-09-26T00:00:00.000</FinishTime>
-<Time>6148</Time>
-<TimeBehind>74</TimeBehind>
-<Position>2</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>1066</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>1935</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>2863</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>81</ControlCode>
-<Time>3214</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>5086</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>5441</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>101</ControlCode>
-<Time>6006</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>6093</Time>
-</SplitTime>
-<ControlCard>5399</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-</ClassResult>
-<ClassResult>
-<Class resultListMode="Default" sex="M">
-<Id>61</Id>
-<Name>S-Herren -15</Name>
-<ShortName>S H15</ShortName>
-<Fee>
-<Name>Default</Name>
-<Amount>4.50</Amount>
-</Fee>
-<Fee>
-<Name>Startfee 2</Name>
-<Amount>0.00</Amount>
-</Fee>
-</Class>
-<Course>
-<Id>9002</Id>
-<Name>2 Kurz</Name>
-<Length>4330</Length>
-<Climb>150</Climb>
-<NumberOfControls>9</NumberOfControls>
-</Course>
-<PersonResult>
-<Person sex="M">
-<Id>9570</Id>
-<Name>
-<Family>Eibl</Family>
-<Given>Clemens</Given>
-</Name>
-<BirthDate>2007-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:01:13.000</StartTime>
-<FinishTime>2021-09-26T12:11:05.000</FinishTime>
-<Time>4192</Time>
-<TimeBehind>0</TimeBehind>
-<Position>1</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>337</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>1633</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>2185</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>2437</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>2676</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>3489</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>3772</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>4118</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>4165</Time>
-</SplitTime>
-<ControlCard>8188388</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>3.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Id>9278</Id>
-<Name>
-<Family>Emberger</Family>
-<Given>Felix</Given>
-</Name>
-<BirthDate>2007-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:00:00.000</StartTime>
-<Status>DidNotStart</Status>
-<SplitTime status="Missing">
-<ControlCode>85</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>84</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>82</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>79</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>80</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>92</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>94</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>102</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>100</ControlCode>
-</SplitTime>
-<ControlCard>8190507</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>3.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-</ClassResult>
-<ClassResult>
-<Class resultListMode="Default" sex="M">
-<Id>63</Id>
-<Name>S-Herren 19-</Name>
-<ShortName>S H19</ShortName>
-<Fee>
-<Name>Default</Name>
-<Amount>4.50</Amount>
-</Fee>
-<Fee>
-<Name>Startfee 2</Name>
-<Amount>0.00</Amount>
-</Fee>
-</Class>
-<Course>
-<Id>9005</Id>
-<Name>4 Lang</Name>
-<Length>6370</Length>
-<Climb>0</Climb>
-<NumberOfControls>14</NumberOfControls>
-</Course>
-<PersonResult>
-<Person sex="M">
-<Id>7611</Id>
-<Name>
-<Family>Ebster</Family>
-<Given>Leon</Given>
-</Name>
-<BirthDate>2002-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:00:15.000</StartTime>
-<FinishTime>2021-09-26T11:55:03.000</FinishTime>
-<Time>3288</Time>
-<TimeBehind>0</TimeBehind>
-<Position>1</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>810</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>83</ControlCode>
-<Time>1068</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>1264</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>1456</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>78</ControlCode>
-<Time>1744</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>77</ControlCode>
-<Time>1817</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>76</ControlCode>
-<Time>1988</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>2199</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>2414</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>89</ControlCode>
-<Time>2739</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>88</ControlCode>
-<Time>2884</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>2963</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>3232</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>3265</Time>
-</SplitTime>
-<ControlCard>8068068</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Id>7608</Id>
-<Name>
-<Family>Königstorfer</Family>
-<Given>Jonas</Given>
-</Name>
-<BirthDate>2001-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:02:21.000</StartTime>
-<FinishTime>2021-09-26T12:29:06.000</FinishTime>
-<Time>5205</Time>
-<TimeBehind>1917</TimeBehind>
-<Position>2</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>683</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>83</ControlCode>
-<Time>969</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>1166</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>1385</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>78</ControlCode>
-<Time>1808</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>77</ControlCode>
-<Time>2019</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>76</ControlCode>
-<Time>2270</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>2577</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>2833</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>89</ControlCode>
-<Time>4293</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>88</ControlCode>
-<Time>4513</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>4640</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>5118</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>5177</Time>
-</SplitTime>
-<ControlCard>8114411</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-</ClassResult>
-<ClassResult>
-<Class resultListMode="Default" sex="M">
-<Id>64</Id>
-<Name>S-Herren 35-</Name>
-<ShortName>S H35</ShortName>
-<Fee>
-<Name>Default</Name>
-<Amount>4.50</Amount>
-</Fee>
-<Fee>
-<Name>Startfee 2</Name>
-<Amount>0.00</Amount>
-</Fee>
-</Class>
-<Course>
-<Id>9005</Id>
-<Name>4 Lang</Name>
-<Length>6370</Length>
-<Climb>0</Climb>
-<NumberOfControls>14</NumberOfControls>
-</Course>
-<PersonResult>
-<Person sex="M">
-<Id>1707</Id>
-<Name>
-<Family>Helminger</Family>
-<Given>Franz</Given>
-</Name>
-<BirthDate>1973-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>33</Id>
-<Name>HSV Wals</Name>
-<ShortName>HSV Wals</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:15:34.000</StartTime>
-<FinishTime>2021-09-26T12:05:56.000</FinishTime>
-<Time>3022</Time>
-<TimeBehind>0</TimeBehind>
-<Position>1</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>370</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>83</ControlCode>
-<Time>680</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>891</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>1069</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>78</ControlCode>
-<Time>1382</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>77</ControlCode>
-<Time>1456</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>76</ControlCode>
-<Time>1638</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>1861</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>2085</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>89</ControlCode>
-<Time>2431</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>88</ControlCode>
-<Time>2576</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>2668</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>2962</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>2993</Time>
-</SplitTime>
-<ControlCard>8251125</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Id>42</Id>
-<Name>
-<Family>Helminger</Family>
-<Given>Norbert</Given>
-</Name>
-<BirthDate>1975-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>33</Id>
-<Name>HSV Wals</Name>
-<ShortName>HSV Wals</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:07:26.000</StartTime>
-<FinishTime>2021-09-26T11:58:13.000</FinishTime>
-<Time>3047</Time>
-<TimeBehind>25</TimeBehind>
-<Position>2</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>370</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>83</ControlCode>
-<Time>650</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>842</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>1026</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>78</ControlCode>
-<Time>1314</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>77</ControlCode>
-<Time>1390</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>76</ControlCode>
-<Time>1583</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>1862</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>2076</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>89</ControlCode>
-<Time>2415</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>88</ControlCode>
-<Time>2579</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>2672</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>2993</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>3023</Time>
-</SplitTime>
-<ControlCard>8131131</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Id>1812</Id>
-<Name>
-<Family>Fink</Family>
-<Given>Bernhard</Given>
-</Name>
-<BirthDate>1977-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:11:24.000</StartTime>
-<FinishTime>2021-09-26T12:05:23.000</FinishTime>
-<Time>3239</Time>
-<TimeBehind>217</TimeBehind>
-<Position>3</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>334</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>83</ControlCode>
-<Time>608</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>1218</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>1387</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>78</ControlCode>
-<Time>1671</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>77</ControlCode>
-<Time>1744</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>76</ControlCode>
-<Time>1912</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>2137</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>2338</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>89</ControlCode>
-<Time>2683</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>88</ControlCode>
-<Time>2828</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>2909</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>3180</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>3210</Time>
-</SplitTime>
-<ControlCard>8101808</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Id>7741</Id>
-<Name>
-<Family>Bogensperger</Family>
-<Given>Martin</Given>
-</Name>
-<BirthDate>1972-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:04:37.000</StartTime>
-<FinishTime>2021-09-26T12:15:09.000</FinishTime>
-<Time>4232</Time>
-<TimeBehind>1210</TimeBehind>
-<Position>4</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>598</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>83</ControlCode>
-<Time>964</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>1552</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>1758</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>78</ControlCode>
-<Time>2105</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>77</ControlCode>
-<Time>2204</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>76</ControlCode>
-<Time>2442</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>2695</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>2948</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>89</ControlCode>
-<Time>3466</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>88</ControlCode>
-<Time>3645</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>3757</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>4169</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>4204</Time>
-</SplitTime>
-<ControlCard>8003005</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Id>1925</Id>
-<Name>
-<Family>Gusel</Family>
-<Given>Franz</Given>
-</Name>
-<BirthDate>1968-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>8</Id>
-<Name>HSV Spittal / Drau</Name>
-<ShortName>HSV Spittal / Drau</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:19:00.000</StartTime>
-<Status>DidNotStart</Status>
-<SplitTime status="Missing">
-<ControlCode>84</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>83</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>82</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>79</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>78</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>77</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>76</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>82</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>80</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>89</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>88</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>85</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>102</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>100</ControlCode>
-</SplitTime>
-<ControlCard>8300031</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-</ClassResult>
-<ClassResult>
-<Class resultListMode="Default" sex="M">
-<Id>65</Id>
-<Name>S-Herren 45-</Name>
-<ShortName>S H45</ShortName>
-<Fee>
-<Name>Default</Name>
-<Amount>4.50</Amount>
-</Fee>
-<Fee>
-<Name>Startfee 2</Name>
-<Amount>0.00</Amount>
-</Fee>
-</Class>
-<Course>
-<Id>9005</Id>
-<Name>4 Lang</Name>
-<Length>6370</Length>
-<Climb>0</Climb>
-<NumberOfControls>14</NumberOfControls>
-</Course>
-<PersonResult>
-<Person sex="M">
-<Id>7774</Id>
-<Name>
-<Family>Ebster Sen.</Family>
-<Given>Peter</Given>
-</Name>
-<BirthDate>1968-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:22:51.000</StartTime>
-<FinishTime>2021-09-26T12:33:59.000</FinishTime>
-<Time>4268</Time>
-<TimeBehind>0</TimeBehind>
-<Position>1</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>479</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>83</ControlCode>
-<Time>844</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>1133</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>1367</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>78</ControlCode>
-<Time>1768</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>77</ControlCode>
-<Time>1881</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>76</ControlCode>
-<Time>2140</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>2459</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>2751</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>89</ControlCode>
-<Time>3231</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>88</ControlCode>
-<Time>3461</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>3813</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>4211</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>4245</Time>
-</SplitTime>
-<ControlCard>8446677</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Id>28</Id>
-<Name>
-<Family>Elstner</Family>
-<Given>Florian</Given>
-</Name>
-<BirthDate>1963-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:18:59.000</StartTime>
-<FinishTime>2021-09-26T12:39:13.000</FinishTime>
-<Time>4814</Time>
-<TimeBehind>546</TimeBehind>
-<Position>2</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>596</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>83</ControlCode>
-<Time>987</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>1354</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>1604</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>78</ControlCode>
-<Time>2015</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>77</ControlCode>
-<Time>2124</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>76</ControlCode>
-<Time>2367</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>2674</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>2982</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>89</ControlCode>
-<Time>3950</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>88</ControlCode>
-<Time>4181</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>4314</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>4730</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>4775</Time>
-</SplitTime>
-<ControlCard>8030563</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-</ClassResult>
-<ClassResult>
-<Class resultListMode="Default" sex="M">
-<Id>66</Id>
-<Name>S-Herren 55-</Name>
-<ShortName>S H55</ShortName>
-<Fee>
-<Name>Default</Name>
-<Amount>4.50</Amount>
-</Fee>
-<Fee>
-<Name>Startfee 2</Name>
-<Amount>0.00</Amount>
-</Fee>
-</Class>
-<Course>
-<Id>9002</Id>
-<Name>2 Kurz</Name>
-<Length>4330</Length>
-<Climb>150</Climb>
-<NumberOfControls>9</NumberOfControls>
-</Course>
-<PersonResult>
-<Person sex="M">
-<Id>7759</Id>
-<Name>
-<Family>Wimmer</Family>
-<Given>Josef</Given>
-</Name>
-<BirthDate>1957-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:24:44.000</StartTime>
-<FinishTime>2021-09-26T12:27:26.000</FinishTime>
-<Time>3762</Time>
-<TimeBehind>0</TimeBehind>
-<Position>1</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>437</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>963</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>1498</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>1775</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>1925</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>2912</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>3395</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>3701</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>3738</Time>
-</SplitTime>
-<ControlCard>8497107</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Id>330</Id>
-<Name>
-<Family>Drage</Family>
-<Given>Stefan</Given>
-</Name>
-<BirthDate>1959-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>19</Id>
-<Name>HSV OL Wiener Neustadt</Name>
-<ShortName>HSV OL Wiener Neustadt</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:18:12.000</StartTime>
-<FinishTime>2021-09-26T12:27:22.000</FinishTime>
-<Time>4150</Time>
-<TimeBehind>388</TimeBehind>
-<Position>2</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>216</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>632</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>1098</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>1423</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>1560</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>2645</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>3799</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>4077</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>4120</Time>
-</SplitTime>
-<ControlCard>8150815</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Id>1904</Id>
-<Name>
-<Family>Mayer</Family>
-<Given>Horst</Given>
-</Name>
-<BirthDate>1960-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>35</Id>
-<Name>SSV Hallein-Neualm</Name>
-<ShortName>SSV Hallein-Neualm</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:16:02.000</StartTime>
-<FinishTime>2021-09-26T12:27:50.000</FinishTime>
-<Time>4308</Time>
-<TimeBehind>546</TimeBehind>
-<Position>3</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>171</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>670</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>1289</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>1572</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>1751</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>3813</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>3950</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>4237</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>4274</Time>
-</SplitTime>
-<ControlCard>8021260</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Id>1070</Id>
-<Name>
-<Family>Rogl</Family>
-<Given>Hartwig</Given>
-</Name>
-<BirthDate>1958-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>34</Id>
-<Name>Naturfreunde Seekirchen</Name>
-<ShortName>Naturfreunde Seekirchen</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:21:46.000</StartTime>
-<FinishTime>2021-09-26T12:15:14.000</FinishTime>
-<Time>3208</Time>
-<TimeBehind>-554</TimeBehind>
-<Status>MissingPunch</Status>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>2432</Time>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>84</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>82</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>79</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>80</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>92</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>94</ControlCode>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>3044</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>3121</Time>
-</SplitTime>
-<ControlCard>8447777</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-</ClassResult>
-<ClassResult>
-<Class resultListMode="Default" sex="M">
-<Id>67</Id>
-<Name>S-Herren 65-</Name>
-<ShortName>S H65</ShortName>
-<Fee>
-<Name>Default</Name>
-<Amount>4.50</Amount>
-</Fee>
-<Fee>
-<Name>Startfee 2</Name>
-<Amount>0.00</Amount>
-</Fee>
-</Class>
-<Course>
-<Id>9002</Id>
-<Name>2 Kurz</Name>
-<Length>4330</Length>
-<Climb>150</Climb>
-<NumberOfControls>9</NumberOfControls>
-</Course>
-<PersonResult>
-<Person sex="M">
-<Id>8</Id>
-<Name>
-<Family>Böhm</Family>
-<Given>Eduard</Given>
-</Name>
-<BirthDate>1948-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:30:36.000</StartTime>
-<FinishTime>2021-09-26T12:28:02.000</FinishTime>
-<Time>3446</Time>
-<TimeBehind>0</TimeBehind>
-<Position>1</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>136</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>635</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>1190</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>1478</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>1690</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>2575</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>3057</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>3371</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>3412</Time>
-</SplitTime>
-<ControlCard>8130948</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Id>557</Id>
-<Name>
-<Family>Buchberger</Family>
-<Given>Jakob</Given>
-</Name>
-<BirthDate>1953-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>33</Id>
-<Name>HSV Wals</Name>
-<ShortName>HSV Wals</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:33:29.000</StartTime>
-<FinishTime>2021-09-26T12:31:36.000</FinishTime>
-<Time>3487</Time>
-<TimeBehind>41</TimeBehind>
-<Position>2</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>266</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>810</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>1381</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>1676</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>1853</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>2888</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>3051</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>3400</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>3451</Time>
-</SplitTime>
-<ControlCard>8150253</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Id>5267</Id>
-<Name>
-<Family>Berger</Family>
-<Given>Ekkehard</Given>
-</Name>
-<BirthDate>1954-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:36:36.000</StartTime>
-<FinishTime>2021-09-26T12:42:01.000</FinishTime>
-<Time>3925</Time>
-<TimeBehind>479</TimeBehind>
-<Position>3</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>179</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>745</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>1405</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>1988</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>2181</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>3378</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>3530</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>3846</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>3889</Time>
-</SplitTime>
-<ControlCard>1000050</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Id>7098</Id>
-<Name>
-<Family>Werther</Family>
-<Given>Wolfgang</Given>
-</Name>
-<BirthDate>1954-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>63</Id>
-<Name>WATV</Name>
-<ShortName>WATV</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:27:38.000</StartTime>
-<FinishTime>2021-09-26T12:41:56.000</FinishTime>
-<Time>4458</Time>
-<TimeBehind>1012</TimeBehind>
-<Position>4</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>282</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>1308</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>2176</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>2491</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>2688</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>3876</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>94</ControlCode>
-<Time>4062</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>4376</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>4422</Time>
-</SplitTime>
-<ControlCard>8450045</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Name>
-<Family>Müller</Family>
-<Given>Leo</Given>
-</Name>
-</Person>
-<Organisation>
-<Id>10001</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T10:41:13.000</StartTime>
-<FinishTime>2021-09-26T13:13:15.000</FinishTime>
-<Time>9122</Time>
-<TimeBehind>5676</TimeBehind>
-<Status>MissingPunch</Status>
-<SplitTime>
-<ControlCode>85</ControlCode>
-<Time>285</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>84</ControlCode>
-<Time>1266</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>82</ControlCode>
-<Time>2422</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>79</ControlCode>
-<Time>3553</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>80</ControlCode>
-<Time>3919</Time>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>92</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>94</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>102</ControlCode>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>9031</Time>
-</SplitTime>
-<ControlCard>2116263</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>4.50</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-</ClassResult>
-<ClassResult>
-<Class resultListMode="Default" sex="M">
-<Id>70</Id>
-<Name>Offen Kurz</Name>
-<ShortName>S OK</ShortName>
-<Fee>
-<Name>Default</Name>
-<Amount>3.00</Amount>
-</Fee>
-<Fee>
-<Name>Startfee 2</Name>
-<Amount>0.00</Amount>
-</Fee>
-</Class>
-<Course>
-<Id>9001</Id>
-<Name>1 Einfach</Name>
-<Length>2070</Length>
-<Climb>95</Climb>
-<NumberOfControls>9</NumberOfControls>
-</Course>
-<PersonResult>
-<Person sex="M">
-<Id>3076</Id>
-<Name>
-<Family>Strasser</Family>
-<Given>Bernhard</Given>
-</Name>
-<BirthDate>1975-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T10:56:24.000</StartTime>
-<FinishTime>2021-09-26T11:20:08.000</FinishTime>
-<Time>1424</Time>
-<TimeBehind>0</TimeBehind>
-<Position>1</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>86</ControlCode>
-<Time>227</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>87</ControlCode>
-<Time>315</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>95</ControlCode>
-<Time>457</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>91</ControlCode>
-<Time>629</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>90</ControlCode>
-<Time>772</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>93</ControlCode>
-<Time>909</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>97</ControlCode>
-<Time>1193</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>1340</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>1384</Time>
-</SplitTime>
-<ControlCard>8002332</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>3.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Id>9441</Id>
-<Name>
-<Family>Fink</Family>
-<Given>Lorenz + Freunde</Given>
-</Name>
-<BirthDate>2012-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:07:12.000</StartTime>
-<FinishTime>2021-09-26T11:34:29.000</FinishTime>
-<Time>1637</Time>
-<TimeBehind>213</TimeBehind>
-<Position>2</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>86</ControlCode>
-<Time>160</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>87</ControlCode>
-<Time>375</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>95</ControlCode>
-<Time>526</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>91</ControlCode>
-<Time>717</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>90</ControlCode>
-<Time>865</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>93</ControlCode>
-<Time>1007</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>97</ControlCode>
-<Time>1417</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>1559</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>1614</Time>
-</SplitTime>
-<ControlCard>2116279</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>3.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="F">
-<Id>9279</Id>
-<Name>
-<Family>Berger</Family>
-<Given>Claudia</Given>
-</Name>
-<BirthDate>1965-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:03:28.000</StartTime>
-<FinishTime>2021-09-26T11:52:27.000</FinishTime>
-<Time>2939</Time>
-<TimeBehind>1515</TimeBehind>
-<Position>3</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>86</ControlCode>
-<Time>241</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>87</ControlCode>
-<Time>389</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>95</ControlCode>
-<Time>780</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>91</ControlCode>
-<Time>982</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>90</ControlCode>
-<Time>1137</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>93</ControlCode>
-<Time>1330</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>97</ControlCode>
-<Time>1736</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>2828</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>2893</Time>
-</SplitTime>
-<ControlCard>2000429</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>3.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Name>
-<Family>Müller</Family>
-<Given>Fam</Given>
-</Name>
-</Person>
-<Organisation>
-<Id>35</Id>
-<Name>SSV Hallein-Neualm</Name>
-<ShortName>SSV Hallein-Neualm</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:14:57.000</StartTime>
-<FinishTime>2021-09-26T12:23:19.000</FinishTime>
-<Time>4102</Time>
-<TimeBehind>2678</TimeBehind>
-<Position>4</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>86</ControlCode>
-<Time>872</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>87</ControlCode>
-<Time>1532</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>95</ControlCode>
-<Time>1910</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>91</ControlCode>
-<Time>2212</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>90</ControlCode>
-<Time>2603</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>93</ControlCode>
-<Time>2806</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>97</ControlCode>
-<Time>3696</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>102</ControlCode>
-<Time>3956</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>4055</Time>
-</SplitTime>
-<ControlCard>2015814</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>3.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-</ClassResult>
-<ClassResult>
-<Class resultListMode="Default" sex="M">
-<Id>72</Id>
-<Name>Family</Name>
-<ShortName>Fam</ShortName>
-<Fee>
-<Name>Default</Name>
-<Amount>3.00</Amount>
-</Fee>
-<Fee>
-<Name>Startfee 2</Name>
-<Amount>0.00</Amount>
-</Fee>
-</Class>
-<Course>
-<Id>9006</Id>
-<Name>5 Family</Name>
-<Length>1660</Length>
-<Climb>50</Climb>
-<NumberOfControls>7</NumberOfControls>
-</Course>
-<PersonResult>
-<Person sex="M">
-<Name>
-<Family>Strasser</Family>
-<Given>Fabian</Given>
-</Name>
-</Person>
-<Organisation>
-<Id>10001</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:37:42.000</StartTime>
-<FinishTime>2021-09-26T11:58:17.000</FinishTime>
-<Time>1235</Time>
-<TimeBehind>0</TimeBehind>
-<Position>1</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>86</ControlCode>
-<Time>190</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>96</ControlCode>
-<Time>267</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>679</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>95</ControlCode>
-<Time>793</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>97</ControlCode>
-<Time>974</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>101</ControlCode>
-<Time>1167</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>1211</Time>
-</SplitTime>
-<ControlCard>502100</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>5.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Name>
-<Family>Brodinger</Family>
-<Given>Fam</Given>
-</Name>
-</Person>
-<Organisation>
-<Id>10003</Id>
-<Name>ohne Verein</Name>
-<ShortName>ohne Verein</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:40:26.000</StartTime>
-<FinishTime>2021-09-26T12:07:49.000</FinishTime>
-<Time>1643</Time>
-<TimeBehind>408</TimeBehind>
-<Position>2</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>86</ControlCode>
-<Time>309</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>96</ControlCode>
-<Time>401</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>797</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>95</ControlCode>
-<Time>1003</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>97</ControlCode>
-<Time>1272</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>101</ControlCode>
-<Time>1504</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>1605</Time>
-</SplitTime>
-<ControlCard>5359</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>3.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="F">
-<Name>
-<Family>Strasser</Family>
-<Given>Lena</Given>
-</Name>
-</Person>
-<Organisation>
-<Id>10001</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:09:28.000</StartTime>
-<FinishTime>2021-09-26T11:45:48.000</FinishTime>
-<Time>2180</Time>
-<TimeBehind>945</TimeBehind>
-<Position>3</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>86</ControlCode>
-<Time>366</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>96</ControlCode>
-<Time>460</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>1167</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>95</ControlCode>
-<Time>1474</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>97</ControlCode>
-<Time>1741</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>101</ControlCode>
-<Time>2027</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>2132</Time>
-</SplitTime>
-<ControlCard>755555</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>3.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Id>9016</Id>
-<Name>
-<Family>Brawisch</Family>
-<Given>Ludwig</Given>
-</Name>
-<BirthDate>2012-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>33</Id>
-<Name>HSV Wals</Name>
-<ShortName>HSV Wals</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:09:25.000</StartTime>
-<FinishTime>2021-09-26T11:45:49.000</FinishTime>
-<Time>2184</Time>
-<TimeBehind>949</TimeBehind>
-<Position>4</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>86</ControlCode>
-<Time>371</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>96</ControlCode>
-<Time>468</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>1159</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>95</ControlCode>
-<Time>1480</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>97</ControlCode>
-<Time>1750</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>101</ControlCode>
-<Time>2038</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>2138</Time>
-</SplitTime>
-<ControlCard>7615</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>5.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Name>
-<Family>Hütteneder</Family>
-<Given>Fabian</Given>
-</Name>
-</Person>
-<Organisation>
-<Id>10003</Id>
-<Name>ohne Verein</Name>
-<ShortName>ohne Verein</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:28:51.000</StartTime>
-<FinishTime>2021-09-26T12:08:17.000</FinishTime>
-<Time>2366</Time>
-<TimeBehind>1131</TimeBehind>
-<Position>5</Position>
-<Status>OK</Status>
-<SplitTime>
-<ControlCode>86</ControlCode>
-<Time>664</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>96</ControlCode>
-<Time>840</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>92</ControlCode>
-<Time>1490</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>95</ControlCode>
-<Time>1708</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>97</ControlCode>
-<Time>1961</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>101</ControlCode>
-<Time>2195</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>100</ControlCode>
-<Time>2321</Time>
-</SplitTime>
-<ControlCard>5360</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>3.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Id>8110711</Id>
-<Name>
-<Family>Emberger</Family>
-<Given>Olivia</Given>
-</Name>
-</Person>
-<Organisation>
-<Id>10001</Id>
-<Name>ASKÖ Henndorf</Name>
-<ShortName>ASKÖ Henndorf</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2021-09-26T11:33:00.000</StartTime>
-<Status>DidNotStart</Status>
-<SplitTime status="Missing">
-<ControlCode>86</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>96</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>92</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>95</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>97</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>101</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>100</ControlCode>
-</SplitTime>
-<ControlCard>8110711</ControlCard>
-<AssignedFee>
-<Fee>
-<Name>Actual</Name>
-<Amount>5.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-</ClassResult>
+ï»¿<?xml version="1.0" encoding="utf-8"?>
+<ResultList xmlns="http://www.orienteering.org/datastandard/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" iofVersion="3.0" createTime="2021-09-26T14:03:21.711" creator="SportSoftware OE12 (M) V.11.95">
+  <Event>
+    <Name>6. Salzburger Sportvoglcup 2021</Name>
+  </Event>
+  <ClassResult>
+    <Class resultListMode="Default" sex="F">
+      <Id>50</Id>
+      <Name>S-Damen -13</Name>
+      <ShortName>S D13</ShortName>
+      <Fee>
+        <Name>Default</Name>
+        <Amount>3.00</Amount>
+      </Fee>
+      <Fee>
+        <Name>Startfee 2</Name>
+        <Amount>0.00</Amount>
+      </Fee>
+    </Class>
+    <Course>
+      <Id>9001</Id>
+      <Name>1 Einfach</Name>
+      <Length>2070</Length>
+      <Climb>95</Climb>
+      <NumberOfControls>9</NumberOfControls>
+    </Course>
+    <PersonResult>
+      <Person sex="F">
+        <Id>9017</Id>
+        <Name>
+          <Family>Brawisch</Family>
+          <Given>Charlotte</Given>
+        </Name>
+        <BirthDate>2009-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>33</Id>
+        <Name>HSV Wals</Name>
+        <ShortName>HSV Wals</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:01:22.000</StartTime>
+        <FinishTime>2021-09-26T11:34:28.000</FinishTime>
+        <Time>1986</Time>
+        <TimeBehind>0</TimeBehind>
+        <Position>1</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>86</ControlCode>
+          <Time>193</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>87</ControlCode>
+          <Time>333</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>95</ControlCode>
+          <Time>708</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>91</ControlCode>
+          <Time>957</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>90</ControlCode>
+          <Time>1159</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>93</ControlCode>
+          <Time>1308</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>97</ControlCode>
+          <Time>1720</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>1897</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>1954</Time>
+        </SplitTime>
+        <ControlCard>500775</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>3.00</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+  </ClassResult>
+  <ClassResult>
+    <Class resultListMode="Default" sex="F">
+      <Id>51</Id>
+      <Name>S-Damen -15</Name>
+      <ShortName>S D15</ShortName>
+      <Fee>
+        <Name>Default</Name>
+        <Amount>3.00</Amount>
+      </Fee>
+      <Fee>
+        <Name>Startfee 2</Name>
+        <Amount>0.00</Amount>
+      </Fee>
+    </Class>
+    <Course>
+      <Id>9002</Id>
+      <Name>2 Kurz</Name>
+      <Length>4330</Length>
+      <Climb>150</Climb>
+      <NumberOfControls>9</NumberOfControls>
+    </Course>
+    <PersonResult>
+      <Person sex="F">
+        <Id>41</Id>
+        <Name>
+          <Family>HÃ¶henberger</Family>
+          <Given>Lara</Given>
+        </Name>
+        <BirthDate>2006-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:05:43.000</StartTime>
+        <FinishTime>2021-09-26T12:48:27.000</FinishTime>
+        <Time>6164</Time>
+        <TimeBehind>0</TimeBehind>
+        <Position>1</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>522</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>2095</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>2929</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>3286</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>3517</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>92</ControlCode>
+          <Time>4869</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>5572</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>6089</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>6137</Time>
+        </SplitTime>
+        <ControlCard>8190506</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>3.00</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="F">
+        <Id>8702</Id>
+        <Name>
+          <Family>Helminger</Family>
+          <Given>Katja</Given>
+        </Name>
+        <BirthDate>2008-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>33</Id>
+        <Name>HSV Wals</Name>
+        <ShortName>HSV Wals</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:06:00.000</StartTime>
+        <Status>DidNotStart</Status>
+        <SplitTime status="Missing">
+          <ControlCode>85</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>84</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>82</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>79</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>80</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>92</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>94</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>102</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>100</ControlCode>
+        </SplitTime>
+        <ControlCard>8180108</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>3.00</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+  </ClassResult>
+  <ClassResult>
+    <Class resultListMode="Default" sex="F">
+      <Id>52</Id>
+      <Name>S-Damen -18</Name>
+      <ShortName>S D18</ShortName>
+      <Fee>
+        <Name>Default</Name>
+        <Amount>4.50</Amount>
+      </Fee>
+      <Fee>
+        <Name>Startfee 2</Name>
+        <Amount>0.00</Amount>
+      </Fee>
+    </Class>
+    <Course>
+      <Id>9002</Id>
+      <Name>2 Kurz</Name>
+      <Length>4330</Length>
+      <Climb>150</Climb>
+      <NumberOfControls>9</NumberOfControls>
+    </Course>
+    <PersonResult>
+      <Person sex="F">
+        <Id>8831</Id>
+        <Name>
+          <Family>MÃ¼ller</Family>
+          <Given>Rebecca</Given>
+        </Name>
+        <BirthDate>2005-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>35</Id>
+        <Name>SSV Hallein-Neualm</Name>
+        <ShortName>SSV Hallein-Neualm</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:14:00.000</StartTime>
+        <FinishTime>2021-09-26T12:31:31.000</FinishTime>
+        <Time>4651</Time>
+        <TimeBehind>0</TimeBehind>
+        <Position>1</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>190</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>1619</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>2434</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>2776</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>3011</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>92</ControlCode>
+          <Time>4098</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>4227</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>4573</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>4623</Time>
+        </SplitTime>
+        <ControlCard>2015815</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="F">
+        <Id>2990</Id>
+        <Name>
+          <Family>Berger</Family>
+          <Given>Carla</Given>
+        </Name>
+        <BirthDate>2005-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:11:58.000</StartTime>
+        <FinishTime>2021-09-26T12:31:28.000</FinishTime>
+        <Time>4770</Time>
+        <TimeBehind>119</TimeBehind>
+        <Position>2</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>309</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>1738</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>2536</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>2895</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>3130</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>92</ControlCode>
+          <Time>4224</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>4369</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>4697</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>4744</Time>
+        </SplitTime>
+        <ControlCard>1500015</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+  </ClassResult>
+  <ClassResult>
+    <Class resultListMode="Default" sex="F">
+      <Id>53</Id>
+      <Name>S-Damen 19-</Name>
+      <ShortName>S D19</ShortName>
+      <Fee>
+        <Name>Default</Name>
+        <Amount>4.50</Amount>
+      </Fee>
+      <Fee>
+        <Name>Startfee 2</Name>
+        <Amount>0.00</Amount>
+      </Fee>
+    </Class>
+    <Course>
+      <Id>9004</Id>
+      <Name>3 Mittel</Name>
+      <Length>5180</Length>
+      <Climb>0</Climb>
+      <NumberOfControls>11</NumberOfControls>
+    </Course>
+    <PersonResult>
+      <Person sex="F">
+        <Id>1069</Id>
+        <Name>
+          <Family>Rogl</Family>
+          <Given>Franziska</Given>
+        </Name>
+        <BirthDate>1988-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T10:43:23.000</StartTime>
+        <FinishTime>2021-09-26T11:46:13.000</FinishTime>
+        <Time>3770</Time>
+        <TimeBehind>0</TimeBehind>
+        <Position>1</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>97</ControlCode>
+          <Time>247</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>569</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>83</ControlCode>
+          <Time>1229</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>76</ControlCode>
+          <Time>1752</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>77</ControlCode>
+          <Time>1988</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>2251</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>2674</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>88</ControlCode>
+          <Time>3110</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>3251</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>101</ControlCode>
+          <Time>3690</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>3738</Time>
+        </SplitTime>
+        <ControlCard>8151551</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Id>8110393</Id>
+        <Name>
+          <Family>DÃ¶llgast</Family>
+          <Given>Nina</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>10002</Id>
+        <Name>MTV Seesen</Name>
+        <ShortName>MTV Seesen</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:05:00.000</StartTime>
+        <Status>DidNotStart</Status>
+        <SplitTime status="Missing">
+          <ControlCode>97</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>94</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>83</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>76</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>77</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>82</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>84</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>88</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>85</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>101</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>100</ControlCode>
+        </SplitTime>
+        <ControlCard>8110393</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+  </ClassResult>
+  <ClassResult>
+    <Class resultListMode="Default" sex="F">
+      <Id>54</Id>
+      <Name>S-Damen 35-</Name>
+      <ShortName>S D35</ShortName>
+      <Fee>
+        <Name>Default</Name>
+        <Amount>4.50</Amount>
+      </Fee>
+      <Fee>
+        <Name>Startfee 2</Name>
+        <Amount>0.00</Amount>
+      </Fee>
+    </Class>
+    <Course>
+      <Id>9004</Id>
+      <Name>3 Mittel</Name>
+      <Length>5180</Length>
+      <Climb>0</Climb>
+      <NumberOfControls>11</NumberOfControls>
+    </Course>
+    <PersonResult>
+      <Person sex="F">
+        <Id>22</Id>
+        <Name>
+          <Family>Strasser</Family>
+          <Given>Andrea</Given>
+        </Name>
+        <BirthDate>1980-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:09:41.000</StartTime>
+        <FinishTime>2021-09-26T12:00:59.000</FinishTime>
+        <Time>3078</Time>
+        <TimeBehind>0</TimeBehind>
+        <Position>1</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>97</ControlCode>
+          <Time>493</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>789</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>83</ControlCode>
+          <Time>1222</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>76</ControlCode>
+          <Time>1551</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>77</ControlCode>
+          <Time>1744</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>1926</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>2220</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>88</ControlCode>
+          <Time>2576</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>2685</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>101</ControlCode>
+          <Time>3007</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>3048</Time>
+        </SplitTime>
+        <ControlCard>8111016</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+  </ClassResult>
+  <ClassResult>
+    <Class resultListMode="Default" sex="F">
+      <Id>55</Id>
+      <Name>S-Damen 45-</Name>
+      <ShortName>S D45</ShortName>
+      <Fee>
+        <Name>Default</Name>
+        <Amount>4.50</Amount>
+      </Fee>
+      <Fee>
+        <Name>Startfee 2</Name>
+        <Amount>0.00</Amount>
+      </Fee>
+    </Class>
+    <Course>
+      <Id>9004</Id>
+      <Name>3 Mittel</Name>
+      <Length>5180</Length>
+      <Climb>0</Climb>
+      <NumberOfControls>11</NumberOfControls>
+    </Course>
+    <PersonResult>
+      <Person sex="F">
+        <Id>2836</Id>
+        <Name>
+          <Family>Hillebrand</Family>
+          <Given>Karin</Given>
+        </Name>
+        <BirthDate>1968-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:12:40.000</StartTime>
+        <FinishTime>2021-09-26T12:21:06.000</FinishTime>
+        <Time>4106</Time>
+        <TimeBehind>0</TimeBehind>
+        <Position>1</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>97</ControlCode>
+          <Time>305</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>599</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>83</ControlCode>
+          <Time>1282</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>76</ControlCode>
+          <Time>1805</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>77</ControlCode>
+          <Time>2050</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>2289</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>2963</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>88</ControlCode>
+          <Time>3476</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>3614</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>101</ControlCode>
+          <Time>4023</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>4071</Time>
+        </SplitTime>
+        <ControlCard>8377177</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="F">
+        <Id>8240</Id>
+        <Name>
+          <Family>Hinterhofer</Family>
+          <Given>Katharina</Given>
+        </Name>
+        <BirthDate>1969-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:34:57.000</StartTime>
+        <FinishTime>2021-09-26T12:46:53.000</FinishTime>
+        <Time>4316</Time>
+        <TimeBehind>210</TimeBehind>
+        <Position>2</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>97</ControlCode>
+          <Time>284</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>674</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>83</ControlCode>
+          <Time>1294</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>76</ControlCode>
+          <Time>1770</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>77</ControlCode>
+          <Time>2016</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>2310</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>2756</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>88</ControlCode>
+          <Time>3157</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>3760</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>101</ControlCode>
+          <Time>4238</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>4290</Time>
+        </SplitTime>
+        <ControlCard>8111131</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="F">
+        <Id>6483</Id>
+        <Name>
+          <Family>Ebster</Family>
+          <Given>Tanja</Given>
+        </Name>
+        <BirthDate>1975-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:17:15.000</StartTime>
+        <FinishTime>2021-09-26T13:30:57.000</FinishTime>
+        <Time>8022</Time>
+        <TimeBehind>3916</TimeBehind>
+        <Status>MissingPunch</Status>
+        <SplitTime>
+          <ControlCode>97</ControlCode>
+          <Time>1229</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>1749</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>83</ControlCode>
+          <Time>2900</Time>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>76</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>77</ControlCode>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>3963</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>5112</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>88</ControlCode>
+          <Time>5873</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>6397</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>101</ControlCode>
+          <Time>7832</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>7944</Time>
+        </SplitTime>
+        <ControlCard>7077770</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="F">
+        <Name>
+          <Family>Helminger</Family>
+          <Given>Julia</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>33</Id>
+        <Name>HSV Wals</Name>
+        <ShortName>HSV Wals</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:19:49.000</StartTime>
+        <FinishTime>2021-09-26T12:11:59.000</FinishTime>
+        <Time>3130</Time>
+        <TimeBehind>-976</TimeBehind>
+        <Status>DidNotFinish</Status>
+        <SplitTime>
+          <ControlCode>97</ControlCode>
+          <Time>622</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>1029</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>83</ControlCode>
+          <Time>1732</Time>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>76</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>77</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>82</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>84</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>88</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>85</ControlCode>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>101</ControlCode>
+          <Time>2981</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>3068</Time>
+        </SplitTime>
+        <ControlCard>887755</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+  </ClassResult>
+  <ClassResult>
+    <Class resultListMode="Default" sex="F">
+      <Id>56</Id>
+      <Name>S-Damen 55-</Name>
+      <ShortName>S D55</ShortName>
+      <Fee>
+        <Name>Default</Name>
+        <Amount>4.50</Amount>
+      </Fee>
+      <Fee>
+        <Name>Startfee 2</Name>
+        <Amount>0.00</Amount>
+      </Fee>
+    </Class>
+    <Course>
+      <Id>9003</Id>
+      <Name>2a Kurz (2)</Name>
+      <Length>3800</Length>
+      <Climb>0</Climb>
+      <NumberOfControls>8</NumberOfControls>
+    </Course>
+    <PersonResult>
+      <Person sex="F">
+        <Id>555</Id>
+        <Name>
+          <Family>Buchberger</Family>
+          <Given>Berta</Given>
+        </Name>
+        <BirthDate>1955-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>33</Id>
+        <Name>HSV Wals</Name>
+        <ShortName>HSV Wals</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:30:09.000</StartTime>
+        <FinishTime>2021-09-26T13:11:23.000</FinishTime>
+        <Time>6074</Time>
+        <TimeBehind>0</TimeBehind>
+        <Position>1</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>512</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>1901</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>3493</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>81</ControlCode>
+          <Time>3867</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>92</ControlCode>
+          <Time>4991</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>5371</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>101</ControlCode>
+          <Time>5914</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>6010</Time>
+        </SplitTime>
+        <ControlCard>8310555</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="F">
+        <Name>
+          <Family>MÃ¼ller</Family>
+          <Given>Brigitte</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>10001</Id>
+        <Name>ASKÃ– Henndorf</Name>
+        <ShortName>ASKÃ– Henndorf</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T22:42:40.000</StartTime>
+        <FinishTime>2021-09-26T00:00:00.000</FinishTime>
+        <Time>6148</Time>
+        <TimeBehind>74</TimeBehind>
+        <Position>2</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>1066</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>1935</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>2863</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>81</ControlCode>
+          <Time>3214</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>92</ControlCode>
+          <Time>5086</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>5441</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>101</ControlCode>
+          <Time>6006</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>6093</Time>
+        </SplitTime>
+        <ControlCard>5399</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+  </ClassResult>
+  <ClassResult>
+    <Class resultListMode="Default" sex="M">
+      <Id>61</Id>
+      <Name>S-Herren -15</Name>
+      <ShortName>S H15</ShortName>
+      <Fee>
+        <Name>Default</Name>
+        <Amount>4.50</Amount>
+      </Fee>
+      <Fee>
+        <Name>Startfee 2</Name>
+        <Amount>0.00</Amount>
+      </Fee>
+    </Class>
+    <Course>
+      <Id>9002</Id>
+      <Name>2 Kurz</Name>
+      <Length>4330</Length>
+      <Climb>150</Climb>
+      <NumberOfControls>9</NumberOfControls>
+    </Course>
+    <PersonResult>
+      <Person sex="M">
+        <Id>9570</Id>
+        <Name>
+          <Family>Eibl</Family>
+          <Given>Clemens</Given>
+        </Name>
+        <BirthDate>2007-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:01:13.000</StartTime>
+        <FinishTime>2021-09-26T12:11:05.000</FinishTime>
+        <Time>4192</Time>
+        <TimeBehind>0</TimeBehind>
+        <Position>1</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>337</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>1633</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>2185</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>2437</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>2676</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>92</ControlCode>
+          <Time>3489</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>3772</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>4118</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>4165</Time>
+        </SplitTime>
+        <ControlCard>8188388</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>3.00</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Id>9278</Id>
+        <Name>
+          <Family>Emberger</Family>
+          <Given>Felix</Given>
+        </Name>
+        <BirthDate>2007-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:00:00.000</StartTime>
+        <Status>DidNotStart</Status>
+        <SplitTime status="Missing">
+          <ControlCode>85</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>84</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>82</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>79</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>80</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>92</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>94</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>102</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>100</ControlCode>
+        </SplitTime>
+        <ControlCard>8190507</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>3.00</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+  </ClassResult>
+  <ClassResult>
+    <Class resultListMode="Default" sex="M">
+      <Id>63</Id>
+      <Name>S-Herren 19-</Name>
+      <ShortName>S H19</ShortName>
+      <Fee>
+        <Name>Default</Name>
+        <Amount>4.50</Amount>
+      </Fee>
+      <Fee>
+        <Name>Startfee 2</Name>
+        <Amount>0.00</Amount>
+      </Fee>
+    </Class>
+    <Course>
+      <Id>9005</Id>
+      <Name>4 Lang</Name>
+      <Length>6370</Length>
+      <Climb>0</Climb>
+      <NumberOfControls>14</NumberOfControls>
+    </Course>
+    <PersonResult>
+      <Person sex="M">
+        <Id>7611</Id>
+        <Name>
+          <Family>Ebster</Family>
+          <Given>Leon</Given>
+        </Name>
+        <BirthDate>2002-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:00:15.000</StartTime>
+        <FinishTime>2021-09-26T11:55:03.000</FinishTime>
+        <Time>3288</Time>
+        <TimeBehind>0</TimeBehind>
+        <Position>1</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>810</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>83</ControlCode>
+          <Time>1068</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>1264</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>1456</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>78</ControlCode>
+          <Time>1744</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>77</ControlCode>
+          <Time>1817</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>76</ControlCode>
+          <Time>1988</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>2199</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>2414</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>89</ControlCode>
+          <Time>2739</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>88</ControlCode>
+          <Time>2884</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>2963</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>3232</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>3265</Time>
+        </SplitTime>
+        <ControlCard>8068068</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Id>7608</Id>
+        <Name>
+          <Family>KÃ¶nigstorfer</Family>
+          <Given>Jonas</Given>
+        </Name>
+        <BirthDate>2001-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:02:21.000</StartTime>
+        <FinishTime>2021-09-26T12:29:06.000</FinishTime>
+        <Time>5205</Time>
+        <TimeBehind>1917</TimeBehind>
+        <Position>2</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>683</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>83</ControlCode>
+          <Time>969</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>1166</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>1385</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>78</ControlCode>
+          <Time>1808</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>77</ControlCode>
+          <Time>2019</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>76</ControlCode>
+          <Time>2270</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>2577</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>2833</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>89</ControlCode>
+          <Time>4293</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>88</ControlCode>
+          <Time>4513</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>4640</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>5118</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>5177</Time>
+        </SplitTime>
+        <ControlCard>8114411</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+  </ClassResult>
+  <ClassResult>
+    <Class resultListMode="Default" sex="M">
+      <Id>64</Id>
+      <Name>S-Herren 35-</Name>
+      <ShortName>S H35</ShortName>
+      <Fee>
+        <Name>Default</Name>
+        <Amount>4.50</Amount>
+      </Fee>
+      <Fee>
+        <Name>Startfee 2</Name>
+        <Amount>0.00</Amount>
+      </Fee>
+    </Class>
+    <Course>
+      <Id>9005</Id>
+      <Name>4 Lang</Name>
+      <Length>6370</Length>
+      <Climb>0</Climb>
+      <NumberOfControls>14</NumberOfControls>
+    </Course>
+    <PersonResult>
+      <Person sex="M">
+        <Id>1707</Id>
+        <Name>
+          <Family>Helminger</Family>
+          <Given>Franz</Given>
+        </Name>
+        <BirthDate>1973-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>33</Id>
+        <Name>HSV Wals</Name>
+        <ShortName>HSV Wals</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:15:34.000</StartTime>
+        <FinishTime>2021-09-26T12:05:56.000</FinishTime>
+        <Time>3022</Time>
+        <TimeBehind>0</TimeBehind>
+        <Position>1</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>370</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>83</ControlCode>
+          <Time>680</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>891</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>1069</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>78</ControlCode>
+          <Time>1382</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>77</ControlCode>
+          <Time>1456</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>76</ControlCode>
+          <Time>1638</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>1861</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>2085</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>89</ControlCode>
+          <Time>2431</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>88</ControlCode>
+          <Time>2576</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>2668</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>2962</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>2993</Time>
+        </SplitTime>
+        <ControlCard>8251125</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Id>42</Id>
+        <Name>
+          <Family>Helminger</Family>
+          <Given>Norbert</Given>
+        </Name>
+        <BirthDate>1975-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>33</Id>
+        <Name>HSV Wals</Name>
+        <ShortName>HSV Wals</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:07:26.000</StartTime>
+        <FinishTime>2021-09-26T11:58:13.000</FinishTime>
+        <Time>3047</Time>
+        <TimeBehind>25</TimeBehind>
+        <Position>2</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>370</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>83</ControlCode>
+          <Time>650</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>842</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>1026</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>78</ControlCode>
+          <Time>1314</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>77</ControlCode>
+          <Time>1390</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>76</ControlCode>
+          <Time>1583</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>1862</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>2076</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>89</ControlCode>
+          <Time>2415</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>88</ControlCode>
+          <Time>2579</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>2672</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>2993</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>3023</Time>
+        </SplitTime>
+        <ControlCard>8131131</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Id>1812</Id>
+        <Name>
+          <Family>Fink</Family>
+          <Given>Bernhard</Given>
+        </Name>
+        <BirthDate>1977-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:11:24.000</StartTime>
+        <FinishTime>2021-09-26T12:05:23.000</FinishTime>
+        <Time>3239</Time>
+        <TimeBehind>217</TimeBehind>
+        <Position>3</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>334</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>83</ControlCode>
+          <Time>608</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>1218</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>1387</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>78</ControlCode>
+          <Time>1671</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>77</ControlCode>
+          <Time>1744</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>76</ControlCode>
+          <Time>1912</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>2137</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>2338</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>89</ControlCode>
+          <Time>2683</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>88</ControlCode>
+          <Time>2828</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>2909</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>3180</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>3210</Time>
+        </SplitTime>
+        <ControlCard>8101808</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Id>7741</Id>
+        <Name>
+          <Family>Bogensperger</Family>
+          <Given>Martin</Given>
+        </Name>
+        <BirthDate>1972-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:04:37.000</StartTime>
+        <FinishTime>2021-09-26T12:15:09.000</FinishTime>
+        <Time>4232</Time>
+        <TimeBehind>1210</TimeBehind>
+        <Position>4</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>598</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>83</ControlCode>
+          <Time>964</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>1552</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>1758</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>78</ControlCode>
+          <Time>2105</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>77</ControlCode>
+          <Time>2204</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>76</ControlCode>
+          <Time>2442</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>2695</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>2948</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>89</ControlCode>
+          <Time>3466</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>88</ControlCode>
+          <Time>3645</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>3757</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>4169</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>4204</Time>
+        </SplitTime>
+        <ControlCard>8003005</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Id>1925</Id>
+        <Name>
+          <Family>Gusel</Family>
+          <Given>Franz</Given>
+        </Name>
+        <BirthDate>1968-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>8</Id>
+        <Name>HSV Spittal / Drau</Name>
+        <ShortName>HSV Spittal / Drau</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:19:00.000</StartTime>
+        <Status>DidNotStart</Status>
+        <SplitTime status="Missing">
+          <ControlCode>84</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>83</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>82</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>79</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>78</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>77</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>76</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>82</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>80</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>89</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>88</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>85</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>102</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>100</ControlCode>
+        </SplitTime>
+        <ControlCard>8300031</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+  </ClassResult>
+  <ClassResult>
+    <Class resultListMode="Default" sex="M">
+      <Id>65</Id>
+      <Name>S-Herren 45-</Name>
+      <ShortName>S H45</ShortName>
+      <Fee>
+        <Name>Default</Name>
+        <Amount>4.50</Amount>
+      </Fee>
+      <Fee>
+        <Name>Startfee 2</Name>
+        <Amount>0.00</Amount>
+      </Fee>
+    </Class>
+    <Course>
+      <Id>9005</Id>
+      <Name>4 Lang</Name>
+      <Length>6370</Length>
+      <Climb>0</Climb>
+      <NumberOfControls>14</NumberOfControls>
+    </Course>
+    <PersonResult>
+      <Person sex="M">
+        <Id>7774</Id>
+        <Name>
+          <Family>Ebster Sen.</Family>
+          <Given>Peter</Given>
+        </Name>
+        <BirthDate>1968-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:22:51.000</StartTime>
+        <FinishTime>2021-09-26T12:33:59.000</FinishTime>
+        <Time>4268</Time>
+        <TimeBehind>0</TimeBehind>
+        <Position>1</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>479</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>83</ControlCode>
+          <Time>844</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>1133</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>1367</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>78</ControlCode>
+          <Time>1768</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>77</ControlCode>
+          <Time>1881</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>76</ControlCode>
+          <Time>2140</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>2459</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>2751</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>89</ControlCode>
+          <Time>3231</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>88</ControlCode>
+          <Time>3461</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>3813</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>4211</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>4245</Time>
+        </SplitTime>
+        <ControlCard>8446677</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Id>28</Id>
+        <Name>
+          <Family>Elstner</Family>
+          <Given>Florian</Given>
+        </Name>
+        <BirthDate>1963-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:18:59.000</StartTime>
+        <FinishTime>2021-09-26T12:39:13.000</FinishTime>
+        <Time>4814</Time>
+        <TimeBehind>546</TimeBehind>
+        <Position>2</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>596</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>83</ControlCode>
+          <Time>987</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>1354</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>1604</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>78</ControlCode>
+          <Time>2015</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>77</ControlCode>
+          <Time>2124</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>76</ControlCode>
+          <Time>2367</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>2674</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>2982</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>89</ControlCode>
+          <Time>3950</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>88</ControlCode>
+          <Time>4181</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>4314</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>4730</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>4775</Time>
+        </SplitTime>
+        <ControlCard>8030563</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+  </ClassResult>
+  <ClassResult>
+    <Class resultListMode="Default" sex="M">
+      <Id>66</Id>
+      <Name>S-Herren 55-</Name>
+      <ShortName>S H55</ShortName>
+      <Fee>
+        <Name>Default</Name>
+        <Amount>4.50</Amount>
+      </Fee>
+      <Fee>
+        <Name>Startfee 2</Name>
+        <Amount>0.00</Amount>
+      </Fee>
+    </Class>
+    <Course>
+      <Id>9002</Id>
+      <Name>2 Kurz</Name>
+      <Length>4330</Length>
+      <Climb>150</Climb>
+      <NumberOfControls>9</NumberOfControls>
+    </Course>
+    <PersonResult>
+      <Person sex="M">
+        <Id>7759</Id>
+        <Name>
+          <Family>Wimmer</Family>
+          <Given>Josef</Given>
+        </Name>
+        <BirthDate>1957-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:24:44.000</StartTime>
+        <FinishTime>2021-09-26T12:27:26.000</FinishTime>
+        <Time>3762</Time>
+        <TimeBehind>0</TimeBehind>
+        <Position>1</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>437</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>963</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>1498</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>1775</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>1925</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>92</ControlCode>
+          <Time>2912</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>3395</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>3701</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>3738</Time>
+        </SplitTime>
+        <ControlCard>8497107</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Id>330</Id>
+        <Name>
+          <Family>Drage</Family>
+          <Given>Stefan</Given>
+        </Name>
+        <BirthDate>1959-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>19</Id>
+        <Name>HSV OL Wiener Neustadt</Name>
+        <ShortName>HSV OL Wiener Neustadt</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:18:12.000</StartTime>
+        <FinishTime>2021-09-26T12:27:22.000</FinishTime>
+        <Time>4150</Time>
+        <TimeBehind>388</TimeBehind>
+        <Position>2</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>216</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>632</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>1098</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>1423</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>1560</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>92</ControlCode>
+          <Time>2645</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>3799</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>4077</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>4120</Time>
+        </SplitTime>
+        <ControlCard>8150815</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Id>1904</Id>
+        <Name>
+          <Family>Mayer</Family>
+          <Given>Horst</Given>
+        </Name>
+        <BirthDate>1960-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>35</Id>
+        <Name>SSV Hallein-Neualm</Name>
+        <ShortName>SSV Hallein-Neualm</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:16:02.000</StartTime>
+        <FinishTime>2021-09-26T12:27:50.000</FinishTime>
+        <Time>4308</Time>
+        <TimeBehind>546</TimeBehind>
+        <Position>3</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>171</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>670</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>1289</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>1572</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>1751</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>92</ControlCode>
+          <Time>3813</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>3950</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>4237</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>4274</Time>
+        </SplitTime>
+        <ControlCard>8021260</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Id>1070</Id>
+        <Name>
+          <Family>Rogl</Family>
+          <Given>Hartwig</Given>
+        </Name>
+        <BirthDate>1958-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>34</Id>
+        <Name>Naturfreunde Seekirchen</Name>
+        <ShortName>Naturfreunde Seekirchen</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:21:46.000</StartTime>
+        <FinishTime>2021-09-26T12:15:14.000</FinishTime>
+        <Time>3208</Time>
+        <TimeBehind>-554</TimeBehind>
+        <Status>MissingPunch</Status>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>2432</Time>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>84</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>82</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>79</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>80</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>92</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>94</ControlCode>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>3044</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>3121</Time>
+        </SplitTime>
+        <ControlCard>8447777</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+  </ClassResult>
+  <ClassResult>
+    <Class resultListMode="Default" sex="M">
+      <Id>67</Id>
+      <Name>S-Herren 65-</Name>
+      <ShortName>S H65</ShortName>
+      <Fee>
+        <Name>Default</Name>
+        <Amount>4.50</Amount>
+      </Fee>
+      <Fee>
+        <Name>Startfee 2</Name>
+        <Amount>0.00</Amount>
+      </Fee>
+    </Class>
+    <Course>
+      <Id>9002</Id>
+      <Name>2 Kurz</Name>
+      <Length>4330</Length>
+      <Climb>150</Climb>
+      <NumberOfControls>9</NumberOfControls>
+    </Course>
+    <PersonResult>
+      <Person sex="M">
+        <Id>8</Id>
+        <Name>
+          <Family>BÃ¶hm</Family>
+          <Given>Eduard</Given>
+        </Name>
+        <BirthDate>1948-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:30:36.000</StartTime>
+        <FinishTime>2021-09-26T12:28:02.000</FinishTime>
+        <Time>3446</Time>
+        <TimeBehind>0</TimeBehind>
+        <Position>1</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>136</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>635</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>1190</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>1478</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>1690</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>92</ControlCode>
+          <Time>2575</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>3057</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>3371</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>3412</Time>
+        </SplitTime>
+        <ControlCard>8130948</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Id>557</Id>
+        <Name>
+          <Family>Buchberger</Family>
+          <Given>Jakob</Given>
+        </Name>
+        <BirthDate>1953-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>33</Id>
+        <Name>HSV Wals</Name>
+        <ShortName>HSV Wals</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:33:29.000</StartTime>
+        <FinishTime>2021-09-26T12:31:36.000</FinishTime>
+        <Time>3487</Time>
+        <TimeBehind>41</TimeBehind>
+        <Position>2</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>266</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>810</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>1381</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>1676</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>1853</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>92</ControlCode>
+          <Time>2888</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>3051</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>3400</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>3451</Time>
+        </SplitTime>
+        <ControlCard>8150253</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Id>5267</Id>
+        <Name>
+          <Family>Berger</Family>
+          <Given>Ekkehard</Given>
+        </Name>
+        <BirthDate>1954-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:36:36.000</StartTime>
+        <FinishTime>2021-09-26T12:42:01.000</FinishTime>
+        <Time>3925</Time>
+        <TimeBehind>479</TimeBehind>
+        <Position>3</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>179</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>745</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>1405</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>1988</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>2181</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>92</ControlCode>
+          <Time>3378</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>3530</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>3846</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>3889</Time>
+        </SplitTime>
+        <ControlCard>1000050</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Id>7098</Id>
+        <Name>
+          <Family>Werther</Family>
+          <Given>Wolfgang</Given>
+        </Name>
+        <BirthDate>1954-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>63</Id>
+        <Name>WATV</Name>
+        <ShortName>WATV</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:27:38.000</StartTime>
+        <FinishTime>2021-09-26T12:41:56.000</FinishTime>
+        <Time>4458</Time>
+        <TimeBehind>1012</TimeBehind>
+        <Position>4</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>282</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>1308</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>2176</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>2491</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>2688</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>92</ControlCode>
+          <Time>3876</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>94</ControlCode>
+          <Time>4062</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>4376</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>4422</Time>
+        </SplitTime>
+        <ControlCard>8450045</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Name>
+          <Family>MÃ¼ller</Family>
+          <Given>Leo</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>10001</Id>
+        <Name>ASKÃ– Henndorf</Name>
+        <ShortName>ASKÃ– Henndorf</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T10:41:13.000</StartTime>
+        <FinishTime>2021-09-26T13:13:15.000</FinishTime>
+        <Time>9122</Time>
+        <TimeBehind>5676</TimeBehind>
+        <Status>MissingPunch</Status>
+        <SplitTime>
+          <ControlCode>85</ControlCode>
+          <Time>285</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>84</ControlCode>
+          <Time>1266</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>82</ControlCode>
+          <Time>2422</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>79</ControlCode>
+          <Time>3553</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>80</ControlCode>
+          <Time>3919</Time>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>92</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>94</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>102</ControlCode>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>9031</Time>
+        </SplitTime>
+        <ControlCard>2116263</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+  </ClassResult>
+  <ClassResult>
+    <Class resultListMode="Default" sex="M">
+      <Id>70</Id>
+      <Name>Offen Kurz</Name>
+      <ShortName>S OK</ShortName>
+      <Fee>
+        <Name>Default</Name>
+        <Amount>3.00</Amount>
+      </Fee>
+      <Fee>
+        <Name>Startfee 2</Name>
+        <Amount>0.00</Amount>
+      </Fee>
+    </Class>
+    <Course>
+      <Id>9001</Id>
+      <Name>1 Einfach</Name>
+      <Length>2070</Length>
+      <Climb>95</Climb>
+      <NumberOfControls>9</NumberOfControls>
+    </Course>
+    <PersonResult>
+      <Person sex="M">
+        <Id>3076</Id>
+        <Name>
+          <Family>Strasser</Family>
+          <Given>Bernhard</Given>
+        </Name>
+        <BirthDate>1975-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T10:56:24.000</StartTime>
+        <FinishTime>2021-09-26T11:20:08.000</FinishTime>
+        <Time>1424</Time>
+        <TimeBehind>0</TimeBehind>
+        <Position>1</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>86</ControlCode>
+          <Time>227</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>87</ControlCode>
+          <Time>315</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>95</ControlCode>
+          <Time>457</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>91</ControlCode>
+          <Time>629</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>90</ControlCode>
+          <Time>772</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>93</ControlCode>
+          <Time>909</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>97</ControlCode>
+          <Time>1193</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>1340</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>1384</Time>
+        </SplitTime>
+        <ControlCard>8002332</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>3.00</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Id>9441</Id>
+        <Name>
+          <Family>Fink</Family>
+          <Given>Lorenz + Freunde</Given>
+        </Name>
+        <BirthDate>2012-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:07:12.000</StartTime>
+        <FinishTime>2021-09-26T11:34:29.000</FinishTime>
+        <Time>1637</Time>
+        <TimeBehind>213</TimeBehind>
+        <Position>2</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>86</ControlCode>
+          <Time>160</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>87</ControlCode>
+          <Time>375</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>95</ControlCode>
+          <Time>526</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>91</ControlCode>
+          <Time>717</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>90</ControlCode>
+          <Time>865</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>93</ControlCode>
+          <Time>1007</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>97</ControlCode>
+          <Time>1417</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>1559</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>1614</Time>
+        </SplitTime>
+        <ControlCard>2116279</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>3.00</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="F">
+        <Id>9279</Id>
+        <Name>
+          <Family>Berger</Family>
+          <Given>Claudia</Given>
+        </Name>
+        <BirthDate>1965-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÃ– Henndorf Orienteering</Name>
+        <ShortName>ASKÃ– Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:03:28.000</StartTime>
+        <FinishTime>2021-09-26T11:52:27.000</FinishTime>
+        <Time>2939</Time>
+        <TimeBehind>1515</TimeBehind>
+        <Position>3</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>86</ControlCode>
+          <Time>241</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>87</ControlCode>
+          <Time>389</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>95</ControlCode>
+          <Time>780</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>91</ControlCode>
+          <Time>982</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>90</ControlCode>
+          <Time>1137</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>93</ControlCode>
+          <Time>1330</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>97</ControlCode>
+          <Time>1736</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>2828</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>2893</Time>
+        </SplitTime>
+        <ControlCard>2000429</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>3.00</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Name>
+          <Family>MÃ¼ller</Family>
+          <Given>Fam</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>35</Id>
+        <Name>SSV Hallein-Neualm</Name>
+        <ShortName>SSV Hallein-Neualm</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:14:57.000</StartTime>
+        <FinishTime>2021-09-26T12:23:19.000</FinishTime>
+        <Time>4102</Time>
+        <TimeBehind>2678</TimeBehind>
+        <Position>4</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>86</ControlCode>
+          <Time>872</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>87</ControlCode>
+          <Time>1532</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>95</ControlCode>
+          <Time>1910</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>91</ControlCode>
+          <Time>2212</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>90</ControlCode>
+          <Time>2603</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>93</ControlCode>
+          <Time>2806</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>97</ControlCode>
+          <Time>3696</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>102</ControlCode>
+          <Time>3956</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>4055</Time>
+        </SplitTime>
+        <ControlCard>2015814</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>3.00</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+  </ClassResult>
+  <ClassResult>
+    <Class resultListMode="Default" sex="M">
+      <Id>72</Id>
+      <Name>Family</Name>
+      <ShortName>Fam</ShortName>
+      <Fee>
+        <Name>Default</Name>
+        <Amount>3.00</Amount>
+      </Fee>
+      <Fee>
+        <Name>Startfee 2</Name>
+        <Amount>0.00</Amount>
+      </Fee>
+    </Class>
+    <Course>
+      <Id>9006</Id>
+      <Name>5 Family</Name>
+      <Length>1660</Length>
+      <Climb>50</Climb>
+      <NumberOfControls>7</NumberOfControls>
+    </Course>
+    <PersonResult>
+      <Person sex="M">
+        <Name>
+          <Family>Strasser</Family>
+          <Given>Fabian</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>10001</Id>
+        <Name>ASKÃ– Henndorf</Name>
+        <ShortName>ASKÃ– Henndorf</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:37:42.000</StartTime>
+        <FinishTime>2021-09-26T11:58:17.000</FinishTime>
+        <Time>1235</Time>
+        <TimeBehind>0</TimeBehind>
+        <Position>1</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>86</ControlCode>
+          <Time>190</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>96</ControlCode>
+          <Time>267</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>92</ControlCode>
+          <Time>679</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>95</ControlCode>
+          <Time>793</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>97</ControlCode>
+          <Time>974</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>101</ControlCode>
+          <Time>1167</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>1211</Time>
+        </SplitTime>
+        <ControlCard>502100</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>5.00</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Name>
+          <Family>Brodinger</Family>
+          <Given>Fam</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>10003</Id>
+        <Name>ohne Verein</Name>
+        <ShortName>ohne Verein</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:40:26.000</StartTime>
+        <FinishTime>2021-09-26T12:07:49.000</FinishTime>
+        <Time>1643</Time>
+        <TimeBehind>408</TimeBehind>
+        <Position>2</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>86</ControlCode>
+          <Time>309</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>96</ControlCode>
+          <Time>401</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>92</ControlCode>
+          <Time>797</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>95</ControlCode>
+          <Time>1003</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>97</ControlCode>
+          <Time>1272</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>101</ControlCode>
+          <Time>1504</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>1605</Time>
+        </SplitTime>
+        <ControlCard>5359</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>3.00</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="F">
+        <Name>
+          <Family>Strasser</Family>
+          <Given>Lena</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>10001</Id>
+        <Name>ASKÃ– Henndorf</Name>
+        <ShortName>ASKÃ– Henndorf</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:09:28.000</StartTime>
+        <FinishTime>2021-09-26T11:45:48.000</FinishTime>
+        <Time>2180</Time>
+        <TimeBehind>945</TimeBehind>
+        <Position>3</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>86</ControlCode>
+          <Time>366</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>96</ControlCode>
+          <Time>460</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>92</ControlCode>
+          <Time>1167</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>95</ControlCode>
+          <Time>1474</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>97</ControlCode>
+          <Time>1741</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>101</ControlCode>
+          <Time>2027</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>2132</Time>
+        </SplitTime>
+        <ControlCard>755555</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>3.00</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Id>9016</Id>
+        <Name>
+          <Family>Brawisch</Family>
+          <Given>Ludwig</Given>
+        </Name>
+        <BirthDate>2012-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>33</Id>
+        <Name>HSV Wals</Name>
+        <ShortName>HSV Wals</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:09:25.000</StartTime>
+        <FinishTime>2021-09-26T11:45:49.000</FinishTime>
+        <Time>2184</Time>
+        <TimeBehind>949</TimeBehind>
+        <Position>4</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>86</ControlCode>
+          <Time>371</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>96</ControlCode>
+          <Time>468</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>92</ControlCode>
+          <Time>1159</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>95</ControlCode>
+          <Time>1480</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>97</ControlCode>
+          <Time>1750</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>101</ControlCode>
+          <Time>2038</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>2138</Time>
+        </SplitTime>
+        <ControlCard>7615</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>5.00</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Name>
+          <Family>HÃ¼tteneder</Family>
+          <Given>Fabian</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>10003</Id>
+        <Name>ohne Verein</Name>
+        <ShortName>ohne Verein</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:28:51.000</StartTime>
+        <FinishTime>2021-09-26T12:08:17.000</FinishTime>
+        <Time>2366</Time>
+        <TimeBehind>1131</TimeBehind>
+        <Position>5</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>86</ControlCode>
+          <Time>664</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>96</ControlCode>
+          <Time>840</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>92</ControlCode>
+          <Time>1490</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>95</ControlCode>
+          <Time>1708</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>97</ControlCode>
+          <Time>1961</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>101</ControlCode>
+          <Time>2195</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>2321</Time>
+        </SplitTime>
+        <ControlCard>5360</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>3.00</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Id>8110711</Id>
+        <Name>
+          <Family>Emberger</Family>
+          <Given>Olivia</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>10001</Id>
+        <Name>ASKÃ– Henndorf</Name>
+        <ShortName>ASKÃ– Henndorf</ShortName>
+      </Organisation>
+      <Result raceNumber="1">
+        <StartTime>2021-09-26T11:33:00.000</StartTime>
+        <Status>DidNotStart</Status>
+        <SplitTime status="Missing">
+          <ControlCode>86</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>96</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>92</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>95</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>97</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>101</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>100</ControlCode>
+        </SplitTime>
+        <ControlCard>8110711</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>5.00</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+  </ClassResult>
 </ResultList>

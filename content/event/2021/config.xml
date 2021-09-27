@@ -1,4 +1,4 @@
-<CupConfiguration type="Cup">
+<Configuration type="Cup">
   <General name="Salzburger Sportvoglcup 2021"
            year="2021"
            numberOfPlannedEvents="8"
@@ -17,18 +17,30 @@
     <Task name="toUtf8" active="true" />
     <Task name="toJson" active="false" />
   </PreProcessing>
+  <PostProcessing>
+    <!-- options for result postprocessing -->
+    <Task name="sumOrganisations" sequence="10" active="false">
+      <Param key="outputPrefix">Vereine</Param>
+      <!-- sumType: all ... sum up all points from competitors -->
+      <!-- sumType: cup ... sum up cup points from competitors -->
+      <Param key="sumType">all</Param>
+      <Param key="filter">Class</Param>
+      <Param key="filterType">Include</Param>
+      <Param key="filterValue">1,2,3</Param>
+    </Task>
+  </PostProcessing>
   <Events>
     <!-- set num to 0 if not needed -->
     <Event num="1" name="Ursprung"/>
     <Event num="2" name="Mönchsberg"/>
     <Event num="3" name="Schleedorf"/>
-    <Event num="4" name="Fernwald"/>
-    <Event num="5" name="Tamsweg"/>
-    <Event num="6" name=""/>
+    <Event num="4" name="Ramingstein"/>
+    <Event num="5" name="Mariapfarr"/>
+    <Event num="6" name="Fernwald"/>
     <Event num="7" name="Salzburg Stadt"/>
     <Event num="8" name="Salzburg Stadt" multiply="2.0" />
   </Events>
-  <Classes filter="include">
+  <Classes filter="Include">
     <Class name="S-Damen -13" id="50" shortName="D13" />
     <Class name="S-Damen -15" id="51" shortName="D15" />
     <Class name="S-Damen -18" id="52" shortName="D18" />
@@ -45,13 +57,14 @@
     <Class name="S-Herren 55-" id="66" shortName="H55" />
     <Class name="S-Herren 65-" id="67" shortName="H65" />
   </Classes>
-  <Organisations filter="include" >
+  <Organisations filter="Include" >
     <Organisation name="ASKÖ Henndorf" id="32" />
     <Organisation name="SSV Hallein" id="35" />
     <Organisation name="HBLA Ursprung" id="200" />
     <Organisation name="HSV Wals" id="33" />
     <Organisation name="TV Zell am See" id="124" />
     <Organisation name="NF Seekirchen" id="34" />
+    <Organisation name="Bleib in Bewegung!" id="201" />
   </Organisations>
   <Output>
     <Html active="true"
@@ -83,4 +96,4 @@
     <Translation key="DidNotStart" translate="n ang." />
     <Translation key="MissingPunch" translate="Fehlst." />
   </Translations>
-</CupConfiguration>
+</Configuration>
