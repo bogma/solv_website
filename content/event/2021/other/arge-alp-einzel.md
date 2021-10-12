@@ -2,7 +2,7 @@
 title: "ARGE Alp Einzel"
 date: 2021-10-10 # date of creation of the file
 draft: false
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
+status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 0
 
 archives: []
@@ -19,5 +19,5 @@ implementation: "" # remove one of the 3 options
 
 ---
 
-[Webseite des Veranstalters](https://www.olg-chur.ch/aktivitaeten/veranstaltungen/argealp2019.html)
+[Webseite des Veranstalters](https://olg-regensburg.de/arge-alp-2021/)
 
