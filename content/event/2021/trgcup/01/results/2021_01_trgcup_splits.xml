@@ -1877,7 +1877,8 @@
 </Name>
 </Person>
 <Organisation>
-<Name>vereinslos</Name>
+    <Id>32</Id>
+    <Name>ASKÖ Henndorf Orienteering</Name>
 </Organisation>
 <Result>
 <StartTime>2021-03-06T13:05:56+01:00</StartTime>
