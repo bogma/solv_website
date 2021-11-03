@@ -26,6 +26,7 @@ implementation: "HSV Wals" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 
+liveresultat_id: 21087
 start_amend: "(Parkplatz – Start 350m bis 650m)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
