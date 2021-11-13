@@ -1,0 +1,17 @@
+year: 2021
+type: regular
+name: Allgemein
+evlink: /event/2021/sbgcup/06
+results:
+  - category: Damen
+    valid: true
+    result:
+      - name: Andrea Strasser
+      - name: Franziska Rogl
+      - name: Karin Hillebrand
+  - category: Herren
+    valid: true
+    result:
+      - name: Franz Helminger
+      - name: Norbert Helminger
+      - name: Bernhard Fink

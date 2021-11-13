@@ -1,0 +1,35 @@
+year: 2021
+type: sprint
+name: Sprint
+evlink: /event/2021/sbgcup/08
+results:
+  - category: Damen -15
+    valid: true
+    result:
+      - name: Jana Lechner
+      - name: Katja Helminger
+      - name: Lisa Mitterer
+  - category: Herren -15
+    valid: true
+    result:
+      - name: Nick Lechner
+      - name: Clemens Eibl
+      - name: Felix Emberger
+  - category: Damen 16-
+    valid: true
+    result:
+      - name: Andrea Strasser
+      - name: Lucie Rothauer
+      - name: Kitti Boros
+  - category: Herren 16-
+    valid: true
+    result:
+      - name: Lukas Scharnagl
+      - name: Norbert Helminger
+      - name: Franz Helminger
+  - category: Herren 55-
+    valid: true
+    result:
+      - name: Horst Mayer
+      - name: Josef Wimmer
+      - name: Hartwig Rogl
