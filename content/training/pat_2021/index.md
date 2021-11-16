@@ -9,7 +9,7 @@ disable_rightbar: true
 
 menu:
   main:
-    weight: 10
+    weight: 880
     name: "P&T 2021"
     identifier: "pat_21"
     parent: "training"
