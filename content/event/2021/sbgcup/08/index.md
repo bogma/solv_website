@@ -76,7 +76,12 @@ resources:
   title: "Anfahrt"
 - src: "**/*lms**"
   title: "Ergebnis Landesmeisterschaft"
-
+- src: "**/Jugend.jpg"
+  title: "Foto Sprintlandesmeister Jugend"
+- src: "**/Allgemein.jpg"
+  title: "Foto Sprintlandesmeister Allgemein"
+- src: "**/Senioren.jpg"
+  title: "Foto Sprintlandesmeister Senioren"
 # resource_links:
 #   infos:
 #   - link: "/resources/2019/start5sc2019.html"

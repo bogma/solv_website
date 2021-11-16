@@ -78,6 +78,8 @@ resources:
   title: "Anfahrt"
 - src: "**/*lms**"
   title: "Ergebnis Landesmeisterschaft"
+- src: "**/Landesmeister.jpg"
+  title: "Foto Landesmeister"
 
 # resource_links:
 #   infos:
