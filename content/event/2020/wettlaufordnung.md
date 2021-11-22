@@ -68,12 +68,8 @@ Die **Salzburger Sprint-Cup Wertung** und der **Sportvogl - Schulcup** entfallen
             <td>2002 und jünger</td>
         </tr>
         <tr>
-            <td>D -13, H -13</td>
-            <td>2007 und jünger</td>
-        </tr>
-        <tr>
             <td>D 19-, H 19-, OK, OL</td>
-            <td>frei</td>
+            <td>ab 2004 und älter</td>
         </tr>
         <tr>
             <td>D 35-, H 35-</td>

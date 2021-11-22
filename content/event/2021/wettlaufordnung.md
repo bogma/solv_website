@@ -66,12 +66,8 @@ type: "page"
             <td>2003 und jünger</td>
         </tr>
         <tr>
-            <td>D -13, H -13</td>
-            <td>2008 und jünger</td>
-        </tr>
-        <tr>
             <td>D 19-, H 19-, OK, OL</td>
-            <td>frei</td>
+            <td>ab 2005 und älter</td>
         </tr>
         <tr>
             <td>D 35-, H 35-</td>
