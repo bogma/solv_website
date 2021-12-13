@@ -1,0 +1,48 @@
+{{ $year := .Get 0 }}
+
+<table class="uk-table uk-table-divider uk-table-striped">
+    <thead>
+        <tr>
+            <th>Laufklasse</th>
+            <th>Kurzbezeichnung</th>
+            <th>Jahrgang</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Unterstufe Herren -{{sub $year 13}}</td>
+            <td>US H -0{{sub $year 2013}}</td>
+            <td>{{sub $year 13}} und jünger</td>
+        </tr>
+        <tr>
+            <td>Unterstufe Damen -{{sub $year 13}}</td>
+            <td>US D -0{{sub $year 2013}}</td>
+            <td>{{sub $year 13}} und jünger</td>
+        </tr>
+        <tr>
+            <td>Unterstufe Herren {{sub $year 15}}/0{{sub $year 2014}}</td>
+            <td>US H 0{{sub $year 2015}}/0{{sub $year 2014}}</td>
+            <td>{{sub $year 15}} und {{sub $year 14}}</td>
+        </tr>
+        <tr>
+            <td>Unterstufe Damen {{sub $year 15}}/0{{sub $year 2014}}</td>
+            <td>US D 0{{sub $year 2015}}/0{{sub $year 2014}}</td>
+            <td>{{sub $year 15}} und {{sub $year 14}}</td>
+        </tr>
+        <tr>
+            <td>Oberstufe Herren</td>
+            <td>OS H</td>
+            <td>{{sub $year 18}} und jünger</td>
+        </tr>
+        <tr>
+            <td>Oberstufe Damen</td>
+            <td>OS D</td>
+            <td>{{sub $year 18}} und jünger</td>
+        </tr>
+        <tr>
+            <td>Paare</td>
+            <td>P</td>
+            <td>keine Altersbeschränkung</td>
+        </tr>
+    </tbody>
+</table>

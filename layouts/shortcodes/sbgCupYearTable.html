@@ -1,0 +1,44 @@
+{{ $year := .Get 0 }}
+
+<table class="uk-table uk-table-divider uk-table-striped">
+    <thead>
+        <tr>
+            <th>Kategorie</th>
+            <th>Geburtsjahre</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>D -13, H -13</td>
+            <td>{{sub $year 13}} und jünger</td>
+        </tr>
+        <tr>
+            <td>D -15, H -15</td>
+            <td>{{sub $year 15}} und jünger</td>
+        </tr>
+        <tr>
+            <td>D -18, H -18</td>
+            <td>{{sub $year 18}} und jünger</td>
+        </tr>
+        <tr>
+            <td>D 19-, H 19-, OK, OL</td>
+            <td>ab {{sub $year 16}} und älter</td>
+        </tr>
+        <tr>
+            <td>D 35-, H 35-</td>
+            <td>{{sub $year 35}} und älter</td>
+        </tr>
+        <tr>
+            <td>D 45-, H 45-</td>
+            <td>{{sub $year 45}} und älter</td>
+        </tr>
+        <tr>
+            <td>D 55-, H 55-</td>
+            <td>{{sub $year 55}} und älter</td>
+        </tr>
+        <tr>
+            <td>H 65-</td>
+            <td>{{sub $year 65}} und älter</td>
+        </tr>
+    </tbody>
+</table>

@@ -13,83 +13,11 @@ Die **Salzburger Sprint-Cup Wertung** und der **Sportvogl - Schulcup** entfallen
 
 ## Einteilung der Salzburgcup Kategorien und Bahnen 2020
 
-<table class="uk-table uk-table-divider uk-table-striped">
-    <thead>
-        <tr>
-            <th>Bahn</th>
-            <th>Kategorie</th>
-            <th>Kurzbezeichnung</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Einfach</td>
-            <td>Damen -13, Herren -13, Offen Kurz</td>
-            <td>D -13, H -13, OK</td>
-        </tr>
-        <tr>
-            <td>Kurz</td>
-            <td>Damen -15, Herren -15, Damen -18, Damen 55-, Herren 55-, Herren 65-, Offen Lang</td>
-            <td>D -15, H -15, D -18, D 55-, H 55-, OL</td>
-        </tr>
-        <tr>
-            <td>Mittel</td>
-            <td>Herren -18, Damen 19-, Damen 35-, Damen 45-, Herren 45-</td>
-            <td>H -18, D 19-, D 35-, D 45-, H 45-</td>
-        </tr>
-        <tr>
-            <td>Lang</td>
-            <td>Herren 19-, Herren 35-</td>
-            <td>H 19-, H 35-</td>
-        </tr>
-    </tbody>
-</table>
+{{< table "sbgcup_cat_2018" "uk-table uk-table-divider uk-table-striped" >}}
 
 ### Geburtsjahre
 
-<table class="uk-table uk-table-divider uk-table-striped">
-    <thead>
-        <tr>
-            <th>Kategorie</th>
-            <th>Geburtsjahre</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>D -13, H -13</td>
-            <td>2007 und jünger</td>
-        </tr>
-        <tr>
-            <td>D -15, H -15</td>
-            <td>2005 und jünger</td>
-        </tr>
-        <tr>
-            <td>D -18, H -18</td>
-            <td>2002 und jünger</td>
-        </tr>
-        <tr>
-            <td>D 19-, H 19-, OK, OL</td>
-            <td>ab 2004 und älter</td>
-        </tr>
-        <tr>
-            <td>D 35-, H 35-</td>
-            <td>1985 und älter</td>
-        </tr>
-        <tr>
-            <td>D 45-, H 45-</td>
-            <td>1975 und älter</td>
-        </tr>
-        <tr>
-            <td>D 55-, H 55-</td>
-            <td>1965 und älter</td>
-        </tr>
-        <tr>
-            <td>H 65-</td>
-            <td>1955 und älter</td>
-        </tr>
-    </tbody>
-</table>
-
+{{< sbgCupYearTable 2020 >}}
 
 
 ## Hinweise

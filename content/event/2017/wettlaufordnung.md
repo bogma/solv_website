@@ -13,86 +13,11 @@ type: "page"
 
 ## Einteilung der Salzburgcup Kategorien und Bahnen 2017
 
-<table class="uk-table uk-table-divider uk-table-striped">
-    <thead>
-        <tr>
-            <th>Bahn</th>
-            <th>Kategorie</th>
-            <th>Kurzbezeichnung</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Neulinge</td>
-            <td>Damen -13, Herren -13, Offen Kurz</td>
-            <td>D -13, H -13, OK</td>
-        </tr>
-        <tr>
-            <td>Kurz</td>
-            <td>Damen -15, Herren -15, Damen -18, Damen 55-, Herren 55-, Offen Lang</td>
-            <td>D -15, H -15, D -18, D 55-, H 55-, OL</td>
-        </tr>
-        <tr>
-            <td>Mittel</td>
-            <td>Herren -18, Damen 19-, Damen 35-, Damen 45-, Herren 45-</td>
-            <td>H -18, D 19-, D 35-, D 45-, H 45-</td>
-        </tr>
-        <tr>
-            <td>Lang</td>
-            <td>Herren 19-, Herren 35-</td>
-            <td>H 19-, H 35-</td>
-        </tr>
-    </tbody>
-</table>
+{{< table "sbgcup_cat_2017" "uk-table uk-table-divider uk-table-striped" >}}
 
 ## Einteilung der Salzburger Schulcup Kategorien 2017
 
-<table class="uk-table uk-table-divider uk-table-striped">
-    <thead>
-        <tr>
-            <th>Laufklasse</th>
-            <th>Kurzbezeichnung</th>
-            <th>Jahrgang</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Unterstufe Herren -2004</td>
-            <td>US H -04</td>
-            <td>2004 und jünger</td>
-        </tr>
-        <tr>
-            <td>Unterstufe Damen -2004</td>
-            <td>US D -04</td>
-            <td>2004 und jünger</td>
-        </tr>
-        <tr>
-            <td>Unterstufe Herren 2002/03</td>
-            <td>US H 02/03</td>
-            <td>2002 und 2003</td>
-        </tr>
-        <tr>
-            <td>Unterstufe Damen 2002/03</td>
-            <td>US D 02/03</td>
-            <td>2002 und 2003</td>
-        </tr>
-        <tr>
-            <td>Oberstufe Herren</td>
-            <td>OS H</td>
-            <td>1999 und jünger</td>
-        </tr>
-        <tr>
-            <td>Oberstufe Damen</td>
-            <td>OS D</td>
-            <td>1999 und jünger</td>
-        </tr>
-        <tr>
-            <td>Paare</td>
-            <td>P</td>
-            <td>keine Altersbeschränkung</td>
-        </tr>
-    </tbody>
-</table>
+{{< schCupYearTable 2017 >}}
 
 ## Hinweise
 
