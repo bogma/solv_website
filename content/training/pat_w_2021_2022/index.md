@@ -26,3 +26,4 @@ Wer zu diesem Zeitpunkt keine Zeit hat, kann die golden Kugeln bis zum 25.12. se
 Der Print&Train Weihnachts-OL für Profis (Laufkarte folgt noch) wird ab ca 23.12. ausgehängt.
 
 + [Anfänger](21_12_19_WeihnachtsOL21Anfängerinnen.pdf)
++ [Profis](Weihn21Profi.pdf) (ab Mittwoch 22.12. nutzbar)
