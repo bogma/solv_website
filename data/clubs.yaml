@@ -39,11 +39,11 @@ club:
     board:
       - position: Obmann
         name: Hartwig Rogl
-  - name: TV Zell am See, Sektion OL
-    short: TVZ
-    website: www.tvzellamsee.at/Orientierungslauf.2046.0.html
+  - name: Bleib in Bewegung!
+    short: BIB
     membercount: 2
-    logo: /images/logo-tvz.jpg
     board:
       - position: Obmann
-        name: Gabriel Seitlinger
+        name: Christian Breitschädel
+      - position: Obmannstellvertreter
+        name: Julia Breitschädel
