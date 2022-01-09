@@ -27,3 +27,11 @@ Der Print&Train Weihnachts-OL für Profis (Laufkarte folgt noch) wird ab ca 23.1
 
 + [Anfänger](21_12_19_WeihnachtsOL21Anfängerinnen.pdf)
 + [Profis](Weihn21Profi.pdf) (ab Mittwoch 22.12. nutzbar)
+
+#### Neumarkt
+
+P&T von Robi und Warti: ein Sprint durch die Stadt schon in der Winterzeit ohne Reh & Co.
+Das Sprint-Training ist ohne Bänder-Markierung -  Postenstandorte sind eindeutig. Es für alle Altersklassen laufbar.
+In 14 Tagen gibt es ein weiteres P&T Sprint-Training.
+
++ [Karte](Print_and_Train_Neumarkt_von_Warti_und_Robi.pdf)
