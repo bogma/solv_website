@@ -6,6 +6,7 @@ copyright = "SOLV - Powered by [Hugo](//gohugo.io) and [UIkit](//getuikit.com)"
 enableGitInfo = true
 ignoreFiles = [ "\\.xml$", "\\.skb$", "\\.foo$"]
 paginate = 10
+buildFuture = true
 
 [markup]
   [markup.goldmark]
