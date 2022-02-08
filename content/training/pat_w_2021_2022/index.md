@@ -15,6 +15,14 @@ menu:
     parent: "training"
 ---
 
+#### Riedelwald
+
+Den Kompass zücken, die Karte nach gewünschtem Schwierigkeitsgrad aussuchen und los geht’s. Ausgehängte Bänder gibt es keine. Das macht dieses Kompasstraining von Lukas dificil.
+
++ [Kurz/Einfach](KW%206%20-%20Kompass-Training%20-%20Riedelwald.Kurz_Einfach.pdf)
++ [Mittel/Anspruchsvoll](KW%206%20-%20Kompass-Training%20-%20Riedelwald.Mittel_Anspruchsvoll.pdf)
++ [Lang/Schwierig](KW%206%20-%20Kompass-Training%20-%20Riedelwald.Lang_Schwierig.pdf)
+
 #### Schleedorf
 
 Liebe fleißige Trainierer!
@@ -28,7 +36,7 @@ Das Training kann von Anfängern und Fortgeschrittenen/Profis gleichermaßen gel
 Alles Gute & viel Spaß! LG Warti
 
 + [A1_B1](Sprint-Training-Schleedorf.A1__B1.pdf)
-+ [A2_B2](Sprint-Training-Schleedorf.A2_B2.pdf)
++ [A2_B2](Sprint-Training-Schleedorf.A2__B2.pdf)
 + [C1](Sprint-Training-Schleedorf.C1.pdf)
 + [C2](Sprint-Training-Schleedorf.C2.pdf)
 
