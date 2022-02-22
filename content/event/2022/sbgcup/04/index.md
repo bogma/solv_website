@@ -1,6 +1,6 @@
 ---
 title: "4. Salzburger Sportvoglcup 2022"
-date: 2022-03-26T00:00:00 # keep time 0 until start time is known
+date: 2022-03-27T12:45:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,7 +8,7 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
@@ -26,33 +26,33 @@ implementation: "HSV Wals" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 
-#liveresultat_id: 18741
+liveresultat_id: 21685
 #end: 150 # x minutes from event->date (remove if not needed)
 #start_amend: "(WKZ - Start 0m)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Franz Nagele"
+  event: "Franz Nagele"
+  inspection: "Jakob Buchberger, Leopold Tonka"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -10 # x days from event->date
 meeting:
-  point: ""
-  time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  point: "Parkplatz VS Josefiau"
+  time_minutes: -45 # x minutes from event->date
+  location: [47.78005, 13.07381]
 map:
-  name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
+  name: "Salzburg - Josefiau"
+  scale: "1:3.000"
+  equidistance: "2m"
+  update: "März 2022"
   format: ""
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
+control_point_description: "Auf der Karte und zum Download"
 hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
