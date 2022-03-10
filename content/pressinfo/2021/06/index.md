@@ -4,7 +4,7 @@ date: 2021-07-21T12:39:59+02:00 # date for 'written on'
 draft: false
 author: "f. elstner"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2021"]
 tags: [] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Henndorf, Tamsweg, Mariapfarr"
 info_date: 2021-07-21 / 2021-07-22 # date in article (YYYY-MM-dd)

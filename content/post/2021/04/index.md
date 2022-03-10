@@ -3,7 +3,7 @@ title: "Verschiebung der Landesmeisterschaft im Sprint-OL"
 date: 2021-04-07T21:42:02+02:00 # date of creation of the file (written)
 draft: false
 
-archives: []
+archives: ["2021"]
 tags: [] # tag your article here, i.e ["Training", "Administratives"]
 
 calendar_date: 2021-04-07T21:42:02+02:00 # TODO: date in calendar

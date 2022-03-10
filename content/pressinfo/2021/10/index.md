@@ -4,7 +4,7 @@ date: 2021-10-06T22:42:30+02:00 # date for 'written on'
 draft: false
 author: "f.elstner"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2021"]
 tags: ["Landesmeisterschaft", "Arge Alp"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "St.Andrä im Lungau"
 info_date: 2021-09-26 # date in article (YYYY-MM-dd)

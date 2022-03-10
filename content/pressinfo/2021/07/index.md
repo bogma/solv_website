@@ -4,7 +4,7 @@ date: 2021-08-04T16:26:53+02:00 # date for 'written on'
 draft: false
 author: "f.elstner"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2021"]
 tags: ["MTBO", "Tobias Breitschädel"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Henndorf, Grafenschlag"
 info_date: 2021.07.31 - 2021.08.01 # date in article (YYYY-MM-dd)

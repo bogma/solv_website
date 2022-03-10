@@ -4,7 +4,7 @@ date: 2021-10-12T23:56:29+02:00 # date for 'written on'
 draft: false
 author: "f.elstner"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2021"]
 tags: ["ARGE Alp"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Hetzenbach (Bayern)"
 info_date: 2021-10-09, 2021-10-10 # date in article (YYYY-MM-dd)

@@ -4,7 +4,7 @@ date: 2021-08-16T19:28:03+02:00 # date for 'written on'
 draft: false
 author: "r.merl"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2021"]
 tags: ["International", "Robert Merl"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Idre Fjäll (SWE)"
 info_date: 2021-08-12 - 2021-08-15 # date in article (YYYY-MM-dd)

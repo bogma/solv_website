@@ -4,7 +4,7 @@ date: 2021-03-24T07:21:36+01:00 # date for 'written on'
 draft: false
 author: "r.merl"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2021"]
 tags: ["International", "Robert Merl"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Vicenza (ITA)"
 info_date: 2021-03-20 - 2021-03-21 # date in article (YYYY-MM-dd)

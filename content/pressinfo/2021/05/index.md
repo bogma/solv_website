@@ -4,7 +4,7 @@ date: 2021-06-08T13:46:50+02:00 # date for 'written on'
 draft: false
 author: "r.merl"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2021"]
 tags: ["Austria Cup"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Graz/Hainersdorf (ST)"
 info_date: 2021-06-03 - 2021-06-06 # date in article (YYYY-MM-dd)
