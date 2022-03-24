@@ -92,6 +92,7 @@
     <Name name="Roland Berner" aliasFor="Roland Perner"/>
     <Name name="Yschi Tiefenbrunner" aliasFor="Yschai Tiefenbrunner"/>
     <Name name="Jonas Königstorfer" aliasFor="Jonas Königsdorfer"/> 
+    <Name name="Franz Helminger Sen." aliasFor="Franz Helmingern Sen."/> 
   </Names>
   <Translations>
     <Translation key="DidNotFinish" translate="aufg." />
