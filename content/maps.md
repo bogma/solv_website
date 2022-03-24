@@ -38,7 +38,7 @@ info.onAdd = function (map) {
 info.update = function (props, area) {
     var size = '';
     if (area) {
-      size = ' ~ ' + (area / 1000000).toFixed(1) + ' km²';
+      size = ' ~ ' + (area / 1000000).toFixed(2) + ' km²';
     }
     var created = '', updated = '', title = '';
     if (props) {

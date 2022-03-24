@@ -4,6 +4,70 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Burg Finstergrün - Ramingstein",
+        "owner": "HSV Wals",
+        "club": "HSW",
+        "ae": "5m",
+        "lastUpdate": 2021,
+        "updatedBy": ["Jakob Buchberger, Franz Nagele"],
+        "creationDate": 2021,
+        "createdBy": ["Jakob Buchberger, Franz Nagele"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.840367496013641,
+              47.07327306418635
+            ],
+            [
+              13.840407729148865,
+              47.07241631061433
+            ],
+            [
+              13.841813206672668,
+              47.072357853578694
+            ],
+            [
+              13.843272328376768,
+              47.07299722392137
+            ],
+            [
+              13.844345211982727,
+              47.073658507463286
+            ],
+            [
+              13.844436407089233,
+              47.074601096338746
+            ],
+            [
+              13.84325623512268,
+              47.07461205657646
+            ],
+            [
+              13.842607140541077,
+              47.07437823768321
+            ],
+            [
+              13.841485977172852,
+              47.07358178437922
+            ],
+            [
+              13.840944170951843,
+              47.07342651113298
+            ],
+            [
+              13.840367496013641,
+              47.07327306418635
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Ursprunger Moor",
         "owner": "ASKÖ Henndorf Orienteering",
         "club": "AHD",
@@ -9369,7 +9433,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Radstadt",
+        "name": "Bannwald",
         "ae": "5m",
         "owner": "ASKÖ Henndorf Orienteering",
         "club": "AHD",
