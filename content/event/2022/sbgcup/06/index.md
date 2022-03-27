@@ -1,6 +1,6 @@
 ---
 title: "6. Salzburger Sportvoglcup 2022"
-date: 2022-05-07T00:00:00 # keep time 0 until start time is known
+date: 2022-06-25T00:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -13,7 +13,7 @@ status: planned # planned (= for preview Calendar), active (= Announcement...), 
 archives: []
 tags: [ "SBG Cup"]
 
-anne_id: 3651
+anne_id: 3753
 
 event:
   name_amend: "" # respects markdown
