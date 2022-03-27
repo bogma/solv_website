@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ResultList xmlns="http://www.orienteering.org/datastandard/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" iofVersion="3.0" createTime="2022-03-27T14:38:29.355" creator="SportSoftware OE12 (M) V.11.95">
+<ResultList xmlns="http://www.orienteering.org/datastandard/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" iofVersion="3.0" createTime="2022-03-27T19:41:22.922" creator="SportSoftware OE12 (M) V.11.95">
   <Event>
     <Name>3./4. Salzburger Sportvoglcup 2022</Name>
     <Race>
@@ -1495,77 +1495,6 @@
     </PersonResult>
     <PersonResult>
       <Person sex="M">
-        <Name>
-          <Family>Grambichler</Family>
-          <Given>Johann</Given>
-        </Name>
-      </Person>
-      <Organisation>
-        <Id>10000</Id>
-        <Name>ASKÖ Henndorf</Name>
-        <ShortName>ASKÖ Henndorf</ShortName>
-      </Organisation>
-      <Result raceNumber="2">
-        <BibNumber>2</BibNumber>
-        <Status>DidNotStart</Status>
-        <SplitTime status="Missing">
-          <ControlCode>109</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>110</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>111</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>112</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>113</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>115</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>114</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>116</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>117</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>118</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>119</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>120</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>121</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>122</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>123</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>100</ControlCode>
-        </SplitTime>
-        <AssignedFee>
-          <Fee>
-            <Name>Actual</Name>
-            <Amount>4.50</Amount>
-          </Fee>
-        </AssignedFee>
-      </Result>
-    </PersonResult>
-    <PersonResult>
-      <Person sex="M">
         <Id>8248248</Id>
         <Name>
           <Family>Eisl</Family>
@@ -2582,6 +2511,96 @@
     </PersonResult>
     <PersonResult>
       <Person sex="F">
+        <Id>14</Id>
+        <Name>
+          <Family>Breitschädel</Family>
+          <Given>Eva</Given>
+        </Name>
+        <BirthDate>1953-01-01</BirthDate>
+      </Person>
+      <Organisation>
+        <Id>201</Id>
+        <Name>Bleib in Bewegung!</Name>
+        <ShortName>Bleib in Bewegung!</ShortName>
+      </Organisation>
+      <Result raceNumber="2">
+        <StartTime>2022-03-27T11:50:07.000</StartTime>
+        <FinishTime>2022-03-27T12:11:01.000</FinishTime>
+        <Time>1253</Time>
+        <TimeBehind>118</TimeBehind>
+        <Position>2</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>122</ControlCode>
+          <Time>50</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>106</ControlCode>
+          <Time>83</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>109</ControlCode>
+          <Time>154</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>121</ControlCode>
+          <Time>205</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>120</ControlCode>
+          <Time>335</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>110</ControlCode>
+          <Time>390</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>128</ControlCode>
+          <Time>466</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>127</ControlCode>
+          <Time>544</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>118</ControlCode>
+          <Time>633</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>126</ControlCode>
+          <Time>713</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>117</ControlCode>
+          <Time>767</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>125</ControlCode>
+          <Time>946</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>89</ControlCode>
+          <Time>1078</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>112</ControlCode>
+          <Time>1134</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>1243</Time>
+        </SplitTime>
+        <ControlCard>8646985</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>4.50</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="F">
         <Id>69</Id>
         <Name>
           <Family>Müller</Family>
@@ -2599,7 +2618,7 @@
         <FinishTime>2022-03-27T00:00:00.000</FinishTime>
         <Time>1324</Time>
         <TimeBehind>189</TimeBehind>
-        <Position>2</Position>
+        <Position>3</Position>
         <Status>OK</Status>
         <SplitTime>
           <ControlCode>122</ControlCode>
@@ -2662,85 +2681,6 @@
           <Time>1312</Time>
         </SplitTime>
         <ControlCard>5399</ControlCard>
-        <AssignedFee>
-          <Fee>
-            <Name>Actual</Name>
-            <Amount>4.50</Amount>
-          </Fee>
-        </AssignedFee>
-      </Result>
-    </PersonResult>
-    <PersonResult>
-      <Person sex="F">
-        <Id>14</Id>
-        <Name>
-          <Family>Breitschädel</Family>
-          <Given>Eva</Given>
-        </Name>
-        <BirthDate>1953-01-01</BirthDate>
-      </Person>
-      <Organisation>
-        <Id>201</Id>
-        <Name>Bleib in Bewegung!</Name>
-        <ShortName>Bleib in Bewegung!</ShortName>
-      </Organisation>
-      <Result raceNumber="2">
-        <StartTime>2022-03-27T11:54:24.000</StartTime>
-        <FinishTime>2022-03-27T12:27:38.000</FinishTime>
-        <Time>1994</Time>
-        <TimeBehind>859</TimeBehind>
-        <Status>MissingPunch</Status>
-        <SplitTime status="Missing">
-          <ControlCode>122</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>106</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>109</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>121</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>120</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>110</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>128</ControlCode>
-        </SplitTime>
-        <SplitTime>
-          <ControlCode>127</ControlCode>
-          <Time>374</Time>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>118</ControlCode>
-        </SplitTime>
-        <SplitTime>
-          <ControlCode>126</ControlCode>
-          <Time>818</Time>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>117</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>125</ControlCode>
-        </SplitTime>
-        <SplitTime>
-          <ControlCode>89</ControlCode>
-          <Time>1504</Time>
-        </SplitTime>
-        <SplitTime>
-          <ControlCode>112</ControlCode>
-          <Time>1677</Time>
-        </SplitTime>
-        <SplitTime>
-          <ControlCode>100</ControlCode>
-          <Time>1934</Time>
-        </SplitTime>
-        <ControlCard>1090478</ControlCard>
         <AssignedFee>
           <Fee>
             <Name>Actual</Name>
@@ -7351,6 +7291,86 @@
     <PersonResult>
       <Person sex="M">
         <Name>
+          <Family>Grambichler</Family>
+          <Given>Johann 2</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>10000</Id>
+        <Name>ASKÖ Henndorf</Name>
+        <ShortName>ASKÖ Henndorf</ShortName>
+      </Organisation>
+      <Result raceNumber="2">
+        <StartTime>2022-03-27T11:54:24.000</StartTime>
+        <FinishTime>2022-03-27T12:27:38.000</FinishTime>
+        <Time>1994</Time>
+        <TimeBehind>1323</TimeBehind>
+        <Position>5</Position>
+        <Status>OK</Status>
+        <SplitTime>
+          <ControlCode>101</ControlCode>
+          <Time>67</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>124</ControlCode>
+          <Time>136</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>129</ControlCode>
+          <Time>219</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>127</ControlCode>
+          <Time>374</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>98</ControlCode>
+          <Time>544</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>117</ControlCode>
+          <Time>670</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>126</ControlCode>
+          <Time>818</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>130</ControlCode>
+          <Time>968</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>86</ControlCode>
+          <Time>1243</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>111</ControlCode>
+          <Time>1408</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>89</ControlCode>
+          <Time>1504</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>112</ControlCode>
+          <Time>1677</Time>
+        </SplitTime>
+        <SplitTime>
+          <ControlCode>100</ControlCode>
+          <Time>1934</Time>
+        </SplitTime>
+        <ControlCard>1090478</ControlCard>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>5.00</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="M">
+        <Name>
           <Family>Fink</Family>
           <Given>Lorenz</Given>
         </Name>
@@ -7465,68 +7485,6 @@
           <ControlCode>100</ControlCode>
         </SplitTime>
         <ControlCard>8014014</ControlCard>
-        <AssignedFee>
-          <Fee>
-            <Name>Actual</Name>
-            <Amount>5.00</Amount>
-          </Fee>
-        </AssignedFee>
-      </Result>
-    </PersonResult>
-    <PersonResult>
-      <Person sex="F">
-        <Name>
-          <Family>Fink</Family>
-          <Given>Hannah</Given>
-        </Name>
-      </Person>
-      <Organisation>
-        <Id>32</Id>
-        <Name>ASKÖ Henndorf Orienteering</Name>
-        <ShortName>ASKÖ Henndorf Orienteering</ShortName>
-      </Organisation>
-      <Result raceNumber="2">
-        <Status>DidNotStart</Status>
-        <SplitTime status="Missing">
-          <ControlCode>101</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>124</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>129</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>127</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>98</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>117</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>126</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>130</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>86</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>111</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>89</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>112</ControlCode>
-        </SplitTime>
-        <SplitTime status="Missing">
-          <ControlCode>100</ControlCode>
-        </SplitTime>
-        <ControlCard>46039</ControlCard>
         <AssignedFee>
           <Fee>
             <Name>Actual</Name>
@@ -7651,6 +7609,68 @@
         <SplitTime status="Missing">
           <ControlCode>100</ControlCode>
         </SplitTime>
+        <AssignedFee>
+          <Fee>
+            <Name>Actual</Name>
+            <Amount>5.00</Amount>
+          </Fee>
+        </AssignedFee>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person sex="F">
+        <Name>
+          <Family>Fink</Family>
+          <Given>Hannah</Given>
+        </Name>
+      </Person>
+      <Organisation>
+        <Id>32</Id>
+        <Name>ASKÖ Henndorf Orienteering</Name>
+        <ShortName>ASKÖ Henndorf Orienteering</ShortName>
+      </Organisation>
+      <Result raceNumber="2">
+        <Status>DidNotStart</Status>
+        <SplitTime status="Missing">
+          <ControlCode>101</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>124</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>129</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>127</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>98</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>117</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>126</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>130</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>86</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>111</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>89</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>112</ControlCode>
+        </SplitTime>
+        <SplitTime status="Missing">
+          <ControlCode>100</ControlCode>
+        </SplitTime>
+        <ControlCard>46039</ControlCard>
         <AssignedFee>
           <Fee>
             <Name>Actual</Name>
