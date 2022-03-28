@@ -2,164 +2,172 @@ club:
   - name: ASKÖ Henndorf Orienteering
     short: AHD
     members:
-    - Andrea Eisl
-    - Angela Pesendorfer
-    - Anna Elstner
-    - Andrea Strasser
-    - Bernadett Kelemen
-    - Bernadette Grömer
-    - Bernhard Fink
-    - Birgit Eisl
-    - Birgit Kern
-    - Brigitte Müller
-    - Carla Berger
-    - Christian Breitschädel
-    - Christian Wartbichler
-    - Christine Gathercole
-    - Christine Müller
-    - Claudia Hackl
-    - Clemens Eibl
-    - Dominique L´Humeau
-    - Edi Böhm
-    - Edith Müller
-    - Eduard Böhm
-    - Ekkehard Berger
-    - Elisa Elstner
-    - Emma Rothauer
-    - Eva Breitschädel
-    - Felix Breitschädel
-    - Felix Emberger
-    - Florian Elstner
-    - Franziska Rogl
-    - Heda Kusynova
-    - Heda Perner
-    - Jonas Königstorfer
-    - Josef Wimmer
-    - Josefine Erhard
-    - Julia Breitschädel
-    - Karin Hillebrand
-    - Karl Hackl
-    - Kastner Martin
-    - Katharina Hinterhofer
-    - Kerstin Mödlhammer
-    - Kevin Hackl
-    - Kitti Boros
-    - Lara Höhenberger
-    - Laura Wiedemayer
-    - Laurenz Elstner
-    - Leo Müller
-    - Leon Ebster
-    - Lisa Pesendorfer
-    - Lisa Mitterer
-    - Lucie Rothauer
-    - Lukas Scharnagl
-    - Manuel Gassner
-    - Manuel Schober
-    - Manuel Wiesberger
-    - Margit Elstner
-    - Markus König
-    - Martin Bogensperger
-    - Martin Böhm
-    - Martin Kastner
-    - Mathias Wartbichler
-    - Matthias Kreuzer
-    - Nilla Bogensperger
-    - Peter Ebster
-    - Peter Ebster Sen.
-    - Philipp Hackl
-    - Richard Gathercole
-    - Robert Merl
-    - Roland Kohlbacher
-    - Roman Schütz
-    - Samuel Markel
-    - Sophie Doppler
-    - Theresia Brunnauer
-    - Thomas Rothauer
-    - Wolfgang Kampel
-    - Yschi Tiefenbrunner
-    - Yvonne Kupfner
-    - Tobias Breitschädel
-    - Wilhelm Josef
-    - Alexandra Breitfellner
-    - Clemens Schütz
-    - Stefanie Kral
-    - Tobias Aigner
-    - Saskia Kupfner
-    - Christina Probst
-    - Elisabeth Ebner
-    - Eva Bermadinger
-    - Ina Simader
-    - Ingrid Simader
-    - Jochen Berger
-    - Marcel Stöckl
-    - Marianne Wörndl
-    - Melanie Sinnhofer
-    - Thomas Umundum
-    - Simon Wally
-    - Julia Obermann
-    - Simon Leitner
-    - Sabine Stütz
-    - Simon Rheinfrank
-    - Erkka Harju-Säntti
-    - Jasmin Guggenberger
-    - Nicole Kucher
+    - { name: Andrea Eisl }
+    - { name: Angela Pesendorfer }
+    - { name: Anna Elstner }
+    - { name: Andrea Strasser }
+    - { name: Bernadett Kelemen }
+    - { name: Bernadette Grömer }
+    - { name: Bernhard Fink }
+    - { name: Birgit Eisl }
+    - { name: Birgit Kern }
+    - { name: Brigitte Müller }
+    - { name: Carla Berger }
+    - { name: Christian Breitschädel, until: 2021 }
+    - { name: Christian Wartbichler }
+    - { name: Christine Gathercole }
+    - { name: Christine Müller }
+    - { name: Claudia Hackl }
+    - { name: Clemens Eibl }
+    - { name: Dominique L´Humeau }
+    - { name: Edi Böhm }
+    - { name: Edith Müller }
+    - { name: Eduard Böhm }
+    - { name: Ekkehard Berger }
+    - { name: Elisa Elstner }
+    - { name: Emma Rothauer }
+    - { name: Eva Breitschädel, until: 2021 }
+    - { name: Felix Breitschädel }
+    - { name: Felix Emberger }
+    - { name: Florian Elstner }
+    - { name: Franziska Brodinger }
+    - { name: Franziska Rogl }
+    - { name: Heda Kusynova }
+    - { name: Heda Perner }
+    - { name: Johannes Kreuzer }
+    - { name: Jonas Königstorfer }
+    - { name: Josef Wimmer }
+    - { name: Josefine Erhard }
+    - { name: Julia Breitschädel }
+    - { name: Karin Hillebrand }
+    - { name: Karl Hackl }
+    - { name: Kastner Martin }
+    - { name: Katharina Hinterhofer }
+    - { name: Kerstin Mödlhammer }
+    - { name: Kevin Hackl }
+    - { name: Kitti Boros }
+    - { name: Lara Höhenberger }
+    - { name: Laura Wiedemayer }
+    - { name: Laurenz Elstner }
+    - { name: Leo Müller }
+    - { name: Leon Ebster }
+    - { name: Lisa Pesendorfer }
+    - { name: Lisa Mitterer }
+    - { name: Lucie Rothauer }
+    - { name: Lukas Scharnagl }
+    - { name: Marion Schönberger }
+    - { name: Manuel Gassner }
+    - { name: Manuel Schober }
+    - { name: Manuel Wiesberger }
+    - { name: Margit Elstner }
+    - { name: Markus König }
+    - { name: Martin Bogensperger }
+    - { name: Martin Böhm }
+    - { name: Martin Kastner }
+    - { name: Mathias Wartbichler }
+    - { name: Matthias Kreuzer }
+    - { name: Nilla Bogensperger }
+    - { name: Peter Ebster }
+    - { name: Peter Ebster Sen. }
+    - { name: Philipp Hackl }
+    - { name: Richard Gathercole }
+    - { name: Robert Merl }
+    - { name: Roland Kohlbacher }
+    - { name: Roman Schütz }
+    - { name: Samuel Markel }
+    - { name: Sophie Doppler }
+    - { name: Theresia Brunnauer }
+    - { name: Thomas Rothauer }
+    - { name: Wolfgang Kampel }
+    - { name: Yschi Tiefenbrunner }
+    - { name: Yvonne Kupfner }
+    - { name: Tobias Breitschädel }
+    - { name: Wilhelm Josef }
+    - { name: Alexandra Breitfellner }
+    - { name: Clemens Schütz }
+    - { name: Stefanie Kral }
+    - { name: Tobias Aigner }
+    - { name: Saskia Kupfner }
+    - { name: Christina Probst }
+    - { name: Elisabeth Ebner }
+    - { name: Eva Bermadinger }
+    - { name: Ina Simader }
+    - { name: Ingrid Simader }
+    - { name: Jochen Berger }
+    - { name: Marcel Stöckl }
+    - { name: Marianne Wörndl }
+    - { name: Melanie Sinnhofer }
+    - { name: Thomas Umundum }
+    - { name: Simon Wally }
+    - { name: Julia Obermann }
+    - { name: Simon Leitner }
+    - { name: Sabine Stütz }
+    - { name: Simon Rheinfrank }
+    - { name: Erkka Harju-Säntti }
+    - { name: Jasmin Guggenberger }
+    - { name: Nicole Kucher }
 
   - name: HSV Wals, Sektion OL
     short: HSW
     members:
-    - Berta Buchberger
-    - Daniela Buchberger
-    - Franz Helminger
-    - Franz Nagele
-    - Hannes Lechner
-    - Nick Lechner
-    - Norbert Helminger
-    - Jakob Felix Buchberger
-    - Jakob Buchberger
-    - Jana Lechner
-    - Julia Helminger
-    - Katja Helminger
-    - Leopold Tonka
-    - Tim Lechner
-    - Wolfgang Buchberger
-    - Markus Buchberger
-    - Franz Wirth
-    - Traude Bischof
+    - { name: Berta Buchberger }
+    - { name: Daniela Buchberger }
+    - { name: Franz Helminger }
+    - { name: Franz Nagele }
+    - { name: Hannes Lechner }
+    - { name: Nick Lechner }
+    - { name: Norbert Helminger }
+    - { name: Jakob Felix Buchberger }
+    - { name: Jakob Buchberger }
+    - { name: Jana Lechner }
+    - { name: Julia Helminger }
+    - { name: Katja Helminger }
+    - { name: Leopold Tonka }
+    - { name: Tim Lechner }
+    - { name: Wolfgang Buchberger }
+    - { name: Markus Buchberger }
+    - { name: Franz Wirth }
+    - { name: Traude Bischof }
 
   - name: SSV Hallein-Neualm
     short: SHN
     members:
-    - Franz Mages
-    - Horst Mayer
-    - Heidi Bordihn
-    - Ana Rakovic
-    - Maria Prähauser
-    - Felix Ausweger
-    - Stefan Rainer
-    - Bianca Erlinger
-    - Kilian Mayer
-    - Christoph Schlager
-    - Florian Meier
-    - Benjamin Pichler
-    - Irina Mayer
-    - Mario Mikstetter
-    - Sabine Mages
-    - Rebecca Müller
+    - { name: Franz Mages }
+    - { name: Horst Mayer }
+    - { name: Heidi Bordihn }
+    - { name: Ana Rakovic }
+    - { name: Maria Prähauser }
+    - { name: Felix Ausweger }
+    - { name: Stefan Rainer }
+    - { name: Bianca Erlinger }
+    - { name: Kilian Mayer }
+    - { name: Christoph Schlager }
+    - { name: Florian Meier }
+    - { name: Benjamin Pichler }
+    - { name: Irina Mayer }
+    - { name: Mario Mikstetter }
+    - { name: Sabine Mages }
+    - { name: Rebecca Müller }
 
   - name: NF Seekirchen, Sektion OL
     short: NF Seekirchen
     members:
-    - Hartwig Rogl
-    - Stefanie Rogl
-    - Alfred Baier
-    - Stefanie Kennerknecht
+    - { name: Hartwig Rogl }
+    - { name: Stefanie Rogl }
+    - { name: Alfred Baier }
+    - { name: Stefanie Kennerknecht }
     
   - name: TV Zell am See, Sektion OL
     short: TVZ
     members:
-    - Antonia Seitlinger
-    - Gabriel Seitlinger
+    - { name: Antonia Seitlinger }
+    - { name: Gabriel Seitlinger }
 
+  - name: Bleib in Bewegung!
+    short: BIB
+    members:
+    - { name: Eva Breitschädel }
+    - { name: Christian Breitschädel }
 
 
 

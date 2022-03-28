@@ -1,0 +1,41 @@
+year: 2022
+type: sprint
+name: Sprint
+evlink: /event/2022/sbgcup/04
+results:
+  - category: Damen -15
+    valid: true
+    result:
+      - name: Jana Lechner
+      - name: Katja Helminger
+      - name: Marion Schönberger
+  - category: Herren -15
+    valid: true
+    result:
+      - name: Nick Lechner
+      - name: Jakob Felix Buchberger
+      - name: Johannes Kreuzer
+  - category: Damen 16-
+    valid: true
+    result:
+      - name: Andrea Strasser
+      - name: Lucie Rothauer
+      - name: Franziska Brodinger
+  - category: Herren 16-
+    valid: true
+    result:
+      - name: Leon Ebster
+      - name: Norbert Helminger
+      - name: Matthias Kreuzer
+  - category: Damen 65-
+    valid: true
+    result:
+      - name: Eva Breitschädel
+      - name: Berta Buchberger
+      - name: Brigitte Müller
+  - category: Herren 65-
+    valid: true
+    result:
+      - name: Karl Hackl
+      - name: Josef Wimmer
+      - name: Christian Breitschädel
