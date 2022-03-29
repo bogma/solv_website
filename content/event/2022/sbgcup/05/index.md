@@ -1,6 +1,6 @@
 ---
 title: "5. Salzburger Sportvoglcup 2022"
-date: 2022-04-23T00:00:00 # keep time 0 until start time is known
+date: 2022-04-23T10:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,7 +8,7 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
@@ -26,13 +26,13 @@ implementation: "SSV Hallein-Neualm" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 
-#liveresultat_id: 18741
+#liveresultat_id: 22018
 #end: 150 # x minutes from event->date (remove if not needed)
-#start_amend: "(WKZ - Start 0m)" # respects markdown
+start_amend: "(WKZ - Start 1100m / 50 Hm)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
+  course: "Horst Mayer"
+  event: "Horst Mayer"
   inspection: ""
 course:
   valid: false # set to true when the course lenghts are final
@@ -40,19 +40,19 @@ course:
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -9 # x days from event->date
 meeting:
-  point: ""
+  point: "MS Adnet"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.699619, 13.130410]
 map:
-  name: ""
-  scale: "1:10.000"
+  name: "Adnet"
+  scale: "1:7.500"
   equidistance: "5m"
-  update: "März 2006"
-  format: ""
+  update: "April 2022"
+  format: "A4"
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
+control_point_description: "Auf der Karte und zum Download"
 hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
