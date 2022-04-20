@@ -26,7 +26,7 @@ implementation: "SSV Hallein-Neualm" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 
-#liveresultat_id: 22018
+liveresultat_id: 22018
 #end: 150 # x minutes from event->date (remove if not needed)
 start_amend: "(WKZ - Start 1100m / 50 Hm)" # respects markdown
 
