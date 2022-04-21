@@ -77,8 +77,12 @@ resources:
   title: "Anfahrt"
 - src: "**/*lms**"
   title: "Ergebnis Landesmeisterschaft Jugend & Senioren"
-- src: "**/*post**"
+- src: "**/*map**"
+  title: "Alte Karte"
+- src: "**/*control_description_1**"
   title: "Postenbeschreibungen"
+- src: "**/*text**"
+  title: "Text-Postenbeschreibungen"
 
 # resource_links:
 #   infos:
