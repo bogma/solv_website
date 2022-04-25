@@ -1,8 +1,8 @@
 ---
 title: "LMS Staffel OL"
-date: 2022-05-21T00:00:00+02:00 # date of creation of the file
+date: 2022-05-21T11:00:00+02:00 # date of creation of the file
 draft: false
-status: planned
+status: active
 anne_id: 0
 
 archives: [""]
@@ -17,9 +17,9 @@ championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "Bleib in Bewegung!" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
-  course: ""
+  course: "Wolfgang Pötsch"
   event: "Christian Breitschädel"
-  inspection: ""
+  inspection: "Julia Breitschädel"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
@@ -40,26 +40,36 @@ map:
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zur Selbstentnahme"
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
-hints: "Falls in den Klassen D/H 16- genügend Staffeln starten ist auch eine Extrawertung für D/H 45- möglich.
-
-Vereinsübergreifende Staffeln sind erlaubt!
-
-Bei D/H 16- started jeder Läufer 2 mal."
+hints: "Vereinsübergreifende Staffeln sind erlaubt!"
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
-- src: "**/**aus**"
+- src: "**/*anno**"
   title: "Ausschreibung"
-- src: "**/**start**"
+- src: "**/*start**"
   title: "Startliste"
-- src: "**/split**"
+- src: "**/*splits_class**"
+  title: "Splits (Kategorie)"
+- src: "**/*splits_course**"
+  title: "Splits (Bahn)"
+- src: "**/*split**"
   title: "Splits"
-- src: "**/resu**"
-  title: "Ergebnisse LMS"
-- src: "**/laeu**"
+- src: "**/*resu**"
+  title: "Ergebnisse"
+- src: "**/*info2**"
+  title: "Treffpunkt & Aufwärmen"
+- src: "**/*info**"
   title: "Läuferinfo"
-- src: "**/**bahn**"
-  title: "Bahndaten"
+- src: "**/*dir**"
+  title: "Anfahrt"
+- src: "**/*lms**"
+  title: "Ergebnis Landesmeisterschaft Jugend & Senioren"
+- src: "**/*map**"
+  title: "Alte Karte"
+- src: "**/*control_description_1**"
+  title: "Postenbeschreibungen"
+- src: "**/*text**"
+  title: "Text-Postenbeschreibungen"
 ---
 
 Weitere Details bitte der Ausschreibung entnehmen!
