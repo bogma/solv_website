@@ -2,7 +2,12 @@
 title: "1. Salzburger Sportvogl Schulcup 2022"
 date: 2022-04-26T14:00:00 # date of creation of the file
 draft: false
-status: active
+
+outputs:
+- html
+- splitsbrowser
+
+status: done
 
 archives: []
 tags: [ "Schul Cup"]
@@ -34,16 +39,28 @@ hints: "" # respects markdown
 greetings: "Die Veranstalter wünschen erfolgreiche und unfallfreie Veranstaltungen" # Der Verein wünscht Euch ...
 
 resources:
-- src: "**/aus**"
+- src: "**/*anno**"
   title: "Ausschreibung"
-- src: "**/start**"
+- src: "**/*start**"
   title: "Startliste"
-- src: "**/resu**"
-  title: "Ergebnisse"
-- src: "**/split**"
+- src: "**/*splits_class**"
+  title: "Splits (Kategorie)"
+- src: "**/*splits_course**"
+  title: "Splits (Bahn)"
+- src: "**/*split**"
   title: "Splits"
-- src: "**/laeu**"
+- src: "**/*resu**"
+  title: "Ergebnisse"
+- src: "**/*info2**"
+  title: "Treffpunkt & Aufwärmen"
+- src: "**/*info**"
   title: "Läuferinfo"
+- src: "**/*dir**"
+  title: "Anfahrt"
+- src: "**/*text**"
+  title: "Postenbeschreibungen Text"
+- src: "**/*post**"
+  title: "Postenbeschreibungen"
 
 # resource_links:
 #   infos:
