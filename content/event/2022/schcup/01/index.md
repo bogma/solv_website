@@ -3,9 +3,9 @@ title: "1. Salzburger Sportvogl Schulcup 2022"
 date: 2022-04-26T14:00:00 # date of creation of the file
 draft: false
 
-outputs:
-- html
-- splitsbrowser
+# outputs:
+# - html
+# - splitsbrowser
 
 status: done
 
