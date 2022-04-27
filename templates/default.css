@@ -28,7 +28,19 @@ div.category_title{
   margin-bottom:10px;
 }
 
+div.points{
+ font-weight: bold;
+}
+
 div.time{
+ color:blue;
+}
+
+span.points{
+ font-weight: bold;
+}
+
+span.time{
  color:blue;
 }
 

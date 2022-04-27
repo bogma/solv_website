@@ -1,0 +1,9 @@
+﻿<td fs-if="isStatusOk" align="center">
+    <span fs-if="isResultCounting" class="points" style="overflow:hidden;">{{{points}}}</span>
+    <span fs-else class="points" style="overflow:hidden;text-decoration:line-through;">{{{points}}}</span>
+    <span>&middot;</span>
+    <span class="time" style="overflow:hidden">{{{fnFormatTime time}}} ({{{pos}}})</span>
+</td>
+<td fs-else align="center">
+    <span style="overflow:hidden">{{{statusText}}}</span>
+</td>
