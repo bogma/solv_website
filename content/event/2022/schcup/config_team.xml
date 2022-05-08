@@ -1,0 +1,78 @@
+<!-- supported types: Team, Cup -->
+<Configuration type="Team">
+    <General name="Salzburger Schulcup 2022 - Mannschaftswertung"
+             year="2022"
+             numberOfPlannedEvents="2"
+             numberOfEvents="2"
+             numberOfCountingEvents="2"
+             includeStatus="DidNotFinish, MissingPunch"
+             eventTitle="Schulcup"/>
+    <PreProcessing>
+        <!-- options for input file preprocessing -->
+        <Task name="toUtf8"
+              active="true"/>
+        <Task name="toJson"
+              active="false"/>
+    </PreProcessing>
+    <PostProcessing>
+        <!-- options for result postprocessing -->
+        <Task name="sumOrganisations"
+              sequence="10"
+              active="false">
+            <Param key="outputPrefix">Vereine</Param>
+            <!-- sumType: all ... sum up all points from competitors -->
+            <!-- sumType: cup ... sum up cup points from competitors -->
+            <Param key="sumType">all</Param>
+            <Param key="filter">Class</Param>
+            <Param key="filterType">Include</Param>
+            <Param key="filterValue">1,2,3</Param>
+        </Task>
+    </PostProcessing>
+    <Classes filter="exclude">
+        <Class name="Paare"
+               id="7"
+               shortName=""/>
+        <Combine classIds="3, 5"
+                 name="Unterstufe Herren"
+                 shortName="US H"/>
+        <Combine classIds="4,6"
+                 name="Unterstufe Damen"
+                 shortName="US D"/>
+    </Classes>
+    <Organisations filter="none">
+        <!-- filter = include ... includes all Organisations listed
+         filter = exclude ... excludes all Organisations listed
+         any other filter ... use all Organisations in result fileName -->
+        <!-- <Organisation name="Name of school" id="6" /> --></Organisations>
+    <Output>
+        <Html active="true"
+              fileName="..\..\..\..\static\resources\2022\schulteam2022.html"
+              cssInline="true"
+              docTemplate="..\..\..\..\templates\team_document_template.html"
+              classTemplate="..\..\..\..\templates\team_class_template.html"
+              detailsTemplate="..\..\..\..\templates\team_details_template.html"
+              cssFile="..\..\..\..\templates\default.css"/>
+        <Pdf active="true"
+             fileName="schulteam2022.pdf"
+             pageOrientation="Portrait"
+             pageSize="A4"
+             marginLeft="10"
+             marginTop="20"
+             marginRight="10"
+             marginBottom="20"/>
+        <Json active="false"
+              fileName=""/>
+    </Output>
+    <Names>
+        <Name name="Bubu"
+              aliasFor="der Hund, the great"/>
+    </Names>
+    <Translations>
+        <Translation key="DidNotFinish"
+                     translate="aufg."/>
+        <Translation key="DidNotStart"
+                     translate="n ang."/>
+        <Translation key="MissingPunch"
+                     translate="Fehlst."/>
+    </Translations>
+</Configuration>
