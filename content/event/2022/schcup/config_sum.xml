@@ -1,10 +1,10 @@
-<Configuration type="Cup">
+<Configuration type="Sum">
     <General name="Salzburger Sportvogl Schulcup 2022"
              year="2022"
              numberOfPlannedEvents="2"
              numberOfEvents="2"
              numberOfCountingEvents="2"
-             calcRule="sbgcup"
+             calcRule="sum"
              resultFileRegex="2022_(\d.*)_schcup.*"
              recurseSubDirs="true"
              includeStatus="DidNotFinish, MissingPunch"
@@ -35,6 +35,7 @@
     <Events>
         <!-- set num to 0 if not needed -->
         <Event num="1" name="ULSZ Rif"/>
+        <Event num="2" name="Salzachseen"/>
     </Events>
     <Classes filter="exclude">
         <Class name="Paare"
@@ -71,15 +72,15 @@
     </Organisations>
     <Output>
         <Html active="true"
-              fileName="..\..\..\..\static\resources\2022\schcup2022.html"
+              fileName="schcup2022.html"
               cssInline="true"
-              docTemplate="..\..\..\..\templates\schcup_document_template.html"
-              classTemplate="..\..\..\..\templates\schcup_class_template.html"
-              detailsTemplate="..\..\..\..\templates\schcup_details_template.html"
+              docTemplate="..\..\..\..\templates\schcup_document_template_sum.html"
+              classTemplate="..\..\..\..\templates\schcup_class_template_sum.html"
+              detailsTemplate="..\..\..\..\templates\schcup_details_template_sum.html"
               cssFile="..\..\..\..\templates\default.css"/>
         <Pdf active="true"
              fileName="schulcup2022.pdf"
-             pageOrientation="Portrait"
+             pageOrientation="Landscape"
              pageSize="A4"
              marginLeft="10"
              marginTop="20"
@@ -91,6 +92,18 @@
     <Names>
         <Name name="Bubu"
               aliasFor="der Hund, the great"/>
+        <Name name="Charlotte Brawisch"
+              aliasFor="Charlotte Brawitsch"/>
+        <Name name="Susanne Ziegler"
+              aliasFor="Susannah Ziegler"/>
+        <Name name="Daniel Preslmair"
+              aliasFor="Daniel Preslmayr"/>
+        <Name name="Elias Mühlbacher"
+              aliasFor="Elias Mühlberger"/>
+        <Name name="Denis Kopelent"
+              aliasFor="Deniz Kopelent"/>
+        <Name name="Hannah Schoblocher"
+              aliasFor="Hannah Schoblacher"/>
     </Names>
     <Translations>
         <Translation key="DidNotFinish"

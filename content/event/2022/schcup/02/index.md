@@ -2,7 +2,7 @@
 title: "2. Salzburger Sportvogl Schulcup 2022"
 date: 2022-05-11T10:00:00 # date of creation of the file
 draft: false
-status: active
+status: done
 
 archives: []
 tags: [ "Schul Cup"]
@@ -45,7 +45,7 @@ resources:
 - src: "**/*split**"
   title: "Splits"
 - src: "**/*resu**"
-  title: "Ergebnisse"
+  title: "Ergebnisse LMS"
 - src: "**/*info2**"
   title: "Treffpunkt & Aufwärmen"
 - src: "**/*info**"
@@ -56,6 +56,8 @@ resources:
   title: "Postenbeschreibungen Text"
 - src: "**/*post**"
   title: "Postenbeschreibungen"
+- src: "**/*team**"
+  title: "Mannschaftswertung"
 
 # resource_links:
 #   infos:
