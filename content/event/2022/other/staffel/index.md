@@ -2,7 +2,7 @@
 title: "LMS Staffel OL"
 date: 2022-05-21T11:00:00+02:00 # date of creation of the file
 draft: false
-status: active
+status: done
 anne_id: 0
 
 archives: [""]
@@ -55,7 +55,7 @@ resources:
 - src: "**/*split**"
   title: "Splits"
 - src: "**/*resu**"
-  title: "Ergebnisse"
+  title: "Ergebnisse LMS"
 - src: "**/*info2**"
   title: "Treffpunkt & Aufwärmen"
 - src: "**/*info**"
