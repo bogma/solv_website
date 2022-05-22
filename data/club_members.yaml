@@ -32,6 +32,8 @@ club:
     - { name: Florian Elstner }
     - { name: Franziska Brodinger }
     - { name: Franziska Rogl }
+    - { name: Hans Eisl }
+    - { name: Hannah Fink }
     - { name: Heda Kusynova }
     - { name: Heda Perner }
     - { name: Johannes Kreuzer }
@@ -49,13 +51,16 @@ club:
     - { name: Lara Höhenberger }
     - { name: Laura Wiedemayer }
     - { name: Laurenz Elstner }
+    - { name: Leire Ana Pammer }
     - { name: Leo Müller }
     - { name: Leon Ebster }
     - { name: Lisa Pesendorfer }
     - { name: Lisa Mitterer }
+    - { name: Lorenz Fink }
     - { name: Lucie Rothauer }
     - { name: Lukas Scharnagl }
     - { name: Marion Schönberger }
+    - { name: Manfred Eibl }
     - { name: Manuel Gassner }
     - { name: Manuel Schober }
     - { name: Manuel Wiesberger }
@@ -67,17 +72,21 @@ club:
     - { name: Mathias Wartbichler }
     - { name: Matthias Kreuzer }
     - { name: Nilla Bogensperger }
+    - { name: Petra Böhm }
     - { name: Peter Ebster }
     - { name: Peter Ebster Sen. }
     - { name: Philipp Hackl }
+    - { name: Phillipp Hudritsch }
     - { name: Richard Gathercole }
     - { name: Robert Merl }
     - { name: Roland Kohlbacher }
     - { name: Roman Schütz }
     - { name: Samuel Markel }
+    - { name: Sarah Mitterer }
     - { name: Sophie Doppler }
     - { name: Theresia Brunnauer }
     - { name: Thomas Rothauer }
+    - { name: Tim Rothauer }
     - { name: Wolfgang Kampel }
     - { name: Yschi Tiefenbrunner }
     - { name: Yvonne Kupfner }
@@ -111,6 +120,7 @@ club:
     short: HSW
     members:
     - { name: Berta Buchberger }
+    - { name: Charlotte Brawisch }
     - { name: Daniela Buchberger }
     - { name: Franz Helminger }
     - { name: Franz Nagele }
@@ -133,6 +143,7 @@ club:
     short: SHN
     members:
     - { name: Franz Mages }
+    - { name: Roland Berner }
     - { name: Horst Mayer }
     - { name: Heidi Bordihn }
     - { name: Ana Rakovic }

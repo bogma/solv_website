@@ -1,0 +1,62 @@
+year: 2022
+type: relay
+name: Staffel
+evlink: /event/2022/other/staffel
+results:
+  - category: Damen -15
+    valid: true
+    result:
+      - names:
+        - name: Marion Schönberger
+        - name: Leire Ana Pammer
+      - names:
+        - name: Charlotte Brawisch
+        - name: Hannah Fink
+      - names:
+        - name: Lisa Mitterer
+        - name: Sarah Mitterer
+  - category: Herren -15
+    valid: true
+    result:
+      - names:
+        - name: Tim Rothauer
+        - name: Phillipp Hudritsch
+      - names:
+        - name: Johannes Kreuzer
+        - name: Lorenz Fink
+  - category: Damen 16-
+    valid: true
+    result:
+      - names:
+        - name: Lucie Rothauer
+        - name: Petra Böhm
+  - category: Herren 16-
+    valid: true
+    result:
+      - names:
+        - name: Roland Kohlbacher
+        - name: Leon Ebster
+      - names:
+        - name: Hannes Lechner
+        - name: Martin Bogensperger
+      - names:
+        - name: Clemens Eibl
+        - name: Manfred Eibl
+  - category: Damen 55-
+    valid: true
+    result:
+      - names:
+        - name: Berta Buchberger
+        - name: Heidi Bordihn
+  - category: Herren 55-
+    valid: true
+    result:
+      - names:
+        - name: Leopold Tonka
+        - name: Jakob Buchberger
+      - names:
+        - name: Hartwig Rogl
+        - name: Hans Eisl
+      - names:
+        - name: Roland Berner
+        - name: Franz Mages
