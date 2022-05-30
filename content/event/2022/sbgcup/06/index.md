@@ -1,6 +1,6 @@
 ---
 title: "6. Salzburger Sportvoglcup 2022"
-date: 2022-06-25T00:00:00 # keep time 0 until start time is known
+date: 2022-06-25T10:30:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,7 +8,7 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
@@ -28,32 +28,32 @@ implementation: "ASKÖ Henndorf Orientieering" # remove 2 of the 3 options
 
 #liveresultat_id: 18741
 #end: 150 # x minutes from event->date (remove if not needed)
-#start_amend: "(WKZ - Start 0m)" # respects markdown
+start_amend: "(Parkplatz - Start 200m)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
+  course: "Karin Hillebrand & Edith Müller-Grambichler"
   event: ""
-  inspection: ""
+  inspection: "Eduard Böhm"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -9 # x days from event->date
 meeting:
-  point: ""
+  point: "Gumersil / Fischtaging 21"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.883981, 13.166440]
 map:
-  name: ""
-  scale: "1:10.000"
+  name: "Weiland"
+  scale: "1:7.500 & 1:10.000"
   equidistance: "5m"
-  update: "März 2006"
+  update: "Mai 2022"
   format: ""
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
-hints: "" # respects markdown
+control_point_description: "Auf der Laufkarte und zum Download (für den Ausdruck zuhause)"
+hints: "Parken vom Bauern bis Waldrand entlang der Straße rechts (bis zum Start)" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
