@@ -15,6 +15,14 @@ menu:
     parent: "training"
 ---
 
+#### Eugendorfberg
+
+Eugendorfberg ruft ab 10. Juni. Nina Döllgast hat einem kurzem 3 Posten OL zum Einlaufen geplant und einem längeren OL (2 Versionen) im Anschluss.
+Pinke Bänder sind zu finden, die mit 29.6. wieder eingeholt werden.
+
++ [D/H -13](Eugendorfer%20Berg%20Training%20D_H-13%20Juni22.pdf)
++ [D/H 14+](Eugendorfer%20Berg%20Training%20D_H14%20Juni22.pdf)
+
 #### Ursprung (Staffel Training)
 
 P&T vom 21.5. bis 6.6. von Nina Döllgast in Ursprung. Sepp Wimmer hat es mit rot-weißen Absperrbändern ausgehängt.
