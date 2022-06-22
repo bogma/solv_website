@@ -26,7 +26,7 @@ implementation: "ASKÖ Henndorf Orientieering" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 
-#liveresultat_id: 18741
+liveresultat_id: 23203
 #end: 150 # x minutes from event->date (remove if not needed)
 start_amend: "(Parkplatz - Start 200m)" # respects markdown
 
@@ -77,6 +77,8 @@ resources:
   title: "Anfahrt"
 - src: "**/*lms**"
   title: "Ergebnis Landesmeisterschaft Jugend & Senioren"
+- src: "**/*control_description**"
+  title: "Postenbeschreibungen"
 
 # resource_links:
 #   infos:
