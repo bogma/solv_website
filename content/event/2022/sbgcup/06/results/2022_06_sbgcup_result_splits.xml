@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ResultList xmlns="http://www.orienteering.org/datastandard/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" iofVersion="3.0" createTime="2022-06-25T13:20:03.591" creator="SportSoftware OE12 (M) V.11.95">
+<ResultList xmlns="http://www.orienteering.org/datastandard/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" iofVersion="3.0" createTime="2022-06-25T16:02:02.769" creator="SportSoftware OE12 (M) V.11.95">
   <Event>
     <Name>6. Salzburger Sportvoglcup 2022</Name>
   </Event>
@@ -3495,8 +3495,8 @@
     <PersonResult>
       <Person sex="M">
         <Name>
-          <Family>Ebster</Family>
-          <Given>Peter Sen.</Given>
+          <Family>Ebster Sen.</Family>
+          <Given>Peter</Given>
         </Name>
       </Person>
       <Organisation>
