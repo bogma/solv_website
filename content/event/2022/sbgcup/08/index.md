@@ -1,6 +1,6 @@
 ---
 title: "8. Salzburger Sportvoglcup 2022"
-date: 2022-10-01T00:00:00 # keep time 0 until start time is known
+date: 2022-10-01T11:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,17 +8,17 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
-tags: [ "SBG Cup"]
+tags: [ "SBG Cup", "Landesmeisterschaft" ]
 
 anne_id: 3652
 
 event:
-  name_amend: "LM" # respects markdown
+  name_amend: "LM Jugend und Senioren" # respects markdown
   form: "Normaler OL"
-  location: ""
+  location: "Schneegattern"
   type: "sbgcup"
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
@@ -28,12 +28,12 @@ implementation: "ASKÖ Henndorf Orientieering" # remove 2 of the 3 options
 
 #liveresultat_id: 18741
 #end: 150 # x minutes from event->date (remove if not needed)
-#start_amend: "(WKZ - Start 0m)" # respects markdown
+start_amend: "(WKZ - Start 500m/50Hm)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
+  course: "Bernhard Fink"
   event: ""
-  inspection: ""
+  inspection: "Florian Elstner"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
@@ -42,17 +42,17 @@ entry:
   email: anmeldung@ol-sbg.at
   closing_date_days: -7 # x days from event->date
 meeting:
-  point: ""
+  point: "Schneegattern - Tennisplatz"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [48.02225337217612, 13.303498846872818]
 map:
-  name: ""
-  scale: "1:10.000"
+  name: "Krenwald"
+  scale: "1:10.000 (Lang/Mittel), 1:7.500 sonst"
   equidistance: "5m"
-  update: "März 2006"
+  update: "September 2022"
   format: ""
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
+control_point_description: "Auf der Karte und zum Ausdruck für zuhause"
 hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
