@@ -37,9 +37,9 @@
     <Event num="4" name="Josefiau 2"/>
     <Event num="5" name="Adnet"/>
     <Event num="6" name="Weiland"/>
-    <Event num="0" name=""/>
-    <Event num="0" name=""/>
-    <Event num="0" name="" multiply="2.0" />
+    <Event num="7" name="Postalm"/>
+    <Event num="8" name="Krenwald"/>
+    <Event num="9" name="Henndorf" multiply="2.0" />
   </Events>
   <Classes filter="Include">
     <Class name="S-Damen -13" id="50" shortName="D13" />
