@@ -1,0 +1,53 @@
+year: 2022
+type: junsen
+name: Jugend/Senjoren
+evlink: /event/2022/sbgcup/08
+results:
+  - category: Damen -13
+    valid: true
+    result:
+      - name: Sarah Mitterer
+      - name: Marion Schönberger
+      - name: Leire Ana Pammer
+  - category: Damen -18
+    valid: true
+    result:
+      - name: Katja Helminger
+      - name: Carla Berger
+      - name: Lisa Mitterer
+  - category: Damen 45-
+    valid: true
+    result:
+      - name: Karin Hillebrand
+      - name: Carolin Schönberger
+      - name: Claudia Hackl
+  - category: Damen 55-
+    valid: true
+    result:
+      - name: Eva Breitschädel
+      - name: Claudia Berger
+      - name: Berta Buchberger
+  - category: Damen -13
+    valid: true
+    result:
+      - name: Lorenz Fink
+      - name: Lorenz Buchberger
+      - name: Jakob Felix Buchberger
+  - category: Herren 35-
+    valid: true
+    result:
+      - name: Norbert Helminger
+      - name: Franz Helminger
+      - name: Andreas Rameder
+  - category: Herren 45-
+    valid: true
+    result:
+      - name: Roland Kohlbacher
+      - name: Horst Mayer
+      - name: Hannes Lechner
+  - category: Herren 65-
+    valid: true
+    result:
+      - name: Josef Wimmer
+      - name: Eduard Böhm
+      - name: Jakob Buchberger

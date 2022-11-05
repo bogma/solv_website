@@ -3,6 +3,7 @@ club:
     short: AHD
     members:
     - { name: Andrea Eisl }
+    - { name: Andreas Rameder }
     - { name: Angela Pesendorfer }
     - { name: Anna Elstner }
     - { name: Andrea Strasser }
@@ -13,10 +14,12 @@ club:
     - { name: Birgit Kern }
     - { name: Brigitte Müller }
     - { name: Carla Berger }
+    - { name: Carolin Schönberger }
     - { name: Christian Breitschädel, until: 2021 }
     - { name: Christian Wartbichler }
     - { name: Christine Gathercole }
     - { name: Christine Müller }
+    - { name: Claudia Berger }
     - { name: Claudia Hackl }
     - { name: Clemens Eibl }
     - { name: Dominique L´Humeau }
@@ -133,6 +136,7 @@ club:
     - { name: Julia Helminger }
     - { name: Katja Helminger }
     - { name: Leopold Tonka }
+    - { name: Lorenz Buchberger }
     - { name: Tim Lechner }
     - { name: Wolfgang Buchberger }
     - { name: Markus Buchberger }

@@ -1,0 +1,17 @@
+year: 2022
+type: regular
+name: Allgemein
+evlink: /event/2022/sbgcup/07
+results:
+  - category: Damen
+    valid: true
+    result:
+      - name: Franziska Brodinger
+      - name: Daniela Buchberger
+      - name: Margit Elstner
+  - category: Herren
+    valid: true
+    result:
+      - name: Leon Ebster
+      - name: Norbert Helminger
+      - name: Matthias Kreuzer
