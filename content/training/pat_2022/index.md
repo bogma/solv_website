@@ -10,7 +10,7 @@ disable_rightbar: true
 menu:
   main:
     weight: 850
-    name: "2022 (P&T)"
+    name: "P&T 2022"
     identifier: "pat_22"
     parent: "training"
 ---
