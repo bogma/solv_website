@@ -17,7 +17,7 @@ menu:
 
 ### Anmerkungen
 
-+ [Tips](LJ_2021_Hinweise.pdf) von Mr. Longjogg (B. Fink) durchlesen
++ [Tips](LJ_2022_Hinweise.pdf) von Mr. Longjogg (B. Fink) durchlesen
 + Treffpunkt ist jeweils um ***9:55*** - Ablauf **10:00**
 + Karte in Farbe ausdrucken und in Klarsichtfolie mitnehmen
 + **TIP:** erstellt euch einen link auf diese Seite
