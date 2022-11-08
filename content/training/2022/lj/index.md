@@ -9,9 +9,9 @@ disable_rightbar: true
 
 menu:
   main:
-    weight: 870
-    name: "Winter 2021 (LJ)"
-    identifier: "lj_21"
+    weight: 898
+    name: "Longjoggs 2021/2022"
+    identifier: "lj_22"
     parent: "training"
 ---
 

@@ -53,9 +53,12 @@ buildFuture = true
 
 [[menu.main]]
     identifier = "blog_divider1"
-    name = "divider"
+    name = ""
     weight = 14
     parent = "blog"
+    [menu.main.params]
+        class = 'uk-nav-divider'
+        type = 'divider'
 
 [[menu.main]]
     identifier = "tags"
@@ -83,15 +86,21 @@ buildFuture = true
 
 [[menu.main]]
     identifier = "solv_divider1"
-    name = "divider"
+    name = ""
     weight = 199
     parent = "solv"
+    [menu.main.params]
+        class = 'uk-nav-divider'
+        type = 'divider'
 
 [[menu.main]]
     identifier = "solv_divider2"
-    name = "divider"
+    name = ""
     weight = 298
     parent = "solv"
+    [menu.main.params]
+        class = 'uk-nav-divider'
+        type = 'divider'
 
 [[menu.main]]
     identifier = "legacyweb"
@@ -99,6 +108,15 @@ buildFuture = true
     url = "http://old.ol-sbg.at"
     weight = 299
     parent = "solv"
+
+[[menu.main]]
+    identifier = "training_divider2"
+    name = "Archiv"
+    weight = 880
+    parent = "training"  
+    [menu.main.params]
+        class = 'uk-nav-header'
+        type = 'header'
 
 [[menu.main]]
     identifier = "cup"
@@ -124,6 +142,7 @@ buildFuture = true
     add_invalid_champs = false
     show_hero = false
     link_national_events = "http://www.oefol.at/kuenftige-termine/"
+    uikit_version = "3.15.12"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
