@@ -1,0 +1,14 @@
+<div class="uk-child-width-1-4@l uk-child-width-1-3@m uk-child-width-1-1@s" uk-grid uk-lightbox="animation: fade">
+    {{ $image := (.Page.Resources.ByType "image") }}
+    {{ with $image }}
+        {{ range . }}
+        {{ $resized := .Fill "150x115 q90" }}
+        <div>
+            <a class="uk-inline" href="{{ .Permalink }}">
+                <img src="{{ $resized.Permalink }}" width="200" height="" alt="">
+            </a>
+        </div>
+        {{ end }}
+    {{ end }}
+</div>
+
