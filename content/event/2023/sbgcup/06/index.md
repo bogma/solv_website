@@ -1,6 +1,6 @@
 ---
-title: "x. Salzburger Sportvoglcup {{now.Format "2006"}}"
-date: {{now.Format "2006"}}-01-01T00:00:00 # keep time 0 until start time is known
+title: "6. Salzburger Sportvoglcup 2023"
+date: 2023-06-25T00:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -16,13 +16,13 @@ tags: [ "SBG Cup"]
 anne_id: 0
 
 event:
-  name_amend: "" # respects markdown
+  name_amend: "LM Jugend und Senioren" # respects markdown
   form: "Normaler OL"
-  location: ""
+  location: "Erkaburger Tafel"
   type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove 2 of the 3 options
+implementation: "HSV Ried" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 
