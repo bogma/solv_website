@@ -24,7 +24,7 @@
       <!-- sumType: all ... sum up all points from competitors -->
       <!-- sumType: cup ... sum up cup points from competitors -->
       <Param key="sumType">all</Param>
-      <Param key="filter">Class</Param>
+      <Param key="filterKind">Class</Param>
       <Param key="filterType">Include</Param>
       <Param key="filterValue">1,2,3</Param>
     </Task>
