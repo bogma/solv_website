@@ -1,6 +1,6 @@
 ---
 title: "2. Salzburger Sportvogl Schulcup 2022"
-date: 2023-04-19T00:00:00 # date of creation of the file
+date: 2023-04-19T10:00:00 # date of creation of the file
 draft: false
 status: planned
 
@@ -8,9 +8,9 @@ archives: []
 tags: [ "Schul Cup"]
 
 event:
-  name_amend: "Landesmeisterschaften der Schulen 2022"
+  name_amend: "Landesmeisterschaften der Schulen 2023"
   form: "Normaler OL"
-  location: ""
+  location: "Josefiau (Salzburg), Caritas Schule/VS Josefiau"
   type: "schcup"
 
 championship: true

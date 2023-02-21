@@ -1,6 +1,6 @@
 ---
 title: "1. Salzburger Sportvogl Schulcup 2022"
-date: 2023-03-28T00:00:00 # date of creation of the file
+date: 2023-03-28T14:00:00 # date of creation of the file
 draft: false
 status: planned
 
@@ -10,12 +10,12 @@ tags: [ "Schul Cup"]
 event:
   name_amend: ""
   form: "Normaler OL"
-  location: ""
+  location: "Rif bei Hallein, Landessportzentrum"
   type: "schcup"
 
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove one of the 3 options
+implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm / BIB!" # remove one of the 3 options
 
 end: 150 # x minutes from event->date (remove if not needed)
 start_amend: "(WKZ - Start 0m)" # respects markdown
