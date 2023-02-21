@@ -5,7 +5,7 @@ draft: false
 status: done
 anne_id: 0
 
-archives: [""]
+archives: ["2022"]
 tags: [ "Landesmeisterschaft", "Staffel"]
 
 event:

@@ -4,7 +4,7 @@ date: 2022-09-14T23:40:37+02:00 # date for 'written on'
 draft: false
 author: "r.merl"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2022"]
 tags: [] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Altenberg, Steiermark"
 info_date: 2022-09-10 - 2022-09-11 # date in article (YYYY-MM-dd)

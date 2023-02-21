@@ -9,7 +9,7 @@ draft: false
 
 status: done
 
-archives: []
+archives: ["2022"]
 tags: [ "Schul Cup"]
 
 event:

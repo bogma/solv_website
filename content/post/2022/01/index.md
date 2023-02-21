@@ -3,7 +3,7 @@ title: "Saisonabschluss 2022"
 date: 2022-11-06T20:41:14+01:00 # date of creation of the file (written)
 draft: false
 
-archives: []
+archives: ["2022"]
 tags: [] # tag your article here, i.e ["Training", "Administratives"]
 
 calendar_date: 2022-11-07T20:41:14+01:00 # TODO: date in calendar
