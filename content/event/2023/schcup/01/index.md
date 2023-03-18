@@ -2,7 +2,7 @@
 title: "1. Salzburger Sportvogl Schulcup 2022"
 date: 2023-03-28T14:00:00 # date of creation of the file
 draft: false
-status: planned
+status: active
 
 archives: []
 tags: [ "Schul Cup"]
