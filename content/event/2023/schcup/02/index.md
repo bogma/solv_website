@@ -1,5 +1,5 @@
 ---
-title: "2. Salzburger Sportvogl Schulcup 2022"
+title: "2. Salzburger Sportvogl Schulcup 2023"
 date: 2023-04-19T10:00:00 # date of creation of the file
 draft: false
 status: planned
@@ -42,10 +42,10 @@ resources:
   title: "Ausschreibung"
 - src: "**/start**"
   title: "Startliste"
-- src: "**/resu**"
-  title: "Ergebnisse"
-- src: "**/split**"
+- src: "**/*split**"
   title: "Splits"
+- src: "**/*resu**"
+  title: "Ergebnisse"
 - src: "**/laeu**"
   title: "Läuferinfo"
 
