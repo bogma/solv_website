@@ -77,6 +77,8 @@ resources:
   title: "Anfahrt"
 - src: "**/*lms**"
   title: "Ergebnis Landesmeisterschaft Jugend & Senioren"
+- src: "**/*control_description**"
+  title: "Postenbeschreibungen"
 
 # resource_links:
 #   infos:
