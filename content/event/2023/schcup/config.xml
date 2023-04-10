@@ -1,0 +1,104 @@
+<Configuration type="Cup">
+    <General name="Salzburger Sportvogl Schulcup 2023"
+             year="2023"
+             numberOfPlannedEvents="2"
+             numberOfEvents="2"
+             numberOfCountingEvents="2"
+             calcRule="sbgcup"
+             resultFileRegex="2023_(\d.*)_schcup.*"
+             recurseSubDirs="true"
+             includeStatus="DidNotFinish, MissingPunch"
+             eventTitle="Schulcup"
+             showEvents="OmitAllMissing"
+             showCompetitors="-1"/>
+    <PreProcessing>
+        <!-- options for input file preprocessing -->
+        <Task name="toUtf8"
+              active="true"/>
+        <Task name="toJson"
+              active="false"/>
+    </PreProcessing>
+    <PostProcessing>
+        <!-- options for result postprocessing -->
+        <Task name="sumOrganisations"
+              sequence="10"
+              active="false">
+            <Param key="outputPrefix">Vereine</Param>
+            <!-- sumType: all ... sum up all points from competitors -->
+            <!-- sumType: cup ... sum up cup points from competitors -->
+            <Param key="sumType">all</Param>
+            <Param key="filter">Class</Param>
+            <Param key="filterType">Include</Param>
+            <Param key="filterValue">1,2,3</Param>
+        </Task>
+    </PostProcessing>
+    <Events>
+        <!-- set num to 0 if not needed -->
+        <Event num="1" name="ULSZ Rif"/>
+        <Event num="2" name="Josefiau"/>
+    </Events>
+    <Classes filter="exclude">
+        <Class name="Paare"
+               id="5"
+               diplayName=""
+               calcRule="participate"/>
+        <!-- <Class name="Oberstufe Herren" id="1" diplayName="OS H" calcRule="tifolcup"/> -->
+        <!-- <Class name="Oberstufe Damen" id="2" diplayName="OS D" /> -->
+        <!-- <Class name="Unterstufe Herren -2006" id="3" diplayName="US H -06" /> -->
+        <!-- <Class name="Unterstufe Damen -2006" id="4" diplayName="US D -06" /> -->
+        <!-- <Class name="Unterstufe Herren 2004/05" id="5" diplayName="US H 04/05"/> -->
+        <!-- <Class name="Unterstufe Damen 2004/05" id="6" diplayName="US D 04/05" /> -->
+    </Classes>
+    <Organisations filter="none">
+        <!-- <Organisation name="HBLA Ursprung" id="1" /> -->
+        <!-- <Organisation name="HTL Salzburg" id="2" /> -->
+        <!-- <Organisation name="HAK Neumarkt" id="3" /> -->
+        <!-- <Organisation name="MMS Henndorf" id="4" /> -->
+        <!-- <Organisation name="NSMS Hallein-Neualm" id="5" /> -->
+        <!-- <Organisation name="BG Seekirchen" id="7" /> -->
+        <!-- <Organisation name="BORG Straßwalchen" id="8" /> -->
+        <!-- <Organisation name="PS Thalgau" id="9" /> -->
+        <!-- <Organisation name="BORG Salzburg" id="10" /> -->
+        <!-- <Organisation name="NMS Seekirchen" id="11" /> -->
+        <!-- <Organisation name="HTL Hallein" id="12" /> -->
+        <!-- <Organisation name="BRG Zell am See" id="13" /> -->
+        <!-- <Organisation name="BRG Salzburg" id="14" /> -->
+        <!-- <Organisation name="Akad. Gymnasium Salzburg" id="15" /> -->
+        <!-- <Organisation name="SMS Seekirchen" id="16" /> -->
+        <!-- <Organisation name="HLW Ried am Wolfgangsee" id="17" /> -->
+        <!-- <Organisation name="BG/BRG Hallein" id="18" /> -->
+        <!-- <Organisation name="SUM RG Salzburg" id="19" /> -->
+        <!-- <Organisation name="BRG Zaunergasse" id="21" /> -->
+    </Organisations>
+    <Output>
+        <Html active="true"
+              fileName="..\..\..\..\static\resources\2023\schcup2023.html"
+              cssInline="true"
+              docTemplate="..\..\..\..\templates\schcup_document_template.html"
+              classTemplate="..\..\..\..\templates\schcup_class_template.html"
+              detailsTemplate="..\..\..\..\templates\schcup_details_template.html"
+              cssFile="..\..\..\..\templates\default.css"/>
+        <Pdf active="true"
+             fileName="schulcup2023.pdf"
+             pageOrientation="Portrait"
+             pageSize="A4"
+             marginLeft="10"
+             marginTop="20"
+             marginRight="10"
+             marginBottom="20"/>
+        <Json active="false"
+              fileName="schulcup2023.json"/>
+    </Output>
+    <Names>
+        <Name name="Bubu"
+              aliasFor="der Hund, the great"/>
+    </Names>
+    <Translations>
+        <Translation key="DidNotFinish"
+                     translate="aufg."/>
+        <Translation key="DidNotStart"
+                     translate="n ang."/>
+        <Translation key="MissingPunch"
+                     translate="Fehlst."/>
+    </Translations>
+</Configuration>
