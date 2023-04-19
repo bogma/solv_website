@@ -1,6 +1,6 @@
 <!-- supported types: Team, Cup -->
 <Configuration type="Team">
-    <General name="Salzburger Schulcup 2023 - Mannschaftswertung"
+    <General name="Salzburger Schulcup 2023 - Team Wertung"
              year="2023"
              numberOfPlannedEvents="2"
              numberOfEvents="2"

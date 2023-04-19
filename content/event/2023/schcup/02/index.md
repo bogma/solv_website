@@ -2,7 +2,7 @@
 title: "2. Salzburger Sportvogl Schulcup 2023"
 date: 2023-04-19T10:00:00 # date of creation of the file
 draft: false
-status: planned
+status: done
 
 archives: []
 tags: [ "Schul Cup"]
@@ -45,9 +45,11 @@ resources:
 - src: "**/*split**"
   title: "Splits"
 - src: "**/*resu**"
-  title: "Ergebnisse"
+  title: "Ergebnisse LMS"
 - src: "**/laeu**"
   title: "Läuferinfo"
+- src: "**/schulteam**"
+  title: "Team Wertung"
 
 # resource_links:
 #   infos:
