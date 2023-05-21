@@ -1,6 +1,6 @@
 ---
 title: "LMS Staffel OL"
-date: 2023-06-24T10:00:00+02:00 # date of creation of the file
+date: 2023-06-25T10:00:00+02:00 # date of creation of the file
 draft: false
 status: planned
 anne_id: 0

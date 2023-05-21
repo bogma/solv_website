@@ -1,6 +1,6 @@
 ---
 title: "6. Salzburger Sportvoglcup 2023"
-date: 2023-06-25T00:00:00 # keep time 0 until start time is known
+date: 2023-06-24T00:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
