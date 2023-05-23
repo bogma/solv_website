@@ -1,5 +1,5 @@
 ---
-title: "LMS Staffel OL"
+title: "LMS Staffel OL - 1"
 date: 2023-06-25T10:00:00+02:00 # date of creation of the file
 draft: false
 status: planned
