@@ -1,0 +1,101 @@
+<Configuration type="Sum">
+    <General name="Salzburger Sprint Landesmeisterschaft 2023"
+             year="2023"
+             numberOfPlannedEvents="2"
+             numberOfEvents="2"
+             numberOfCountingEvents="2"
+             calcRule="sum"
+             resultFileRegex="2023_(0[45])_sbgcup.*"
+             recurseSubDirs="true"
+             includeStatus="DidNotFinish, MissingPunch"
+             eventTitle="LM"
+             showEvents="OmitAllMissing"
+             showCompetitors="-1"/>
+    <PreProcessing>
+        <!-- options for input file preprocessing -->
+        <Task name="toUtf8"
+              active="true"/>
+        <Task name="toJson"
+              active="false"/>
+    </PreProcessing>
+    <PostProcessing>
+        <!-- options for result postprocessing -->
+        <Task name="sumOrganisations"
+              sequence="10"
+              active="false">
+            <Param key="outputPrefix">Vereine</Param>
+            <!-- sumType: all ... sum up all points from competitors -->
+            <!-- sumType: cup ... sum up cup points from competitors -->
+            <Param key="sumType">all</Param>
+            <Param key="filter">Class</Param>
+            <Param key="filterType">Include</Param>
+            <Param key="filterValue">1,2,3</Param>
+        </Task>
+    </PostProcessing>
+    <Events>
+        <!-- set num to 0 if not needed -->
+        <Event num="1" name="Qualifikation" fileName=".\sbgcup\04\results\2023_04_sbgcup_result_splits.xml" />
+        <Event num="2" name="Finale" fileName=".\sbgcup\05\results\2023_05_sbgcup_result_splits.xml" />
+    </Events>
+    <Classes filter="Include" presentationOrder="50,51;60,61;52,53,54,55;62,63,64,65;56;66;57;67" >
+        <Class name="Jug1" id="60" />
+        <Class name="Jug2" id="61" />
+        <Class name="Jug3" id="62" />
+        <Class name="HE" id="63" />
+        <Class name="H35" id="64" />
+        <Class name="H45" id="65" />
+        <Class name="Jug1" id="50" />
+        <Class name="Jug2" id="51" />
+        <Class name="Jug3" id="52" />
+        <Class name="DE" id="53" />
+        <Class name="D35" id="54" />
+        <Class name="D45" id="55" />
+        <Combine name="Jugend Damen" classIds="50,51" shortName="D -15"/>
+        <Combine name="Jugend Herren" classIds="60,61" shortName="H -15"/>
+        <Combine name="Allgemein Damen" classIds="52,53,54,55" shortName="D 16-"/>
+        <Combine name="Allgemein Herren" classIds="62,63,64,65" shortName="H 16-"/>
+        <Class name="Sen. Herren 55" shortName="H 55-" id="66" />
+        <Class name="Sen. Herren 65" shortName="H 65-" id="67" />
+        <Class name="Sen. Damen 55" shortName="D 55-" id="56" />
+        <Class name="Sen. Damen 65" shortName="D 65-" id="57" />
+    </Classes>
+    <Organisations filter="Include" >
+        <Organisation name="ASKÖ Henndorf" id="32" />
+        <Organisation name="SSV Hallein" id="35" />
+        <Organisation name="HBLA Ursprung" id="200" />
+        <Organisation name="HSV Wals" id="33" />
+        <Organisation name="NF Seekirchen" id="34" />
+        <Organisation name="Bleib in Bewegung!" id="201" />
+    </Organisations>
+    <Output>
+        <Html active="true"
+              fileName="..\..\..\static\resources\2023\lmsprint2023.html"
+              cssInline="true"
+              docTemplate="..\..\..\templates\sum_document_template.html"
+              classTemplate="..\..\..\templates\sum_class_template.html"
+              detailsTemplate="..\..\..\templates\sum_details_template.html"
+              cssFile="..\..\..\templates\default.css"/>
+        <Pdf active="false"
+             fileName="lmsprint2023.pdf"
+             pageOrientation="Landscape"
+             pageSize="A4"
+             marginLeft="10"
+             marginTop="20"
+             marginRight="10"
+             marginBottom="20"/>
+        <Json active="false"
+              fileName="lmsprint2023.json"/>
+    </Output>
+    <Names>
+        <Name name="Bubu"
+              aliasFor="der Hund, the great"/>
+    </Names>
+    <Translations>
+        <Translation key="DidNotFinish"
+                     translate="aufg."/>
+        <Translation key="DidNotStart"
+                     translate="n ang."/>
+        <Translation key="MissingPunch"
+                     translate="Fehlst."/>
+    </Translations>
+</Configuration>
