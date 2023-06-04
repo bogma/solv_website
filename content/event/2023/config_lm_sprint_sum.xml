@@ -44,19 +44,19 @@
         <Class name="HE" id="63" />
         <Class name="H35" id="64" />
         <Class name="H45" id="65" />
-        <Class name="Jug1" id="50" />
-        <Class name="Jug2" id="51" />
+        <!-- <Class name="Jug1" id="50" />
+        <Class name="Jug2" id="51" /> -->
         <Class name="Jug3" id="52" />
         <Class name="DE" id="53" />
         <Class name="D35" id="54" />
         <Class name="D45" id="55" />
-        <Combine name="Jugend Damen" classIds="50,51" shortName="D -15"/>
+        <!-- <Combine name="Jugend Damen" classIds="50,51" shortName="D -15"/> -->
         <Combine name="Jugend Herren" classIds="60,61" shortName="H -15"/>
         <Combine name="Allgemein Damen" classIds="52,53,54,55" shortName="D 16-"/>
         <Combine name="Allgemein Herren" classIds="62,63,64,65" shortName="H 16-"/>
         <Class name="Sen. Herren 55" shortName="H 55-" id="66" />
         <Class name="Sen. Herren 65" shortName="H 65-" id="67" />
-        <Class name="Sen. Damen 55" shortName="D 55-" id="56" />
+        <!-- <Class name="Sen. Damen 55" shortName="D 55-" id="56" /> -->
         <Class name="Sen. Damen 65" shortName="D 65-" id="57" />
     </Classes>
     <Organisations filter="Include" >
