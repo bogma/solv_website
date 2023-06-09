@@ -2,8 +2,8 @@
 title: "LMS Staffel OL"
 date: 2023-06-25T10:00:00+02:00 # date of creation of the file
 draft: false
-status: planned
-anne_id: 0
+status: active
+anne_id: 4151
 
 archives: [""]
 tags: [ "Landesmeisterschaft", "Staffel"]
@@ -17,28 +17,28 @@ championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "HSV Ried" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
-  course: "Wolfgang Pötsch"
-  event: "Christian Breitschädel"
-  inspection: "Julia Breitschädel"
+  course: "Franz Nagele"
+  event: "Georg Gittmaier"
+  inspection: "Michael Schmid"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: false # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -6 # x days from event->date
+  closing_date_days: -11 # x days from event->date
 meeting:
-  point: ""
+  point: "Kieswerk Muss, Redleiten/Otzigen"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [48.092787, 13.451407]
 map:
-  name: ""
-  scale: ""
+  name: "Erkaburger Taferl"
+  scale: "1:10.000 / 1:7500"
   equidistance: "5m"
-  update: "2019"
+  update: "Sept 2020"
   format: ""
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
+control_point_description: ""
 timing: "SPORTIdent; SI-Air+ (touch free) aktiviert"
 hints: "Vereinsübergreifende Staffeln sind erlaubt!"
 greetings: "" # Der Verein wünscht Euch ...
@@ -72,7 +72,7 @@ resources:
   title: "Text-Postenbeschreibungen"
 ---
 
-Anmeldung bis spätestens Sonntag, 15.Mai 2022 an anmeldung@ol-sbg.at. Die
+Anmeldung bis spätestens Sonntag, 14.Juni 2023 an anmeldung@ol-sbg.at. Die
 Anmeldung sollte vorzugsweise gesammelt pro Verein mit den
 Staffelpaaren (Name1, SI1, Name2, SI2, Kategorie) erfolgen. Bei
 vereinsübergreifenden Staffeln pro Staffel. 
