@@ -1,0 +1,35 @@
+year: 2023
+type: sprint
+name: Sprint
+evlink: /event/2023/sbgcup/05
+results:
+  - category: Herren -15
+    valid: true
+    result:
+      - name: Katja Helminger
+      - name: Lorenz Fink
+      - name: Tim Rothauer
+  - category: Damen 16-
+    valid: true
+    result:
+      - name: Elisa Mäkinen
+      - name: Lucie Rothauer
+      - name: Stephanie Ying Yau Chu
+  - category: Herren 16-
+    valid: true
+    result:
+      - name: Bjarne Friedrichs
+      - name: Leon Ebster
+      - name: Norbert Helminger
+  - category: Damen 65-
+    valid: true
+    result:
+      - name: Heidi Bordihn
+      - name: Eva Breitschädel
+      - name: Brigitte Müller
+  - category: Herren 65-
+    valid: true
+    result:
+      - name: Leopold Tonka
+      - name: Leo Müller
+      - name:
