@@ -1,0 +1,35 @@
+year: 2023
+type: relay
+name: Staffel
+evlink: /event/2023/other/staffel
+results:
+  - category: Damen -15
+    valid: true
+    result:
+      - names:
+        - name: Marion Schönberger
+        - name: Leire Ana Pammer
+  - category: Herren 16-
+    valid: true
+    result:
+      - names:
+        - name: Markus König
+        - name: Leon Ebster
+      - names:
+        - name: Franz Helminger
+        - name: Norbert Helminger
+      - names:
+        - name: Peter Ebster Sen.
+        - name: Bjarne Friedrichs
+  - category: Herren 55-
+    valid: true
+    result:
+      - names:
+        - name: Roland Berner
+        - name: Horst Mayer
+      - names:
+        - name: Karin Hillebrand
+        - name: Eduard Böhm
+      - names:
+        - name: Eva Breitschädel
+        - name: Christian Breitschädel
