@@ -2,6 +2,7 @@ club:
   - name: ASKÖ Henndorf Orienteering
     short: AHD
     members:
+    - { name: Alexander Baur}
     - { name: Andrea Eisl }
     - { name: Andreas Rameder }
     - { name: Angela Pesendorfer }
@@ -70,12 +71,15 @@ club:
     - { name: Manuel Schober }
     - { name: Manuel Wiesberger }
     - { name: Margit Elstner }
+    - { name: Markus Ban }
     - { name: Markus König }
     - { name: Martin Bogensperger }
     - { name: Martin Böhm }
     - { name: Martin Kastner }
+    - { name: Martin Schönberger }
     - { name: Mathias Wartbichler }
     - { name: Matthias Kreuzer }
+    - { name: Max Jonas Obczovsky }
     - { name: Nilla Bogensperger }
     - { name: Petra Böhm }
     - { name: Peter Ebster }

@@ -1,0 +1,53 @@
+year: 2023
+type: junsen
+name: Jugend/Senjoren
+evlink: /event/2023/sbgcup/06
+results:
+  - category: Damen -15
+    valid: true
+    result:
+      - name: Charlotte Brawisch
+      - name: Hannah Fink
+      - name: Lisa Mitterer
+  - category: Damen 45-
+    valid: true
+    result:
+      - name: Katharina Hinterhofer
+      - name: Carolin Schönberger
+      - name: Daniela Buchberger
+  - category: Damen 55-
+    valid: true
+    result:
+      - name: Margit Elstner
+      - name: Claudia Hackl
+      - name: Eva Breitschädel
+  - category: Herren -13
+    valid: true
+    result:
+      - name: Markus Ban
+      - name: Alexander Baur
+      - name: Max Jonas Obczovsky
+  - category: Herren 35-
+    valid: true
+    result:
+      - name: Bernhard Fink
+      - name: Franz Helminger
+      - name: Martin Bogensperger
+  - category: Herren 45-
+    valid: true
+    result:
+      - name: Peter Ebster Sen.
+      - name: Hannes Lechner
+      - name: Martin Schönberger
+  - category: Herren 55-
+    valid: true
+    result:
+      - name: Florian Elstner
+      - name: Horst Mayer
+      - name: Roland Berner
+  - category: Herren 65-
+    valid: true
+    result:
+      - name: Eduard Böhm
+      - name: Karl Hackl
+      - name: Franz Mages
