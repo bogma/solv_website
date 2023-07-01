@@ -8,7 +8,7 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
@@ -20,7 +20,7 @@ event:
   form: "Normaler OL"
   location: "Erkaburger Tafel"
   type: "sbgcup"
-championship: false
+championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "HSV Ried" # remove 2 of the 3 options
 
@@ -61,6 +61,8 @@ resources:
   title: "Ausschreibung"
 - src: "**/*start**"
   title: "Startliste"
+- src: "**/*lms**"
+  title: "Ergebnis Landesmeisterschaft Jugend & Senioren"  
 - src: "**/*splits_class**"
   title: "Splits (Kategorie)"
 - src: "**/*splits_course**"
@@ -75,8 +77,7 @@ resources:
   title: "Läuferinfo"
 - src: "**/*dir**"
   title: "Anfahrt"
-- src: "**/*lms**"
-  title: "Ergebnis Landesmeisterschaft Jugend & Senioren"
+
 
 # resource_links:
 #   infos:

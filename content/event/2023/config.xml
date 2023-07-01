@@ -92,6 +92,7 @@
     <Name name="Yschi Tiefenbrunner" aliasFor="Yschai Tiefenbrunner"/>
     <Name name="Jonas Königstorfer" aliasFor="Jonas Königsdorfer"/> 
     <Name name="Heidi Bordihn" aliasFor="Heidi Borodin"/>
+    <Name name="Tamás Bárány" aliasFor="Tamas Barany" />>
   </Names>
   <Translations>
     <Translation key="DidNotFinish" translate="aufg." />
