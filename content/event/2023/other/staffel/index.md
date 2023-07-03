@@ -2,7 +2,7 @@
 title: "LMS Staffel OL"
 date: 2023-06-25T10:00:00+02:00 # date of creation of the file
 draft: false
-status: active
+status: done
 anne_id: 4151
 
 archives: [""]
@@ -55,7 +55,7 @@ resources:
 - src: "**/*split**"
   title: "Splits"
 - src: "**/*resu**"
-  title: "Ergebnisse LMS"
+  title: "Ergebnisse"
 - src: "**/*info2**"
   title: "Treffpunkt & Aufwärmen"
 - src: "**/*info**"
@@ -63,7 +63,7 @@ resources:
 - src: "**/*dir**"
   title: "Anfahrt"
 - src: "**/*lms**"
-  title: "Ergebnis Landesmeisterschaft Jugend & Senioren"
+  title: "Ergebnis Landesmeisterschaft Staffel"
 - src: "**/*map**"
   title: "Alte Karte"
 - src: "**/*control_description_1**"
