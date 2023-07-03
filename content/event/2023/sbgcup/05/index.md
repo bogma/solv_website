@@ -11,7 +11,7 @@ outputs:
 status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
-tags: [ "SBG Cup"]
+tags: [ "SBG Cup", "Landesmeisterschaft"]
 
 anne_id: 4021
 
