@@ -1,6 +1,6 @@
 ---
 title: "7. Salzburger Sportvoglcup 2023"
-date: 2023-09-16T00:00:00 # keep time 0 until start time is known
+date: 2023-09-16T15:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,16 +8,16 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
 
-anne_id: 0
+anne_id: 4022
 
 event:
   name_amend: "" # respects markdown
-  form: "Normaler OL"
+  form: "Sprint OL"
   location: "Hans-Donnenberg-Park"
   type: "sbgcup"
 championship: false
@@ -27,12 +27,12 @@ implementation: "HSV Wals" # remove 2 of the 3 options
 # active section ------------------------------------------------
 
 #liveresultat_id: 18741
-#end: 150 # x minutes from event->date (remove if not needed)
+end: 135 # x minutes from event->date (remove if not needed)
 #start_amend: "(WKZ - Start 0m)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
+  course: "Franz Nagele"
+  event: "Franz Nagele"
   inspection: ""
 course:
   valid: false # set to true when the course lenghts are final
@@ -40,20 +40,20 @@ course:
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -10 # x days from event->date
 meeting:
-  point: ""
+  point: "Leopoldskronstraße (Parkmöglichkeit entlang der Straße)"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.78710, 13.04132]
 map:
-  name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
+  name: "Donnenbergpark"
+  scale: "1:3.000"
+  equidistance: "1m"
+  update: "September 2023"
   format: ""
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
-hints: "" # respects markdown
+control_point_description: "Auf der Laufkarte und zum Download (für den Ausdruck zuhause)"
+hints: "Beim Radweg entlang des Almkanals und entlang des östlichen Bereiches des Donnenberparkes ist mit Radverkehr zu rechnen!" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:
