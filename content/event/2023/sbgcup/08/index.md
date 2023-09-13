@@ -1,6 +1,6 @@
 ---
 title: "8. Salzburger Sportvoglcup 2023"
-date: 2023-10-07T00:00:00 # keep time 0 until start time is known
+date: 2023-10-07T11:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,17 +8,17 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup", "Landesmeisterschaft"]
 
-anne_id: 0
+anne_id: 4234
 
 event:
   name_amend: "LM Allgemeine Klasse" # respects markdown
   form: "Normaler OL"
-  location: "noch offen"
+  location: "Kienberg"
   type: "sbgcup"
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
@@ -27,32 +27,32 @@ implementation: "ASKÖ Henndorf Orientieering" # remove 2 of the 3 options
 # active section ------------------------------------------------
 
 #liveresultat_id: 18741
-#end: 150 # x minutes from event->date (remove if not needed)
+end: 240 # x minutes from event->date (remove if not needed)
 #start_amend: "(WKZ - Start 0m)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
+  course: "Leon Ebster"
   event: ""
-  inspection: ""
+  inspection: "Peter Ebster sen."
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -8 # x days from event->date
 meeting:
-  point: ""
+  point: "Gasthof Kienberg / Neumarkt am Wallersee"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.90534554927723,13.23397785888047]
 map:
-  name: ""
-  scale: "1:10.000"
+  name: "Kienberg"
+  scale: "1:10.000 / 1:7:500"
   equidistance: "5m"
-  update: "März 2006"
+  update: "August 2023"
   format: ""
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
+control_point_description: "Auf der Laufkarte und auch auf „Anne“ zum Download und Ausdruck."
 hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
