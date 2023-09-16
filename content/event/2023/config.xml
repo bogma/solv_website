@@ -1,9 +1,9 @@
 <Configuration type="Cup">
   <General name="Salzburger Sportvoglcup 2023"
            year="2023"
-           numberOfPlannedEvents="9"
-           numberOfValidEvents="9"
-           numberOfCountingEvents="6"
+           numberOfPlannedEvents="10"
+           numberOfValidEvents="10"
+           numberOfCountingEvents="7"
            calcRule="sbgcup"
            resultFileRegex="2023_(\d{2})_sbgcup.*"
            recurseSubDirs="true"
@@ -38,8 +38,9 @@
     <Event num="5" name="Sbg. Stadt 2"/>
     <Event num="6" name="Erkaburger Tafel"/>
     <Event num="7" name="Donnenbergpark"/>
-    <Event num="8" name=""/>
-    <Event num="9" name="Mattsee" multiply="2.0" />
+    <Event num="8" name="Kienberg"/>
+    <Event num="9" name="Mattsee"/>
+    <Event num="10" name="Mattsee"/>
   </Events>
   <Classes filter="Include">
     <Class name="S-Damen -13" id="50" shortName="D13" />
