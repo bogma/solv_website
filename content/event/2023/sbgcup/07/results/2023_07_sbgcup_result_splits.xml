@@ -2,7 +2,7 @@
  <ResultList xmlns="http://www.orienteering.org/datastandard/3.0"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  iofVersion="3.0"
- createTime="2023-09-16T23:30:47.269"
+ createTime="2023-09-17T17:21:23.498"
  creator="SportSoftware OE12 V.12.1">
 <Event>
 <Name>7. Salzburger Sportvoglcup 2023</Name>
@@ -10186,95 +10186,6 @@
 <Fee type="Normal">
 <Name>Actual</Name>
 <Amount>3.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Name>
-<Family>Hagke</Family>
-<Given>Leo</Given>
-</Name>
-</Person>
-<Organisation>
-<Id>10000</Id>
-<Name>kein Verein</Name>
-<ShortName>kein Verein</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2023-09-16T15:10:00.000</StartTime>
-<Status>DidNotStart</Status>
-<SplitTime status="Missing">
-<ControlCode>76</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>78</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>85</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>120</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>88</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>117</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>111</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>118</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>82</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>90</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>79</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>101</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>103</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>77</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>104</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>110</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>84</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>116</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>108</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>115</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>112</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>100</ControlCode>
-</SplitTime>
-<AssignedFee>
-<Fee type="Normal">
-<Name>Actual</Name>
-<Amount>5.00</Amount>
 </Fee>
 </AssignedFee>
 </Result>
