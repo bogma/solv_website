@@ -38,8 +38,9 @@ Dazu benötigt man die Meldungen aus ANNE exportiert im CSV Format (entweder vom
   - Daten exportieren -> alle Felder wie vorgegeben belassen und exportieren
 
 2. Export Datei bearbeiten
-  - Bei Sportsoftware **V12.1**: die ANNE Exportdatei ist im OEV10 Format. Sie muss zuerst konvertiert werden. Dazu [dieses Programm](/resources/OETransform.exe) herunterladen und am besten in den Ordner mit den Exportdateien speichern. In einer Konsole (powershell, cmd, windows-terminal)
-  ''' OETransform.exe -i <v10 anne entries csv> -o <neuer csv dateiname>''' aufrufen. Achtung: in beiden Fällen den vollen Pfad (Rooted Path) verwenden.
+  - Bei Sportsoftware **V12.1**: die ANNE Exportdatei ist im OEV10 Format. Sie muss zuerst konvertiert werden. Dazu [dieses Programm](/resources/ox-transform.exe) herunterladen und am besten in den Ordner mit den Exportdateien speichern. In einer Konsole (powershell, cmd, windows-terminal)
+  `ox-transform.exe -i <v10 anne entries csv> -o <neuer csv dateiname>`
+  aufrufen. (ox-transform kann die exportierten Kategorien für Einzel und Staffel sowie die exportierten Meldungen für Einzel und Staffel ins neue **V12.1** Format konvertieren)
   - Bei Sportsoftware **V10**: ANNE export in ANSI codierung abspeichern. Dazu Export-Datei mit einem Text editor öffnen (z.B. Notepad) dann Datei -> Speichern unter -> Codierung = "ANSI" wählen und speichern.
 
 3. Meldungen importieren
