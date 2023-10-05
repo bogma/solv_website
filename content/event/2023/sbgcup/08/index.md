@@ -26,7 +26,7 @@ implementation: "ASKÖ Henndorf Orientieering" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 
-#liveresultat_id: 18741
+liveresultat_id: 27904
 end: 240 # x minutes from event->date (remove if not needed)
 #start_amend: "(WKZ - Start 0m)" # respects markdown
 
