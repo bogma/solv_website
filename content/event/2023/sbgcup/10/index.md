@@ -1,5 +1,5 @@
 ---
-title: "9. Salzburger Sportvoglcup 2023"
+title: "10. Salzburger Sportvoglcup 2023"
 date: 2023-11-04T12:00:00 # keep time 0 until start time is known
 draft: false
 
@@ -13,11 +13,11 @@ status: active # planned (= for preview Calendar), active (= Announcement...), d
 archives: []
 tags: [ "SBG Cup"]
 
-anne_id: 4235
+anne_id: 4236
 
 event:
   name_amend: "" # respects markdown
-  form: "Sprint OL"
+  form: "Postennetz OL"
   location: "Mattsee"
   type: "sbgcup"
 championship: false
@@ -53,7 +53,7 @@ map:
   update: "September 2023"
   format: ""
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte sowie auf ANNE zum Download"
+control_point_description: "Nur auf der Karte"
 hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
