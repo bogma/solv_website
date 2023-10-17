@@ -2,7 +2,7 @@
 title: "ARGE Alp Staffel"
 date: 2023-10-14 # date of creation of the file
 draft: false
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
+status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 0
 
 archives: [""]
@@ -19,4 +19,4 @@ implementation: "" # remove one of the 3 options
 
 ---
 
-[Webseite des Veranstalters]()
+[Webseite des Veranstalters](https://www.fiso.it/it/gara/2023294)
