@@ -42,7 +42,7 @@
     <Event num="9" name="Mattsee"/>
     <Event num="10" name="Mattsee"/>
   </Events>
-  <Classes filter="Include">
+  <Classes filter="Include" presentationOrder="50;60;51;61;52;62;53;63;54;64;55;65;56;66;57;67">
     <Class name="S-Damen -13" id="50" shortName="D13" />
     <Class name="S-Damen -15" id="51" shortName="D15" />
     <Class name="S-Damen -18" id="52" shortName="D18" />
