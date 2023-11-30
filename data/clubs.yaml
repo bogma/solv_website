@@ -5,12 +5,12 @@ club:
     membercount: 74
     logo: /images/logo-ahd.jpg
     board:
-      - position: Obmann
-        name: Roland Kohlbacher
+      - position: Obfrau
+        name: Katharina Hinterhofer
       - position: Obmannstellvertreter
         name: Lucie Rothauer
       - position: Obmannstellvertreter
-        name: Katharina Hinterhofer
+        name: Roland Kohlbacher
       - position: Obmannstellvertreter
         name: Markus König
       - position: Obmannstellvertreter
