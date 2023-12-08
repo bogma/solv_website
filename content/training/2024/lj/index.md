@@ -87,8 +87,8 @@ menu:
 <tr>
 <td>14.1.2024</td>
 <td>Tannberg</td>
-<td>Volkschule Köstendorf {{< maplink "47.95865106154938" "13.197475125708234" >}}</td>
-<td><a href="./LJ_2023_Koestendorf.pdf">Karte</a></td>
+<td>Roidwalchen {{< maplink "47.98334155552469" "13.225363785826376" >}}</td>
+<td><a href="./LJ_OLKarte_quer_Tannberg.pdf">Karte</a></td>
 </tr>
 
 </tbody>
