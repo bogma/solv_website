@@ -39,7 +39,7 @@ menu:
 <td>26.11.2023</td>
 <td>Mattsee</td>
 <td>Polytechnische Schule {{< maplink "47.96765299179471" "13.107631455946727" >}}</td>
-
+<td><a href="./LJ_2021_Mattsee.pdf">Karte</a></td>
 </tr>
 
 <tr>
@@ -48,37 +48,48 @@ menu:
 <td>S-Bahn Wallersee {{< maplink "47.92028554305837" "13.159375805005764" >}}</td>
 <td><a href="./LJ_Zell_Wallersee.pdf">Karte</a></td>
 </tr>
-<!--
+
 <tr>
-<td>20.11.2022</td>
-<td>Köstendorf</td>
-<td>Volksschule Köstendorf {{< maplink "47.9586510" "13.1974751" >}}</td>
-<td><a href="./LJ_2022_Koestendorf.pdf">Karte</a></td>
-</tr>
-<tr>
-<td>27.11.2022</td>
-<td>Mattsee</td>
-<td>Parkplatz Egelseen {{< maplink "47.969305" "13.122004" >}}</td>
-<td><a href="./LJ_2022_Mattsee.pdf">Karte</a></td>
-</tr>
-<tr>
-<td>4.12.2022</td>
-<td>Eugendorf</td>
-<td>Parkplatz Skilift Eugendorf {{< maplink "47.8505025" "13.1292058" >}}</td>
-<td><a href="./LJ_2022_Eugendorf.pdf">Karte</a></td>
-</tr>
-<tr>
-<td>11.12.2022</td>
+<td>9.12.2023</td>
 <td>Henndorf</td>
 <td>Vor Gut Aiderbichl rechts {{< maplink "47.8884554" "13.2171921" >}}</td>
-<td><a href="./LJ_2022_Henndorf.pdf">Karte</a></td>
+<td><a href="./LJ_2023_Henndorf.pdf">Karte</a></td>
 </tr>
+
 <tr>
-<td>18.12.2022</td>
+<td>17.12.2023</td>
+<td>Eugendorf</td>
+<td>Parkplatz Skilift Eugendorf {{< maplink "47.8505025" "13.1292058" >}}</td>
+<td><a href="./LJ_2023_Eugendorf.pdf">Karte</a></td>
+</tr>
+
+<tr>
+<td>24.12.2023</td>
 <td>Köstendorf</td>
 <td>Volksschule Köstendorf {{< maplink "47.9586510" "13.1974751" >}}</td>
-<td><a href="./LJ_2022_Koestendorf.pdf">Karte</a></td>
+<td><a href="./LJ_2023_Koestendorf.pdf">Karte</a></td>
 </tr>
--->
+
+<tr>
+<td>31.12.2023</td>
+<td>Friedburg</td>
+<td>Kreisverkehr Friedburg {{< maplink "48.018096737535735" "13.248783300496008" >}}</td>
+<td><a href="./LJ_2023_Friedburg.pdf">Karte</a></td>
+</tr>
+
+<tr>
+<td>7.1.2024</td>
+<td>Fuschl</td>
+<td>Parkplatz Fuschl {{< maplink "47.792393593853326" "13.30064069917492" >}}</td>
+<td><a href="./LJ_Fuschl_ostwärts.pdf">Karte</a></td>
+</tr>
+
+<tr>
+<td>14.1.2024</td>
+<td>Tannberg</td>
+<td>Volkschule Köstendorf {{< maplink "47.95865106154938" "13.197475125708234" >}}</td>
+<td><a href="./LJ_2023_Koestendorf.pdf">Karte</a></td>
+</tr>
+
 </tbody>
 </table>
