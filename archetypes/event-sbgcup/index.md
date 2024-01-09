@@ -27,6 +27,7 @@ implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" #
 # active section ------------------------------------------------
 
 #liveresultat_id: 18741
+#oresults_id: 578 #DrTgMcmSULdS
 #end: 150 # x minutes from event->date (remove if not needed)
 #start_amend: "(WKZ - Start 0m)" # respects markdown
 
@@ -91,9 +92,9 @@ resources:
 
 ### Startgeld
 
-- bis D/H -15 und OL: € 3,-
-- ab D/H 16-: € 4,50
-- Family: € 5,- (Für Kartendruck bitte alle Teilnehmer angeben!)
+- bis D/H -15 und OL: € 5,-
+- ab D/H 16-: € 8
+- Family: € 5,- (bis zu 3 Karten includiert - für Kartendruck bitte die Anzahl der Teilnehmer angeben!)
 
 ### Zeitnehmung
 

@@ -22,7 +22,7 @@ start_amend: "(WKZ - Start 0m)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
   course: "Der Wettkampfleiter der jeweiligen Veranstaltung"
-  event: "Dir. Horst Mayer und Christian Breitschädel"
+  event: ""
   inspection: ""
 entry: # TODO for schulcup
   anne: false
@@ -33,9 +33,7 @@ meeting:
   point: ""
   time_minutes: -60 # x minutes from event->date
 hints: "" # respects markdown
-greetings: "Die Veranstalter wünschen erfolgreiche und unfallfreie Veranstaltungen
-
-Dir. Horst Mayer und Christian Breitschädel" # Der Verein wünscht Euch ...
+greetings: "Die Veranstalter wünschen erfolgreiche und unfallfreie Veranstaltungen" # Der Verein wünscht Euch ...
 
 resources:
 - src: "**/aus**"
@@ -62,14 +60,13 @@ resources:
 
 ### Nennung
 
-An: Leo Müller, nur per E-Mail: (leo.mueller@sbg.at)
-Nennung mit Schule, Name, Laufklasse, Geburtsjahr, SI-Nummer;
-Falls keine SI-Nummer angegeben, wird automatisch ein Leihstick zugeteilt!
+An: Karl Hackl, nur per E-Mail: (leo.mueller@sbg.at)
+Nennung pro Schule mittels ausgesendetem Excel Forular
 **Nachnennung:** Nur in geringem Umfang möglich!
 
 ### Siegerehrung
 
-Schulcup und Landesmeisterschaft im Anschluss an den 3. Lauf.
+Schulcup und Landesmeisterschaft im Anschluss an den 2. Lauf.
 
 ### Nenngeld
 
