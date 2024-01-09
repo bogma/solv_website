@@ -1,0 +1,17 @@
+year: 2023
+type: regular
+name: Allgemein
+evlink: /event/2023/sbgcup/08
+results:
+  - category: Damen
+    valid: true
+    result:
+      - name: Lucie Rothauer
+      - name: Nina Döllgast
+      - name: Nina Thoma
+  - category: Herren
+    valid: true
+    result:
+      - name: Bjarne Friedrichs
+      - name: Franz Helminger
+      - name: Norbert Helminger
