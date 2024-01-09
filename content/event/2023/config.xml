@@ -91,9 +91,9 @@
     <Name name="Tscharlie Hackl" aliasFor="Karl Hackl"/>
     <Name name="Roland Berner" aliasFor="Roland Perner"/>
     <Name name="Yschi Tiefenbrunner" aliasFor="Yschai Tiefenbrunner"/>
-    <Name name="Jonas Königstorfer" aliasFor="Jonas Königsdorfer"/> 
+    <Name name="Jonas Königstorfer" aliasFor="Jonas Königsdorfer"/>
     <Name name="Heidi Bordihn" aliasFor="Heidi Borodin"/>
-    <Name name="Tamás Bárány" aliasFor="Tamas Barany" />>
+    <Name name="Tamás Bárány" aliasFor="Tamas Barany" />
   </Names>
   <Translations>
     <Translation key="DidNotFinish" translate="aufg." />

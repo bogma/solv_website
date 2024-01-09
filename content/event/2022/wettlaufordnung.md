@@ -3,22 +3,23 @@ title: "Wettlaufordnung 2022"
 date: 2022-01-01
 draft: false
 type: "page"
+year: 2022
 ---
 
-## Wertungen 2022
+## Wertungen {{< param year >}}
 
 **Salzburger Sportvogl-Cup:**
 
 + Die 7 besten Resultate (von 9 möglichen).
 + Für die Kategorien Offen Kurz (OK) und Offen Lang (OL) gibt es keine Cupwertung.
 
-## Einteilung der Salzburgcup Kategorien und Bahnen 2022
+## Einteilung der Salzburgcup Kategorien und Bahnen {{< param year >}}
 
 {{< table "sbgcup_cat_2022" "uk-table uk-table-divider uk-table-striped" >}}
 
 ### Geburtsjahre
 
-{{< sbgCupYearTable1 2022 >}}
+{{< sbgCupYearTable1 >}}
 
 ## Hinweise
 

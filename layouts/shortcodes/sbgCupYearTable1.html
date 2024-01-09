@@ -1,4 +1,4 @@
-{{ $year := .Get 0 }}
+{{ $year := .Get 0 | default .Page.Params.year }}
 
 <table class="uk-table uk-table-divider uk-table-striped">
     <thead>

@@ -1,17 +1,17 @@
 ---
-title: "Wettlaufordnung 2023"
-date: 2023-01-01
+title: "Wettlaufordnung 2024"
+date: 2024-01-01
 draft: false
 type: "page"
-year: 2023
+year: 2024
 ---
 
 ## Wertungen {{< param year >}}
 
 **Salzburger Sportvogl-Cup:**
 
-+ Die 7 besten Resultate (von 10 möglichen).
-+ Für die Kategorien Offen Kurz (OK) und Offen Lang (OL) gibt es keine Cupwertung.
++ Die 9 besten Resultate (von 9 möglichen).
++ Für die Kategorien Offen Kurz (OK) und Offen Lang (OL) und Family (Fam) gibt es keine Cupwertung.
 
 ## Einteilung der Salzburgcup Kategorien und Bahnen {{< param year >}}
 
