@@ -1,7 +1,7 @@
 ---
 title: "2. Salzburger Sportvogl Schulcup 2024"
 date: 2024-05-07T00:00:00 # date of creation of the file
-draft: true
+draft: false
 status: planned
 
 archives: []
@@ -17,8 +17,8 @@ championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "ASKÖ Henndorf Orientieering / HSV Wals / SSV Hallein-Neualm" # remove one of the 3 options
 
-end: 150 # x minutes from event->date (remove if not needed)
-start_amend: "(WKZ - Start 0m)" # respects markdown
+#end: 150 # x minutes from event->date (remove if not needed)
+#start_amend: "(WKZ - Start 0m)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
   course: "Der Wettkampfleiter der jeweiligen Veranstaltung"
