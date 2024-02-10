@@ -41,23 +41,23 @@
     <Event num="8" name="Tannberg"/>
     <Event num="9" name="Hallein" multiply="2.0"/>
   </Events>
-  <Classes filter="Include" presentationOrder="50;60;51;61;52;62;53;63;54;64;55;65;56;66;57;67">
-    <Class name="S-Damen -13" id="50" shortName="D13" />
-    <Class name="S-Damen -15" id="51" shortName="D15" />
-    <Class name="S-Damen -18" id="52" shortName="D18" />
-    <Class name="S-Damen 19-" id="53" shortName="D Elite" />
-    <Class name="S-Damen 35-" id="54" shortName="D35" />
-    <Class name="S-Damen 45-" id="55" shortName="D45" />
-    <Class name="S-Damen 55-" id="56" shortName="D55" />
-    <Class name="S-Damen 65-" id="57" shortName="D65" />
-    <Class name="S-Herren -13" id="60" shortName="H13" />
-    <Class name="S-Herren -15" id="61" shortName="H15" />
-    <Class name="S-Herren -18" id="62" shortName="H18" />
-    <Class name="S-Herren 19-" id="63" shortName="H Elite" />
-    <Class name="S-Herren 35-" id="64" shortName="H35" />
-    <Class name="S-Herren 45-" id="65" shortName="H45" />
-    <Class name="S-Herren 55-" id="66" shortName="H55" />
-    <Class name="S-Herren 65-" id="67" shortName="H65" />
+  <Classes filter="Include" presentationOrder="1;9;2;10;3;11;4;12;5;13;6;14;7;15;8;16">
+    <Class name="S-Damen -13" id="1" shortName="D13" />
+    <Class name="S-Damen -15" id="2" shortName="D15" />
+    <Class name="S-Damen -18" id="3" shortName="D18" />
+    <Class name="S-Damen 19-" id="4" shortName="D Elite" />
+    <Class name="S-Damen 35-" id="5" shortName="D35" />
+    <Class name="S-Damen 45-" id="6" shortName="D45" />
+    <Class name="S-Damen 55-" id="7" shortName="D55" />
+    <Class name="S-Damen 65-" id="8" shortName="D65" />
+    <Class name="S-Herren -13" id="9" shortName="H13" />
+    <Class name="S-Herren -15" id="10" shortName="H15" />
+    <Class name="S-Herren -18" id="11" shortName="H18" />
+    <Class name="S-Herren 19-" id="12" shortName="H Elite" />
+    <Class name="S-Herren 35-" id="13" shortName="H35" />
+    <Class name="S-Herren 45-" id="14" shortName="H45" />
+    <Class name="S-Herren 55-" id="15" shortName="H55" />
+    <Class name="S-Herren 65-" id="16" shortName="H65" />
   </Classes>
   <Organisations filter="Include" >
     <Organisation name="ASKÖ Henndorf" id="32" />
