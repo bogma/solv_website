@@ -1,7 +1,7 @@
 club:
   - name: ASKÖ Henndorf Orienteering
     short: AHD
-    website: www.henndorf.at/ol
+    website: www.ahdo.at/
     membercount: 74
     logo: /images/logo-ahd.jpg
     board:
@@ -33,7 +33,7 @@ club:
       - position: Obmann
         name: Horst Mayer
       - position: Obmannstellvertreter
-        name: 
+        name:
   - name: NF Seekirchen, Sektion OL
     membercount: 3
     board:
