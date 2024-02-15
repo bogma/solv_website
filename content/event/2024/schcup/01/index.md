@@ -1,6 +1,6 @@
 ---
 title: "1. Salzburger Sportvogl Schulcup 2024"
-date: 2024-04-11T00:00:00 # date of creation of the file
+date: 2024-04-11T14:00:00 # date of creation of the file
 draft: false
 status: planned
 
@@ -28,7 +28,7 @@ entry: # TODO for schulcup
   anne: false
   email: anmeldung@ol-sbg.at
   text: ""
-  closing_date_days: -2 # x days from event->date
+  closing_date_days: -7 # x days from event->date
 meeting:
   point: ""
   time_minutes: -60 # x minutes from event->date
