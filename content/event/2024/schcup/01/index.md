@@ -10,7 +10,7 @@ tags: [ "Schul Cup"]
 event:
   name_amend: ""
   form: "Normaler OL"
-  location: "Puch"
+  location: "ULSZ Rif"
   type: "schcup"
 
 championship: false
