@@ -1,6 +1,6 @@
 ---
 title: "4. Salzburger Sportvoglcup 2024"
-date: 2024-04-01T00:00:00 # keep time 0 until start time is known
+date: 2024-04-01T10:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,12 +8,12 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
 
-anne_id: 0
+anne_id: 4431
 
 event:
   name_amend: "" # respects markdown
@@ -27,33 +27,33 @@ implementation: "HSV Wals" # remove 2 of the 3 options
 # active section ------------------------------------------------
 
 #liveresultat_id: 18741
-#oresults_id: 578 #DrTgMcmSULdS
-#end: 150 # x minutes from event->date (remove if not needed)
+oresults_id: 681
+end: 225 # x minutes from event->date (remove if not needed)
 #start_amend: "(WKZ - Start 0m)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Franz Nagele"
+  event: "Franz Nagele"
+  inspection: "Jakob Buchberger, Leopold Tonka"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -12 # x days from event->date
 meeting:
-  point: ""
+  point: " Parkplatz Augustinerbräu"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.80480, 13.03243]
 map:
-  name: ""
-  scale: "1:10.000"
+  name: "Salzburg - Mönchsberg"
+  scale: "1:3.500"
   equidistance: "5m"
-  update: "März 2006"
-  format: ""
-  hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
+  update: "März 2024"
+  format: "A4 / A3"
+  hints: "Karte wenden bei Mittel u. Lang" # additional hints to map
+control_point_description: "Auf der Karte und zum Download"
 hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
