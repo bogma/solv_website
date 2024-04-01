@@ -91,6 +91,7 @@
     <Name name="Roland Berner" aliasFor="Roland Perner"/>
     <Name name="Jonas Königstorfer" aliasFor="Jonas Königsdorfer"/>
     <Name name="Tamás Bárány" aliasFor="Tamas Barany" />
+    <Name name="Peter Ebster Sen." aliasFor="Peter  Ebster Sen."/>
   </Names>
   <Translations>
     <Translation key="DidNotFinish" translate="aufg." />
