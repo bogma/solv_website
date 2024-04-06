@@ -2,7 +2,7 @@
  <ResultList xmlns="http://www.orienteering.org/datastandard/3.0"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  iofVersion="3.0"
- createTime="2024-04-01T18:32:46.753"
+ createTime="2024-04-06T22:29:28.516"
  creator="SportSoftware OE12 V.12.1">
 <Event>
 <Name>4. SC 2024</Name>
@@ -7796,7 +7796,7 @@
 <Person sex="M">
 <Name>
 <Family>Buchberger</Family>
-<Given>Jakob</Given>
+<Given>Jakob Felix</Given>
 </Name>
 </Person>
 <Organisation>
@@ -10468,7 +10468,7 @@
 <PersonResult>
 <Person sex="M">
 <Name>
-<Family>Buchberger</Family>
+<Family>Buchberger Jun.</Family>
 <Given>Wolfgang</Given>
 </Name>
 </Person>
