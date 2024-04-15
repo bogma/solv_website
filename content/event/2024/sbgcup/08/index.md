@@ -18,7 +18,7 @@ anne_id: 0
 event:
   name_amend: "" # respects markdown
   form: "Normaler OL"
-  location: "Tannberg"
+  location: "Henndorf"
   type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"

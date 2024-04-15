@@ -11,7 +11,7 @@ tags: [ "Landesmeisterschaft", "Staffel"]
 event:
   name_amend: "Salzburger Staffel LMS"
   form: "Staffel OL"
-  location: ""
+  location: "Tannberg"
   type: "relay"
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
@@ -75,6 +75,6 @@ resources:
 Anmeldung bis spätestens Sonntag, 14.Juni 2023 an anmeldung@ol-sbg.at. Die
 Anmeldung sollte vorzugsweise gesammelt pro Verein mit den
 Staffelpaaren (Name1, SI1, Name2, SI2, Kategorie) erfolgen. Bei
-vereinsübergreifenden Staffeln pro Staffel. 
+vereinsübergreifenden Staffeln pro Staffel.
 
 Weitere Details bitte der Ausschreibung entnehmen!

@@ -18,7 +18,7 @@ anne_id: 0
 event:
   name_amend: "LM Allgemeine Klasse" # respects markdown
   form: "Normaler OL"
-  location: ""
+  location: "Tannberg"
   type: "sbgcup"
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
