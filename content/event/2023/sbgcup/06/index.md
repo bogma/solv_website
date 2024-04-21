@@ -10,7 +10,7 @@ outputs:
 
 status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
-archives: []
+archives: ["2023"]
 tags: [ "SBG Cup", "Landesmeisterschaft"]
 
 anne_id: 4150
@@ -62,7 +62,7 @@ resources:
 - src: "**/*start**"
   title: "Startliste"
 - src: "**/*lms**"
-  title: "Ergebnis Landesmeisterschaft Jugend & Senioren"  
+  title: "Ergebnis Landesmeisterschaft Jugend & Senioren"
 - src: "**/*splits_class**"
   title: "Splits (Kategorie)"
 - src: "**/*splits_course**"

@@ -3,7 +3,7 @@ title: "SOLV Kalender"
 date: 2023-03-22T19:15:07+01:00 # date of creation of the file (written)
 draft: false
 
-archives: []
+archives: ["2023"]
 tags: ["Administratives"] # tag your article here, i.e ["Training", "Administratives"]
 
 calendar_date: 2023-03-22T19:15:07+01:00 # TODO: date in calendar

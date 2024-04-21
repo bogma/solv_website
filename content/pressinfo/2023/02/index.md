@@ -4,7 +4,7 @@ date: 2023-10-17T20:04:25+02:00 # date for 'written on'
 draft: true
 author: "f.elstner"
 catetories: [ "Presseinfo" ]
-archives: []
+archives: ["2023"]
 tags: ["ARGE Alp"] # tag your article here, i.e ["Austria Cup", "Robert Merl"]
 location: "Folgaria/Lavarone (Italien)"
 info_date: # date in article (YYYY-MM-dd)

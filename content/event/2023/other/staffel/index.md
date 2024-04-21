@@ -5,7 +5,7 @@ draft: false
 status: done
 anne_id: 4151
 
-archives: [""]
+archives: ["2023"]
 tags: [ "Landesmeisterschaft", "Staffel"]
 
 event:
@@ -75,6 +75,6 @@ resources:
 Anmeldung bis spätestens Sonntag, 14.Juni 2023 an anmeldung@ol-sbg.at. Die
 Anmeldung sollte vorzugsweise gesammelt pro Verein mit den
 Staffelpaaren (Name1, SI1, Name2, SI2, Kategorie) erfolgen. Bei
-vereinsübergreifenden Staffeln pro Staffel. 
+vereinsübergreifenden Staffeln pro Staffel.
 
 Weitere Details bitte der Ausschreibung entnehmen!
