@@ -77,7 +77,7 @@
               docTemplate="..\..\..\..\templates\schcup_document_template_sum.html"
               classTemplate="..\..\..\..\templates\schcup_class_template_sum.html"
               detailsTemplate="..\..\..\..\templates\schcup_details_template_sum.html"
-              cssFile="..\..\..\..\templates\default.css"/>
+              cssFile="..\..\..\..\templates\responsive_table_style.css"/>
         <Pdf active="true"
              fileName="schulcup2024.pdf"
              pageOrientation="Landscape"

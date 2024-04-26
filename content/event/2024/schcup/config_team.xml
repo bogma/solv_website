@@ -51,7 +51,7 @@
               docTemplate="..\..\..\..\templates\team_document_template.html"
               classTemplate="..\..\..\..\templates\team_class_template.html"
               detailsTemplate="..\..\..\..\templates\team_details_template.html"
-              cssFile="..\..\..\..\templates\default.css"/>
+              cssFile="..\..\..\..\templates\responsive_table_style.css"/>
         <Pdf active="true"
              fileName="schulteam2024.pdf"
              pageOrientation="Portrait"

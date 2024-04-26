@@ -1,26 +1,38 @@
 ﻿<div style="page-break-inside: avoid">
     <div class="category_title">{{{classFullName}}} ({{{classShortName}}})</div>
     <br />
-    <table border="0" cellpadding="2" cellspacing="0" width="90%"> 
-        <tbody>
+    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
+        <thead>
             <tr>
-                <td class="ranking_header" valign="bottom" align="right" width="5%">Pl</td>
-                <td class="ranking_header" valign="bottom" width="12%">Schule</td>
-                <td class="ranking_header" valign="bottom" align="right" style="padding-right:10px;border-right:1px solid #888;">Zeit</td>
-                <td class="ranking_header" valign="bottom" align="center" colspan="3">Team</td>
+                <th scope="col">Pl</th>
+                <th scope="col">Schule</th>
+                <th scope="col">Zeit</th>
+                <th scope="col">Team</th>
+                <th scope="col"></th>
+                <th scope="col"></th>
             </tr>
+        </thead>
+        <tbody>
             <tr fs-for="rank,trItem in catResults" class="{{{$iteration |> getRowStyle}}}">
-                <td align="right">
-                    <div style="overflow:hidden;">{{{rank}}}</div>
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">{{{rank}}}</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">{{{trItem.OrganisationId |> getClubNameById}}}</div>
+                    </span>
                 </td>
-                <td>
-                    <div style="overflow:hidden;">{{{trItem.OrganisationId |> getClubNameById}}}</div>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">{{{trItem.TotalTime |> formatTime}}}</div>
+                    </span>
                 </td>
-                <td align="right" style="padding-right:10px;border-right:1px solid #888;">
-                    <div style="overflow:hidden;">{{{trItem.TotalTime |> formatTime}}}</div>
-                </td>
-                <td fs-for="tm in trItem.TeamMembers" align="center">
-                    <b>{{{tm.Name}}}</b> ({{{tm.Time |> formatTime}}})<br />
+                <td fs-for="tm in trItem.TeamMembers">
+                    <span>
+                        <div style="overflow:hidden;"><b>{{{tm.Name}}}</b> ({{{tm.Time |> formatTime}}})</div>
+                    </span>
                 </td>
             </tr>
         </tbody>

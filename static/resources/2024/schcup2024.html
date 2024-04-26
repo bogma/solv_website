@@ -2,97 +2,266 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <style>body{
-  background:#fff;
-  margin:20px;
-  padding:0px;
+    <style>:root {
+    --bg-table-stripe: #f6f6f5;
+    --b-table: #e3e3e2;
+    --caption: #242423;
 }
 
-body,td{
-  color:#444;
-  font-family:Tahoma,Verdana,Arial,sans-serif;
-  font-size:11px;
+h1 {
+    color:#f00;
+    font-size:25px;
+    font-weight:bold;
+    margin-bottom:10px;
+    margin-top:0px;
 }
 
-dd{
-  border-left:1px solid #aaa;
-  margin-left:10px;
-  padding-left:2px;
+table {
+    background-color: transparent;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif
 }
 
-dt{
-  margin-top:15px;
+th {
+    text-align: left
 }
 
-div.category_title{
-  border-bottom:1px solid #999;
-  font-size:16px;
-  font-weight:bold;
-  letter-spacing:2px;
-  margin-bottom:10px;
+div.category_title {
+    border-bottom:1px solid #999;
+    font-size:16px;
+    font-weight:bold;
+    letter-spacing:2px;
+    margin-bottom:10px;
 }
 
-div.points{
- font-weight: bold;
+.page-brake {
+    page-break-inside: avoid;
 }
 
-div.time{
- color:blue;
+.dcf-txt-center {
+    text-align: center !important
 }
 
-span.points{
- font-weight: bold;
+.dcf-txt-left {
+    text-align: left !important
 }
 
-span.time{
- color:blue;
+.dcf-txt-right {
+    text-align: right !important
 }
 
-h1{
-  color:#f00;
-  font-size:25px;
-  font-weight:bold;
-  margin-bottom:10px;
-  margin-top:0px;
+.dcf-table caption {
+    color: var(--caption);
+    font-size: 1.13em;
+    font-weight: 700;
+    padding-bottom: .56rem
 }
 
-table{
-  margin:30px;
+.dcf-table thead {
+    font-size: .84em
 }
 
-td{
-  font-style: 1px solid #176795;
-  font-family:Tahoma,Verdana,Arial,sans-serif;
-  font-size:10px;
-  padding-left:3px;
-  padding-top:2px;
-}
-td.whitetext{
-  color:#fff;
+.dcf-table tbody {
+    border-bottom: 1px solid var(--b-table);
+    border-top: 1px solid var(--b-table);
+    font-size: .84em
 }
 
-td.ranking_header{
-  border-bottom:1px solid #444;
+.dcf-table tfoot {
+    font-size: .84em
 }
 
-tr.cal_out_dark{
-  background:#bbb;
-  height:45px;
+.dcf-table td,
+.dcf-table th {
+    padding-right: 1.78em
 }
 
-tr.row_style_even{
-  background:#ddd;
-  height:45px;
+.dcf-table-bordered,
+.dcf-table-bordered td,
+.dcf-table-bordered th {
+    border: 1px solid var(--b-table)
 }
 
-tr.row_style_odd{
-  background:#fff;
-  height:45px;
+.dcf-table-bordered td,
+.dcf-table-bordered th,
+.dcf-table-striped td,
+.dcf-table-striped th {
+    padding-left: 1em;
+    padding-right: 1em
 }
- 
 
+.dcf-table-bordered tr:not(:last-child),
+.dcf-table-striped tr:not(:last-child) {
+    border-bottom: 1px solid var(--b-table)
+}
 
-</style>
+.dcf-table-striped tbody tr:nth-of-type(2n) {
+    background-color: var(--bg-table-stripe)
+}
+
+.dcf-table thead td,
+.dcf-table thead th {
+    padding-bottom: .75em;
+    vertical-align: bottom
+}
+
+.dcf-table tbody td,
+.dcf-table tbody th,
+.dcf-table tfoot td,
+.dcf-table tfoot th {
+    padding-top: .75em;
+    vertical-align: top
+}
+
+.dcf-table tbody td,
+.dcf-table tbody th {
+    padding-bottom: .75em
+}
+
+.dcf-table-bordered thead th {
+    padding-top: 1.33em
+}
+
+.dcf-wrapper-table-scroll {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    padding-bottom: 1em;
+    position: relative;
+    right: 50%;
+    width: 100vw
+}
+
+@media print and (max-width:8cm) {
+    .dcf-table-responsive thead {
+        clip: rect(0 0 0 0);
+        -webkit-clip-path: inset(50%);
+        clip-path: inset(50%);
+        height: 1px;
+        overflow: hidden;
+        position: absolute;
+        width: 1px;
+        white-space: nowrap
+    }
+
+    .dcf-table-responsive tr {
+        display: block
+    }
+
+    .dcf-table-responsive td {
+        -webkit-column-gap: 3.16vw;
+        -moz-column-gap: 3.16vw;
+        column-gap: 3.16vw;
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        text-align: left !important
+    }
+
+    .dcf-table-responsive.dcf-table-bordered,
+    .dcf-table-responsive.dcf-table-bordered thead th {
+        border-width: 0
+    }
+
+    .dcf-table-responsive.dcf-table-bordered tbody td {
+        border-top-width: 0
+    }
+
+    .dcf-table-responsive:not(.dcf-table-bordered) tbody tr {
+        padding-bottom: .75em
+    }
+
+    .dcf-table-responsive:not(.dcf-table-bordered) tbody td {
+        padding-bottom: 0
+    }
+
+    .dcf-table-responsive:not(.dcf-table-bordered):not(.dcf-table-striped) tbody td {
+        padding-right: 0
+    }
+
+    .dcf-table-responsive.dcf-table-bordered tbody tr:last-child td:last-child {
+        border-bottom-width: 0
+    }
+
+    .dcf-table-responsive tbody td:before {
+        content: attr(data-label);
+        float: left;
+        font-weight: 700;
+        padding-right: 1.78em
+    }
+
+    .page-brake-responsive {
+        page-break-inside: auto;
+    }
+}
+
+@media only screen and (max-width:42.09em) {
+    .dcf-table-responsive thead {
+        clip: rect(0 0 0 0);
+        -webkit-clip-path: inset(50%);
+        clip-path: inset(50%);
+        height: 1px;
+        overflow: hidden;
+        position: absolute;
+        width: 1px;
+        white-space: nowrap
+    }
+
+    .dcf-table-responsive tr {
+        display: block
+    }
+
+    .dcf-table-responsive td {
+        -webkit-column-gap: 3.16vw;
+        -moz-column-gap: 3.16vw;
+        column-gap: 3.16vw;
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        text-align: left !important
+    }
+
+    .dcf-table-responsive.dcf-table-bordered,
+    .dcf-table-responsive.dcf-table-bordered thead th {
+        border-width: 0
+    }
+
+    .dcf-table-responsive.dcf-table-bordered tbody td {
+        border-top-width: 0
+    }
+
+    .dcf-table-responsive:not(.dcf-table-bordered) tbody tr {
+        padding-bottom: .75em
+    }
+
+    .dcf-table-responsive:not(.dcf-table-bordered) tbody td {
+        padding-bottom: 0
+    }
+
+    .dcf-table-responsive:not(.dcf-table-bordered):not(.dcf-table-striped) tbody td {
+        padding-right: 0
+    }
+
+    .dcf-table-responsive.dcf-table-bordered tbody tr:last-child td:last-child {
+        border-bottom-width: 0
+    }
+
+    .dcf-table-responsive tbody td:before {
+        content: attr(data-label);
+        float: left;
+        font-weight: 700;
+        padding-right: 1.78em
+    }
+}
+
+.dcf-overflow-x-auto {
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch
+}
+
+.dcf-w-100\% {
+    width: 100% !important;
+}</style>
     <title>Salzburger Sportvogl Schulcup 2024</title>
 </head>
 
@@ -105,1045 +274,1159 @@ tr.row_style_odd{
     <br>
     <br>
     <br>
-    <div><div style="page-break-inside: avoid">
+    <div><div class="page-brake page-brake-responsive">
     <div class="category_title">Unterstufe Damen (US D)</div>
     
     <br>
-    <table border="0" cellpadding="2" cellspacing="0" width="90%">
+    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
+        <thead>
+            <tr>
+                <th scope="col">Pl</th>
+                <th scope="col">Name</th>
+                <th scope="col">Schule</th>
+                <th scope="col" align="center"><span><div>1. Lauf<br>ULSZ Rif<br></div></span></th>
+                <th scope="col">Gesamtzeit</th>
+            </tr>
+        </thead>
         <tbody>
-        <tr>
-            <td class="ranking_header" valign="bottom" align="right" width="5%">Pl</td>
-            <td class="ranking_header" valign="bottom" width="25%" style="border-right:1px solid #888;">Name<br>Verein</td>
-            <td class="ranking_header" valign="bottom" align="center"><div>1. SchulCup</div></td><td class="ranking_header" valign="bottom" align="center"><div>2. SchulCup</div></td>
-            <td class="ranking_header" valign="bottom" align="center" width="8%" style="border-left:1px solid #888;">Gesamtzeit</td>
-        </tr>
-        <tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Lisa Mitterer</b></div>
-					<div style="overflow:hidden;">BG Seekirchen</div>
-				</td>
-				<td align="center">
+            <tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Lisa Mitterer</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">BG Seekirchen</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">9:48 (1)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Marion Schönberger</b></div>
-					<div style="overflow:hidden;">BG Seekirchen</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Marion Schönberger</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">BG Seekirchen</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">10:14 (2)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Leire Pammer</b></div>
-					<div style="overflow:hidden;">BG Seekirchen</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Leire Pammer</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">BG Seekirchen</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">10:46 (3)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Sophie Gruber</b></div>
-					<div style="overflow:hidden;">BG Seekirchen</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Sophie Gruber</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">BG Seekirchen</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">15:14 (4)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Katharina Winklhofer</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Katharina Winklhofer</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">17:16 (5)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Valerie Pugel</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Valerie Pugel</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">19:28 (6)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Princess Osagie</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Princess Osagie</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">20:44 (7)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Sophia Moser</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Sophia Moser</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">29:02 (8)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Lea Stuchlik</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Lea Stuchlik</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">29:46 (9)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Lisa Kaindl</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Lisa Kaindl</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">31:54 (10)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Lena Auswöger</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Lena Auswöger</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">33:10 (11)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Lejla Todorovic</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Lejla Todorovic</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">42:54 (12)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Diana Berner</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Diana Berner</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">44:31 (13)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Elena Spatzenegger</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Elena Spatzenegger</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    
 <td align="center">
     <div style="overflow:hidden">Fehlst.</div>
 </td>
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Paula Vasquez Abreu</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Paula Vasquez Abreu</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    
 <td align="center">
     <div style="overflow:hidden">Fehlst.</div>
 </td>
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Hannah Rottenhofer</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Hannah Rottenhofer</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    
 <td align="center">
     <div style="overflow:hidden">aufg.</div>
 </td>
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr>
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr>
         </tbody>
     </table>
     <br>
     <br>
     <br>
 </div>
-</div><div><div style="page-break-inside: avoid">
+</div><div><div class="page-brake page-brake-responsive">
     <div class="category_title">Unterstufe Herren (US H)</div>
     
     <br>
-    <table border="0" cellpadding="2" cellspacing="0" width="90%">
+    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
+        <thead>
+            <tr>
+                <th scope="col">Pl</th>
+                <th scope="col">Name</th>
+                <th scope="col">Schule</th>
+                <th scope="col" align="center"><span><div>1. Lauf<br>ULSZ Rif<br></div></span></th>
+                <th scope="col">Gesamtzeit</th>
+            </tr>
+        </thead>
         <tbody>
-        <tr>
-            <td class="ranking_header" valign="bottom" align="right" width="5%">Pl</td>
-            <td class="ranking_header" valign="bottom" width="25%" style="border-right:1px solid #888;">Name<br>Verein</td>
-            <td class="ranking_header" valign="bottom" align="center"><div>1. SchulCup</div></td><td class="ranking_header" valign="bottom" align="center"><div>2. SchulCup</div></td>
-            <td class="ranking_header" valign="bottom" align="center" width="8%" style="border-left:1px solid #888;">Gesamtzeit</td>
-        </tr>
-        <tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Lorenz Fink</b></div>
-					<div style="overflow:hidden;">BG Seekirchen</div>
-				</td>
-				<td align="center">
+            <tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Lorenz Fink</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">BG Seekirchen</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">11:45 (1)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Jakob Buchberger</b></div>
-					<div style="overflow:hidden;">BRG Salzburg</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Jakob Buchberger</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">BRG Salzburg</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">11:52 (2)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Johannes Baumgartinger</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Johannes Baumgartinger</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">13:45 (3)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Florian Mauschitz</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Florian Mauschitz</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">14:38 (4)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Benjamin Kaljikovic</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Benjamin Kaljikovic</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">14:55 (5)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Lorenz Buchberger</b></div>
-					<div style="overflow:hidden;">BRG Salzburg</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Lorenz Buchberger</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">BRG Salzburg</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">16:10 (6)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Alejandro Pammer</b></div>
-					<div style="overflow:hidden;">BG Seekirchen</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Alejandro Pammer</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">BG Seekirchen</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">16:48 (7)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Alexander Baur</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Alexander Baur</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">18:30 (8)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Jakob Wartbichler</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Jakob Wartbichler</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">18:44 (9)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Simon Brandl</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Simon Brandl</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">20:06 (10)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Jonah Handlechner</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Jonah Handlechner</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">21:18 (11)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Ludwig Brawisch</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Ludwig Brawisch</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">22:32 (12)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Armin Kaljikovic</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Armin Kaljikovic</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">23:59 (13)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Benjamin Unterguggenberger</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Benjamin Unterguggenberger</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">24:27 (14)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Kilian Dengg</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Kilian Dengg</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">25:20 (15)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Niel Brunner</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Niel Brunner</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">33:01 (16)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Felix Holzer</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Felix Holzer</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">34:07 (17)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Jonas Koller</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Jonas Koller</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">38:52 (18)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Kilian Fischer</b></div>
-					<div style="overflow:hidden;">BG Seekirchen</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Kilian Fischer</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">BG Seekirchen</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">40:19 (19)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Daniel Preslmayr</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Daniel Preslmayr</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">47:03 (20)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Lukas Weindl</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Lukas Weindl</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    
 <td align="center">
     <div style="overflow:hidden">Fehlst.</div>
 </td>
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Hüseyin Altindemir</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Hüseyin Altindemir</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    
 <td align="center">
     <div style="overflow:hidden">Fehlst.</div>
 </td>
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Karl Aufleger</b></div>
-					<div style="overflow:hidden;">MMS Henndorf</div>
-				</td>
-				
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Karl Aufleger</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </td>
+                    
 <td align="center">
     <div style="overflow:hidden">Fehlst.</div>
 </td>
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr>
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr>
         </tbody>
     </table>
     <br>
     <br>
     <br>
 </div>
-</div><div><div style="page-break-inside: avoid">
+</div><div><div class="page-brake page-brake-responsive">
     <div class="category_title">Oberstufe Damen (OS D)</div>
     
     <br>
-    <table border="0" cellpadding="2" cellspacing="0" width="90%">
+    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
+        <thead>
+            <tr>
+                <th scope="col">Pl</th>
+                <th scope="col">Name</th>
+                <th scope="col">Schule</th>
+                <th scope="col" align="center"><span><div>1. Lauf<br>ULSZ Rif<br></div></span></th>
+                <th scope="col">Gesamtzeit</th>
+            </tr>
+        </thead>
         <tbody>
-        <tr>
-            <td class="ranking_header" valign="bottom" align="right" width="5%">Pl</td>
-            <td class="ranking_header" valign="bottom" width="25%" style="border-right:1px solid #888;">Name<br>Verein</td>
-            <td class="ranking_header" valign="bottom" align="center"><div>1. SchulCup</div></td><td class="ranking_header" valign="bottom" align="center"><div>2. SchulCup</div></td>
-            <td class="ranking_header" valign="bottom" align="center" width="8%" style="border-left:1px solid #888;">Gesamtzeit</td>
-        </tr>
-        <tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Charlotte Brawisch</b></div>
-					<div style="overflow:hidden;">St. Ursula Salzburg</div>
-				</td>
-				<td align="center">
+            <tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Charlotte Brawisch</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">St. Ursula Salzburg</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">16:28 (1)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Hannah Bruneder</b></div>
-					<div style="overflow:hidden;">BORG Straßwalchen</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Hannah Bruneder</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">BORG Straßwalchen</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">20:47 (2)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Felicitas Haas</b></div>
-					<div style="overflow:hidden;">BORG Straßwalchen</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Felicitas Haas</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">BORG Straßwalchen</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">24:41 (3)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Ronja Kletzl</b></div>
-					<div style="overflow:hidden;">BORG Straßwalchen</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Ronja Kletzl</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">BORG Straßwalchen</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">24:44 (4)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Anna Katharina Kapeller</b></div>
-					<div style="overflow:hidden;">St. Ursula Salzburg</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Anna Katharina Kapeller</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">St. Ursula Salzburg</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">28:13 (5)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Raphaela Unterguggenberger</b></div>
-					<div style="overflow:hidden;">St. Ursula Salzburg</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Raphaela Unterguggenberger</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">St. Ursula Salzburg</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">31:14 (6)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Elisa Lechner</b></div>
-					<div style="overflow:hidden;">BORG Straßwalchen</div>
-				</td>
-				
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Elisa Lechner</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">BORG Straßwalchen</div>
+                    </td>
+                    
 <td align="center">
     <div style="overflow:hidden">Fehlst.</div>
 </td>
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Magdalena Kobler</b></div>
-					<div style="overflow:hidden;">BORG Straßwalchen</div>
-				</td>
-				
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Magdalena Kobler</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">BORG Straßwalchen</div>
+                    </td>
+                    
 <td align="center">
     <div style="overflow:hidden">Fehlst.</div>
 </td>
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr>
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr>
         </tbody>
     </table>
     <br>
     <br>
     <br>
 </div>
-</div><div><div style="page-break-inside: avoid">
+</div><div><div class="page-brake page-brake-responsive">
     <div class="category_title">Oberstufe Herren (OS H)</div>
     
     <br>
-    <table border="0" cellpadding="2" cellspacing="0" width="90%">
+    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
+        <thead>
+            <tr>
+                <th scope="col">Pl</th>
+                <th scope="col">Name</th>
+                <th scope="col">Schule</th>
+                <th scope="col" align="center"><span><div>1. Lauf<br>ULSZ Rif<br></div></span></th>
+                <th scope="col">Gesamtzeit</th>
+            </tr>
+        </thead>
         <tbody>
-        <tr>
-            <td class="ranking_header" valign="bottom" align="right" width="5%">Pl</td>
-            <td class="ranking_header" valign="bottom" width="25%" style="border-right:1px solid #888;">Name<br>Verein</td>
-            <td class="ranking_header" valign="bottom" align="center"><div>1. SchulCup</div></td><td class="ranking_header" valign="bottom" align="center"><div>2. SchulCup</div></td>
-            <td class="ranking_header" valign="bottom" align="center" width="8%" style="border-left:1px solid #888;">Gesamtzeit</td>
-        </tr>
-        <tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Gabriel Engel</b></div>
-					<div style="overflow:hidden;">HLW Ursprung</div>
-				</td>
-				<td align="center">
+            <tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Gabriel Engel</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">HLW Ursprung</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">21:17 (1)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Daniel Grömer</b></div>
-					<div style="overflow:hidden;">HLW Ursprung</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Daniel Grömer</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">HLW Ursprung</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">29:14 (2)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_odd">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Alfred Isensee</b></div>
-					<div style="overflow:hidden;">HLW Ursprung</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_odd">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Alfred Isensee</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">HLW Ursprung</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">29:47 (3)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr><tr class="row_style_even">
-			<div>
-				<td align="right">
-					<div style="overflow:hidden;">-</div>
-				</td>
-				<td style="border-right:1px solid #888;">
-					<div style="overflow:hidden;"><b>Leon Hamminger</b></div>
-					<div style="overflow:hidden;">HLW Ursprung</div>
-				</td>
-				<td align="center">
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr><tr class="row_style_even">
+                <div>
+                    <th scope="row">
+                        <span><div style="overflow:hidden;">-</div></span>
+                    </th>
+                    <td data-label="Name">
+                        <div style="overflow:hidden;"><b>Leon Hamminger</b></div>
+                    </td>
+                    <td data-label="Schule">
+                        <div style="overflow:hidden;">HLW Ursprung</div>
+                    </td>
+                    <td align="center">
     <div style="overflow:hidden">36:38 (4)</div>
 </td>
 
 
-				<td align="center" style="border-left:1px solid #888;">
-					<div style="overflow:hidden;font-weight:bold;">disq</div>
-				</td>
-			</div>
-			
-        </tr>
+                    <td data-label="Gesamtzeit">
+                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                    </td>
+                </div>
+                
+            </tr>
         </tbody>
     </table>
     <br>
@@ -1153,7 +1436,7 @@ tr.row_style_odd{
 </div>
     <br>
     <div>(c) 2024 by solv.at</div><br>
-    <div>Erstellt: Thu, 11 Apr 2024 22:01:27 GMT</div>
+    <div>Erstellt: Tue, 23 Apr 2024 18:52:19 GMT</div>
 </body>
 
 </html>
