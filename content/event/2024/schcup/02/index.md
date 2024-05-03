@@ -2,7 +2,7 @@
 title: "2. Salzburger Sportvogl Schulcup 2024"
 date: 2024-05-07T10:00:00 # date of creation of the file
 draft: false
-status: active
+status: done # active
 
 archives: []
 tags: [ "Schul Cup"]
@@ -40,12 +40,14 @@ resources:
   title: "Ausschreibung"
 - src: "**/start**"
   title: "Startliste"
-- src: "**/resu**"
-  title: "Ergebnisse"
-- src: "**/split**"
+- src: "**/*split**"
   title: "Splits"
+- src: "**/*resu**"
+  title: "Ergebnisse LMS"
 - src: "**/laeu**"
   title: "Läuferinfo"
+- src: "**/schulteam**"
+  title: "Team Wertung"
 
 # resource_links:
 #   infos:
