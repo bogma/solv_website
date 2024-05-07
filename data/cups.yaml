@@ -4,45 +4,45 @@ cup:
       - link: /resources/2024/sbgcup2024.html
         text: Salzburger Sportvoglcup (Zwischenstand)
       - link: /resources/2024/schcup2024.html
-        text: Salzburger Schulcup (Zwischenstand)
+        text: Salzburger Schulcup (Endstand)
   - year: 2023
     cup:
       - link: /resources/2023/sbgcup2023.html
-        text: Salzburger Sportvoglcup (Endstand)
+        text: Salzburger Sportvoglcup
       - link: /resources/2023/schcup2023.html
-        text: Salzburger Schulcup (Endstand)
+        text: Salzburger Schulcup
   - year: 2022
     cup:
       - link: /resources/2022/sbgcup2022.html
-        text: Salzburger Sportvoglcup (Endstand)
+        text: Salzburger Sportvoglcup
       - link: /resources/2022/schcup2022.html
-        text: Salzburger Schulcup (Endstand)
+        text: Salzburger Schulcup
   - year: 2021
     cup:
       - link: /resources/2021/sbgcup2021.html
-        text: Salzburger Sportvoglcup (Endstand)
+        text: Salzburger Sportvoglcup
   - year: 2020
     cup:
       - link: /resources/2020/sbgcup2020.html
-        text: Salzburger Sportvoglcup (Endstand)
+        text: Salzburger Sportvoglcup
   - year: 2019
     cup:
       - link: /resources/2019/sbgcup2019.html
-        text: Salzburger Sportvoglcup (Endstand)
+        text: Salzburger Sportvoglcup
       - link: /resources/2019/sprintcup2019.html
-        text: Salzburger Sprintcup (Endstand)
+        text: Salzburger Sprintcup
       - link: schcup/schulcup2019.pdf
-        text: Salzburger Schulcup (Endstand)
+        text: Salzburger Schulcup
   - year: 2018
     cup:
       - link: schcup/schulcup2018.pdf
-        text: Salzburger Schulcup (Endstand)
+        text: Salzburger Schulcup
       - link: sbgcup/sbgcup.pdf
-        text: Salzburger Sportvogl Cup (Endstand)
+        text: Salzburger Sportvoglcup
   - year: 2017
     cup:
       - link: schcup/SchulCup-2017.pdf
-        text: Salzburger Schulcup (Endstand)
+        text: Salzburger Schulcup
       - link: sbgcup/sbgcup.pdf
-        text: Salzburger Sportvogl Cup (Endstand)
+        text: Salzburger Sportvoglcup
 
