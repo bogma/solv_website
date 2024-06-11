@@ -1,6 +1,6 @@
 ---
 title: "6. Salzburger Sportvoglcup 2024"
-date: 2024-06-29T00:00:00 # keep time 0 until start time is known
+date: 2024-06-29T11:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,12 +8,12 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup", "Landesmeisterschaft"]
 
-anne_id: 0
+anne_id: 4459
 
 event:
   name_amend: "LM Allgemeine Klasse" # respects markdown
@@ -27,33 +27,33 @@ implementation: "ASKÖ Henndorf Orientieering" # remove 2 of the 3 options
 # active section ------------------------------------------------
 
 #liveresultat_id: 18741
-#oresults_id: 578 #DrTgMcmSULdS
-#end: 150 # x minutes from event->date (remove if not needed)
-#start_amend: "(WKZ - Start 0m)" # respects markdown
+oresults_id: 1057 #DrTgMcmSULdS
+end: 210 # x minutes from event->date (remove if not needed)
+start_amend: "(WKZ - Start 700m)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Roland Kohlbacher"
+  event: "Katharina Hinterhofer"
+  inspection: "Markus König"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -8 # x days from event->date
 meeting:
-  point: ""
+  point: "Hallergut / Tannberg"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.9720, 13.1778]
 map:
-  name: ""
-  scale: "1:10.000"
+  name: "Tannberg West"
+  scale: "1:10.000 / 1:7.500"
   equidistance: "5m"
-  update: "März 2006"
+  update: "Mai 2024"
   format: ""
   hints: "" # additional hints to map
-control_point_description: "Auf der Karte und zur Selbstentnahme"
+control_point_description: "Auf der LauŅarte sowie auf ANNE zum Download"
 hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
