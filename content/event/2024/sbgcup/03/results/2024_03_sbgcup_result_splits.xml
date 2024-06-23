@@ -617,7 +617,7 @@
 <BirthDate>1901-01-01</BirthDate>
 </Person>
 <Organisation>
-<Id>32</Id>
+<Id>99932</Id>
 <Name>ASKÖ Henndorf Orienteering</Name>
 <ShortName>ASKÖ Henndorf Orienteering</ShortName>
 </Organisation>
@@ -6570,8 +6570,8 @@
 <ControlCode>111</ControlCode>
 </SplitTime>
 <SplitTime status="Missing">
-<ControlCode>112</ControlCode>
 </SplitTime>
+<ControlCode>112</ControlCode>
 <SplitTime status="Missing">
 <ControlCode>103</ControlCode>
 </SplitTime>
