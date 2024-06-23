@@ -1,0 +1,64 @@
+year: 2024
+type: junsen
+name: Jugend/Senjoren
+evlink: /event/2024/sbgcup/05
+results:
+  - category: Damen -15
+    valid: true
+    result:
+      - name: Marion Schönberger
+      - name: Leire Pammer
+      - name: Sarah Mitterer
+  - category: Damen -18
+    valid: true
+    result:
+      - name: Lisa Mitterer
+      - name: Charlotte Brawisch
+      - name: Hannah Fink
+  - category: Damen 35-
+    valid: true
+    result:
+      - name: Franziska Brodinger
+      - name: Claudia Wiemers
+      - name: Petra Böhm
+  - category: Damen 45-
+    valid: true
+    result:
+      - name: Katharina Hinterhofer
+      - name: Carolin Schönberger
+      - name: Daniela Buchberger
+  - category: Herren -13
+    valid: true
+    result:
+      - name: Alexander Baur
+      - name: Alejandro Pammer
+      - name: Lorenz Buchberger
+  - category: Herren -15
+    valid: true
+    result:
+      - name: Jakob Felix Buchberger
+      - name: Lorenz Fink
+      - name: Markus Ban
+  - category: Herren 35-
+    valid: true
+    result:
+      - name: Norbert Helminger
+      - name: Martin Bogensperger
+      - name: Markus König
+  - category: Herren 45-
+    valid: true
+    result:
+      - name: Martin Schönberger
+      - name: Wolfgang Pammer
+  - category: Herren 55-
+    valid: true
+    result:
+      - name: Florian Elstner
+      - name: Horst Mayer
+      - name: Christian Breitschädel
+  - category: Herren 65-
+    valid: true
+    result:
+      - name: Josef Wimmer
+      - name: Karl Hackl
+      - name: Eduard Böhm

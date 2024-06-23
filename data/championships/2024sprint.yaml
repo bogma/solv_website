@@ -1,0 +1,47 @@
+year: 2024
+type: sprint
+name: Sprint
+evlink: /event/2024/sbgcup/03
+results:
+  - category: Damen -15
+    valid: true
+    result:
+      - name: Marion Schönberger
+      - name: Leire Pammer
+      - name: Sarah Mitterer
+  - category: Herren -15
+    valid: true
+    result:
+      - name: Jakob Felix Buchberger
+      - name: Markus Ban
+      - name: Alexander Baur
+  - category: Damen 16-
+    valid: true
+    result:
+      - name: Nina Döllgast
+      - name: Claudia Wiemers
+      - name: Carolin Schönberger
+  - category: Herren 16-
+    valid: true
+    result:
+      - name: Bjarne Friedrichs
+      - name: Manuel Gassner
+      - name: Bernhard Fink
+  - category: Damen 55-
+    valid: true
+    result:
+      - name: Margit Elstner
+      - name: Claudia Hackl
+      - name: Claudia Berger
+  - category: Herren 55-
+    valid: true
+    result:
+      - name: Florian Elstner
+      - name: Roland Berner
+      - name: Horst Mayer
+  - category: Herren 65-
+    valid: true
+    result:
+      - name: Leopold Tonka
+      - name: Josef Wimmer
+      - name: Karl Hackl

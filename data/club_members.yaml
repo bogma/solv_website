@@ -2,7 +2,8 @@ club:
   - name: ASKÖ Henndorf Orienteering
     short: AHD
     members:
-    - { name: Alexander Baur}
+    - { name: Alejandro Pammer }
+    - { name: Alexander Baur }
     - { name: Andrea Eisl }
     - { name: Andreas Rameder }
     - { name: Angela Pesendorfer }
@@ -23,6 +24,7 @@ club:
     - { name: Christine Müller }
     - { name: Claudia Berger }
     - { name: Claudia Hackl }
+    - { name: Claudia Wiemers }
     - { name: Clemens Eibl }
     - { name: Dominique L´Humeau }
     - { name: Edi Böhm }
@@ -58,6 +60,7 @@ club:
     - { name: Laura Wiedemayer }
     - { name: Laurenz Elstner }
     - { name: Leire Ana Pammer }
+    - { name: Leire Pammer }
     - { name: Leo Müller }
     - { name: Leon Ebster }
     - { name: Lisa Pesendorfer }
@@ -99,6 +102,7 @@ club:
     - { name: Thomas Rothauer }
     - { name: Tim Rothauer }
     - { name: Wolfgang Kampel }
+    - { name: Wolfgang Pammer }
     - { name: Yschi Tiefenbrunner }
     - { name: Yvonne Kupfner }
     - { name: Tobias Breitschädel }
@@ -180,7 +184,7 @@ club:
     - { name: Stefanie Rogl }
     - { name: Alfred Baier }
     - { name: Stefanie Kennerknecht }
-    
+
   - name: TV Zell am See, Sektion OL
     short: TVZ
     members:
