@@ -8,7 +8,7 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup", "Landesmeisterschaft"]
@@ -79,15 +79,11 @@ resources:
 - src: "**/*lms**"
   title: "Ergebnis Landesmeisterschaft Jugend & Senioren"
 
-# resource_links:
-#   infos:
-#   - link: "/resources/2019/start5sc2019.html"
-#     title: "Startliste"
-#   results:
-#   - link: "/resources/2019/resu5sc2019.html"
-#     title: "Ergebnisse 5.SC"
-#   - link: "/resources/2019/resu6sc2019.html"
-#     title: "Ergebnisse 6.SC"
+resource_links:
+  results:
+  - link: "/resources/2024/lmsprint2024.html"
+    title: "Ergebniss Sprint Landesmeisterschaft 2024"
+
 ---
 
 ### Startgeld

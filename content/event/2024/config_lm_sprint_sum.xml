@@ -38,18 +38,18 @@
         <Event num="2" name="Finale" fileName=".\sbgcup\03\results\2024_03_sbgcup_result_splits.xml" />
     </Events>
     <Classes filter="Include" presentationOrder="1,2;9,10;3,4,5,6;11,12,13,14;7;15;8;16" >
-        <Class name="Jug1" id="60" />
-        <Class name="Jug2" id="61" />
-        <Class name="Jug3" id="62" />
-        <Class name="HE" id="63" />
-        <Class name="H35" id="64" />
-        <Class name="H45" id="65" />
-        <!-- <Class name="Jug1" id="50" />
-        <Class name="Jug2" id="51" /> -->
-        <Class name="Jug3" id="52" />
-        <Class name="DE" id="53" />
-        <Class name="D35" id="54" />
-        <Class name="D45" id="55" />
+        <Class name="D13" id="1" />
+        <Class name="D15" id="2" />
+        <Class name="H13" id="9" />
+        <Class name="H15" id="10" />
+        <Class name="H18" id="11" />
+        <Class name="HE" id="12" />
+        <Class name="H35" id="13" />
+        <Class name="H45" id="14" />
+        <Class name="D18" id="3" />
+        <Class name="DE" id="4" />
+        <Class name="D35" id="5" />
+        <Class name="D45" id="6" />
         <Combine name="Jugend Damen" classIds="1,2" shortName="D -15"/>
         <Combine name="Jugend Herren" classIds="9,10" shortName="H -15"/>
         <Combine name="Allgemein Damen" classIds="3,4,5,6" shortName="D 16-"/>
@@ -57,7 +57,8 @@
         <Class name="Sen. Herren 55" shortName="H 55-" id="15" />
         <Class name="Sen. Herren 65" shortName="H 65-" id="16" />
         <Class name="Sen. Damen 55" shortName="D 55-" id="7" />
-        <Class name="Sen. Damen 65" shortName="D 65-" id="8" />
+        <!-- no championship -->
+        <!-- <Class name="Sen. Damen 65" shortName="D 65-" id="8" /> -->
     </Classes>
     <Organisations filter="Include" >
         <Organisation name="ASKÖ Henndorf" id="32" />
