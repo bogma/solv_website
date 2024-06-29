@@ -32,11 +32,11 @@
   <Events>
     <!-- set num to 0 if not needed -->
     <Event num="1" name="Schwarzenbergkaserne"/>
-    <Event num="2" name="Wals-Siezenheim"/>
-    <Event num="3" name="Wals-Siezenheim"/>
+    <Event num="2" name="Kleßheim"/>
+    <Event num="3" name="Kleßeim"/>
     <Event num="4" name="Mönchsberg"/>
     <Event num="5" name="Gmoawald"/>
-    <Event num="6" name=""/>
+    <Event num="6" name="Tannberg"/>
     <Event num="7" name="Erkaburger Tafel"/>
     <Event num="8" name="Tannberg"/>
     <Event num="9" name="Hallein" multiply="2.0"/>
