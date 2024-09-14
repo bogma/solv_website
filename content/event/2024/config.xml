@@ -2,7 +2,7 @@
   <General name="Salzburger Sportvoglcup 2024"
            year="2024"
            numberOfPlannedEvents="9"
-           numberOfValidEvents="9"
+           numberOfValidEvents="8"
            numberOfCountingEvents="6"
            calcRule="sbgcup"
            resultFileRegex="2024_(\d{2})_sbgcup.*"
