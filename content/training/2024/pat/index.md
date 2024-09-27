@@ -15,6 +15,23 @@ menu:
     parent: "training"
 ---
 
+#### Tannberg 2024-09-27 - 2024-10-01
+
+Nina (Planerin) und Edi (Aushänger) bescheren allen Trainingsfreudigen eine Bahn am Tannberg vom 27.9. bis Dienstag, 1. Oktober.
+
+Es hängen pinke Bänder bei den Posten.
+
+Sepp holt diese mittwochs ein.
+
+Parken am Weg oben (z.B. Holzlageplatz) zum Gasthaus.
+
++ [Neulinge](Training%20Tannberg%2027.09.24.Neulinge.pdf)
++ [H11-H13](Training%20Tannberg%2027.09.24.D_H11-13.pdf)
++ [H14+](Training%20Tannberg%2027.09.24.D_H14+.pdf)
++ [H14+ ohne Wege](Training%20Tannberg%2027.09.24.D_H14+%20ohne%20Wege.pdf)
+
+
+
 #### Kienberg 2024-04-21 (11:00) - 2024-04-28 (17:00)
 
 Höhenlinien-Training am Kienberg.
