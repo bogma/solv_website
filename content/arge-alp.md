@@ -25,4 +25,5 @@ Aus dem ehemaligen Arge Alp Sportprogramm haben sich Arge Alp Sommer- und Winter
 - [2021 Bayern - Hetzenbach](https://olg-regensburg.de/arge-alp-2021/)
 - [2022 Tessin - Isone](https://www4.ti.ch/index.php?id=129436)
 - [2023 Trentino - Folgaria](https://www.fiso.it/it/gara/2023294)
-- 2024 Tirol - Innsbruck Igls
+- [2024 Tirol - Innsbruck Igls](https://www.kompass-innsbruck.at/)
+  2025 Südtirol - Alta Badia
