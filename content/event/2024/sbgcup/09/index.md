@@ -27,9 +27,9 @@ implementation: "SSV Hallein-Neualm" # remove 2 of the 3 options
 # active section ------------------------------------------------
 
 #liveresultat_id: 18741
-#oresults_id: 578 #DrTgMcmSULdS
+oresults_id: 1450
 #end: 150 # x minutes from event->date (remove if not needed)
-#start_amend: "(WKZ - Start 0m)" # respects markdown
+start_amend: "(WKZ - Start 1000m/60Hm)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
   course: "Horst Mayer"
@@ -43,9 +43,9 @@ entry:
   email: anmeldung@ol-sbg.at
   closing_date_days: -10 # x days from event->date
 meeting:
-  point: ""
+  point: "VS Adnet"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.699923, 13.129403]
 map:
   name: "Adnet"
   scale: "1:7.500"
