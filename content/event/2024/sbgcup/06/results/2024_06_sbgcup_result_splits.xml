@@ -2,7 +2,7 @@
  <ResultList xmlns="http://www.orienteering.org/datastandard/3.0"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  iofVersion="3.0"
- createTime="2024-06-29T19:53:16.076"
+ createTime="2024-11-06T17:00:04.526"
  creator="SportSoftware OE12 V.12.1">
 <Event>
 <Name>6. Salzburger Sportvoglcup 2024</Name>
@@ -1561,59 +1561,6 @@
 </Result>
 </PersonResult>
 <PersonResult>
-<Person sex="M">
-<Id>71</Id>
-<Name>
-<Family>Müller</Family>
-<Given>Leo</Given>
-</Name>
-<BirthDate>1949-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2024-06-29T11:03:48.000</StartTime>
-<Status>MissingPunch</Status>
-<SplitTime>
-<ControlCode>61</ControlCode>
-<Time>314</Time>
-</SplitTime>
-<SplitTime>
-<ControlCode>63</ControlCode>
-<Time>1186</Time>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>70</ControlCode>
-</SplitTime>
-<SplitTime>
-<ControlCode>74</ControlCode>
-<Time>2602</Time>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>71</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>77</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>97</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>100</ControlCode>
-</SplitTime>
-<ControlCard>2116263</ControlCard>
-<AssignedFee>
-<Fee type="Normal">
-<Name>Actual</Name>
-<Amount>8.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
 <Person sex="F">
 <Id>69</Id>
 <Name>
@@ -1661,6 +1608,59 @@
 <ControlCode>100</ControlCode>
 </SplitTime>
 <ControlCard>5399</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Id>71</Id>
+<Name>
+<Family>Müller</Family>
+<Given>Leo</Given>
+</Name>
+<BirthDate>1949-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2024-06-29T11:03:48.000</StartTime>
+<Status>NotCompeting</Status>
+<SplitTime>
+<ControlCode>61</ControlCode>
+<Time>314</Time>
+</SplitTime>
+<SplitTime>
+<ControlCode>63</ControlCode>
+<Time>1186</Time>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>70</ControlCode>
+</SplitTime>
+<SplitTime>
+<ControlCode>74</ControlCode>
+<Time>2602</Time>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>71</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>77</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>97</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>100</ControlCode>
+</SplitTime>
+<ControlCard>2116263</ControlCard>
 <AssignedFee>
 <Fee type="Normal">
 <Name>Actual</Name>
