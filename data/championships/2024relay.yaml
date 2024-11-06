@@ -1,0 +1,50 @@
+year: 2024
+type: relay
+name: Staffel
+evlink: /event/2024/other/staffel
+results:
+  - category: Damen -15
+    valid: true
+    result:
+      - names:
+        - name: Hannah Fink
+        - name: Marion Schönberger
+      - names:
+        - name: Sarah Mitterer
+        - name: Lisa Mitterer
+      - names:
+        - name: Leire Ana Pammer
+        - name: Charlotte Brawisch
+  - category: Herren -15
+    valid: true
+    result:
+      - names:
+        - name: Benjamin Kaljikovic
+        - name: Lorenz Fink
+      - names:
+        - name: Alejandro Pammer
+        - name: Markus Ban
+  - category: Damen 16-
+    valid: true
+    result:
+      - names:
+        - name: Claudia Wiemers
+        - name: Edith Müller-Grambichler
+      - names:
+        - name: Franziska Brodinger
+        - name: Stefanie Kennerknecht
+      - names:
+        - name: Andrea Strasser
+        - name: Carla Berger
+  - category: Herren 16-
+    valid: true
+    result:
+      - names:
+        - name: Leon Ebster
+        - name: Jonas Königstorfer
+      - names:
+        - name: Norbert Helminger
+        - name: Franz Helminger
+      - names:
+        - name: Martin Böhm
+        - name: Thomas Rothauer

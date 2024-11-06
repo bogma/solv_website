@@ -9,6 +9,7 @@ club:
     - { name: Angela Pesendorfer }
     - { name: Anna Elstner }
     - { name: Andrea Strasser }
+    - { name: Benjamin Kaljikovic }
     - { name: Bernadett Kelemen }
     - { name: Bernadette Grömer }
     - { name: Bernhard Fink }
@@ -29,6 +30,7 @@ club:
     - { name: Dominique L´Humeau }
     - { name: Edi Böhm }
     - { name: Edith Müller }
+    - { name: Edith Müller-Grambichler }
     - { name: Eduard Böhm }
     - { name: Ekkehard Berger }
     - { name: Elisa Elstner }
@@ -178,7 +180,7 @@ club:
     - { name: Nina Thoma }
 
   - name: NF Seekirchen, Sektion OL
-    short: NF Seekirchen
+    short: NSK
     members:
     - { name: Hartwig Rogl }
     - { name: Stefanie Rogl }

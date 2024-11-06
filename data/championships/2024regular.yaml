@@ -1,0 +1,17 @@
+year: 2024
+type: regular
+name: Allgemein
+evlink: /event/2024/sbgcup/06
+results:
+  - category: Damen
+    valid: true
+    result:
+      - name: Lucie Rothauer
+      - name: Nina Döllgast
+      - name: Andrea Strasser
+  - category: Herren
+    valid: true
+    result:
+      - name: Bjarne Friedrichs
+      - name: Bernhard Fink
+      - name: Norbert Helminger
