@@ -2,9 +2,9 @@ cup:
   - year: 2024
     cup:
       - link: /resources/2024/sbgcup2024.html
-        text: Salzburger Sportvoglcup (Zwischenstand)
+        text: Salzburger Sportvoglcup
       - link: /resources/2024/schcup2024.html
-        text: Salzburger Schulcup (Endstand)
+        text: Salzburger Schulcup
   - year: 2023
     cup:
       - link: /resources/2023/sbgcup2023.html
