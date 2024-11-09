@@ -2,7 +2,7 @@
  <ResultList xmlns="http://www.orienteering.org/datastandard/3.0"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  iofVersion="3.0"
- createTime="2024-11-09T14:29:46.090"
+ createTime="2024-11-09T17:33:51.952"
  creator="SportSoftware OE12 V.12.1">
 <Event>
 <Name>9. Salzburger Sportvoglcup 2024</Name>
@@ -3524,45 +3524,61 @@
 <ShortName>ASKÖ Henndorf Orienteering</ShortName>
 </Organisation>
 <Result raceNumber="1">
-<StartTime>2024-11-09T12:08:00.000</StartTime>
-<Status>OverTime</Status>
-<SplitTime status="Missing">
+<StartTime>2024-11-09T12:07:52.000</StartTime>
+<FinishTime>2024-11-09T12:55:58.000</FinishTime>
+<Time>2886</Time>
+<TimeBehind>621</TimeBehind>
+<Position>5</Position>
+<Status>OK</Status>
+<SplitTime>
 <ControlCode>77</ControlCode>
+<Time>183</Time>
 </SplitTime>
-<SplitTime status="Missing">
+<SplitTime>
 <ControlCode>78</ControlCode>
+<Time>687</Time>
 </SplitTime>
-<SplitTime status="Missing">
+<SplitTime>
 <ControlCode>79</ControlCode>
+<Time>885</Time>
 </SplitTime>
-<SplitTime status="Missing">
+<SplitTime>
 <ControlCode>80</ControlCode>
+<Time>1154</Time>
 </SplitTime>
-<SplitTime status="Missing">
+<SplitTime>
 <ControlCode>94</ControlCode>
+<Time>1470</Time>
 </SplitTime>
-<SplitTime status="Missing">
+<SplitTime>
 <ControlCode>83</ControlCode>
+<Time>1603</Time>
 </SplitTime>
-<SplitTime status="Missing">
+<SplitTime>
 <ControlCode>84</ControlCode>
+<Time>2017</Time>
 </SplitTime>
-<SplitTime status="Missing">
+<SplitTime>
 <ControlCode>85</ControlCode>
+<Time>2226</Time>
 </SplitTime>
-<SplitTime status="Missing">
+<SplitTime>
 <ControlCode>97</ControlCode>
+<Time>2370</Time>
 </SplitTime>
-<SplitTime status="Missing">
+<SplitTime>
 <ControlCode>75</ControlCode>
+<Time>2599</Time>
 </SplitTime>
-<SplitTime status="Missing">
+<SplitTime>
 <ControlCode>90</ControlCode>
+<Time>2809</Time>
 </SplitTime>
-<SplitTime status="Missing">
+<SplitTime>
 <ControlCode>100</ControlCode>
+<Time>2873</Time>
 </SplitTime>
-<ControlCard>8110327</ControlCard>
+<ControlCard>8111014</ControlCard>
 <AssignedFee>
 <Fee type="Normal">
 <Name>Actual</Name>
