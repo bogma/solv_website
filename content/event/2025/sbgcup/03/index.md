@@ -1,6 +1,6 @@
 ---
-title: "x. Salzburger Sportvoglcup {{now.Format "2006"}}"
-date: {{now.Format "2006"}}-01-01T00:00:00 # keep time 0 until start time is known
+title: "3. Salzburger Sportvoglcup 2024"
+date: 2025-04-26T00:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -17,12 +17,12 @@ anne_id: 0
 
 event:
   name_amend: "" # respects markdown
-  form: "Normaler OL"
-  location: ""
+  form: "Sprint OL"
+  location: "Köstendorf"
   type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering / HSV Wals / OLG Tennengau" # remove 2 of the 3 options
+implementation: "ASKÖ Henndorf Orientieering" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 

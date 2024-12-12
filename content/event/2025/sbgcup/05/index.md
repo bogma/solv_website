@@ -1,6 +1,6 @@
 ---
-title: "x. Salzburger Sportvoglcup {{now.Format "2006"}}"
-date: {{now.Format "2006"}}-01-01T00:00:00 # keep time 0 until start time is known
+title: "5. Salzburger Sportvoglcup 2025"
+date: 2025-05-10T00:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -11,18 +11,18 @@ outputs:
 status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
-tags: [ "SBG Cup"]
+tags: [ "SBG Cup", "Landesmeisterschaft"]
 
-anne_id: 0
+anne_id: 4852
 
 event:
-  name_amend: "" # respects markdown
-  form: "Normaler OL"
-  location: ""
+  name_amend: "LM Sprint (Finale)" # respects markdown
+  form: "Sprint OL"
+  location: "Salzburg Stadt"
   type: "sbgcup"
-championship: false
+championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "ASKÖ Henndorf Orientieering / HSV Wals / OLG Tennengau" # remove 2 of the 3 options
+implementation: "HSV Wals" # remove 2 of the 3 options
 
 # active section ------------------------------------------------
 

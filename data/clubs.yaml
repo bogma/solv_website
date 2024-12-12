@@ -23,17 +23,14 @@ club:
     board:
       - position: Obmann
         name: Franz Nagele
-      - position: Obmannstellvertreter
-        name: Franz Wirth
-  - name: SSV Hallein-Neualm
-    short: SHN
+  - name: OLG Tennengau
+    short: OLG
     membercount: 10
-    logo: /images/logo-shn.gif
     board:
       - position: Obmann
         name: Horst Mayer
       - position: Obmannstellvertreter
-        name:
+        name: Franz Mages
   - name: NF Seekirchen, Sektion OL
     membercount: 3
     board:
