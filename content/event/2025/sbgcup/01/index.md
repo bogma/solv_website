@@ -18,7 +18,7 @@ anne_id: 4850
 event:
   name_amend: "" # respects markdown
   form: "Normaler OL"
-  location: "Salzachseen"
+  location: "Mönchsberg"
   type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
