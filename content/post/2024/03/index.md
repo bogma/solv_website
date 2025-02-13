@@ -3,7 +3,7 @@ title: "Herbsttermine"
 date: 2024-09-15T20:59:13+02:00 # date of creation of the file (written)
 draft: false
 
-archives: []
+archives: ["2024"]
 tags: ["Administratives"] # tag your article here, i.e ["Training", "Administratives"]
 
 calendar_date: 2024-09-15T20:59:13+02:00 # TODO: date in calendar

@@ -5,7 +5,7 @@ draft: false
 status: done
 anne_id: 4460
 
-archives: [""]
+archives: ["2024"]
 tags: [ "Landesmeisterschaft", "Staffel"]
 
 event:
