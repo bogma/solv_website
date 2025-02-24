@@ -112,7 +112,7 @@ buildFuture = true
 [[menu.main]]
     identifier = "training_divider2"
     name = "Archiv"
-    weight = 860
+    weight = 857
     parent = "training"
     [menu.main.params]
         class = 'uk-nav-header'
