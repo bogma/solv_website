@@ -23,7 +23,7 @@ MapRun-App herunterladen, gewünschte Karte/Bahn auswählen, zum Start gehen und
 
 Die Bahnen sind ab Mittwoch 26.2. bis 6.3.25 freigeschalten.
 
-+ [Family](2025%20Map%20Run%20Mattsee%20Family.pdf)
-+ [Probe](2025%20Map%20Run%20Mattsee%20Probelauf.pdf)
-+ [Pro](2025%20Map%20Run%20Mattsee%20Pro.pdf)
-+ [Insane](2025%20Map%20Run%20Mattsee%20Insane.pdf)
++ [Family](01_Map%20Run%20Mattsee%20Family%20fertig.pdf)
++ [Probe](01_Map%20Run%20Mattsee%20Probelauf%20fertig.pdf)
++ [Pro](01_Map%20Run%20Mattsee%20Pro%20fertig.pdf)
++ [Insane](01_Map%20Run%20Mattsee%20Insane%20fertig.pdf)
