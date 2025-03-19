@@ -15,6 +15,15 @@ menu:
     parent: "training"
 ---
 
+#### Neumarkt 2025-03-19 - 2025-03-27
+
+MapRun in Neumarkt.
+SprintTraining – bitte mit „speed“ laufen ! (Für den AC in Leibnitz)
+
++ [Family](2025_03_NeumarktSprint_Family_JoK.pdf)
++ [Mittel](2025_03_NeumarktSprint_Mittel_JoK.pdf)
++ [Lang](2025_03_NeumarktSprint_Lang_JoK.pdf)
+
 #### Mattsee 2025-02-26 - 2025-03-06
 
 MapRun in Mattsee (by Jonas)
