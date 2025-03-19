@@ -1,0 +1,20 @@
+OE0003_V12;Katnr;Kurz;Lang;Startgeld;Wertung;G;Alter von;Alter bis;Startgeld2;Typ;Kategorie Zusatztext;Max. Teilnehmer
+;6;D45;Damen 45-;8;X;;;;;;;
+;5;D35;Damen 35-;8;X;;;;;;;
+;4;D19;Damen 19-;8;X;;;;;;;
+;3;D18;Damen -18;8;X;;;;;;;
+;2;D15;Damen -15;5;X;;;;;;;
+;1;D13;Damen -13;5;X;;;;;;;
+;7;D55;Damen 55-;8;X;;;;;;;
+;8;D65;Damen 65-;8;X;;;;;;;
+;9;H13;Herren -13;5;X;;;;;;;
+;10;H15;Herren -15;5;X;;;;;;;
+;11;H18;Herren -18;8;X;;;;;;;
+;12;H19;Herren 19-;8;X;;;;;;;
+;13;H35;Herren 35-;8;X;;;;;;;
+;14;H45;Herren 45-;8;X;;;;;;;
+;15;H55;Herren 55-;8;X;;;;;;;
+;16;H65;Herren 65-;8;X;;;;;;;
+;17;OK;Offen Kurz;8;X;;;;;;;
+;18;OL;Offen Lang;8;X;;;;;;;
+;19;F;Familie;5;X;;;;;;;
