@@ -5,7 +5,7 @@
            numberOfValidEvents="10"
            numberOfCountingEvents="8"
            calcRule="sbgcup"
-           resultFileRegex="2025_(\d{2})_sbgcup.*"
+           resultFileRegex="2025_(\d{2})_sbgcup_result.*"
            recurseSubDirs="true"
            includeStatus="DidNotFinish, MissingPunch"
            eventTitle="Sbg.Cup"
