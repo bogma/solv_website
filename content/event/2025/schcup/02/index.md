@@ -1,6 +1,6 @@
 ---
 title: "2. Salzburger Sportvogl Schulcup 2025"
-date: 2025-04-24T00:00:00 # date of creation of the file
+date: 2025-04-24T10:00:00 # date of creation of the file
 draft: false
 status: planned # active
 
@@ -36,7 +36,7 @@ hints: "" # respects markdown
 greetings: "Die Veranstalter wünschen erfolgreiche und unfallfreie Veranstaltungen" # Der Verein wünscht Euch ...
 
 resources:
-- src: "**/aus**"
+- src: "**/*anno**"
   title: "Ausschreibung"
 - src: "**/start**"
   title: "Startliste"

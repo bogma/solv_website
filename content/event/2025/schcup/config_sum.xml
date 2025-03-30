@@ -1,11 +1,11 @@
 <Configuration type="Sum">
-    <General name="Salzburger Sportvogl Schulcup 2024"
-             year="2024"
+    <General name="Salzburger Sportvogl Schulcup 2025"
+             year="2025"
              numberOfPlannedEvents="2"
              numberOfEvents="2"
              numberOfCountingEvents="2"
              calcRule="sum"
-             resultFileRegex="2024_(\d.*)_schcup.*"
+             resultFileRegex="2025_(\d.*)_schcup_result.*"
              recurseSubDirs="true"
              includeStatus="DidNotFinish, MissingPunch"
              eventTitle="Schulcup"
@@ -34,8 +34,8 @@
     </PostProcessing>
     <Events>
         <!-- set num to 0 if not needed -->
-        <Event num="1" name="ULSZ Rif"/>
-        <Event num="2" name="Donnenbergpark"/>
+        <Event num="1" name="Josefiau"/>
+        <Event num="2" name="Klessheim"/>
     </Events>
     <Classes filter="exclude">
         <Class name="Paare"
@@ -72,14 +72,14 @@
     </Organisations>
     <Output>
         <Html active="true"
-              fileName="..\..\..\..\static\resources\2024\schcup2024.html"
+              fileName="..\..\..\..\static\resources\2025\schcup2025.html"
               cssInline="true"
               docTemplate="..\..\..\..\templates\schcup_document_template_sum.html"
               classTemplate="..\..\..\..\templates\schcup_class_template_sum.html"
               detailsTemplate="..\..\..\..\templates\schcup_details_template_sum.html"
               cssFile="..\..\..\..\templates\responsive_table_style.css"/>
         <Pdf active="true"
-             fileName="schulcup2024.pdf"
+             fileName="schulcup2025.pdf"
              pageOrientation="Landscape"
              pageSize="A4"
              marginLeft="10"
@@ -87,7 +87,7 @@
              marginRight="10"
              marginBottom="20"/>
         <Json active="false"
-              fileName="schulcup2024.json"/>
+              fileName="schulcup2025.json"/>
     </Output>
     <Names>
         <Name name="Bubu"

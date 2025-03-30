@@ -1,7 +1,7 @@
 <!-- supported types: Team, Cup -->
 <Configuration type="Team">
-    <General name="Salzburger Schulcup 2024 - Team Wertung"
-             year="2024"
+    <General name="Salzburger Schulcup 2025 - Team Wertung"
+             year="2025"
              numberOfPlannedEvents="2"
              numberOfEvents="2"
              numberOfCountingEvents="2"
@@ -46,14 +46,14 @@
         <!-- <Organisation name="Name of school" id="6" /> --></Organisations>
     <Output>
         <Html active="true"
-              fileName="..\..\..\..\static\resources\2024\schulteam2024.html"
+              fileName="..\..\..\..\static\resources\2025\schulteam2025.html"
               cssInline="true"
               docTemplate="..\..\..\..\templates\team_document_template.html"
               classTemplate="..\..\..\..\templates\team_class_template.html"
               detailsTemplate="..\..\..\..\templates\team_details_template.html"
               cssFile="..\..\..\..\templates\responsive_table_style.css"/>
         <Pdf active="true"
-             fileName="schulteam2024.pdf"
+             fileName="schulteam2025.pdf"
              pageOrientation="Portrait"
              pageSize="A4"
              marginLeft="10"

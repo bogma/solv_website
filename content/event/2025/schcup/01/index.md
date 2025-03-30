@@ -1,8 +1,8 @@
 ---
 title: "1. Salzburger Sportvogl Schulcup 2025"
-date: 2025-04-02T00:00:00 # date of creation of the file
+date: 2025-04-02T14:00:00 # date of creation of the file
 draft: false
-status: planned
+status: active
 
 archives: []
 tags: [ "Schul Cup"]
@@ -15,8 +15,9 @@ event:
 
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
-implementation: "" # remove one of the 3 options
+implementation: "OLG Tennengau" # remove one of the 3 options
 
+oresults_id: 1711
 #end: 150 # x minutes from event->date (remove if not needed)
 #start_amend: "(WKZ - Start 0m)" # respects markdown
 
@@ -36,7 +37,7 @@ hints: "" # respects markdown
 greetings: "Die Veranstalter wünschen erfolgreiche und unfallfreie Veranstaltungen" # Der Verein wünscht Euch ...
 
 resources:
-- src: "**/aus**"
+- src: "**/*anno**"
   title: "Ausschreibung"
 - src: "**/start**"
   title: "Startliste"
