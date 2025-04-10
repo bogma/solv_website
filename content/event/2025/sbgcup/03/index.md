@@ -13,7 +13,7 @@ status: active # planned (= for preview Calendar), active (= Announcement...), d
 archives: []
 tags: [ "SBG Cup"]
 
-anne_id: 0
+anne_id: 4897
 
 event:
   name_amend: "" # respects markdown
