@@ -2,7 +2,7 @@
 title: "2. Salzburger Sportvogl Schulcup 2025"
 date: 2025-04-24T10:00:00 # date of creation of the file
 draft: false
-status: planned # active
+status: active # active
 
 archives: []
 tags: [ "Schul Cup"]
@@ -17,6 +17,7 @@ championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "" # remove one of the 3 options
 
+oresults_id: 1815
 #end: 150 # x minutes from event->date (remove if not needed)
 #start_amend: "(WKZ - Start 0m)" # respects markdown
 
