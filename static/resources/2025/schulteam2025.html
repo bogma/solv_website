@@ -1,0 +1,1125 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <style>:root {
+    --bg-table-stripe: #f6f6f5;
+    --b-table: #e3e3e2;
+    --caption: #242423;
+}
+
+h1 {
+    color:#f00;
+    font-size:25px;
+    font-weight:bold;
+    margin-bottom:10px;
+    margin-top:0px;
+}
+
+table {
+    background-color: transparent;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+th {
+    text-align: left
+}
+
+div.category_title {
+    border-bottom:1px solid #999;
+    font-size:16px;
+    font-weight:bold;
+    letter-spacing:2px;
+    margin-bottom:10px;
+}
+
+.page-brake {
+    page-break-inside: avoid;
+}
+
+.dcf-txt-center {
+    text-align: center !important
+}
+
+.dcf-txt-left {
+    text-align: left !important
+}
+
+.dcf-txt-right {
+    text-align: right !important
+}
+
+.dcf-table caption {
+    color: var(--caption);
+    font-size: 1.13em;
+    font-weight: 700;
+    padding-bottom: .56rem
+}
+
+.dcf-table thead {
+    font-size: .84em
+}
+
+.dcf-table tbody {
+    border-bottom: 1px solid var(--b-table);
+    border-top: 1px solid var(--b-table);
+    font-size: .84em
+}
+
+.dcf-table tfoot {
+    font-size: .84em
+}
+
+.dcf-table td,
+.dcf-table th {
+    padding-right: 1.78em
+}
+
+.dcf-table-bordered,
+.dcf-table-bordered td,
+.dcf-table-bordered th {
+    border: 1px solid var(--b-table)
+}
+
+.dcf-table-bordered td,
+.dcf-table-bordered th,
+.dcf-table-striped td,
+.dcf-table-striped th {
+    padding-left: 1em;
+    padding-right: 1em
+}
+
+.dcf-table-bordered tr:not(:last-child),
+.dcf-table-striped tr:not(:last-child) {
+    border-bottom: 1px solid var(--b-table)
+}
+
+.dcf-table-striped tbody tr:nth-of-type(2n) {
+    background-color: var(--bg-table-stripe)
+}
+
+.dcf-table thead td,
+.dcf-table thead th {
+    padding-bottom: .75em;
+    vertical-align: bottom
+}
+
+.dcf-table tbody td,
+.dcf-table tbody th,
+.dcf-table tfoot td,
+.dcf-table tfoot th {
+    padding-top: .75em;
+    vertical-align: top
+}
+
+.dcf-table tbody td,
+.dcf-table tbody th {
+    padding-bottom: .75em
+}
+
+.dcf-table-bordered thead th {
+    padding-top: 1.33em
+}
+
+.dcf-wrapper-table-scroll {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    padding-bottom: 1em;
+    position: relative;
+    right: 50%;
+    width: 100vw
+}
+
+@media print and (max-width:8cm) {
+    .dcf-table-responsive thead {
+        clip: rect(0 0 0 0);
+        -webkit-clip-path: inset(50%);
+        clip-path: inset(50%);
+        height: 1px;
+        overflow: hidden;
+        position: absolute;
+        width: 1px;
+        white-space: nowrap
+    }
+
+    .dcf-table-responsive tr {
+        display: block
+    }
+
+    .dcf-table-responsive td {
+        -webkit-column-gap: 3.16vw;
+        -moz-column-gap: 3.16vw;
+        column-gap: 3.16vw;
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        text-align: left !important
+    }
+
+    .dcf-table-responsive.dcf-table-bordered,
+    .dcf-table-responsive.dcf-table-bordered thead th {
+        border-width: 0
+    }
+
+    .dcf-table-responsive.dcf-table-bordered tbody td {
+        border-top-width: 0
+    }
+
+    .dcf-table-responsive:not(.dcf-table-bordered) tbody tr {
+        padding-bottom: .75em
+    }
+
+    .dcf-table-responsive:not(.dcf-table-bordered) tbody td {
+        padding-bottom: 0
+    }
+
+    .dcf-table-responsive:not(.dcf-table-bordered):not(.dcf-table-striped) tbody td {
+        padding-right: 0
+    }
+
+    .dcf-table-responsive.dcf-table-bordered tbody tr:last-child td:last-child {
+        border-bottom-width: 0
+    }
+
+    .dcf-table-responsive tbody td:before {
+        content: attr(data-label);
+        float: left;
+        font-weight: 700;
+        padding-right: 1.78em
+    }
+
+    .page-brake-responsive {
+        page-break-inside: auto;
+    }
+}
+
+@media only screen and (max-width:42.09em) {
+    .dcf-table-responsive thead {
+        clip: rect(0 0 0 0);
+        -webkit-clip-path: inset(50%);
+        clip-path: inset(50%);
+        height: 1px;
+        overflow: hidden;
+        position: absolute;
+        width: 1px;
+        white-space: nowrap
+    }
+
+    .dcf-table-responsive tr {
+        display: block
+    }
+
+    .dcf-table-responsive td {
+        -webkit-column-gap: 3.16vw;
+        -moz-column-gap: 3.16vw;
+        column-gap: 3.16vw;
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        text-align: left !important
+    }
+
+    .dcf-table-responsive.dcf-table-bordered,
+    .dcf-table-responsive.dcf-table-bordered thead th {
+        border-width: 0
+    }
+
+    .dcf-table-responsive.dcf-table-bordered tbody td {
+        border-top-width: 0
+    }
+
+    .dcf-table-responsive:not(.dcf-table-bordered) tbody tr {
+        padding-bottom: .75em
+    }
+
+    .dcf-table-responsive:not(.dcf-table-bordered) tbody td {
+        padding-bottom: 0
+    }
+
+    .dcf-table-responsive:not(.dcf-table-bordered):not(.dcf-table-striped) tbody td {
+        padding-right: 0
+    }
+
+    .dcf-table-responsive.dcf-table-bordered tbody tr:last-child td:last-child {
+        border-bottom-width: 0
+    }
+
+    .dcf-table-responsive tbody td:before {
+        content: attr(data-label);
+        float: left;
+        font-weight: 700;
+        padding-right: 1.78em
+    }
+}
+
+.dcf-overflow-x-auto {
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch
+}
+
+.dcf-w-100\% {
+    width: 100% !important;
+}</style>
+    <title>Salzburger Schulcup 2025 - Team Wertung</title>
+</head>
+
+<body>
+    <h1>Salzburger Schulcup 2025 - Team Wertung</h1>
+    <br>
+    <br>
+    <div><div style="page-break-inside: avoid">
+    <div class="category_title">Unterstufe Damen (US D)</div>
+    <br>
+    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
+        <thead>
+            <tr>
+                <th scope="col">Pl</th>
+                <th scope="col">Schule</th>
+                <th scope="col">Zeit</th>
+                <th scope="col">Team</th>
+                <th scope="col"></th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="row_style_odd">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">1</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">BG Seekirchen</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">38:49</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Marion Schönberger</b> (11:17)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Sarah Mitterer</b> (13:33)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Leire Pammer</b> (13:59)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_even">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">2</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">Christian-Doppler-Gymnasium</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">45:34</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Emily Ginzinger</b> (13:21)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Isabel Oberneuwirther</b> (14:55)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Hannah Kreuzer</b> (17:18)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_odd">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">3</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">PMS Michaelbeuern</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">55:07</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Patrizia Maier</b> (17:47)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Mia Lohberger</b> (17:58)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Anna Heinrich</b> (19:22)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_even">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">4</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">Nordische Schimittelschule Saa</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">58:53</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Ella Hasenauer</b> (18:52)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Vera Trigler</b> (19:35)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Valentina Sieberer</b> (20:26)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_odd">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">5</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">BG Seekirchen</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">59:52</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Sophie Gruber</b> (14:14)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Emily Hametner</b> (20:12)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Emma Girstmayr</b> (25:26)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_even">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">6</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">1:00:45</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Valerie Pugel</b> (15:20)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Sophia Moser</b> (20:30)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Hanna Langwieder</b> (24:55)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_odd">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">7</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">2:32:44</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Valentina Willerroider</b> (38:31)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Luisa Auernig</b> (53:41)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Eva Langwieder</b> (1:00:32)</div>
+                    </span>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <div>
+    <br>
+    <br>
+    <br>
+</div>
+</div></div><div><div style="page-break-inside: avoid">
+    <div class="category_title">Unterstufe Herren (US H)</div>
+    <br>
+    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
+        <thead>
+            <tr>
+                <th scope="col">Pl</th>
+                <th scope="col">Schule</th>
+                <th scope="col">Zeit</th>
+                <th scope="col">Team</th>
+                <th scope="col"></th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="row_style_odd">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">1</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">40:05</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Alexander Baur</b> (11:40)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Benjamin Kaljikovic</b> (12:02)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Florian Mauschitz</b> (16:23)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_even">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">2</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">BRG Salzburg</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">42:08</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Kristian Nachbar</b> (13:53)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Dario Allnoch</b> (14:05)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Lorenz Paul Buchberger</b> (14:10)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_odd">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">3</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">BG Seekirchen</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">42:56</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Lorenz Fink</b> (12:28)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Stefan Schorn</b> (14:20)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Alejandro Pammer</b> (16:08)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_even">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">4</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">BRG Salzburg</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">45:31</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Walter Michael Stöckl</b> (14:21)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Tim Jonsson</b> (14:53)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Joel Guggenberger</b> (16:17)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_odd">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">5</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">55:48</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Ludwig Brawisch</b> (17:31)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Jakob Wartbichler</b> (18:55)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Armin Kaljikovic</b> (19:22)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_even">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">6</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">Nordische Schimittelschule Saa</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">56:39</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Mathias Richter</b> (17:43)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Daniel Hirschbichler</b> (18:36)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Simon Haitzmann</b> (20:20)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_odd">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">7</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">BG Seekirchen</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">58:55</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Simon Baier</b> (16:37)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Bastian Ertl</b> (20:56)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Florian Stampf</b> (21:22)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_even">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">8</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">BRG Salzburg</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">1:05:54</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Johannes Fagerer</b> (17:05)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Aurel Joah Hauser</b> (23:28)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Michael Johannes Fuchs</b> (25:21)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_odd">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">9</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">MMS Henndorf</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">1:09:03</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Hüseyin Altindemir</b> (19:42)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Tobias Bliem</b> (23:45)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Benjamin Unterguggenberger</b> (25:36)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_even">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">10</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">Nordische Schimittelschule Saa</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">1:36:34</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Jakob Zitz</b> (25:36)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Noah Boschele</b> (29:32)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Paul Wörgötter</b> (41:26)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_odd">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">11</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">BRG Salzburg</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">1:44:05</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Marko Mladenovic</b> (27:28)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Jonas Emanuel Freidl</b> (27:58)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Benjamin Timothy Simko</b> (48:39)</div>
+                    </span>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <div>
+    <br>
+    <br>
+    <br>
+</div>
+</div></div><div><div style="page-break-inside: avoid">
+    <div class="category_title">Oberstufe Damen (OS D)</div>
+    <br>
+    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
+        <thead>
+            <tr>
+                <th scope="col">Pl</th>
+                <th scope="col">Schule</th>
+                <th scope="col">Zeit</th>
+                <th scope="col">Team</th>
+                <th scope="col"></th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="row_style_odd">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">1</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">BG Seekirchen</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">1:06:34</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Lisa Mitterer</b> (20:00)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Anna-Theresa Berger</b> (20:50)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Hannah Fink</b> (25:44)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_even">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">2</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">St. Ursula Salzburg</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">1:12:07</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Raphaela Unterguggenberge</b> (23:05)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Charlotte Brawisch</b> (23:40)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Anna-Katharina Kapeller</b> (25:22)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_odd">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">3</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">HAK Neumarkt</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">1:20:18</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Hannah Schoblocher</b> (24:02)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Sarah Adlmanninger</b> (27:24)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Julia Pauzenberger</b> (28:52)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_even">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">4</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">Borg Straßwalchen</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">1:47:31</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Flo Willeman</b> (34:45)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Annika Ziller</b> (35:38)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Ronja Kletzl</b> (37:08)</div>
+                    </span>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <div>
+    <br>
+    <br>
+    <br>
+</div>
+</div></div><div><div style="page-break-inside: avoid">
+    <div class="category_title">Oberstufe Herren (OS H)</div>
+    <br>
+    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
+        <thead>
+            <tr>
+                <th scope="col">Pl</th>
+                <th scope="col">Schule</th>
+                <th scope="col">Zeit</th>
+                <th scope="col">Team</th>
+                <th scope="col"></th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="row_style_odd">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">1</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">HBLA Ursprung</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">1:10:19</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>David Reichl</b> (22:47)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Markus Baumgartner</b> (22:48)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Fabian Schmidhuber</b> (24:44)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_even">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">2</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">Borg Straßwalchen</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">1:10:57</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Nico Friedberger</b> (20:41)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Emilio P. Wimmer</b> (22:45)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Maximilian Kluppenegger</b> (27:31)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_odd">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">3</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">HBLA Ursprung</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">1:22:36</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Valentin Kerschbaumer</b> (26:39)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Maximilian Mörtl</b> (27:20)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Bastian Mühlbacher</b> (28:37)</div>
+                    </span>
+                </td>
+            </tr><tr class="row_style_even">
+                <th scope="row">
+                    <span>
+                        <div style="overflow:hidden;">4</div>
+                    </span>
+                </th>
+                <td data-label="Schule">
+                    <span>
+                        <div style="overflow:hidden;">Borg Straßwalchen</div>
+                    </span>
+                </td>
+                <td data-label="Zeit">
+                    <span>
+                        <div style="overflow:hidden;">1:44:26</div>
+                    </span>
+                </td>
+                <td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Marcus Ramsauer</b> (34:09)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Elia Kanotscher</b> (34:48)</div>
+                    </span>
+                </td><td>
+                    <span>
+                        <div style="overflow:hidden;"><b>Philipp Einberger</b> (35:29)</div>
+                    </span>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <div>
+    <br>
+    <br>
+    <br>
+</div>
+</div></div>
+    <br>
+    <div>(c) 2025 by solv.at</div><br>
+    <div>webmaster@solv.at</div>
+    <div>Erstellt: Thu, 24 Apr 2025 15:41:43 GMT</div>
+</body>
+
+</html>
