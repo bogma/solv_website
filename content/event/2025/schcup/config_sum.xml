@@ -7,7 +7,7 @@
              calcRule="sum"
              resultFileRegex="2025_(\d.*)_schcup_result.*"
              recurseSubDirs="true"
-             includeStatus="DidNotFinish, MissingPunch"
+             includeStatus="DidNotFinish, MissingPunch, Disqualified"
              eventTitle="Schulcup"
              showEvents="OmitAllMissing"
              showCompetitors="-1"/>
@@ -100,5 +100,7 @@
                      translate="n ang."/>
         <Translation key="MissingPunch"
                      translate="Fehlst."/>
+        <Translation key="Disqualified"
+                     translate="Disq."/>
     </Translations>
 </Configuration>

@@ -5,7 +5,7 @@
              numberOfPlannedEvents="2"
              numberOfEvents="2"
              numberOfCountingEvents="2"
-             includeStatus="DidNotFinish, MissingPunch"
+             includeStatus="DidNotFinish, MissingPunch, Disqualified"
              eventTitle="Schulcup"/>
     <PreProcessing>
         <!-- options for input file preprocessing -->
@@ -74,5 +74,7 @@
                      translate="n ang."/>
         <Translation key="MissingPunch"
                      translate="Fehlst."/>
+        <Translation key="Disqualified"
+                     translate="Disq."/>
     </Translations>
 </Configuration>

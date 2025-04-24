@@ -2,7 +2,7 @@
  <ResultList xmlns="http://www.orienteering.org/datastandard/3.0"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  iofVersion="3.0"
- createTime="2025-04-24T15:39:36.524"
+ createTime="2025-04-24T17:29:57.714"
  creator="SportSoftware OE12 V.12.1">
 <Event>
 <Name>2. Sportvogl Schulcup 2025</Name>
@@ -11870,85 +11870,6 @@
 <PersonResult>
 <Person sex="M">
 <Name>
-<Family>Weiß</Family>
-<Given>Jakob K.</Given>
-</Name>
-<BirthDate>2008-01-01</BirthDate>
-</Person>
-<Organisation>
-<Id>6</Id>
-<Name>Borg Straßwalchen</Name>
-<ShortName>Borg Straßwalchen</ShortName>
-</Organisation>
-<Result raceNumber="1">
-<StartTime>2025-04-24T10:50:00.000</StartTime>
-<Status>DidNotStart</Status>
-<SplitTime status="Missing">
-<ControlCode>62</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>80</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>70</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>65</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>79</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>87</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>64</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>72</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>60</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>91</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>63</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>78</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>76</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>90</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>82</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>74</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>69</ControlCode>
-</SplitTime>
-<SplitTime status="Missing">
-<ControlCode>100</ControlCode>
-</SplitTime>
-<ControlCard>5942</ControlCard>
-<AssignedFee>
-<Fee type="Normal">
-<Name>Actual</Name>
-<Amount>0.00</Amount>
-</Fee>
-</AssignedFee>
-</Result>
-</PersonResult>
-<PersonResult>
-<Person sex="M">
-<Name>
 <Family>Simma</Family>
 <Given>Raphael</Given>
 </Name>
@@ -11961,7 +11882,7 @@
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2025-04-24T11:16:00.000</StartTime>
-<Status>DidNotStart</Status>
+<Status>Disqualified</Status>
 <SplitTime status="Missing">
 <ControlCode>62</ControlCode>
 </SplitTime>
@@ -12040,7 +11961,7 @@
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2025-04-24T11:24:00.000</StartTime>
-<Status>DidNotStart</Status>
+<Status>Disqualified</Status>
 <SplitTime status="Missing">
 <ControlCode>62</ControlCode>
 </SplitTime>
@@ -12096,6 +12017,85 @@
 <ControlCode>100</ControlCode>
 </SplitTime>
 <ControlCard>7629</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person sex="M">
+<Name>
+<Family>Weiß</Family>
+<Given>Jakob K.</Given>
+</Name>
+<BirthDate>2008-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>6</Id>
+<Name>Borg Straßwalchen</Name>
+<ShortName>Borg Straßwalchen</ShortName>
+</Organisation>
+<Result raceNumber="1">
+<StartTime>2025-04-24T10:50:00.000</StartTime>
+<Status>DidNotStart</Status>
+<SplitTime status="Missing">
+<ControlCode>62</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>80</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>70</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>65</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>79</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>87</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>64</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>72</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>60</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>91</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>63</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>78</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>76</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>90</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>82</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>74</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>69</ControlCode>
+</SplitTime>
+<SplitTime status="Missing">
+<ControlCode>100</ControlCode>
+</SplitTime>
+<ControlCard>5942</ControlCard>
 <AssignedFee>
 <Fee type="Normal">
 <Name>Actual</Name>
