@@ -15,6 +15,16 @@ menu:
     parent: "training"
 ---
 
+
+#### Gmoawald 2025-05-01 bis 2025-05-04
+
+Score OL: Versuche vom Start weg, innerhalb von 40 min, so viele Posten wie möglich zu laufen. Die Posten haben 1-5 Punke.
+Für jede angefangene Minute, die du länger als 40 min braucht, um wieder beim Start zurück zu sein, wird dir 1 Punkt abgezogen. Wichtig ist somit, auch gut einzuschätzen, wie viele Posten, mit welchem Punktewert, du innerhalb der vorgegebenen Zeit laufen kannst.
+
+Viel Spaß, Roland und Katha
+
+[Karte](Training%20Gmoawald%2002.05.25.All.pdf)
+
 #### Neumarkt 2025-03-19 - 2025-03-27
 
 MapRun in Neumarkt.
@@ -36,3 +46,4 @@ Die Bahnen sind ab Mittwoch 26.2. bis 6.3.25 freigeschalten.
 + [Probe](01_Map%20Run%20Mattsee%20Probelauf%20fertig.pdf)
 + [Pro](01_Map%20Run%20Mattsee%20Pro%20fertig.pdf)
 + [Insane](01_Map%20Run%20Mattsee%20Insane%20fertig.pdf)
+
