@@ -38,10 +38,10 @@
         <Event num="2" name="Finale" fileName=".\sbgcup\05\results\2025_05_sbgcup_result_splits.xml" />
     </Events>
     <Classes filter="Include" presentationOrder="1,2;9,10;3,4,5,6;11,12,13,14;7;15;8;16" >
-        <Class name="D13" id="1" />
-        <Class name="D15" id="2" />
-        <Class name="H13" id="9" />
-        <Class name="H15" id="10" />
+        <Class name="Jugend1 D" shortName="D -13" id="1" />
+        <Class name="Jugend2 D" shortName="D -15" id="2" />
+        <Class name="Jugend1 H" shortName="H -13" id="9" />
+        <Class name="Jugend2 H" shortName="H -15" id="10" />
         <Class name="H18" id="11" />
         <Class name="HE" id="12" />
         <Class name="H35" id="13" />
@@ -50,19 +50,19 @@
         <Class name="DE" id="4" />
         <Class name="D35" id="5" />
         <Class name="D45" id="6" />
-        <Combine name="Jugend Damen" classIds="1,2" shortName="D -15"/>
-        <Combine name="Jugend Herren" classIds="9,10" shortName="H -15"/>
+        <Class name="D55" id="7" />
+        <Class name="D65" id="8" />
         <Combine name="Allgemein Damen" classIds="3,4,5,6" shortName="D 16-"/>
         <Combine name="Allgemein Herren" classIds="11,12,13,14" shortName="H 16-"/>
-        <Class name="Sen. Herren 55" shortName="H 55-" id="15" />
-        <Class name="Sen. Herren 65" shortName="H 65-" id="16" />
-        <Class name="Sen. Damen 55" shortName="D 55-" id="7" />
+        <Class name="Senioren1 H" shortName="H 55-" id="15" />
+        <Class name="Senioren2 H" shortName="H 65-" id="16" />
+        <Combine name="Senioren1 D" shortName="D 55-" id="7,8" />
         <!-- no championship -->
         <!-- <Class name="Sen. Damen 65" shortName="D 65-" id="8" /> -->
     </Classes>
     <Organisations filter="Include" >
         <Organisation name="ASKÖ Henndorf" id="32" />
-        <Organisation name="SSV Hallein" id="35" />
+        <Organisation name="OLG Tennengau" id="35" />
         <Organisation name="HBLA Ursprung" id="200" />
         <Organisation name="HSV Wals" id="33" />
         <Organisation name="NF Seekirchen" id="34" />
