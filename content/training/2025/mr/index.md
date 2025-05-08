@@ -15,6 +15,19 @@ menu:
     parent: "training"
 ---
 
+#### Schleedorf 2025-05-10 bis 2025-06-01
+
+MapRun in Schleedorf von Sa 10. Mai bis So 1.6.
+Für Kinder ist die Family-Strecke gedacht.
+Für die älteren gibt es 4 Starts zum Üben von Startsituationen. Bitte hier selbst die Karte (Lang1) bei der „Kartenausgabe“ nehmen, die eingezeichnete Pflichtstrecke zum Start laufen und dabei den Weg zum ersten Posten planen. Und das dann 4x.
+
+Damit gleich mehrere Dinge geübt werden: Nina hat kniffelige künstliche Sperren eingezeichnet!
+
++ [Family](Sprintstarts%20Schleedorf%2009052025.Family.pdf)
++ [Lang1](Sprintstarts%20Schleedorf%2009052025.Lang%201.pdf)
++ [Lang2](Sprintstarts%20Schleedorf%2009052025.Lang%202.pdf)
++ [Lang3](Sprintstarts%20Schleedorf%2009052025.Lang%203.pdf)
++ [Lang4](Sprintstarts%20Schleedorf%2009052025.Lang%204.pdf)
 
 #### Gmoawald 2025-05-01 bis 2025-05-04
 
