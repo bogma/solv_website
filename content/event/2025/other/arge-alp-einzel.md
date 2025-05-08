@@ -11,7 +11,7 @@ tags: []
 event:
   name_amend: "Einzelmeisterschaft"
   form: "Normaler OL"
-  location: "Alta Badia, Südtirol"
+  location: "Collepietra (Steinegg), Südtirol"
   type:  "extern"
 championship: false
 organiser: ""
