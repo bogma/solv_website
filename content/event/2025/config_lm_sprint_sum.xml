@@ -52,11 +52,11 @@
         <Class name="D45" id="6" />
         <Class name="D55" id="7" />
         <Class name="D65" id="8" />
-        <Combine name="Allgemein Damen" classIds="3,4,5,6" shortName="D 16-"/>
-        <Combine name="Allgemein Herren" classIds="11,12,13,14" shortName="H 16-"/>
         <Class name="Senioren1 H" shortName="H 55-" id="15" />
         <Class name="Senioren2 H" shortName="H 65-" id="16" />
-        <Combine name="Senioren1 D" shortName="D 55-" id="7,8" />
+        <Combine name="Allgemein Damen" classIds="3,4,5,6" shortName="D 16-"/>
+        <Combine name="Allgemein Herren" classIds="11,12,13,14" shortName="H 16-"/>
+        <Combine name="Senioren1 D" classIds="7,8" shortName="D 55-"/>
         <!-- no championship -->
         <!-- <Class name="Sen. Damen 65" shortName="D 65-" id="8" /> -->
     </Classes>
