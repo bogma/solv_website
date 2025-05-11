@@ -16,7 +16,7 @@ tags: [ "SBG Cup"]
 anne_id: 4828
 
 event:
-  name_amend: "" # respects markdown
+  name_amend: "**bezgl. Meldung siehe [hier](https://www.oefol.at/anne/files/uploaded/event_4853_6-solv-cup-eberschwang-kategorien-gegenuberstellung.pdf)**" # respects markdown
   form: "Normaler OL"
   location: "Eberschwang"
   type: "sbgcup"

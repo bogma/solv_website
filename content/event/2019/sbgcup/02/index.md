@@ -13,7 +13,7 @@ tags: [ "SBG Cup"]
 
 
 event:
-  name_amend: "1. + 2. Sportvogl Sprintcup"
+  name_amend: "1/2. Sportvogl Sprintcup"
   form: "Sprint OL"
   location: "Zell am See"
   type: "sbgcup"
