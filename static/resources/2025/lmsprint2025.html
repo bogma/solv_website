@@ -2,162 +2,289 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <style>body{
-  background:#fff;
-  margin:20px;
-  padding:0px;
+    <style>:root {
+    --bg-table-stripe: #f6f6f5;
+    --b-table: #e3e3e2;
+    --caption: #242423;
 }
 
-body,td{
-  color:#444;
-  font-family:Tahoma,Verdana,Arial,sans-serif;
-  font-size:11px;
+h1 {
+    color:#f00;
+    font-size:25px;
+    font-weight:bold;
+    margin-bottom:10px;
+    margin-top:0px;
 }
 
-dd{
-  border-left:1px solid #aaa;
-  margin-left:10px;
-  padding-left:2px;
+table {
+    background-color: transparent;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif
 }
 
-dt{
-  margin-top:15px;
+th {
+    text-align: left
 }
 
-div.category_title{
-  border-bottom:1px solid #999;
-  font-size:16px;
-  font-weight:bold;
-  letter-spacing:2px;
-  margin-bottom:10px;
+div.category_title {
+    border-bottom:1px solid #999;
+    font-size:16px;
+    font-weight:bold;
+    letter-spacing:2px;
+    margin-bottom:10px;
 }
 
-div.points{
- font-weight: bold;
+.page-brake {
+    page-break-inside: avoid;
 }
 
-div.time{
- color:blue;
+.dcf-txt-center {
+    text-align: center !important
 }
 
-span.points{
- font-weight: bold;
+.dcf-txt-left {
+    text-align: left !important
 }
 
-span.time{
- color:blue;
+.dcf-txt-right {
+    text-align: right !important
 }
 
-h1{
-  color:#f00;
-  font-size:25px;
-  font-weight:bold;
-  margin-bottom:10px;
-  margin-top:0px;
+.dcf-table caption {
+    color: var(--caption);
+    font-size: 1.13em;
+    font-weight: 700;
+    padding-bottom: .56rem
 }
 
-table{
-  margin:30px;
+.dcf-table thead {
+    font-size: .84em
 }
 
-td{
-  font-style: 1px solid #176795;
-  font-family:Tahoma,Verdana,Arial,sans-serif;
-  font-size:10px;
-  padding-left:3px;
-  padding-top:2px;
-}
-td.whitetext{
-  color:#fff;
+.dcf-table tbody {
+    border-bottom: 1px solid var(--b-table);
+    border-top: 1px solid var(--b-table);
+    font-size: .84em
 }
 
-td.ranking_header{
-  border-bottom:1px solid #444;
+.dcf-table tfoot {
+    font-size: .84em
 }
 
-tr.cal_out_dark{
-  background:#bbb;
-  height:45px;
+.dcf-table td,
+.dcf-table th {
+    padding-right: 1.78em
 }
 
-tr.row_style_even{
-  background:#ddd;
-  height:45px;
+.dcf-table-bordered,
+.dcf-table-bordered td,
+.dcf-table-bordered th {
+    border: 1px solid var(--b-table)
 }
 
-tr.row_style_odd{
-  background:#fff;
-  height:45px;
+.dcf-table-bordered td,
+.dcf-table-bordered th,
+.dcf-table-striped td,
+.dcf-table-striped th {
+    padding-left: 1em;
+    padding-right: 1em
 }
- 
 
+.dcf-table-bordered tr:not(:last-child),
+.dcf-table-striped tr:not(:last-child) {
+    border-bottom: 1px solid var(--b-table)
+}
 
-</style>
+.dcf-table-striped tbody tr:nth-of-type(2n) {
+    background-color: var(--bg-table-stripe)
+}
+
+.dcf-table thead td,
+.dcf-table thead th {
+    padding-bottom: .75em;
+    vertical-align: bottom
+}
+
+.dcf-table tbody td,
+.dcf-table tbody th,
+.dcf-table tfoot td,
+.dcf-table tfoot th {
+    padding-top: .75em;
+    vertical-align: top
+}
+
+.dcf-table tbody td,
+.dcf-table tbody th {
+    padding-bottom: .75em
+}
+
+.dcf-table-bordered thead th {
+    padding-top: 1.33em
+}
+
+.dcf-wrapper-table-scroll {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    padding-bottom: 1em;
+    position: relative;
+    right: 50%;
+    width: 100vw
+}
+
+@media print and (max-width:8cm) {
+    .dcf-table-responsive thead {
+        clip: rect(0 0 0 0);
+        -webkit-clip-path: inset(50%);
+        clip-path: inset(50%);
+        height: 1px;
+        overflow: hidden;
+        position: absolute;
+        width: 1px;
+        white-space: nowrap
+    }
+
+    .dcf-table-responsive tr {
+        display: block
+    }
+
+    .dcf-table-responsive td {
+        -webkit-column-gap: 3.16vw;
+        -moz-column-gap: 3.16vw;
+        column-gap: 3.16vw;
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        text-align: left !important
+    }
+
+    .dcf-table-responsive.dcf-table-bordered,
+    .dcf-table-responsive.dcf-table-bordered thead th {
+        border-width: 0
+    }
+
+    .dcf-table-responsive.dcf-table-bordered tbody td {
+        border-top-width: 0
+    }
+
+    .dcf-table-responsive:not(.dcf-table-bordered) tbody tr {
+        padding-bottom: .75em
+    }
+
+    .dcf-table-responsive:not(.dcf-table-bordered) tbody td {
+        padding-bottom: 0
+    }
+
+    .dcf-table-responsive:not(.dcf-table-bordered):not(.dcf-table-striped) tbody td {
+        padding-right: 0
+    }
+
+    .dcf-table-responsive.dcf-table-bordered tbody tr:last-child td:last-child {
+        border-bottom-width: 0
+    }
+
+    .dcf-table-responsive tbody td:before {
+        content: attr(data-label);
+        float: left;
+        font-weight: 700;
+        padding-right: 1.78em
+    }
+
+    .page-brake-responsive {
+        page-break-inside: auto;
+    }
+}
+
+@media only screen and (max-width:42.09em) {
+    .dcf-table-responsive thead {
+        clip: rect(0 0 0 0);
+        -webkit-clip-path: inset(50%);
+        clip-path: inset(50%);
+        height: 1px;
+        overflow: hidden;
+        position: absolute;
+        width: 1px;
+        white-space: nowrap
+    }
+
+    .dcf-table-responsive tr {
+        display: block
+    }
+
+    .dcf-table-responsive td {
+        -webkit-column-gap: 3.16vw;
+        -moz-column-gap: 3.16vw;
+        column-gap: 3.16vw;
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        text-align: left !important
+    }
+
+    .dcf-table-responsive.dcf-table-bordered,
+    .dcf-table-responsive.dcf-table-bordered thead th {
+        border-width: 0
+    }
+
+    .dcf-table-responsive.dcf-table-bordered tbody td {
+        border-top-width: 0
+    }
+
+    .dcf-table-responsive:not(.dcf-table-bordered) tbody tr {
+        padding-bottom: .75em
+    }
+
+    .dcf-table-responsive:not(.dcf-table-bordered) tbody td {
+        padding-bottom: 0
+    }
+
+    .dcf-table-responsive:not(.dcf-table-bordered):not(.dcf-table-striped) tbody td {
+        padding-right: 0
+    }
+
+    .dcf-table-responsive.dcf-table-bordered tbody tr:last-child td:last-child {
+        border-bottom-width: 0
+    }
+
+    .dcf-table-responsive tbody td:before {
+        content: attr(data-label);
+        float: left;
+        font-weight: 700;
+        padding-right: 1.78em
+    }
+}
+
+.dcf-overflow-x-auto {
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch
+}
+
+.dcf-w-100\% {
+    width: 100% !important;
+}</style>
     <title>Salzburger Sprint Landesmeisterschaft 2025</title>
 </head>
 
 <body style="margin:10%;padding:0">
-    <div class="page-header">
-       <svg xmlns="http://www.w3.org/2000/svg" width="100" height="56" viewBox="0 0 500 278" style="background-color:#9b0913;">
-       <style>
-        .text_orienteering {
-            font-weight:bold;
-            font-size:49px;
-            line-height:1.25;
-            font-family:'Gill Sans MT';
-            text-align:start;
-            letter-spacing:2.7px;
-            word-spacing:24px;
-            text-anchor:start;
-            fill:#fff;
-            fill-opacity: 1;
-            stroke:none;
-            stroke-width:1.22358084
-        }
-        .text_sbg {
-            font-weight:bold;
-            font-size:49px;
-            line-height:1.25;
-            font-family:'Gill Sans MT';
-            text-align:start;
-            letter-spacing:20px;
-            word-spacing:0px;
-            text-anchor:start;
-            fill:#fff;
-            fill-opacity: 1;
-            stroke:none;
-            stroke-width:1.22358084
-        }
-       </style>
-       <path id="upper-skyline" d="m 48,173 v -62 l 11,-4 V 87 l 3,-5 h 23 v -7 l 4,-4 4,4 v 7 h 16 V 67 h -2 l 5,-6 5,6 h -2 v 4 h 12 V 44 h 14 v 10 h 42 l 4,-5 h 20 v -7 l 3,-12 3,12 v 11 h 36 V 38 l 7,-6 6,3 v -5 h 11 v 5 h 4 l 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 2.75,-3 2.75,3 h 2 v -4 h 4 v -2 l 2,-2 1,-2 1,2 2,2 v 2 h 5 v 16 h 20 v -3 h 10 v 5 h 16 V 38 h 5 v 3 h 7 v -3 h 5 v 37 h 33 v -6 l 6,7 v 2 l -2,2 1,2 v 13 l 10,4 v 72" style="fill:white;stroke:white;stroke-width:0;"></path>
-       <path id="lower-skyline" d="m 460,172 v -1 l -18,-20 v -20 h -2.5 l -1,-1 v -4 l -1.5,-2 -1.5,2 v 4 l -1,1 H 432 v 5.5 h -3 V 129 c 0,-2 0,-3.5 -1.5,-6 -1.5,-2.2 -4.7,-4.9 -7.8,-7.5 v -7 c 0,-4 -5,-4 -5,0 v 7 c -3.2,2.3 -6.5,4.7 -8,6.8 -1.6,2.2 -1.6,4 -1.7,6 v 8.2 h -3 V 131 h -2.5 l -1,-1 v -4 l -1.5,-2 -1.5,2 v 4 l -1,1 H 392 v 13 h -22 v -30 l -3,-17 -3,17 v 26 h -3 l -6,-18 h -13 l -7,22 h -17 v -19 h 2 l -7,-8 -7,8 h 2 v 19 h -30 v -23 c 0,-5 -6.5,-3.5 -6,-8 0,-2 -2,-2 -2,0 0,5 -6.5,3.5 -6,8 v 16 h -6.5 c 0,-7 -11,-7 -11,0 H 240 v -16 c 0,-5 -6.5,-3.5 -6,-8 0,-2 -2,-2 -2,0 0,5 -6.5,3.5 -6,8 v 22 h -33 v -21 a 20,20 0 0 0 -15,-14 c 0,-8 -6,-8 -6,0 a 20,20 0 0 0 -15,14 v 21 h -21 l -4,8 h -5 v -4 h -12 v 14 H 91 V 151 A 13,13 0 0 0 80,140 v -4 h -4 v 4 a 13,13 0 0 0 -11,11 v 16 l -17,6 v 1" style="fill:#9b0913;"></path>
-       <path d="m 121,140 v 7" style="stroke:#9b0913;stroke-width:2;"></path>
-       <path d="m 118,142 h 5 v 1.5 z" style="fill:#9b0913;stroke:#9b0913;stroke-width:1;"></path>
-       <text class="text_orienteering" x="45" y="207" id="text_orienteering">ORIENTEERI G</text>
-       <rect x="386" y="174" width="33" height="33" style="fill:white;"></rect>
-       <path d="m 387,175 h 31 v 31 z" style="fill:#9b0913;"></path>
-       <path id="line" d="M 48 215 H 460" style="stroke:white;;stroke-width:3;"></path>
-       <text class="text_sbg" x="45" y="258" id="text_salzburg">SALZBURG</text>
-    </svg>
-    <div class="page-header--text">Salzburger Orientierungslauf Verband</div>
-    </div>
-    <div class="page-header-space"></div>
+    <h1>Rangliste - Salzburger Sprint Landesmeisterschaft 2025</h1>
     <br>
-    <h1 align="center">Salzburger Sprint Landesmeisterschaft 2025</h1>
+    <br>
+    <div>Gewertet wird die Summe der 2 Laufzeiten.</div>
     <br>
     <br>
     <br>
-    <div><div style="page-break-inside: avoid">
+    <br>
+    <div><div class="page-brake page-brake-responsive">
     <div class="category_title">Allgemein Damen (D 16-)</div>
     
     <br>
-    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped">
+    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
         <thead>
             <tr>
                 <th scope="col">Pl</th>
                 <th scope="col">Name</th>
-                <th scope="col">Verein</th>
-                <th scope="col"><span><div>1. Lauf<br>Qualifikation<br></div></span></th><th scope="col"><span><div>2. Lauf<br>Finale<br></div></span></th>
+                <th scope="col">Schule</th>
+                <th scope="col" align="center"><span><div>1. Lauf<br>Qualifikation<br></div></span></th><th scope="col" align="center"><span><div>2. Lauf<br>Finale<br></div></span></th>
                 <th scope="col">Gesamtzeit</th>
             </tr>
         </thead>
@@ -171,7 +298,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Nina Döllgast</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -184,8 +311,7 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">28:51</div>
-                        <div style="overflow:hidden">+ 0:00</div>
+                        <div style="overflow:hidden"><b>28:51</b> (+ 0:00)</div>
                         
                     </td>
                 </div>
@@ -198,7 +324,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Lucie Rothauer</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -211,9 +337,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">29:23</div>
                         
-                        <div style="overflow:hidden">+ 0:32</div>
+                        <div style="overflow:hidden"><b>29:23</b> (+ 0:32)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -225,7 +350,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Claudia Wiemers</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -238,9 +363,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">30:52</div>
                         
-                        <div style="overflow:hidden">+ 2:01</div>
+                        <div style="overflow:hidden"><b>30:52</b> (+ 2:01)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -252,7 +376,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Franziska Brodinger</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -265,9 +389,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">31:08</div>
                         
-                        <div style="overflow:hidden">+ 2:17</div>
+                        <div style="overflow:hidden"><b>31:08</b> (+ 2:17)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -279,7 +402,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Carolin Schönberger</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -292,9 +415,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">34:01</div>
                         
-                        <div style="overflow:hidden">+ 5:10</div>
+                        <div style="overflow:hidden"><b>34:01</b> (+ 5:10)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -306,7 +428,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Lisa Mitterer</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -319,9 +441,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">34:13</div>
                         
-                        <div style="overflow:hidden">+ 5:22</div>
+                        <div style="overflow:hidden"><b>34:13</b> (+ 5:22)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -333,7 +454,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Edith Müller-Grambichler</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -346,9 +467,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">34:42</div>
                         
-                        <div style="overflow:hidden">+ 5:51</div>
+                        <div style="overflow:hidden"><b>34:42</b> (+ 5:51)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -360,7 +480,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Charlotte Brawisch</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">HSV Wals</div>
                     </td>
                     <td align="center">
@@ -373,9 +493,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">38:12</div>
                         
-                        <div style="overflow:hidden">+ 9:21</div>
+                        <div style="overflow:hidden"><b>38:12</b> (+ 9:21)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -387,7 +506,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Daniela Buchberger</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">HSV Wals</div>
                     </td>
                     <td align="center">
@@ -400,9 +519,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">38:32</div>
                         
-                        <div style="overflow:hidden">+ 9:41</div>
+                        <div style="overflow:hidden"><b>38:32</b> (+ 9:41)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -414,7 +532,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Petra Böhm</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -427,9 +545,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">45:42</div>
                         
-                        <div style="overflow:hidden">+ 16:51</div>
+                        <div style="overflow:hidden"><b>45:42</b> (+ 16:51)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -441,7 +558,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Anna-Theresa Berger</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -454,9 +571,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">47:32</div>
                         
-                        <div style="overflow:hidden">+ 18:41</div>
+                        <div style="overflow:hidden"><b>47:32</b> (+ 18:41)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -468,7 +584,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Tanja Ebster</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -481,9 +597,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">49:16</div>
                         
-                        <div style="overflow:hidden">+ 20:25</div>
+                        <div style="overflow:hidden"><b>49:16</b> (+ 20:25)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -495,7 +610,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Katja Helminger</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">HSV Wals</div>
                     </td>
                     <td align="center">
@@ -508,9 +623,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">51:04</div>
                         
-                        <div style="overflow:hidden">+ 22:13</div>
+                        <div style="overflow:hidden"><b>51:04</b> (+ 22:13)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -522,7 +636,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Claudia Lechner</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">HSV Wals</div>
                     </td>
                     <td align="center">
@@ -535,9 +649,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">54:23</div>
                         
-                        <div style="overflow:hidden">+ 25:32</div>
+                        <div style="overflow:hidden"><b>54:23</b> (+ 25:32)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -549,7 +662,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Cornelia König</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -562,9 +675,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">1:02:36</div>
                         
-                        <div style="overflow:hidden">+ 33:45</div>
+                        <div style="overflow:hidden"><b>1:02:36</b> (+ 33:45)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -575,7 +687,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Katharina Hinterhofer</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -588,7 +700,7 @@ tr.row_style_odd{
 </td>
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                        <div style="overflow:hidden;font-weight:bold;">keine Wertung</div>
                     </td>
                 </div>
                 
@@ -599,17 +711,17 @@ tr.row_style_odd{
     <br>
     <br>
 </div>
-</div><div><div style="page-break-inside: avoid">
+</div><div><div class="page-brake page-brake-responsive">
     <div class="category_title">Allgemein Herren (H 16-)</div>
     
     <br>
-    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped">
+    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
         <thead>
             <tr>
                 <th scope="col">Pl</th>
                 <th scope="col">Name</th>
-                <th scope="col">Verein</th>
-                <th scope="col"><span><div>1. Lauf<br>Qualifikation<br></div></span></th><th scope="col"><span><div>2. Lauf<br>Finale<br></div></span></th>
+                <th scope="col">Schule</th>
+                <th scope="col" align="center"><span><div>1. Lauf<br>Qualifikation<br></div></span></th><th scope="col" align="center"><span><div>2. Lauf<br>Finale<br></div></span></th>
                 <th scope="col">Gesamtzeit</th>
             </tr>
         </thead>
@@ -623,7 +735,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Bjarne Friedrichs</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -636,8 +748,7 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">26:55</div>
-                        <div style="overflow:hidden">+ 0:00</div>
+                        <div style="overflow:hidden"><b>26:55</b> (+ 0:00)</div>
                         
                     </td>
                 </div>
@@ -650,7 +761,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Jonas Königstorfer</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -663,9 +774,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">28:39</div>
                         
-                        <div style="overflow:hidden">+ 1:44</div>
+                        <div style="overflow:hidden"><b>28:39</b> (+ 1:44)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -677,7 +787,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Markus König</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -690,9 +800,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">28:57</div>
                         
-                        <div style="overflow:hidden">+ 2:02</div>
+                        <div style="overflow:hidden"><b>28:57</b> (+ 2:02)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -704,7 +813,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Norbert Helminger</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">HSV Wals</div>
                     </td>
                     <td align="center">
@@ -717,9 +826,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">30:51</div>
                         
-                        <div style="overflow:hidden">+ 3:56</div>
+                        <div style="overflow:hidden"><b>30:51</b> (+ 3:56)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -731,7 +839,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Martin Bogensperger</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -744,9 +852,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">32:18</div>
                         
-                        <div style="overflow:hidden">+ 5:23</div>
+                        <div style="overflow:hidden"><b>32:18</b> (+ 5:23)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -758,7 +865,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Jun. Wolfgang Buchberger</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">HSV Wals</div>
                     </td>
                     <td align="center">
@@ -771,9 +878,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">32:43</div>
                         
-                        <div style="overflow:hidden">+ 5:48</div>
+                        <div style="overflow:hidden"><b>32:43</b> (+ 5:48)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -785,7 +891,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Sen. Peter Ebster</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -798,9 +904,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">33:07</div>
                         
-                        <div style="overflow:hidden">+ 6:12</div>
+                        <div style="overflow:hidden"><b>33:07</b> (+ 6:12)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -812,7 +917,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Andreas Rameder</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -825,9 +930,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">33:19</div>
                         
-                        <div style="overflow:hidden">+ 6:24</div>
+                        <div style="overflow:hidden"><b>33:19</b> (+ 6:24)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -839,7 +943,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Martin Böhm</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -852,9 +956,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">34:05</div>
                         
-                        <div style="overflow:hidden">+ 7:10</div>
+                        <div style="overflow:hidden"><b>34:05</b> (+ 7:10)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -866,7 +969,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Raphael Maier</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">HSV Wals</div>
                     </td>
                     <td align="center">
@@ -879,9 +982,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">34:37</div>
                         
-                        <div style="overflow:hidden">+ 7:42</div>
+                        <div style="overflow:hidden"><b>34:37</b> (+ 7:42)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -893,7 +995,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Simon Wiemers</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -906,9 +1008,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">35:00</div>
                         
-                        <div style="overflow:hidden">+ 8:05</div>
+                        <div style="overflow:hidden"><b>35:00</b> (+ 8:05)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -920,7 +1021,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Hannes Lechner</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">HSV Wals</div>
                     </td>
                     <td align="center">
@@ -933,9 +1034,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">35:40</div>
                         
-                        <div style="overflow:hidden">+ 8:45</div>
+                        <div style="overflow:hidden"><b>35:40</b> (+ 8:45)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -947,7 +1047,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Max Jonas Obczovsky</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -960,9 +1060,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">37:26</div>
                         
-                        <div style="overflow:hidden">+ 10:31</div>
+                        <div style="overflow:hidden"><b>37:26</b> (+ 10:31)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -974,7 +1073,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Jakob Felix Buchberger</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">HSV Wals</div>
                     </td>
                     <td align="center">
@@ -987,9 +1086,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">37:57</div>
                         
-                        <div style="overflow:hidden">+ 11:02</div>
+                        <div style="overflow:hidden"><b>37:57</b> (+ 11:02)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -1001,7 +1099,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Markus Ban</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1014,9 +1112,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">38:26</div>
                         
-                        <div style="overflow:hidden">+ 11:31</div>
+                        <div style="overflow:hidden"><b>38:26</b> (+ 11:31)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -1028,7 +1125,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Wolfgang Pammer</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1041,9 +1138,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">39:02</div>
                         
-                        <div style="overflow:hidden">+ 12:07</div>
+                        <div style="overflow:hidden"><b>39:02</b> (+ 12:07)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -1055,7 +1151,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Martin Schönberger</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1068,9 +1164,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">39:08</div>
                         
-                        <div style="overflow:hidden">+ 12:13</div>
+                        <div style="overflow:hidden"><b>39:08</b> (+ 12:13)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -1082,7 +1177,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Christoph König</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1095,9 +1190,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">39:19</div>
                         
-                        <div style="overflow:hidden">+ 12:24</div>
+                        <div style="overflow:hidden"><b>39:19</b> (+ 12:24)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -1109,7 +1203,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Andreas Ban</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1122,9 +1216,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">39:50</div>
                         
-                        <div style="overflow:hidden">+ 12:55</div>
+                        <div style="overflow:hidden"><b>39:50</b> (+ 12:55)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -1136,7 +1229,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Johann Grambichler</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1149,9 +1242,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">47:51</div>
                         
-                        <div style="overflow:hidden">+ 20:56</div>
+                        <div style="overflow:hidden"><b>47:51</b> (+ 20:56)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -1163,7 +1255,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Felix König</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1176,9 +1268,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">48:38</div>
                         
-                        <div style="overflow:hidden">+ 21:43</div>
+                        <div style="overflow:hidden"><b>48:38</b> (+ 21:43)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -1189,7 +1280,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Lars Larsen</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     
@@ -1198,7 +1289,7 @@ tr.row_style_odd{
 </td>
 <td></td>
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                        <div style="overflow:hidden;font-weight:bold;">keine Wertung</div>
                     </td>
                 </div>
                 
@@ -1209,17 +1300,17 @@ tr.row_style_odd{
     <br>
     <br>
 </div>
-</div><div><div style="page-break-inside: avoid">
+</div><div><div class="page-brake page-brake-responsive">
     <div class="category_title">Senioren1 H (H 55-)</div>
     
     <br>
-    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped">
+    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
         <thead>
             <tr>
                 <th scope="col">Pl</th>
                 <th scope="col">Name</th>
-                <th scope="col">Verein</th>
-                <th scope="col"><span><div>1. Lauf<br>Qualifikation<br></div></span></th><th scope="col"><span><div>2. Lauf<br>Finale<br></div></span></th>
+                <th scope="col">Schule</th>
+                <th scope="col" align="center"><span><div>1. Lauf<br>Qualifikation<br></div></span></th><th scope="col" align="center"><span><div>2. Lauf<br>Finale<br></div></span></th>
                 <th scope="col">Gesamtzeit</th>
             </tr>
         </thead>
@@ -1233,7 +1324,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Florian Elstner</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1246,8 +1337,7 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">29:31</div>
-                        <div style="overflow:hidden">+ 0:00</div>
+                        <div style="overflow:hidden"><b>29:31</b> (+ 0:00)</div>
                         
                     </td>
                 </div>
@@ -1260,7 +1350,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Horst Mayer</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">OLG Tennengau</div>
                     </td>
                     <td align="center">
@@ -1273,9 +1363,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">32:13</div>
                         
-                        <div style="overflow:hidden">+ 2:42</div>
+                        <div style="overflow:hidden"><b>32:13</b> (+ 2:42)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -1287,7 +1376,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Roland Berner</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">OLG Tennengau</div>
                     </td>
                     <td align="center">
@@ -1300,9 +1389,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">32:29</div>
                         
-                        <div style="overflow:hidden">+ 2:58</div>
+                        <div style="overflow:hidden"><b>32:29</b> (+ 2:58)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -1314,7 +1402,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Christian Breitschädel</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">Bleib in Bewegung!</div>
                     </td>
                     <td align="center">
@@ -1327,9 +1415,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">45:58</div>
                         
-                        <div style="overflow:hidden">+ 16:27</div>
+                        <div style="overflow:hidden"><b>45:58</b> (+ 16:27)</div>
                     </td>
                 </div>
             </tr>
@@ -1339,17 +1426,17 @@ tr.row_style_odd{
     <br>
     <br>
 </div>
-</div><div><div style="page-break-inside: avoid">
+</div><div><div class="page-brake page-brake-responsive">
     <div class="category_title">Senioren2 H (H 65-)</div>
     
     <br>
-    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped">
+    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
         <thead>
             <tr>
                 <th scope="col">Pl</th>
                 <th scope="col">Name</th>
-                <th scope="col">Verein</th>
-                <th scope="col"><span><div>1. Lauf<br>Qualifikation<br></div></span></th><th scope="col"><span><div>2. Lauf<br>Finale<br></div></span></th>
+                <th scope="col">Schule</th>
+                <th scope="col" align="center"><span><div>1. Lauf<br>Qualifikation<br></div></span></th><th scope="col" align="center"><span><div>2. Lauf<br>Finale<br></div></span></th>
                 <th scope="col">Gesamtzeit</th>
             </tr>
         </thead>
@@ -1363,7 +1450,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Eduard Böhm</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1376,8 +1463,7 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">36:58</div>
-                        <div style="overflow:hidden">+ 0:00</div>
+                        <div style="overflow:hidden"><b>36:58</b> (+ 0:00)</div>
                         
                     </td>
                 </div>
@@ -1390,7 +1476,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Karl Hackl</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1403,9 +1489,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">38:46</div>
                         
-                        <div style="overflow:hidden">+ 1:48</div>
+                        <div style="overflow:hidden"><b>38:46</b> (+ 1:48)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -1417,7 +1502,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Josef Wimmer</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1430,9 +1515,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">41:26</div>
                         
-                        <div style="overflow:hidden">+ 4:28</div>
+                        <div style="overflow:hidden"><b>41:26</b> (+ 4:28)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -1444,7 +1528,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Franz Mages</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">OLG Tennengau</div>
                     </td>
                     <td align="center">
@@ -1457,9 +1541,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">51:06</div>
                         
-                        <div style="overflow:hidden">+ 14:08</div>
+                        <div style="overflow:hidden"><b>51:06</b> (+ 14:08)</div>
                     </td>
                 </div>
             </tr>
@@ -1469,17 +1552,17 @@ tr.row_style_odd{
     <br>
     <br>
 </div>
-</div><div><div style="page-break-inside: avoid">
+</div><div><div class="page-brake page-brake-responsive">
     <div class="category_title">Jugend1 D (D -13)</div>
     
     <br>
-    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped">
+    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
         <thead>
             <tr>
                 <th scope="col">Pl</th>
                 <th scope="col">Name</th>
-                <th scope="col">Verein</th>
-                <th scope="col"><span><div>1. Lauf<br>Qualifikation<br></div></span></th><th scope="col"><span><div>2. Lauf<br>Finale<br></div></span></th>
+                <th scope="col">Schule</th>
+                <th scope="col" align="center"><span><div>1. Lauf<br>Qualifikation<br></div></span></th><th scope="col" align="center"><span><div>2. Lauf<br>Finale<br></div></span></th>
                 <th scope="col">Gesamtzeit</th>
             </tr>
         </thead>
@@ -1493,7 +1576,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Elisabeth Ban</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1506,8 +1589,7 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">53:59</div>
-                        <div style="overflow:hidden">+ 0:00</div>
+                        <div style="overflow:hidden"><b>53:59</b> (+ 0:00)</div>
                         
                     </td>
                 </div>
@@ -1520,7 +1602,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Sarah Hütteneder</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1533,9 +1615,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">1:08:08</div>
                         
-                        <div style="overflow:hidden">+ 14:09</div>
+                        <div style="overflow:hidden"><b>1:08:08</b> (+ 14:09)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -1547,7 +1628,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Matilda Maier</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">HSV Wals</div>
                     </td>
                     <td align="center">
@@ -1560,9 +1641,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">1:13:03</div>
                         
-                        <div style="overflow:hidden">+ 19:04</div>
+                        <div style="overflow:hidden"><b>1:13:03</b> (+ 19:04)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -1574,7 +1654,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Sabine König</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1587,9 +1667,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">1:13:58</div>
                         
-                        <div style="overflow:hidden">+ 19:59</div>
+                        <div style="overflow:hidden"><b>1:13:58</b> (+ 19:59)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -1600,7 +1679,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Lara Larsen</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     
@@ -1609,7 +1688,7 @@ tr.row_style_odd{
 </td>
 <td></td>
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                        <div style="overflow:hidden;font-weight:bold;">keine Wertung</div>
                     </td>
                 </div>
                 
@@ -1620,17 +1699,17 @@ tr.row_style_odd{
     <br>
     <br>
 </div>
-</div><div><div style="page-break-inside: avoid">
+</div><div><div class="page-brake page-brake-responsive">
     <div class="category_title">Jugend2 D (D -15)</div>
     
     <br>
-    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped">
+    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
         <thead>
             <tr>
                 <th scope="col">Pl</th>
                 <th scope="col">Name</th>
-                <th scope="col">Verein</th>
-                <th scope="col"><span><div>1. Lauf<br>Qualifikation<br></div></span></th><th scope="col"><span><div>2. Lauf<br>Finale<br></div></span></th>
+                <th scope="col">Schule</th>
+                <th scope="col" align="center"><span><div>1. Lauf<br>Qualifikation<br></div></span></th><th scope="col" align="center"><span><div>2. Lauf<br>Finale<br></div></span></th>
                 <th scope="col">Gesamtzeit</th>
             </tr>
         </thead>
@@ -1644,7 +1723,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Marion Schönberger</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1657,8 +1736,7 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">26:13</div>
-                        <div style="overflow:hidden">+ 0:00</div>
+                        <div style="overflow:hidden"><b>26:13</b> (+ 0:00)</div>
                         
                     </td>
                 </div>
@@ -1671,7 +1749,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Leire Pammer</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1684,9 +1762,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">30:35</div>
                         
-                        <div style="overflow:hidden">+ 4:22</div>
+                        <div style="overflow:hidden"><b>30:35</b> (+ 4:22)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -1698,7 +1775,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Sarah Mitterer</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1711,9 +1788,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">30:36</div>
                         
-                        <div style="overflow:hidden">+ 4:23</div>
+                        <div style="overflow:hidden"><b>30:36</b> (+ 4:23)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -1725,7 +1801,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Emily Ginzinger</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1738,9 +1814,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">35:57</div>
                         
-                        <div style="overflow:hidden">+ 9:44</div>
+                        <div style="overflow:hidden"><b>35:57</b> (+ 9:44)</div>
                     </td>
                 </div>
             </tr>
@@ -1750,17 +1825,17 @@ tr.row_style_odd{
     <br>
     <br>
 </div>
-</div><div><div style="page-break-inside: avoid">
+</div><div><div class="page-brake page-brake-responsive">
     <div class="category_title">Senioren1 D (D 55-)</div>
     
     <br>
-    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped">
+    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
         <thead>
             <tr>
                 <th scope="col">Pl</th>
                 <th scope="col">Name</th>
-                <th scope="col">Verein</th>
-                <th scope="col"><span><div>1. Lauf<br>Qualifikation<br></div></span></th><th scope="col"><span><div>2. Lauf<br>Finale<br></div></span></th>
+                <th scope="col">Schule</th>
+                <th scope="col" align="center"><span><div>1. Lauf<br>Qualifikation<br></div></span></th><th scope="col" align="center"><span><div>2. Lauf<br>Finale<br></div></span></th>
                 <th scope="col">Gesamtzeit</th>
             </tr>
         </thead>
@@ -1774,7 +1849,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Margit Elstner</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1787,8 +1862,7 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">41:22</div>
-                        <div style="overflow:hidden">+ 0:00</div>
+                        <div style="overflow:hidden"><b>41:22</b> (+ 0:00)</div>
                         
                     </td>
                 </div>
@@ -1801,7 +1875,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Eva Breitschaedel</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">Bleib in Bewegung!</div>
                     </td>
                     <td align="center">
@@ -1814,9 +1888,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">53:02</div>
                         
-                        <div style="overflow:hidden">+ 11:40</div>
+                        <div style="overflow:hidden"><b>53:02</b> (+ 11:40)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -1828,7 +1901,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Brigitte Müller</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1841,9 +1914,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">1:14:43</div>
                         
-                        <div style="overflow:hidden">+ 33:21</div>
+                        <div style="overflow:hidden"><b>1:14:43</b> (+ 33:21)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -1854,7 +1926,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Claudia Hackl</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1867,7 +1939,7 @@ tr.row_style_odd{
 </td>
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                        <div style="overflow:hidden;font-weight:bold;">keine Wertung</div>
                     </td>
                 </div>
                 
@@ -1878,17 +1950,17 @@ tr.row_style_odd{
     <br>
     <br>
 </div>
-</div><div><div style="page-break-inside: avoid">
+</div><div><div class="page-brake page-brake-responsive">
     <div class="category_title">Jugend1 H (H -13)</div>
     
     <br>
-    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped">
+    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
         <thead>
             <tr>
                 <th scope="col">Pl</th>
                 <th scope="col">Name</th>
-                <th scope="col">Verein</th>
-                <th scope="col"><span><div>1. Lauf<br>Qualifikation<br></div></span></th><th scope="col"><span><div>2. Lauf<br>Finale<br></div></span></th>
+                <th scope="col">Schule</th>
+                <th scope="col" align="center"><span><div>1. Lauf<br>Qualifikation<br></div></span></th><th scope="col" align="center"><span><div>2. Lauf<br>Finale<br></div></span></th>
                 <th scope="col">Gesamtzeit</th>
             </tr>
         </thead>
@@ -1902,7 +1974,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Alejandro Pammer</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1915,8 +1987,7 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">33:44</div>
-                        <div style="overflow:hidden">+ 0:00</div>
+                        <div style="overflow:hidden"><b>33:44</b> (+ 0:00)</div>
                         
                     </td>
                 </div>
@@ -1929,7 +2000,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Ludwig Brawisch</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">HSV Wals</div>
                     </td>
                     <td align="center">
@@ -1942,9 +2013,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">36:06</div>
                         
-                        <div style="overflow:hidden">+ 2:22</div>
+                        <div style="overflow:hidden"><b>36:06</b> (+ 2:22)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -1956,7 +2026,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Moritz Maier</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">HSV Wals</div>
                     </td>
                     <td align="center">
@@ -1969,9 +2039,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">36:12</div>
                         
-                        <div style="overflow:hidden">+ 2:28</div>
+                        <div style="overflow:hidden"><b>36:12</b> (+ 2:28)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -1983,7 +2052,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Alexander Ban</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -1996,9 +2065,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">41:34</div>
                         
-                        <div style="overflow:hidden">+ 7:50</div>
+                        <div style="overflow:hidden"><b>41:34</b> (+ 7:50)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -2010,7 +2078,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Thomas Brodinger</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -2023,9 +2091,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">1:17:15</div>
                         
-                        <div style="overflow:hidden">+ 43:31</div>
+                        <div style="overflow:hidden"><b>1:17:15</b> (+ 43:31)</div>
                     </td>
                 </div>
             </tr>
@@ -2035,17 +2102,17 @@ tr.row_style_odd{
     <br>
     <br>
 </div>
-</div><div><div style="page-break-inside: avoid">
+</div><div><div class="page-brake page-brake-responsive">
     <div class="category_title">Jugend2 H (H -15)</div>
     
     <br>
-    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped">
+    <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
         <thead>
             <tr>
                 <th scope="col">Pl</th>
                 <th scope="col">Name</th>
-                <th scope="col">Verein</th>
-                <th scope="col"><span><div>1. Lauf<br>Qualifikation<br></div></span></th><th scope="col"><span><div>2. Lauf<br>Finale<br></div></span></th>
+                <th scope="col">Schule</th>
+                <th scope="col" align="center"><span><div>1. Lauf<br>Qualifikation<br></div></span></th><th scope="col" align="center"><span><div>2. Lauf<br>Finale<br></div></span></th>
                 <th scope="col">Gesamtzeit</th>
             </tr>
         </thead>
@@ -2059,7 +2126,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Lorenz Buchberger</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">HSV Wals</div>
                     </td>
                     <td align="center">
@@ -2072,8 +2139,7 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">28:55</div>
-                        <div style="overflow:hidden">+ 0:00</div>
+                        <div style="overflow:hidden"><b>28:55</b> (+ 0:00)</div>
                         
                     </td>
                 </div>
@@ -2086,7 +2152,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Tim Rothauer</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -2099,9 +2165,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">30:57</div>
                         
-                        <div style="overflow:hidden">+ 2:02</div>
+                        <div style="overflow:hidden"><b>30:57</b> (+ 2:02)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -2113,7 +2178,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Thomas König</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -2126,9 +2191,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">32:43</div>
                         
-                        <div style="overflow:hidden">+ 3:48</div>
+                        <div style="overflow:hidden"><b>32:43</b> (+ 3:48)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_even">
@@ -2140,7 +2204,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Fabian Hütteneder</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     <td align="center">
@@ -2153,9 +2217,8 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">1:04:41</div>
                         
-                        <div style="overflow:hidden">+ 35:46</div>
+                        <div style="overflow:hidden"><b>1:04:41</b> (+ 35:46)</div>
                     </td>
                 </div>
             </tr><tr class="row_style_odd">
@@ -2166,7 +2229,7 @@ tr.row_style_odd{
                     <td data-label="Name">
                         <div style="overflow:hidden;"><b>Alexander Baur</b></div>
                     </td>
-                    <td data-label="Verein">
+                    <td data-label="Schule">
                         <div style="overflow:hidden;">ASKÖ Henndorf</div>
                     </td>
                     
@@ -2179,7 +2242,7 @@ tr.row_style_odd{
 
 
                     <td data-label="Gesamtzeit">
-                        <div style="overflow:hidden;font-weight:bold;">disq</div>
+                        <div style="overflow:hidden;font-weight:bold;">keine Wertung</div>
                     </td>
                 </div>
                 
@@ -2191,11 +2254,9 @@ tr.row_style_odd{
     <br>
 </div>
 </div>
-    <div class="page-footer-space"></div>
-    <div class="page-footer">
-        <div>(c) 2025 by solv.at</div><br>
-        <div>Erstellt: Sun, 11 May 2025 13:41:52 GMT</div>
-    </div>
+    <br>
+    <div>(c) 2025 by solv.at</div><br>
+    <div>Erstellt: Sun, 11 May 2025 22:08:15 GMT</div>
 </body>
 
 </html>

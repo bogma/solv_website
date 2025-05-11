@@ -72,10 +72,10 @@
         <Html active="true"
               fileName="..\..\..\static\resources\2025\lmsprint2025.html"
               cssInline="true"
-              docTemplate="..\..\..\templates\sum_document_template.html"
-              classTemplate="..\..\..\templates\sum_class_template.html"
-              detailsTemplate="..\..\..\templates\sum_details_template.html"
-              cssFile="..\..\..\templates\default.css"/>
+              docTemplate="..\..\..\templates\schcup_document_template_sum.html"
+              classTemplate="..\..\..\templates\schcup_class_template_sum.html"
+              detailsTemplate="..\..\..\templates\schcup_details_template_sum.html"
+              cssFile="..\..\..\templates\responsive_table_style.css"/>
         <Pdf active="false"
              fileName="lmsprint2025.pdf"
              pageOrientation="Landscape"
