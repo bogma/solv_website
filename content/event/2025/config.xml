@@ -36,7 +36,24 @@
     <Event num="3" name="Köstendorf"/>
     <Event num="4" name="Salzburg Stadt"/>
     <Event num="5" name="Salzburg Stadt"/>
-    <Event num="6" name="Eberschwang"/>
+    <Event num="6" name="Eberschwang">
+      <map type="class" from="101" to="1" />
+      <map type="class" from="102" to="2" />
+      <map type="class" from="103" to="3" />
+      <map type="class" from="104" to="4" />
+      <map type="class" from="105" to="5" />
+      <map type="class" from="106" to="6" />
+      <map type="class" from="107" to="7" />
+      <map type="class" from="108" to="8" />
+      <map type="class" from="109" to="9" />
+      <map type="class" from="110" to="10" />
+      <map type="class" from="111" to="11" />
+      <map type="class" from="112" to="12" />
+      <map type="class" from="113" to="13" />
+      <map type="class" from="114" to="14" />
+      <map type="class" from="115" to="15" />
+      <map type="class" from="116" to="16" />
+    </Event>
     <Event num="7" name="Adnet-Riedl"/>
     <Event num="8" name="Lungau"/>
     <Event num="9" name="Postalm" />
