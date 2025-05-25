@@ -93,6 +93,8 @@
     <Name name="Jonas Königstorfer" aliasFor="Jonas Königsdorfer"/>
     <Name name="Tamás Bárány" aliasFor="Tamas Barany" />
     <Name name="Peter Ebster Sen." aliasFor="Peter  Ebster Sen."/>
+    <Name name="Wolfgang Buchberger" aliasFor="Wolfgang Buchberger Jun., Jun. Wolfgang Buchberger"/>
+    <Name name="Eva Breitschädel" aliasFor="Eva Breitschaedel"/>
   </Names>
   <Translations>
     <Translation key="DidNotFinish" translate="aufg." />
