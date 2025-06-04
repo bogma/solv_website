@@ -15,6 +15,16 @@ menu:
     parent: "training"
 ---
 
+#### Ursprung 2025-06-06 bis 2025-06-09
+
+Print & Train auf einer kleinen Bahn mit vielen Posten - 2 Varianten: mit oder ohne Wege.
+Die Posten sind durchnummeriert mit rot-weißen Absperrbändern markiert.
+
+Auf einen nassen, Dickicht-Spaß
+
++ [Karte](2025_BahnP_T.pdf)
++ [Karte ohne Wege](2025_BahnP_T_ohneWege.pdf)
+
 #### Schleedorf 2025-05-10 bis 2025-06-01
 
 MapRun in Schleedorf von Sa 10. Mai bis So 1.6.
