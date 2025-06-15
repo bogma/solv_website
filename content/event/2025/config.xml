@@ -112,7 +112,7 @@
     <Name name="Peter Ebster Sen." aliasFor="Peter  Ebster Sen."/>
     <Name name="Wolfgang Buchberger" aliasFor="Wolfgang Buchberger Jun., Jun. Wolfgang Buchberger"/>
     <Name name="Eva Breitschädel" aliasFor="Eva Breitschaedel"/>
-    <Name name="Peter Ebster Sen." aliasFor="Sen. Peter Ebster"/>
+    <Name name="Peter Ebster" aliasFor="Peter Ebster Sen., Sen. Peter Ebster, Peter Ebster"/>
   </Names>
   <Translations>
     <Translation key="DidNotFinish" translate="aufg." />
