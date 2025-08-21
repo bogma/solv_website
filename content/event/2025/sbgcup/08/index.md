@@ -1,6 +1,6 @@
 ---
 title: "8. Salzburger Sportvoglcup 2025"
-date: 2025-09-07T00:00:00 # keep time 0 until start time is known
+date: 2025-09-06T13:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,17 +8,17 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup", "Landesmeisterschaft"]
 
-anne_id: 0
+anne_id: 4898
 
 event:
   name_amend: "LM Jugend und Senioren" # respects markdown
   form: "Normaler OL"
-  location: "Lungau"
+  location: "Traning Wald (Lungau)"
   type: "sbgcup"
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
@@ -27,13 +27,13 @@ implementation: "ASKÖ Henndorf Orientieering" # remove 2 of the 3 options
 # active section ------------------------------------------------
 
 #liveresultat_id: 18741
-#oresults_id: 578
+oresults_id: 2297
 #end: 150 # x minutes from event->date (remove if not needed)
 #start_amend: "(WKZ - Start 0m)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
+  course: "Roland Kohlbacher"
+  event: "Katharina Hinterhofer"
   inspection: ""
 course:
   valid: false # set to true when the course lenghts are final
@@ -41,20 +41,20 @@ course:
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -8 # x days from event->date
 meeting:
-  point: ""
+  point: "Talstation Grosseck-Speiereck"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.14241, 13.66287]
 map:
-  name: ""
-  scale: "1:10.000"
+  name: "Traning Wald"
+  scale: "1:7.500"
   equidistance: "5m"
-  update: "März 2006"
+  update: "April 2025"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zum Download"
-hints: "" # respects markdown
+hints: "Es gibt Stacheldrahtzäune – aufrecht und teilweise verfallen - im Süden der Karte." # respects markdown
 greetings: "" # Der Verein wünscht Euch ...
 
 resources:

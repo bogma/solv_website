@@ -1,9 +1,9 @@
 ---
 title: "LMS Staffel OL"
-date: 2025-09-06T00:00:00+02:00 # date of creation of the file
+date: 2025-09-07T11:00:00+02:00 # date of creation of the file
 draft: false
-status: planned
-anne_id: 0
+status: active
+anne_id: 4899
 
 archives: [""]
 tags: [ "Landesmeisterschaft", "Staffel"]
@@ -11,7 +11,7 @@ tags: [ "Landesmeisterschaft", "Staffel"]
 event:
   name_amend: "Salzburger Staffel LMS"
   form: "Staffel OL"
-  location: "Lungau"
+  location: "St. Andrä im Lungau"
   type: "relay"
 championship: true
 organiser: "SOLV - Salzburger Orientierungslaufverband"
@@ -19,7 +19,7 @@ implementation: "ASKÖ Henndorf Orientieering" # remove one of the 3 options
 official: # names of course setter, event organizer and inspector
   course: "Katharina Hinterhofer"
   event: "Roland Kohlbacher"
-  inspection: "Markus König"
+  inspection: ""
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
@@ -28,14 +28,14 @@ entry:
   email: anmeldung@ol-sbg.at
   closing_date_days: -9 # x days from event->date
 meeting:
-  point: "Hallergut / Tannberg"
+  point: "Bahnstation „Anderlwirt“"
   time_minutes: -60 # x minutes from event->date
-  location: [47.9720, 13.1778]
+  location: [47.146418, 13.792039]
 map:
-  name: "Tannberg West"
+  name: "Passegger Wald"
   scale: "1:7.500"
   equidistance: "5m"
-  update: "Mai 2024"
+  update: "August 2025"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Nur der Laufkarte"
