@@ -139,7 +139,9 @@ club:
     - { name: Elisabeth Ban }
     - { name: Lara Larsen }
     - { name: Anika Simsch }
-    - { name: Max Jonas Obsczovsky}
+    - { name: Max Jonas Obsczovsky }
+    - { name: Sarah Hütteneder }
+    - { name: Thomas König }
 
   - name: HSV Wals, Sektion OL
     short: HSW
@@ -165,7 +167,9 @@ club:
     - { name: Markus Buchberger }
     - { name: Franz Wirth }
     - { name: Traude Bischof }
-    - { name: Franziska Buchberger}
+    - { name: Franziska Buchberger }
+    - { name: Matilda Maier }
+    - { name: Moritz Maier }
 
   - name: SSV Hallein-Neualm
     short: SHN

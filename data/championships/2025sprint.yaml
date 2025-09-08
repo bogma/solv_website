@@ -1,0 +1,59 @@
+year: 2025
+type: sprint
+name: Sprint
+evlink: /event/2025/sbgcup/05
+results:
+  - category: Damen -13
+    valid: true
+    result:
+      - name: Elisabeth Ban
+      - name: Sarah Hütteneder
+      - name: Matilda Maier
+  - category: Damen -15
+    valid: true
+    result:
+      - name: Marion Schönberger
+      - name: Leire Pammer
+      - name: Sarah Mitterer
+  - category: Herren -13
+    valid: true
+    result:
+      - name: Alejandro Pammer
+      - name: Ludwig Brawisch
+      - name: Moritz Maier
+  - category: Herren -15
+    valid: true
+    result:
+      - name: Lorenz Buchberger
+      - name: Tim Rothauer
+      - name: Thomas König
+  - category: Damen 16-
+    valid: true
+    result:
+      - name: Nina Döllgast
+      - name: Lucie Rothauer
+      - name: Claudia Wiemers
+  - category: Herren 16-
+    valid: true
+    result:
+      - name: Bjarne Friedrichs
+      - name: Jonas Königstorfer
+      - name: Markus König
+  - category: Damen 55-
+    valid: true
+    result:
+      - name: Margit Elstner
+      - name: Eva Breitschädel
+      - name: Brigitte Müller
+  - category: Herren 55-
+    valid: true
+    result:
+      - name: Florian Elstner
+      - name: Horst Mayer
+      - name: Roland Berner
+  - category: Herren 65-
+    valid: true
+    result:
+      - name: Eduard Böhm
+      - name: Karl Hackl
+      - name: Josef Wimmer
