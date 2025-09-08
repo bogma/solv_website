@@ -1,0 +1,81 @@
+year: 2025
+type: junsen
+name: Jugend/Senjoren
+evlink: /event/2025/sbgcup/08
+results:
+  - category: Damen -13
+    valid: true
+    result:
+      - name: Sylvia Schorn
+      - name: Elisabeth Ban
+      - name: Lara Larsen
+  - category: Damen -15
+    valid: true
+    result:
+      - name: Marion Schönberger
+      - name: Sarah Mitterer
+      - name: Leire Pammer
+  - category: Damen -18
+    valid: false
+    result:
+      - name: Lisa Mitterer
+  - category: Damen 35-
+    valid: true
+    result:
+      - name: Andrea Strasser
+      - name: Franziska Brodinger
+  - category: Damen 45-
+    valid: false
+    result:
+      - name: Daniela Buchberger
+      - name: Carolin Schönberger
+  - category: Damen 55-
+    valid: false
+    result:
+      - name: Margit Elstner
+  - category: Damen 65-
+    valid: false
+    result:
+      - name: Eva Breitschädel
+      - name: Brigitte Müller
+  - category: Herren -13
+    valid: true
+    result:
+      - name: Alejandro Pammer
+      - name: Ludwig Brawisch
+      - name: Thomas Brodinger
+  - category: Herren -15
+    valid: true
+    result:
+      - name: Alexander Baur
+      - name: Lorenz Buchberger
+      - name: Florian Mauschitz
+  - category: Herren -18
+    valid: true
+    result:
+      - name: Jakob Felix Buchberger
+      - name: Markus Ban
+      - name: Max Jonas Obczovsky
+  - category: Herren 35-
+    valid: true
+    result:
+      - name: Norbert Helminger
+      - name: Franz Helminger
+      - name: Simon Wiemers
+  - category: Herren 45-
+    valid: true
+    result:
+      - name: Peter Ebster
+      - name: Hannes Lechner
+      - name: Martin Schönberger
+  - category: Herren 55-
+    valid: false
+    result:
+      - name: Florian Elstner
+      - name: Markus Schorn
+  - category: Herren 65-
+    valid: true
+    result:
+      - name: Eduard Böhm
+      - name: Leopold Tonka
+      - name: Josef Wimmer

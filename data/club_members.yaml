@@ -40,6 +40,7 @@ club:
     - { name: Felix Breitschädel }
     - { name: Felix Emberger }
     - { name: Florian Elstner }
+    - { name: Florian Mauschitz }
     - { name: Franziska Brodinger }
     - { name: Franziska Rogl }
     - { name: Hans Eisl }
@@ -98,6 +99,7 @@ club:
     - { name: Roman Schütz }
     - { name: Samuel Markel }
     - { name: Sarah Mitterer }
+    - { name: Simon Wiemers }
     - { name: Sophie Doppler }
     - { name: Stephanie Ying Yau Chu }
     - { name: Theresia Brunnauer }
@@ -123,6 +125,7 @@ club:
     - { name: Marcel Stöckl }
     - { name: Marianne Wörndl }
     - { name: Melanie Sinnhofer }
+    - { name: Thomas Brodinger }
     - { name: Thomas Umundum }
     - { name: Simon Wally }
     - { name: Julia Obermann }
@@ -132,6 +135,9 @@ club:
     - { name: Erkka Harju-Säntti }
     - { name: Jasmin Guggenberger }
     - { name: Nicole Kucher }
+    - { name: Sylvia Schorn }
+    - { name: Elisabeth Ban }
+    - { name: Lara Larsen }
 
   - name: HSV Wals, Sektion OL
     short: HSW
@@ -151,6 +157,7 @@ club:
     - { name: Katja Helminger }
     - { name: Leopold Tonka }
     - { name: Lorenz Buchberger }
+    - { name: Ludwig Brawisch }
     - { name: Tim Lechner }
     - { name: Wolfgang Buchberger }
     - { name: Markus Buchberger }
