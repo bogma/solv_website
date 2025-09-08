@@ -2,7 +2,7 @@
 title: "LMS Staffel OL"
 date: 2025-09-07T11:00:00+02:00 # date of creation of the file
 draft: false
-status: active
+status: done
 anne_id: 4899
 
 archives: [""]

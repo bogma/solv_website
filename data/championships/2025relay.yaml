@@ -1,0 +1,53 @@
+year: 2025
+type: relay
+name: Staffel
+evlink: /event/2025/other/staffel
+results:
+  - category: Jugend mixed -13
+    valid: true
+    result:
+      - names:
+        - name: Elisabeth Ban
+        - name: Alexander Baur
+      - names:
+        - name: Sylvia Schorn
+        - name: Alejandro Pammer
+      - names:
+        - name: Franziska Buchberger
+        - name: Ludwig Brawisch
+  - category: Jugend mixed -15
+    valid: true
+    result:
+      - names:
+        - name: Leire Pammer
+        - name: Max Jonas Obsczovsky
+      - names:
+        - name: Sarah Mitterer
+        - name: Markus Ban
+      - names:
+        - name: Marion Schönberger
+        - name: Florian Mauschitz
+  - category: Damen 16-
+    valid: true
+    result:
+      - names:
+        - name: Andrea Strasser
+        - name: Edith Müller-Grambichler
+      - names:
+        - name: Lucie Rothauer
+        - name: Carolin Schönberger
+      - names:
+        - name: Anika Simsch
+        - name: Lisa Mitterer
+  - category: Herren 16-
+    valid: true
+    result:
+      - names:
+        - name: Norbert Helminger
+        - name: Franz Helminger
+      - names:
+        - name: Bjarne Friedrichs
+        - name: Martin Schönberger
+      - names:
+        - name: Simon Wiemers
+        - name: Jakob Felix Buchberger
