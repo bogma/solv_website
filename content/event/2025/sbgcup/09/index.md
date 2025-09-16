@@ -1,6 +1,6 @@
 ---
 title: "9. Salzburger Sportvoglcup 2025"
-date: 2025-10-04T00:00:00 # keep time 0 until start time is known
+date: 2025-10-04T13:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,12 +8,12 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup", "Landesmeisterschaft"]
 
-anne_id: 0
+anne_id: 4900
 
 event:
   name_amend: "LM Allgemeine Klasse" # respects markdown
@@ -27,30 +27,30 @@ implementation: "ASKÖ Henndorf Orientieering" # remove 2 of the 3 options
 # active section ------------------------------------------------
 
 #liveresultat_id: 18741
-#oresults_id: 578
-#end: 150 # x minutes from event->date (remove if not needed)
-#start_amend: "(WKZ - Start 0m)" # respects markdown
+oresults_id: 2390
+end: 210 # x minutes from event->date (remove if not needed)
+start_amend: "(Weg zum Start 350m und 55 Hm)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Bernhard Fink"
+  event: "Markus König"
+  inspection: "Matthias Kreuzer"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -8 # x days from event->date
 meeting:
-  point: ""
+  point: "Parkplatz Winterpark Postalm"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.64873, 13.43118]
 map:
-  name: ""
-  scale: "1:10.000"
+  name: "Postalm"
+  scale: "1:7.500"
   equidistance: "5m"
-  update: "März 2006"
+  update: "September 2025"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zum Download"
