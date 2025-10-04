@@ -51,3 +51,15 @@ results:
       - names:
         - name: Simon Wiemers
         - name: Jakob Felix Buchberger
+  - category: Herren 55-
+    valid: true
+    result:
+      - names:
+        - name: Florian Elstner
+        - name: Margit Elstner
+      - names:
+        - name: Josef Wimmer
+        - name: Markus Schorn
+      - names:
+        - name: Leopold Tonka
+        - name: Eva Breitschädel
