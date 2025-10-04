@@ -77,7 +77,7 @@ resources:
 - src: "**/*dir**"
   title: "Anfahrt"
 - src: "**/*lms**"
-  title: "Ergebnis Landesmeisterschaft Jugend & Senioren"
+  title: "Ergebnis LM allgemeine Klasse"
 
 # resource_links:
 #   infos:

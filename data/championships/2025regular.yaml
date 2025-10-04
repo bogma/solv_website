@@ -1,0 +1,17 @@
+year: 2025
+type: regular
+name: Allgemein
+evlink: /event/2025/sbgcup/09
+results:
+  - category: Damen
+    valid: true
+    result:
+      - name: Annika Simsch
+      - name: Andrea Strasser
+      - name: Nina Döllgast
+  - category: Herren
+    valid: true
+    result:
+      - name: Bjarne Friedrichs
+      - name: Franz Helminger
+      - name: Norbert Helminger
