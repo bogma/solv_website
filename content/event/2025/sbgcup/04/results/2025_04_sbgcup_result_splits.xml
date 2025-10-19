@@ -10,6 +10,11 @@
 <Date>2025-05-11</Date>
 <Time>10:30:00.000</Time>
 </StartTime>
+<Organizer>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organizer>
 </Event>
 <ClassResult>
 <Class resultListMode="Default" sex="F">

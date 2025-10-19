@@ -10,6 +10,11 @@
 <Date>2025-04-26</Date>
 <Time>13:00:00.000</Time>
 </StartTime>
+<Organizer>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organizer>
 </Event>
 <ClassResult>
 <Class resultListMode="Default" sex="M">
