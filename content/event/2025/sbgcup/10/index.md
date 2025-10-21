@@ -1,6 +1,6 @@
 ---
 title: "10. Salzburger Sportvoglcup 2025"
-date: 2025-11-08T00:00:00 # keep time 0 until start time is known
+date: 2025-11-08T13:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,12 +8,12 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
 
-anne_id: 0
+anne_id: 4901
 
 event:
   name_amend: "" # respects markdown
@@ -27,13 +27,13 @@ implementation: "ASKÖ Henndorf Orientieering" # remove 2 of the 3 options
 # active section ------------------------------------------------
 
 #liveresultat_id: 18741
-#oresults_id: 578
+oresults_id: 2521
 #end: 150 # x minutes from event->date (remove if not needed)
-#start_amend: "(WKZ - Start 0m)" # respects markdown
+start_amend: "(WKZ - Start 400m)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
+  course: "Lucie Rothauer / Eduard Böhm"
+  event: "Lucie Rothauer / Eduard Böhm"
   inspection: ""
 course:
   valid: false # set to true when the course lenghts are final
@@ -41,17 +41,17 @@ course:
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -9 # x days from event->date
 meeting:
-  point: ""
+  point: "Hotel/Restaurant am Hochfuchs, Eugendorfer Berg"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.843711, 13.135917]
 map:
-  name: ""
-  scale: "1:10.000"
+  name: "Eugendorfer Berg"
+  scale: "1:7.500"
   equidistance: "5m"
-  update: "März 2006"
-  format: ""
+  update: "Sept 2025"
+  format: "A3/A4"
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zum Download"
 hints: "" # respects markdown
