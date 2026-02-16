@@ -27,6 +27,11 @@ menu:
 </thead>
 <tbody>
 <tr>
+<td>141</td>
+<td>04.01.2026</td>
+<td><a href="/resources/protocols/SOLVProt_141.pdf">PDF</a></td>
+</tr>
+<tr>
 <td>140</td>
 <td>10.12.2025</td>
 <td><a href="/resources/protocols/SOLVProt_140.pdf">PDF</a></td>
