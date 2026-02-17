@@ -1,6 +1,6 @@
 ---
 title: "1. Salzburger Sportvoglcup 2026"
-date: 2026-02-28T00:00:00 # keep time 0 until start time is known
+date: 2026-02-28T11:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,12 +8,12 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup"]
 
-anne_id: 0
+anne2_id: "1-lauf-solv-cup-2026"
 
 event:
   name_amend: "" # respects markdown
@@ -28,31 +28,31 @@ implementation: "HSV Wals" # remove 2 of the 3 options
 
 #liveresultat_id: 18741
 #oresults_id: 578
-#end: 150 # x minutes from event->date (remove if not needed)
-#start_amend: "(WKZ - Start 0m)" # respects markdown
+end: 165 # x minutes from event->date (remove if not needed)
+start_amend: "(WKZ - Start 1100m)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Franz Nagele"
+  event: "Franz Nagele"
+  inspection: "Jakob Buchberger, Leopold Tonka, Franz Helminger"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -10 # x days from event->date
 meeting:
-  point: ""
+  point: "Sporthalle Schwarzenbergkaserne"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.80068 12.98137]
 map:
-  name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
-  format: ""
-  hints: "" # additional hints to map
+  name: "Schwarzenbergkaserne"
+  scale: "1: 3.500/4.000"
+  equidistance: "2m"
+  update: "Februar 2026"
+  format: "A3"
+  hints: "Karte ist gedreht – Nordpfeile schräg zum Blattrand!" # additional hints to map
 control_point_description: "Auf der Karte und zum Download"
 hints: "" # respects markdown
 greetings: "" # Der Verein wünscht Euch ...

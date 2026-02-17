@@ -21,7 +21,10 @@ implementation: "" # remove one of the 3 options
 # - src: "**/*wert**"
 #   title: "Länderwertung"
 
-# resource_links:
+resource_links:
+  infos:
+  - link: "https://www.argealp-sport.org/files/argealp/sportarten/8_orientierungslauf/ARGE%20ALP%202026%20-%20prime%20informazioni.pdf"
+    title: "Information"
 #   results:
 #   - link: "https://app.liveresults.it/argealp2025/relay"
 #     title: "Ergebnisse"
