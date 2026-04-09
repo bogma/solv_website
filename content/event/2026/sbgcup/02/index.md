@@ -1,6 +1,6 @@
 ---
 title: "2. Salzburger Sportvoglcup 2026"
-date: 2026-04-25T00:00:00 # keep time 0 until start time is known
+date: 2026-04-26T10:30:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,12 +8,12 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup", "Landesmeisterschaft"]
 
-anne_id: 0
+anne2_id: "salzburger-landesmeisterschaft-sprint"
 
 event:
   name_amend: "LM Sprint (Qualifikation)" # respects markdown
@@ -32,25 +32,25 @@ implementation: "HSV Wals" # remove 2 of the 3 options
 #start_amend: "(WKZ - Start 0m)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Franz Nagele"
+  event: "Franz Nagele"
+  inspection: "Jakob Buchberger, Leopold Tonka, Franz Helminger"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -9 # x days from event->date
 meeting:
-  point: ""
+  point: "Parkplatz Messe Zentrum Salzburg"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.82489, 13.02581]
 map:
-  name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
+  name: "MesseZentrumSalzburg- Glanspitz Park- Lehener Park"
+  scale: "1:3.000"
+  equidistance: "2m"
+  update: "April 2026"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zum Download"
