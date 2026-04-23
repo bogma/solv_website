@@ -2,7 +2,7 @@
 title: "1. Salzburger Sportvogl Schulcup 2026"
 date: 2026-04-22T14:00:00 # date of creation of the file
 draft: false
-status: active
+status: done
 
 archives: []
 tags: [ "Schul Cup"]
