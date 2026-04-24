@@ -34,8 +34,8 @@
     </PostProcessing>
     <Events>
         <!-- set num to 0 if not needed -->
-        <Event num="1" name="Josefiau"/>
-        <Event num="2" name="Klessheim"/>
+        <Event num="1" name="Mattsee"/>
+        <Event num="2" name="Hellbrunn"/>
     </Events>
     <Classes filter="exclude">
         <Class name="Paare"
@@ -78,7 +78,7 @@
               classTemplate="..\..\..\..\templates\schcup_class_template_sum.html"
               detailsTemplate="..\..\..\..\templates\schcup_details_template_sum.html"
               cssFile="..\..\..\..\templates\responsive_table_style.css"/>
-        <Pdf active="true"
+        <Pdf active="false"
              fileName="schulcup2026.pdf"
              pageOrientation="Landscape"
              pageSize="A4"
