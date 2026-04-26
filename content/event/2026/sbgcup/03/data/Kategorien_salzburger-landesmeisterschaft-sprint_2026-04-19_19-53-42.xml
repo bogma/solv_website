@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassList xmlns="http://www.orienteering.org/datastandard/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" iofVersion="3.0" createTime="2026-04-19T17:53:45+00:00" creator="ANNE">
+<Class sex="F" maxAge="15" modifyTime="2026-04-01T15:32:50+00:00"><Id>2</Id><Name>Damen -15</Name><ShortName>D15</ShortName><Status>Normal</Status><Fee><Name>Startgeld</Name><Amount>5</Amount></Fee></Class>
+<Class sex="F" maxAge="13" modifyTime="2026-04-01T15:32:49+00:00"><Id>1</Id><Name>Damen -13</Name><ShortName>D13</ShortName><Status>Normal</Status><Fee><Name>Startgeld</Name><Amount>5</Amount></Fee></Class>
+<Class sex="F" maxAge="18" modifyTime="2026-04-01T15:32:52+00:00"><Id>3</Id><Name>Damen -18</Name><ShortName>D18</ShortName><Status>Normal</Status><Fee><Name>Startgeld</Name><Amount>8</Amount></Fee></Class>
+<Class sex="F" modifyTime="2026-04-01T15:32:53+00:00"><Id>4</Id><Name>Damen 19-</Name><ShortName>D19</ShortName><Status>Normal</Status><Fee><Name>Startgeld</Name><Amount>8</Amount></Fee></Class>
+<Class sex="F" minAge="35" modifyTime="2026-04-01T15:32:55+00:00"><Id>5</Id><Name>Damen 35-</Name><ShortName>D35</ShortName><Status>Normal</Status><Fee><Name>Startgeld</Name><Amount>8</Amount></Fee></Class>
+<Class sex="F" minAge="45" modifyTime="2026-04-01T15:32:56+00:00"><Id>6</Id><Name>Damen 45-</Name><ShortName>D45</ShortName><Status>Normal</Status><Fee><Name>Startgeld</Name><Amount>8</Amount></Fee></Class>
+<Class sex="F" minAge="55" modifyTime="2026-04-01T15:32:57+00:00"><Id>7</Id><Name>Damen 55-</Name><ShortName>D55</ShortName><Status>Normal</Status><Fee><Name>Startgeld</Name><Amount>8</Amount></Fee></Class>
+<Class sex="F" minAge="65" modifyTime="2026-04-01T15:32:58+00:00"><Id>8</Id><Name>Damen 65-</Name><ShortName>D65</ShortName><Status>Normal</Status><Fee><Name>Startgeld</Name><Amount>8</Amount></Fee></Class>
+<Class sex="M" maxAge="15" modifyTime="2026-04-01T15:33:01+00:00"><Id>10</Id><Name>Herren -15</Name><ShortName>H15</ShortName><Status>Normal</Status><Fee><Name>Startgeld</Name><Amount>5</Amount></Fee></Class>
+<Class sex="M" maxAge="13" modifyTime="2026-04-01T15:33:00+00:00"><Id>9</Id><Name>Herren -13</Name><ShortName>H13</ShortName><Status>Normal</Status><Fee><Name>Startgeld</Name><Amount>5</Amount></Fee></Class>
+<Class sex="M" maxAge="18" modifyTime="2026-04-01T15:33:02+00:00"><Id>11</Id><Name>Herren -18</Name><ShortName>H18</ShortName><Status>Normal</Status><Fee><Name>Startgeld</Name><Amount>8</Amount></Fee></Class>
+<Class sex="M" modifyTime="2026-04-01T15:33:03+00:00"><Id>12</Id><Name>Herren 19-</Name><ShortName>H19</ShortName><Status>Normal</Status><Fee><Name>Startgeld</Name><Amount>8</Amount></Fee></Class>
+<Class sex="M" minAge="35" modifyTime="2026-04-01T15:33:06+00:00"><Id>13</Id><Name>Herren 35-</Name><ShortName>H35</ShortName><Status>Normal</Status><Fee><Name>Startgeld</Name><Amount>8</Amount></Fee></Class>
+<Class sex="M" minAge="45" modifyTime="2026-04-01T15:33:08+00:00"><Id>14</Id><Name>Herren 45-</Name><ShortName>H45</ShortName><Status>Normal</Status><Fee><Name>Startgeld</Name><Amount>8</Amount></Fee></Class>
+<Class sex="M" minAge="55" modifyTime="2026-04-01T15:33:09+00:00"><Id>15</Id><Name>Herren 55-</Name><ShortName>H55</ShortName><Status>Normal</Status><Fee><Name>Startgeld</Name><Amount>8</Amount></Fee></Class>
+<Class sex="M" minAge="65" modifyTime="2026-04-01T15:33:10+00:00"><Id>16</Id><Name>Herren 65-</Name><ShortName>H65</ShortName><Status>Normal</Status><Fee><Name>Startgeld</Name><Amount>8</Amount></Fee></Class>
+<Class modifyTime="2026-04-01T15:33:12+00:00"><Id>17</Id><Name>Offen Kurz</Name><ShortName>OK</ShortName><Status>Normal</Status><Fee><Name>Startgeld</Name><Amount>8</Amount></Fee></Class>
+<Class modifyTime="2026-04-01T15:33:14+00:00"><Id>18</Id><Name>Familie</Name><ShortName>F</ShortName><Status>Normal</Status><Fee><Name>Startgeld</Name><Amount>5</Amount></Fee></Class></ClassList>

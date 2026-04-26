@@ -1,11 +1,11 @@
 <Configuration type="Sum">
-    <General name="Salzburger Sprint Landesmeisterschaft 2025"
-             year="2025"
+    <General name="Salzburger Sprint Landesmeisterschaft 2026"
+             year="2026"
              numberOfPlannedEvents="2"
              numberOfEvents="2"
              numberOfCountingEvents="2"
              calcRule="sum"
-             resultFileRegex="2025_(0[45])_sbgcup.*"
+             resultFileRegex="2025_(0[23])_sbgcup.*"
              recurseSubDirs="true"
              includeStatus="DidNotFinish, MissingPunch"
              eventTitle="LM"
@@ -34,8 +34,8 @@
     </PostProcessing>
     <Events>
         <!-- set num to 0 if not needed -->
-        <Event num="1" name="Qualifikation" fileName=".\sbgcup\04\results\2025_04_sbgcup_result_splits.xml" />
-        <Event num="2" name="Finale" fileName=".\sbgcup\05\results\2025_05_sbgcup_result_splits.xml" />
+        <Event num="1" name="Qualifikation" fileName=".\sbgcup\02\results\2026_02_sbgcup_result_splits.xml" />
+        <Event num="2" name="Finale" fileName=".\sbgcup\03\results\2026_03_sbgcup_result_splits.xml" />
     </Events>
     <Classes filter="Include" presentationOrder="1,2;9,10;3,4,5,6;11,12,13,14;7;15;8;16" >
         <Class name="Jugend1 D" shortName="D -13" id="1" />
@@ -70,14 +70,14 @@
     </Organisations>
     <Output>
         <Html active="true"
-              fileName="..\..\..\static\resources\2025\lmsprint2025.html"
+              fileName="..\..\..\static\resources\2026\lmsprint2026.html"
               cssInline="true"
               docTemplate="..\..\..\templates\schcup_document_template_sum.html"
               classTemplate="..\..\..\templates\schcup_class_template_sum.html"
               detailsTemplate="..\..\..\templates\schcup_details_template_sum.html"
               cssFile="..\..\..\templates\responsive_table_style.css"/>
         <Pdf active="false"
-             fileName="lmsprint2025.pdf"
+             fileName="lmsprint2026.pdf"
              pageOrientation="Landscape"
              pageSize="A4"
              marginLeft="10"
@@ -85,7 +85,7 @@
              marginRight="10"
              marginBottom="20"/>
         <Json active="false"
-              fileName="lmsprint2025.json"/>
+              fileName="lmsprint2026.json"/>
     </Output>
     <Names>
         <Name name="Bubu"
