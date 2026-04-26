@@ -2,7 +2,7 @@
  <ResultList xmlns="http://www.orienteering.org/datastandard/3.0"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  iofVersion="3.0"
- createTime="2026-02-28T13:24:37.737"
+ createTime="2026-04-26T21:29:25.691"
  creator="SportSoftware OE12 V.12.1">
 <Event>
 <Name>1. SBG Cup</Name>
@@ -4378,16 +4378,16 @@
 <EntryId>52667</EntryId>
 <Person sex="F">
 <Name>
-<Family>Breitschaedel</Family>
+<Family>Breitschädel</Family>
 <Given>Eva</Given>
 </Name>
 <BirthDate>1953-01-01</BirthDate>
 <Nationality code="AUT">AUT</Nationality>
 </Person>
 <Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Id>201</Id>
+<Name>Bleib in Bewegung!</Name>
+<ShortName>Bleib in Bewegung!</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2026-02-28T11:08:36.000</StartTime>
@@ -11052,16 +11052,16 @@
 <EntryId>52675</EntryId>
 <Person sex="M">
 <Name>
-<Family>Breitschaedel</Family>
+<Family>Breitschädel</Family>
 <Given>Christian</Given>
 </Name>
 <BirthDate>1953-01-01</BirthDate>
 <Nationality code="AUT">AUT</Nationality>
 </Person>
 <Organisation>
-<Id>32</Id>
-<Name>ASKÖ Henndorf Orienteering</Name>
-<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+<Id>201</Id>
+<Name>Bleib in Bewegung!</Name>
+<ShortName>Bleib in Bewegung!</ShortName>
 </Organisation>
 <Result raceNumber="1">
 <StartTime>2026-02-28T11:50:35.000</StartTime>
