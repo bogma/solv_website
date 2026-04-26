@@ -31,7 +31,16 @@
   </PostProcessing>
   <Events>
     <!-- set num to 0 if not needed -->
-    <Event num="1" name="Schwarzenbergkaserne"/>
+    <Event num="1" name="Schwarzenbergkaserne">
+      <map type="class" from="11" to="9" />
+      <map type="class" from="12" to="10" />
+      <map type="class" from="13" to="11" />
+      <map type="class" from="14" to="12" />
+      <map type="class" from="15" to="13" />
+      <map type="class" from="16" to="14" />
+      <map type="class" from="17" to="15" />
+      <map type="class" from="18" to="16" />
+    </Event>
     <Event num="2" name="Salzburg Lehen"/>
     <Event num="3" name="Salzburg Lehen"/>
     <Event num="4" name="Riedelwald"/>
