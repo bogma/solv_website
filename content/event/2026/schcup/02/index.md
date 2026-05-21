@@ -17,7 +17,7 @@ championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
 implementation: "" # remove one of the 3 options
 
-#oresults_id: 1815
+oresults_id: 3263
 #end: 150 # x minutes from event->date (remove if not needed)
 #start_amend: "(WKZ - Start 0m)" # respects markdown
 
