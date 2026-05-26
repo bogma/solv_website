@@ -1,0 +1,1546 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+ <StartList xmlns="http://www.orienteering.org/datastandard/3.0"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ iofVersion="3.0"
+ createTime="2026-04-19T22:45:11.166"
+ creator="SportSoftware OE12 V.12.1">
+<Event>
+<Name>1. Sportvogl Schulcup 2026</Name>
+<StartTime>
+<Date>2026-04-22</Date>
+<Time>14:00:00.000</Time>
+</StartTime>
+</Event>
+<ClassStart>
+<Class resultListMode="Default" sex="F">
+<Id>1</Id>
+<Name>Unterstufe Damen</Name>
+<ShortName>US D</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9001</Id>
+<Name>USt Damen</Name>
+<Length>1360</Length>
+<NumberOfControls>14</NumberOfControls>
+</Course>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Österbauer</Family>
+<Given>Magdalena</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:00:00.000</StartTime>
+<ControlCard>230218</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Girstmayr</Family>
+<Given>Emma</Given>
+</Name>
+<BirthDate>2013-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>3</Id>
+<Name>BG Seekirchen</Name>
+<ShortName>BG Seekirchen</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:01:00.000</StartTime>
+<ControlCard>2019912</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Handlechner</Family>
+<Given>Susan</Given>
+</Name>
+<BirthDate>2013-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:02:00.000</StartTime>
+<ControlCard>230381</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Berger</Family>
+<Given>Sahra</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2</Id>
+<Name>PMS Michaelbeuern</Name>
+<ShortName>PMS Michaelbeuern</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:03:00.000</StartTime>
+<ControlCard>410641</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Keidel</Family>
+<Given>Valentina</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:04:00.000</StartTime>
+<ControlCard>230215</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Kaiser</Family>
+<Given>Tobias</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2</Id>
+<Name>PMS Michaelbeuern</Name>
+<ShortName>PMS Michaelbeuern</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:05:00.000</StartTime>
+<ControlCard>410648</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Stohrmann</Family>
+<Given>Emily</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:06:00.000</StartTime>
+<ControlCard>230216</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Winkler</Family>
+<Given>Johannes</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2</Id>
+<Name>PMS Michaelbeuern</Name>
+<ShortName>PMS Michaelbeuern</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:07:00.000</StartTime>
+<ControlCard>7623</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Göschl</Family>
+<Given>Sophie</Given>
+</Name>
+<BirthDate>2014-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:08:00.000</StartTime>
+<ControlCard>230387</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Raab</Family>
+<Given>Emma</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2</Id>
+<Name>PMS Michaelbeuern</Name>
+<ShortName>PMS Michaelbeuern</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:09:00.000</StartTime>
+<ControlCard>410643</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Furthner</Family>
+<Given>Anna-Lena</Given>
+</Name>
+<BirthDate>2014-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:10:00.000</StartTime>
+<ControlCard>230383</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Gollackner</Family>
+<Given>Emily</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>3</Id>
+<Name>BG Seekirchen</Name>
+<ShortName>BG Seekirchen</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:11:00.000</StartTime>
+<ControlCard>2019911</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Strasser</Family>
+<Given>Alina</Given>
+</Name>
+<BirthDate>2014-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:12:00.000</StartTime>
+<ControlCard>230382</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Schorn</Family>
+<Given>Sylvia</Given>
+</Name>
+<BirthDate>2014-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>3</Id>
+<Name>BG Seekirchen</Name>
+<ShortName>BG Seekirchen</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:13:00.000</StartTime>
+<ControlCard>8739704</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Wallner</Family>
+<Given>Christina</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:14:00.000</StartTime>
+<ControlCard>230217</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Gruber</Family>
+<Given>Sophie</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>3</Id>
+<Name>BG Seekirchen</Name>
+<ShortName>BG Seekirchen</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:15:00.000</StartTime>
+<ControlCard>2019910</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Glaser</Family>
+<Given>Yannik</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2</Id>
+<Name>PMS Michaelbeuern</Name>
+<ShortName>PMS Michaelbeuern</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:16:00.000</StartTime>
+<ControlCard>410647</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Prager</Family>
+<Given>Helena</Given>
+</Name>
+<BirthDate>2013-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:17:00.000</StartTime>
+<ControlCard>230385</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Meixner</Family>
+<Given>Elisabeth</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2</Id>
+<Name>PMS Michaelbeuern</Name>
+<ShortName>PMS Michaelbeuern</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:18:00.000</StartTime>
+<ControlCard>7626</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Jäger</Family>
+<Given>Elena</Given>
+</Name>
+<BirthDate>2013-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:19:00.000</StartTime>
+<ControlCard>230219</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Raab</Family>
+<Given>Moritz</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2</Id>
+<Name>PMS Michaelbeuern</Name>
+<ShortName>PMS Michaelbeuern</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:20:00.000</StartTime>
+<ControlCard>410644</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Niederreiter</Family>
+<Given>Eva</Given>
+</Name>
+<BirthDate>2014-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:21:00.000</StartTime>
+<ControlCard>230386</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Dissauer</Family>
+<Given>Anika</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>2</Id>
+<Name>PMS Michaelbeuern</Name>
+<ShortName>PMS Michaelbeuern</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:22:00.000</StartTime>
+<ControlCard>7629</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Korb</Family>
+<Given>Julia</Given>
+</Name>
+<BirthDate>2014-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:23:00.000</StartTime>
+<ControlCard>230392</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="M">
+<Id>2</Id>
+<Name>Unterstufe Herren</Name>
+<ShortName>US H</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9002</Id>
+<Name>USt Herren</Name>
+<Length>1420</Length>
+<NumberOfControls>16</NumberOfControls>
+</Course>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Plöbst</Family>
+<Given>Nino</Given>
+</Name>
+<BirthDate>2014-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:24:00.000</StartTime>
+<ControlCard>230213</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Pammer</Family>
+<Given>Alejandro</Given>
+</Name>
+<BirthDate>2013-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>3</Id>
+<Name>BG Seekirchen</Name>
+<ShortName>BG Seekirchen</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:25:00.000</StartTime>
+<ControlCard>8222808</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Aljouburi</Family>
+<Given>Al Hussein</Given>
+</Name>
+<BirthDate>2013-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:26:00.000</StartTime>
+<ControlCard>230210</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Fink</Family>
+<Given>Lorenz</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>3</Id>
+<Name>BG Seekirchen</Name>
+<ShortName>BG Seekirchen</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:27:00.000</StartTime>
+<ControlCard>8444434</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Helminger</Family>
+<Given>Laurenz</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:28:00.000</StartTime>
+<ControlCard>230204</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Schmid</Family>
+<Given>Philipp</Given>
+</Name>
+<BirthDate>2013-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>3</Id>
+<Name>BG Seekirchen</Name>
+<ShortName>BG Seekirchen</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:29:00.000</StartTime>
+<ControlCard>46252</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Sporer</Family>
+<Given>Rafael</Given>
+</Name>
+<BirthDate>2014-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:30:00.000</StartTime>
+<ControlCard>230214</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Schütz</Family>
+<Given>Daniel</Given>
+</Name>
+<BirthDate>2013-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>3</Id>
+<Name>BG Seekirchen</Name>
+<ShortName>BG Seekirchen</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:31:00.000</StartTime>
+<ControlCard>230898</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Gasser</Family>
+<Given>Julian</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:32:00.000</StartTime>
+<ControlCard>230202</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Junger</Family>
+<Given>Manuel</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>3</Id>
+<Name>BG Seekirchen</Name>
+<ShortName>BG Seekirchen</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:33:00.000</StartTime>
+<ControlCard>230394</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Subasic</Family>
+<Given>Asen</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:34:00.000</StartTime>
+<ControlCard>230203</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Grögler</Family>
+<Given>Lukas</Given>
+</Name>
+<BirthDate>2013-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:35:00.000</StartTime>
+<ControlCard>230209</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Fuchs</Family>
+<Given>Samuel</Given>
+</Name>
+<BirthDate>2014-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:36:00.000</StartTime>
+<ControlCard>230211</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Kittl</Family>
+<Given>Florian</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:37:00.000</StartTime>
+<ControlCard>230206</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Hofbauer</Family>
+<Given>Benjamin</Given>
+</Name>
+<BirthDate>2013-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:38:00.000</StartTime>
+<ControlCard>230207</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Stiegler</Family>
+<Given>Maximilian</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:39:00.000</StartTime>
+<ControlCard>230212</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Roider</Family>
+<Given>Samuel</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:40:00.000</StartTime>
+<ControlCard>230208</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Altendorfer</Family>
+<Given>Max</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:41:00.000</StartTime>
+<ControlCard>230205</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Lerner</Family>
+<Given>Emilian</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>1</Id>
+<Name>MS Mattsee</Name>
+<ShortName>MS Mattsee</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:42:00.000</StartTime>
+<ControlCard>230201</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="F">
+<Id>3</Id>
+<Name>Oberstufe Damen</Name>
+<ShortName>OS D</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9003</Id>
+<Name>OSt Damen</Name>
+<Length>2280</Length>
+<NumberOfControls>18</NumberOfControls>
+</Course>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Mitterer</Family>
+<Given>Lisa</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>3</Id>
+<Name>BG Seekirchen</Name>
+<ShortName>BG Seekirchen</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:24:00.000</StartTime>
+<ControlCard>8151513</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Haubentratz</Family>
+<Given>Anna</Given>
+</Name>
+<BirthDate>2008-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>4</Id>
+<Name>HBLA Ursprung</Name>
+<ShortName>HBLA Ursprung</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:26:00.000</StartTime>
+<ControlCard>5384</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Fink</Family>
+<Given>Hannah</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>3</Id>
+<Name>BG Seekirchen</Name>
+<ShortName>BG Seekirchen</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:28:00.000</StartTime>
+<ControlCard>2019913</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Brüggler</Family>
+<Given>Sara</Given>
+</Name>
+<BirthDate>2008-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>4</Id>
+<Name>HBLA Ursprung</Name>
+<ShortName>HBLA Ursprung</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:30:00.000</StartTime>
+<ControlCard>5389</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Turisser</Family>
+<Given>Victoria</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>3</Id>
+<Name>BG Seekirchen</Name>
+<ShortName>BG Seekirchen</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:32:00.000</StartTime>
+<ControlCard>2019914</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Lindner</Family>
+<Given>Karoline</Given>
+</Name>
+<BirthDate>2008-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>4</Id>
+<Name>HBLA Ursprung</Name>
+<ShortName>HBLA Ursprung</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:34:00.000</StartTime>
+<ControlCard>5390</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Mitterer</Family>
+<Given>Sarah</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>3</Id>
+<Name>BG Seekirchen</Name>
+<ShortName>BG Seekirchen</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:36:00.000</StartTime>
+<ControlCard>8448443</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Schönberger</Family>
+<Given>Marion</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>3</Id>
+<Name>BG Seekirchen</Name>
+<ShortName>BG Seekirchen</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:38:00.000</StartTime>
+<ControlCard>8445445</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Pammer</Family>
+<Given>Leire</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>3</Id>
+<Name>BG Seekirchen</Name>
+<ShortName>BG Seekirchen</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:40:00.000</StartTime>
+<ControlCard>8222282</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="M">
+<Id>4</Id>
+<Name>Oberstufe Herren</Name>
+<ShortName>OS H</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9004</Id>
+<Name>OSt Herren</Name>
+<Length>2540</Length>
+<NumberOfControls>20</NumberOfControls>
+</Course>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Reichl</Family>
+<Given>Gabriel</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>4</Id>
+<Name>HBLA Ursprung</Name>
+<ShortName>HBLA Ursprung</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:00:00.000</StartTime>
+<ControlCard>5374</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Thalmayr</Family>
+<Given>Simon</Given>
+</Name>
+<BirthDate>2010-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>4</Id>
+<Name>HBLA Ursprung</Name>
+<ShortName>HBLA Ursprung</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:02:00.000</StartTime>
+<ControlCard>5320</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Schmidhuber</Family>
+<Given>Fabian</Given>
+</Name>
+<BirthDate>2008-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>4</Id>
+<Name>HBLA Ursprung</Name>
+<ShortName>HBLA Ursprung</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:04:00.000</StartTime>
+<ControlCard>5361</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Mühlbacher</Family>
+<Given>Bastian</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>4</Id>
+<Name>HBLA Ursprung</Name>
+<ShortName>HBLA Ursprung</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:06:00.000</StartTime>
+<ControlCard>5370</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Schneeberger</Family>
+<Given>Tobias</Given>
+</Name>
+<BirthDate>2010-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>4</Id>
+<Name>HBLA Ursprung</Name>
+<ShortName>HBLA Ursprung</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:08:00.000</StartTime>
+<ControlCard>52879</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Reichl</Family>
+<Given>David</Given>
+</Name>
+<BirthDate>2007-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>4</Id>
+<Name>HBLA Ursprung</Name>
+<ShortName>HBLA Ursprung</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:10:00.000</StartTime>
+<ControlCard>5382</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Gurtner</Family>
+<Given>Sebastian</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>4</Id>
+<Name>HBLA Ursprung</Name>
+<ShortName>HBLA Ursprung</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:12:00.000</StartTime>
+<ControlCard>52883</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Weissenbacher</Family>
+<Given>Raphael</Given>
+</Name>
+<BirthDate>2010-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>4</Id>
+<Name>HBLA Ursprung</Name>
+<ShortName>HBLA Ursprung</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:14:00.000</StartTime>
+<ControlCard>5377</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Baumgartner</Family>
+<Given>Markus</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>4</Id>
+<Name>HBLA Ursprung</Name>
+<ShortName>HBLA Ursprung</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-04-22T14:16:00.000</StartTime>
+<ControlCard>5387</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>0.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+</ClassStart>
+</StartList>

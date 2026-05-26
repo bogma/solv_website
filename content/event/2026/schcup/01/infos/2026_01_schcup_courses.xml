@@ -1,0 +1,646 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<CourseData xmlns="http://www.orienteering.org/datastandard/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" iofVersion="3.0" createTime="2026-04-13T12:06:02.242+02:00" creator="OCAD 2020.8.3.4758">
+  <Event>
+    <Name>Event</Name>
+  </Event>
+  <RaceCourseData>
+    <Map>
+      <Scale>4000</Scale>
+      <!-- extent of ocad map-->
+      <MapPositionTopLeft x="-50.3" y="216.1" unit="mm"/>
+      <MapPositionBottomRight x="163.1" y="-25.3" unit="mm"/>
+    </Map>
+    <Control type="Start">
+      <Id>S1</Id>
+      <Position lng="13.107418" lat="47.968076" />
+      <MapPosition x="88.8" y="75.8" unit="mm" />
+    </Control>
+    <Control type="Control">
+      <Id>60</Id>
+      <Position lng="13.106142" lat="47.969393" />
+      <MapPosition x="65.0" y="112.4" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Gebäude, Nordecke">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>61</Id>
+      <Position lng="13.104257" lat="47.968946" />
+      <MapPosition x="29.8" y="99.9" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Treppe, unterer Teil">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>62</Id>
+      <Position lng="13.107897" lat="47.967706" />
+      <MapPosition x="97.7" y="65.5" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Zaun, Südwest-Ecke">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>63</Id>
+      <Position lng="13.106291" lat="47.967321" />
+      <MapPosition x="67.8" y="54.8" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Gebäude, Nordwest-Ecke">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>64</Id>
+      <Position lng="13.105510" lat="47.970088" />
+      <MapPosition x="53.2" y="131.7" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Hecke, Südecke">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>65</Id>
+      <Position lng="13.105229" lat="47.969747" />
+      <MapPosition x="47.9" y="122.2" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Einzelbaum">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>67</Id>
+      <Position lng="13.106525" lat="47.971208" />
+      <MapPosition x="72.1" y="162.8" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Denkmal, Nordwest-Seite">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>70</Id>
+      <Position lng="13.108720" lat="47.971070" />
+      <MapPosition x="113.1" y="159.0" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Treppe, oberer Teil">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>71</Id>
+      <Position lng="13.107010" lat="47.969553" />
+      <MapPosition x="81.2" y="116.8" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Parkbank">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>72</Id>
+      <Position lng="13.107633" lat="47.968781" />
+      <MapPosition x="92.8" y="95.4" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Einzelbaum, Westseite">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>73</Id>
+      <Position lng="13.105037" lat="47.967165" />
+      <MapPosition x="44.4" y="50.4" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Mauer, Nordende">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>74</Id>
+      <Position lng="13.106521" lat="47.965878" />
+      <MapPosition x="72.1" y="14.7" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Mauer, Nordende">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>75</Id>
+      <Position lng="13.104929" lat="47.966427" />
+      <MapPosition x="42.3" y="29.9" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Einzelbaum, Laubholz">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>76</Id>
+      <Position lng="13.103899" lat="47.965508" />
+      <MapPosition x="23.1" y="4.4" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Gebäude, Nordwest-Ecke">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>77</Id>
+      <Position lng="13.104155" lat="47.967002" />
+      <MapPosition x="27.9" y="45.9" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Offenes Gebiet, Ostecke (einspringend)">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>78</Id>
+      <Position lng="13.103893" lat="47.967561" />
+      <MapPosition x="23.0" y="61.4" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Wasserrinne, Gabelung">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>79</Id>
+      <Position lng="13.105778" lat="47.968130" />
+      <MapPosition x="58.2" y="77.3" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Gebäude, Westecke">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>80</Id>
+      <Position lng="13.106907" lat="47.969991" />
+      <MapPosition x="79.3" y="129.0" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Turm">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>81</Id>
+      <Position lng="13.108138" lat="47.971336" />
+      <MapPosition x="102.3" y="166.4" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Einzelbaum">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>82</Id>
+      <Position lng="13.108331" lat="47.968886" />
+      <MapPosition x="105.9" y="98.3" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Hecke, Nordende">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>83</Id>
+      <Position lng="13.103329" lat="47.966194" />
+      <MapPosition x="12.5" y="23.5" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Gebäude, Westecke">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>84</Id>
+      <Position lng="13.104921" lat="47.967740" />
+      <MapPosition x="42.2" y="66.4" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Einzelbaum, Laubholz">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>85</Id>
+      <Position lng="13.105005" lat="47.968763" />
+      <MapPosition x="43.8" y="94.9" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Gebäude, Südecke">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>87</Id>
+      <Position lng="13.107208" lat="47.969122" />
+      <MapPosition x="84.9" y="104.9" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Einzelbaum">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>88</Id>
+      <Position lng="13.105771" lat="47.968879" />
+      <MapPosition x="58.1" y="98.1" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Hügel, oben">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>90</Id>
+      <Position lng="13.105816" lat="47.970417" />
+      <MapPosition x="58.9" y="140.8" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Einzelbaum">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>91</Id>
+      <Position lng="13.107893" lat="47.970527" />
+      <MapPosition x="97.7" y="143.9" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Stein">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>92</Id>
+      <Position lng="13.105015" lat="47.970439" />
+      <MapPosition x="43.9" y="141.5" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Hecke, Ostende">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>93</Id>
+      <Position lng="13.105332" lat="47.971832" />
+      <MapPosition x="49.9" y="180.2" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Brunnen, Nordseite">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>94</Id>
+      <Position lng="13.104377" lat="47.971314" />
+      <MapPosition x="32.0" y="165.8" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Zaun, Südende">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>95</Id>
+      <Position lng="13.108845" lat="47.968188" />
+      <MapPosition x="115.4" y="78.9" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Hecke, Südwest-Ecke">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>97</Id>
+      <Position lng="13.106821" lat="47.967212" />
+      <MapPosition x="77.7" y="51.8" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Zaun, Westecke">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Control">
+      <Id>100</Id>
+      <Position lng="13.106739" lat="47.968484" />
+      <MapPosition x="76.1" y="87.1" unit="mm" />
+      <Extensions>
+        <ControlDescription text="Hecke, Durchgang">
+        </ControlDescription>
+      </Extensions>
+    </Control>
+    <Control type="Finish">
+      <Id>Z1</Id>
+      <Position lng="13.106621" lat="47.968146" />
+      <MapPosition x="73.9" y="77.7" unit="mm" />
+    </Control>
+
+    <Course>
+      <Name>USt Damen</Name>
+      <Length>1360</Length>
+      <Climb>0</Climb>
+      <CourseControl type="Start">
+        <Control>S1</Control>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>95</Control>
+        <LegLength>107</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>82</Control>
+        <LegLength>87</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>87</Control>
+        <LegLength>88</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>80</Control>
+        <LegLength>99</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>91</Control>
+        <LegLength>95</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>81</Control>
+        <LegLength>92</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>67</Control>
+        <LegLength>121</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>92</Control>
+        <LegLength>141</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>90</Control>
+        <LegLength>60</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>65</Control>
+        <LegLength>86</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>85</Control>
+        <LegLength>111</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>88</Control>
+        <LegLength>59</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>60</Control>
+        <LegLength>64</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>100</Control>
+        <LegLength>110</LegLength>
+      </CourseControl>
+      <CourseControl type="Finish">
+        <Control>Z1</Control>
+        <LegLength>39</LegLength>
+      </CourseControl>
+    </Course>
+
+    <Course>
+      <Name>USt Herren</Name>
+      <Length>1420</Length>
+      <Climb>0</Climb>
+      <CourseControl type="Start">
+        <Control>S1</Control>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>95</Control>
+        <LegLength>107</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>82</Control>
+        <LegLength>87</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>72</Control>
+        <LegLength>53</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>71</Control>
+        <LegLength>98</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>80</Control>
+        <LegLength>49</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>91</Control>
+        <LegLength>95</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>70</Control>
+        <LegLength>86</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>81</Control>
+        <LegLength>53</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>67</Control>
+        <LegLength>121</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>92</Control>
+        <LegLength>141</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>64</Control>
+        <LegLength>54</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>65</Control>
+        <LegLength>43</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>61</Control>
+        <LegLength>115</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>85</Control>
+        <LegLength>59</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>60</Control>
+        <LegLength>110</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>100</Control>
+        <LegLength>110</LegLength>
+      </CourseControl>
+      <CourseControl type="Finish">
+        <Control>Z1</Control>
+        <LegLength>39</LegLength>
+      </CourseControl>
+    </Course>
+
+    <Course>
+      <Name>OSt Damen</Name>
+      <Length>2280</Length>
+      <Climb>0</Climb>
+      <CourseControl type="Start">
+        <Control>S1</Control>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>62</Control>
+        <LegLength>55</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>97</Control>
+        <LegLength>97</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>73</Control>
+        <LegLength>133</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>74</Control>
+        <LegLength>181</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>83</Control>
+        <LegLength>241</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>77</Control>
+        <LegLength>109</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>78</Control>
+        <LegLength>65</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>84</Control>
+        <LegLength>79</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>79</Control>
+        <LegLength>77</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>71</Control>
+        <LegLength>183</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>67</Control>
+        <LegLength>187</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>93</Control>
+        <LegLength>113</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>94</Control>
+        <LegLength>92</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>90</Control>
+        <LegLength>147</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>61</Control>
+        <LegLength>201</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>85</Control>
+        <LegLength>59</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>60</Control>
+        <LegLength>110</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>100</Control>
+        <LegLength>110</LegLength>
+      </CourseControl>
+      <CourseControl type="Finish">
+        <Control>Z1</Control>
+        <LegLength>39</LegLength>
+      </CourseControl>
+    </Course>
+
+    <Course>
+      <Name>OSt Herren</Name>
+      <Length>2540</Length>
+      <Climb>0</Climb>
+      <CourseControl type="Start">
+        <Control>S1</Control>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>62</Control>
+        <LegLength>55</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>63</Control>
+        <LegLength>127</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>73</Control>
+        <LegLength>95</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>75</Control>
+        <LegLength>82</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>74</Control>
+        <LegLength>134</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>76</Control>
+        <LegLength>200</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>78</Control>
+        <LegLength>228</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>79</Control>
+        <LegLength>154</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>88</Control>
+        <LegLength>83</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>61</Control>
+        <LegLength>113</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>65</Control>
+        <LegLength>115</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>80</Control>
+        <LegLength>128</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>70</Control>
+        <LegLength>181</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>67</Control>
+        <LegLength>165</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>93</Control>
+        <LegLength>113</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>94</Control>
+        <LegLength>92</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>92</Control>
+        <LegLength>108</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>60</Control>
+        <LegLength>144</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>71</Control>
+        <LegLength>67</LegLength>
+      </CourseControl>
+      <CourseControl type="Control">
+        <Control>100</Control>
+        <LegLength>121</LegLength>
+      </CourseControl>
+      <CourseControl type="Finish">
+        <Control>Z1</Control>
+        <LegLength>39</LegLength>
+      </CourseControl>
+    </Course>
+
+  </RaceCourseData>
+</CourseData>
