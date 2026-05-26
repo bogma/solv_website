@@ -2,7 +2,7 @@
 title: "2. Salzburger Sportvogl Schulcup 2026"
 date: 2026-05-26T10:00:00 # date of creation of the file
 draft: false
-status: planned # active
+status: done # active
 
 archives: []
 tags: [ "Schul Cup"]
@@ -52,13 +52,13 @@ resources:
 
 resource_links:
   infos:
-  - link: "/resources/2026/Meldungen_Schulcup_2026.xlsx"
-    title: "Excel Formular für Meldungen"
-  # results:
-  # - link: "/resources/2026/schulteam2026.html"
-  #   title: "Team Wertung"
-#   - link: "/resources/2019/resu6sc2019.html"
-#     title: "Ergebnisse 6.SC"
+  #- link: "/resources/2026/Meldungen_Schulcup_2026.xlsx"
+  #  title: "Excel Formular für Meldungen"
+  results:
+   - link: "/resources/2026/schulteam2026.html"
+     title: "Team Wertung"
+   - link: "/resources/2026/schcup2026.html"
+     title: "Ergebnisse SC 2026"
 ---
 
 ### Nennung
