@@ -2,7 +2,7 @@
 title: "Salzburger Staffel LMS"
 date: 2026-06-27T11:00:00+02:00 # date of creation of the file
 draft: false
-status: active
+status: done
 
 anne2_id: "5473"
 
@@ -71,6 +71,16 @@ resources:
   title: "Postenbeschreibungen"
 - src: "**/*text**"
   title: "Text-Postenbeschreibungen"
+
+resource_links:
+#   infos:
+#   - link: "/resources/2019/start5sc2019.html"
+#     title: "Startliste"
+  results:
+  - link: "https://anne.orienteeringaustria.at/event/salzburger-lm-staffel-2"
+    title: "Ergebnis Landesmeisterschaft Staffel"
+#   - link: "/resources/2019/resu6sc2019.html"
+#     title: "Ergebnisse 6.SC"
 ---
 
 Weitere Details bitte der Ausschreibung entnehmen!

@@ -1,0 +1,20 @@
+year: 2026
+type: relay
+name: Staffel
+evlink: /event/2026/other/staffel
+results:
+  - category: Staffel
+    valid: true
+    result:
+      - names:
+        - name: Leon Ebster
+        - name: Marion Schönberger
+        - name: Peter Ebster
+      - names:
+        - name: Bjarne Friedrichs
+        - name: Josef Wimmer
+        - name: Sarah Mitterer
+      - names:
+        - name: Andreas Rameder
+        - name: Eduard Böhm
+        - name: Lucie Rothauer
