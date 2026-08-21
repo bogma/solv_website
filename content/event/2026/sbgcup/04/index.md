@@ -1,6 +1,6 @@
 ---
 title: "4. Salzburger Sportvoglcup 2026"
-date: 2026-09-05T00:00:00 # keep time 0 until start time is known
+date: 2026-09-05T11:00:00 # keep time 0 until start time is known
 draft: false
 
 outputs:
@@ -8,12 +8,12 @@ outputs:
 - Calendar
 - splitsbrowser
 
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
+status: active # planned (= for preview Calendar), active (= Announcement...), done (=Results...), canceled (for canceled events)
 
 archives: []
 tags: [ "SBG Cup", "Landesmeisterschaft"]
 
-anne_id: 0
+anne2_id: "4sbg-cup"
 
 event:
   name_amend: "LM Jugend u. Senioren" # respects markdown
@@ -27,30 +27,30 @@ implementation: "ASKÖ Henndorf Orientieering" # remove 2 of the 3 options
 # active section ------------------------------------------------
 
 #liveresultat_id: 18741
-#oresults_id: 578
-#end: 150 # x minutes from event->date (remove if not needed)
-#start_amend: "(WKZ - Start 0m)" # respects markdown
+oresults_id: 3685
+end: 165 # x minutes from event->date (remove if not needed)
+start_amend: "(WKZ - Start 500m)" # respects markdown
 
 official: # names of course setter, event organizer and inspector
-  course: ""
-  event: ""
-  inspection: ""
+  course: "Bernhard Fink"
+  event: "Bernhard Fink"
+  inspection: "Markus König, MaƩhias Kreuzer"
 course:
   valid: false # set to true when the course lenghts are final
   lenghts: [["Einfach","x km"], ["Kurz","x km"], ["Mittel","x km"], ["Lang","x km"]]
 entry:
   anne: true # if true, a link to ANNE will be provided
   email: anmeldung@ol-sbg.at
-  closing_date_days: -7 # x days from event->date
+  closing_date_days: -8 # x days from event->date
 meeting:
-  point: ""
+  point: "Schotterparkplatz Firma Windhager (Zaisberg 29 , A5201 Seekirchen)"
   time_minutes: -60 # x minutes from event->date
-  location: [0.0,0.0]
+  location: [47.91301770405001, 13.1120976935834]
 map:
-  name: ""
-  scale: "1:10.000"
-  equidistance: "5m"
-  update: "März 2006"
+  name: "Riedelwald"
+  scale: "1:7.500"
+  equidistance: "2,5m"
+  update: "August 2026"
   format: ""
   hints: "" # additional hints to map
 control_point_description: "Auf der Karte und zum Download"
