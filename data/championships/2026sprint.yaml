@@ -1,0 +1,51 @@
+year: 2026
+type: sprint
+name: Sprint
+evlink: /event/2026/sbgcup/03
+results:
+  - category: Damen -13
+    valid: true
+    result:
+      - name: Sylvia Schorn
+      - name: Elisabeth Ban
+      - name: Lisa Mauschitz
+  - category: Herren -13
+    valid: true
+    result:
+      - name: Armin Kaljikovic
+      - name: Marvin Rieder
+  - category: Herren -15
+    valid: true
+    result:
+      - name: Florian Mauschitz
+      - name: Alexander Baur
+      - name: Lorenz Buchberger
+  - category: Damen 16-
+    valid: true
+    result:
+      - name: Marion Schönberger
+      - name: Nina Döllgast
+      - name: Franziska Brodinger
+  - category: Herren 16-
+    valid: true
+    result:
+      - name: Bjarne Friedrichs
+      - name: Norbert Helminger
+      - name: Max Jonas Obczovsky
+  - category: Damen 55-
+    valid: true
+    result:
+      - name: Margit Elstner
+      - name: Eva Breitschädel
+      - name: Claudia Hackl
+  - category: Herren 55-
+    valid: true
+    result:
+      - name: Florian Elstner
+      - name: Roland Berner
+  - category: Herren 65-
+    valid: true
+    result:
+      - name: Eduard Böhm
+      - name: Karl Hackl
+      - name: Christian Breitschädel
