@@ -43,7 +43,16 @@
     </Event>
     <Event num="2" name="Salzburg Lehen"/>
     <Event num="3" name="Salzburg Lehen"/>
-    <Event num="4" name="Riedelwald"/>
+    <Event num="4" name="Riedelwald">
+      <map type="class" from="4" to="5" />
+      <map type="class" from="5" to="6" />
+      <map type="class" from="6" to="7" />
+      <map type="class" from="7" to="8" />
+      <map type="class" from="8" to="4" />
+      <map type="class" from="11" to="12" />
+      <map type="class" from="12" to="13" />
+      <map type="class" from="13" to="11" />
+    </Event>
     <Event num="5" name="Pramet"/>
     <Event num="6" name="Hallein Stadt"/>
     <Event num="7" name="Michaelbeuern"/>
