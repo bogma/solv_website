@@ -18,7 +18,7 @@ anne2_id: "ooem-langdistanz-2026"
 event:
   name_amend: "LM Algemeine Klasse" # respects markdown
   form: "Normaler OL"
-  location: "Pramet"
+  location: "Eberschwang"
   type: "sbgcup"
 championship: false
 organiser: "SOLV - Salzburger Orientierungslaufverband"
