@@ -61,7 +61,7 @@ resource_links:
 
 ### Nennung
 
-An: Karl Hackl, nur per E-Mail: (leo.mueller@sbg.at)
+An: Karl Hackl, nur per E-Mail: (anmeldung@ol-sbg.at)
 Nennung pro Schule mittels ausgesendetem Excel Forular
 **Nachnennung:** Nur in geringem Umfang möglich!
 
