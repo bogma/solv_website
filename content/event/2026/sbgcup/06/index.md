@@ -78,6 +78,8 @@ resources:
   title: "Anfahrt"
 - src: "**/*lms**"
   title: "Ergebnis Landesmeisterschaft Jugend & Senioren"
+- src: "**/*cat**"
+  title: "SOLV Kategorien"  
 
 # resource_links:
 #   infos:
