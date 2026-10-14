@@ -27,4 +27,5 @@ Aus dem ehemaligen Arge Alp Sportprogramm haben sich Arge Alp Sommer- und Winter
 - [2023 Trentino - Folgaria](https://www.fiso.it/it/gara/2023294)
 - [2024 Tirol - Innsbruck Igls](https://www.kompass-innsbruck.at/)
 - [2025 Südtirol - Collepietra (Steinegg)](https://app.liveresults.it/argealp2025)
-- 2026 Lombardei - Varese
+- [2026 Lombardei - Varese](https://www.argealp-sport.org/files/argealp/sportarten/8_orientierungslauf/Classifica%20Land%20Finale.pdf)
+- 2027 Salzburg - Postalm

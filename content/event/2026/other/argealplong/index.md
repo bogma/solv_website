@@ -2,7 +2,7 @@
 title: "ARGE Alp Einzel"
 date: 2026-10-11 # date of creation of the file
 draft: false
-status: planned # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
+status: done # planned (= for preview Calendar), active (= Announcement...), done (=Results...)
 anne_id: 0
 
 archives: [""]
@@ -17,13 +17,15 @@ championship: false
 organiser: ""
 implementation: "" # remove one of the 3 options
 
-# resources:
-# - src: "**/*wert**"
-#   title: "Länderwertung"
-
+resources:
+- src: "**/*43089**"
+  title: "Länderwertung"
+- src: "**/*43087**"
+  title: "Ergebnisse"
+  
 resource_links:
   infos:
-  - link: "https://www.argealp-sport.org/files/argealp/sportarten/8_orientierungslauf/ARGE%20ALP%202026%20-%20prime%20informazioni.pdf"
+  - link: "https://www.fiso.it/gara/2026284"
     title: "Information"
 #   results:
 #   - link: "https://app.liveresults.it/argealp2025/long"
