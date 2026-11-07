@@ -1,0 +1,3715 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+ <StartList xmlns="http://www.orienteering.org/datastandard/3.0"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ iofVersion="3.0"
+ createTime="2026-11-06T07:40:07.913"
+ creator="SportSoftware OE12 V.12.1">
+<Event>
+<Name>7. Salzburger Sportvoglcup 2026</Name>
+<StartTime>
+<Date>2026-11-07</Date>
+<Time>11:00:00.000</Time>
+</StartTime>
+</Event>
+<ClassStart>
+<Class resultListMode="Default" sex="F" maxAge="13">
+<Id>1</Id>
+<Name>Damen -13</Name>
+<ShortName>D13</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>5.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9002</Id>
+<Name>Kurz Standard</Name>
+<Length>1240</Length>
+<NumberOfControls>12</NumberOfControls>
+</Course>
+<PersonStart>
+<EntryId>53278</EntryId>
+<Person sex="F">
+<Id>10385</Id>
+<Name>
+<Family>Mauschitz</Family>
+<Given>Lisa</Given>
+</Name>
+<BirthDate>2015-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:24:00.000</StartTime>
+<ControlCard>2056406</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53278</EntryId>
+<Person sex="F">
+<Id>10506</Id>
+<Name>
+<Family>Schorn</Family>
+<Given>Sylvia</Given>
+</Name>
+<BirthDate>2014-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:26:00.000</StartTime>
+<ControlCard>8739704</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53278</EntryId>
+<Person sex="F">
+<Name>
+<Family>Maier</Family>
+<Given>Matilda</Given>
+</Name>
+<BirthDate>2016-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:28:00.000</StartTime>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53278</EntryId>
+<Person sex="F">
+<Id type="IOF">2056411</Id>
+<Name>
+<Family>Pilotto</Family>
+<Given>Valentina</Given>
+</Name>
+<BirthDate>2013-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:30:00.000</StartTime>
+<ControlCard>2056411</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53278</EntryId>
+<Person sex="F">
+<Id>10107</Id>
+<Name>
+<Family>Glasner</Family>
+<Given>Lara</Given>
+</Name>
+<BirthDate>2017-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>30</Id>
+<Name>Naturfreunde Linz</Name>
+<ShortName>Naturfreunde Linz</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:32:00.000</StartTime>
+<ControlCard>8120317</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53278</EntryId>
+<Person sex="F">
+<Id>10181</Id>
+<Name>
+<Family>Ban</Family>
+<Given>Elisabeth</Given>
+</Name>
+<BirthDate>2016-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:34:00.000</StartTime>
+<ControlCard>8739729</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53278</EntryId>
+<Person sex="F">
+<Id>10245</Id>
+<Name>
+<Family>Buchberger</Family>
+<Given>Franziska</Given>
+</Name>
+<BirthDate>2016-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:36:00.000</StartTime>
+<ControlCard>763004</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53278</EntryId>
+<Person sex="F">
+<Id>9959</Id>
+<Name>
+<Family>Hütteneder</Family>
+<Given>Sarah</Given>
+</Name>
+<BirthDate>2013-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:38:00.000</StartTime>
+<ControlCard>7604</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="F" maxAge="15">
+<Id>2</Id>
+<Name>Damen -15</Name>
+<ShortName>D15</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>5.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9003</Id>
+<Name>Kurz Anspr.</Name>
+<Length>1520</Length>
+<NumberOfControls>12</NumberOfControls>
+</Course>
+<PersonStart>
+<EntryId>54153</EntryId>
+<Person sex="F">
+<Id>10298</Id>
+<Name>
+<Family>König</Family>
+<Given>Sabine</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:02:00.000</StartTime>
+<ControlCard>8333788</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>5.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54153</EntryId>
+<Person sex="F">
+<Id>10521</Id>
+<Name>
+<Family>Osl</Family>
+<Given>Tanja</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>90</Id>
+<Name>OL Kufstein</Name>
+<ShortName>OL Kufstein</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:04:00.000</StartTime>
+<ControlCard>8610502</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="F" maxAge="18">
+<Id>3</Id>
+<Name>Damen -18</Name>
+<ShortName>D18</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9004</Id>
+<Name>Mittel Standard</Name>
+<Length>1740</Length>
+<NumberOfControls>16</NumberOfControls>
+</Course>
+<PersonStart>
+<EntryId>54154</EntryId>
+<Person sex="F">
+<Id>10480</Id>
+<Name>
+<Family>Ginzinger</Family>
+<Given>Emily</Given>
+</Name>
+<BirthDate>2010-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:17:00.000</StartTime>
+<ControlCard>8003587</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54154</EntryId>
+<Person sex="F">
+<Id>9447</Id>
+<Name>
+<Family>Schönberger</Family>
+<Given>Marion</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:19:00.000</StartTime>
+<ControlCard>8445445</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54154</EntryId>
+<Person sex="F">
+<Id>9017</Id>
+<Name>
+<Family>Brawisch</Family>
+<Given>Charlotte</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:21:00.000</StartTime>
+<ControlCard>8440707</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="F">
+<Name>
+<Family>Melkes</Family>
+<Given>Zora</Given>
+</Name>
+</Person>
+<Organisation>
+<Id>90</Id>
+<Name>OL Kufstein</Name>
+<ShortName>OL Kufstein</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:23:00.000</StartTime>
+<ControlCard>8338822</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54154</EntryId>
+<Person sex="F">
+<Id>9532</Id>
+<Name>
+<Family>Pammer</Family>
+<Given>Leire</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:25:00.000</StartTime>
+<ControlCard>8222281</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54154</EntryId>
+<Person sex="F">
+<Id>7958</Id>
+<Name>
+<Family>Frey</Family>
+<Given>Emma</Given>
+</Name>
+<BirthDate>2009-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>90</Id>
+<Name>OL Kufstein</Name>
+<ShortName>OL Kufstein</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:27:00.000</StartTime>
+<ControlCard>8170409</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54154</EntryId>
+<Person sex="F">
+<Id>9448</Id>
+<Name>
+<Family>Mitterer</Family>
+<Given>Sarah</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:29:00.000</StartTime>
+<ControlCard>8448443</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="F">
+<Id>4</Id>
+<Name>Damen 19-</Name>
+<ShortName>D19</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9005</Id>
+<Name>Mittel Anspr.</Name>
+<Length>2330</Length>
+<NumberOfControls>18</NumberOfControls>
+</Course>
+<PersonStart>
+<EntryId>54155</EntryId>
+<Person sex="F">
+<Id>10182</Id>
+<Name>
+<Family>Bonora</Family>
+<Given>Marine</Given>
+</Name>
+<BirthDate>1996-01-01</BirthDate>
+<Nationality code="FRA">FRA</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:33:00.000</StartTime>
+<ControlCard>8625777</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54155</EntryId>
+<Person sex="F">
+<Name>
+<Family>Messner</Family>
+<Given>Lisa</Given>
+</Name>
+<BirthDate>2000-01-01</BirthDate>
+<Nationality code="ITA">ITA</Nationality>
+</Person>
+<Organisation>
+<Id>9001</Id>
+<Name>vereinslos</Name>
+<ShortName>vereinslos</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:35:00.000</StartTime>
+<ControlCard>8000114</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54155</EntryId>
+<Person sex="F">
+<Id>9709</Id>
+<Id type="IOF">1291</Id>
+<Name>
+<Family>Döllgast</Family>
+<Given>Nina</Given>
+</Name>
+<BirthDate>1993-01-01</BirthDate>
+<Nationality code="DEU">DEU</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:37:00.000</StartTime>
+<ControlCard>8110393</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="F" minAge="35">
+<Id>5</Id>
+<Name>Damen 35-</Name>
+<ShortName>D35</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9005</Id>
+<Name>Mittel Anspr.</Name>
+<Length>2330</Length>
+<NumberOfControls>18</NumberOfControls>
+</Course>
+<PersonStart>
+<EntryId>53282</EntryId>
+<Person sex="F">
+<Id>9926</Id>
+<Name>
+<Family>Wiemers</Family>
+<Given>Claudia</Given>
+</Name>
+<BirthDate>1986-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:01:00.000</StartTime>
+<ControlCard>8448338</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53282</EntryId>
+<Person sex="F">
+<Id>70</Id>
+<Name>
+<Family>Müller-Grambichler</Family>
+<Given>Edith</Given>
+</Name>
+<BirthDate>1982-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:03:00.000</StartTime>
+<ControlCard>8022055</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53282</EntryId>
+<Person sex="F">
+<Id>9820</Id>
+<Name>
+<Family>Glasner</Family>
+<Given>Magdalena</Given>
+</Name>
+<BirthDate>1988-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>30</Id>
+<Name>Naturfreunde Linz</Name>
+<ShortName>Naturfreunde Linz</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:05:00.000</StartTime>
+<ControlCard>8442424</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53282</EntryId>
+<Person sex="F">
+<Id>1069</Id>
+<Id type="IOF">21887</Id>
+<Name>
+<Family>Brodinger</Family>
+<Given>Franziska</Given>
+</Name>
+<BirthDate>1988-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:07:00.000</StartTime>
+<ControlCard>8151551</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53282</EntryId>
+<Person sex="F">
+<Id>8240</Id>
+<Name>
+<Family>Hinterhofer</Family>
+<Given>Katharina</Given>
+</Name>
+<BirthDate>1969-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:11:00.000</StartTime>
+<ControlCard>8030007</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="F" minAge="45">
+<Id>6</Id>
+<Name>Damen 45-</Name>
+<ShortName>D45</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9004</Id>
+<Name>Mittel Standard</Name>
+<Length>1740</Length>
+<NumberOfControls>16</NumberOfControls>
+</Course>
+<PersonStart>
+<EntryId>54157</EntryId>
+<Person sex="F">
+<Id>10190</Id>
+<Name>
+<Family>Ban</Family>
+<Given>Marta</Given>
+</Name>
+<BirthDate>1981-01-01</BirthDate>
+<Nationality code="CZE">CZE</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:01:00.000</StartTime>
+<ControlCard>2056420</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54157</EntryId>
+<Person sex="F">
+<Id>7075</Id>
+<Name>
+<Family>Buchberger</Family>
+<Given>Daniela</Given>
+</Name>
+<BirthDate>1976-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:03:00.000</StartTime>
+<ControlCard>8444418</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54157</EntryId>
+<Person sex="F">
+<Id>6483</Id>
+<Name>
+<Family>Ebster</Family>
+<Given>Tanja</Given>
+</Name>
+<BirthDate>1975-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:05:00.000</StartTime>
+<ControlCard>8448442</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54157</EntryId>
+<Person sex="F">
+<Id>8155</Id>
+<Name>
+<Family>Mair</Family>
+<Given>Lucy</Given>
+</Name>
+<BirthDate>1977-01-01</BirthDate>
+<Nationality code="GBR">GBR</Nationality>
+</Person>
+<Organisation>
+<Id>90</Id>
+<Name>OL Kufstein</Name>
+<ShortName>OL Kufstein</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:07:00.000</StartTime>
+<ControlCard>8181977</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54157</EntryId>
+<Person sex="F">
+<Name>
+<Family>König</Family>
+<Given>Cornelia</Given>
+</Name>
+<BirthDate>1979-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:09:00.000</StartTime>
+<ControlCard>8440043</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54157</EntryId>
+<Person sex="F">
+<Id>526</Id>
+<Name>
+<Family>Gittmaier</Family>
+<Given>Doris</Given>
+</Name>
+<BirthDate>1964-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>28</Id>
+<Name>HSV Ried</Name>
+<ShortName>HSV Ried</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:11:00.000</StartTime>
+<ControlCard>8100037</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54157</EntryId>
+<Person sex="F">
+<Id>9531</Id>
+<Name>
+<Family>Schönberger</Family>
+<Given>Carolin</Given>
+</Name>
+<BirthDate>1975-01-01</BirthDate>
+<Nationality code="DEU">DEU</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:13:00.000</StartTime>
+<ControlCard>8010808</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54157</EntryId>
+<Person sex="F">
+<Id>2295</Id>
+<Id type="IOF">2295</Id>
+<Name>
+<Family>Konrad-Frey</Family>
+<Given>Birgit</Given>
+</Name>
+<BirthDate>1977-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>90</Id>
+<Name>OL Kufstein</Name>
+<ShortName>OL Kufstein</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:15:00.000</StartTime>
+<ControlCard>8270177</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="F" minAge="55">
+<Id>7</Id>
+<Name>Damen 55-</Name>
+<ShortName>D55</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9003</Id>
+<Name>Kurz Anspr.</Name>
+<Length>1520</Length>
+<NumberOfControls>12</NumberOfControls>
+</Course>
+<PersonStart>
+<EntryId>54158</EntryId>
+<Person sex="F">
+<Id>30</Id>
+<Name>
+<Family>Elstner</Family>
+<Given>Margit</Given>
+</Name>
+<BirthDate>1964-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:16:00.000</StartTime>
+<ControlCard>8180764</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="F" minAge="65">
+<Id>8</Id>
+<Name>Damen 65-</Name>
+<ShortName>D65</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9003</Id>
+<Name>Kurz Anspr.</Name>
+<Length>1520</Length>
+<NumberOfControls>12</NumberOfControls>
+</Course>
+<PersonStart>
+<EntryId>54159</EntryId>
+<Person sex="F">
+<Name>
+<Family>breitschädel</Family>
+<Given>eva</Given>
+</Name>
+<BirthDate>1953-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:00:00.000</StartTime>
+<ControlCard>8011113</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="M" maxAge="13">
+<Id>9</Id>
+<Name>Herren -13</Name>
+<ShortName>H13</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>5.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9002</Id>
+<Name>Kurz Standard</Name>
+<Length>1240</Length>
+<NumberOfControls>12</NumberOfControls>
+</Course>
+<PersonStart>
+<EntryId>54163</EntryId>
+<Person sex="M">
+<Id>10948</Id>
+<Name>
+<Family>Lechner</Family>
+<Given>Marcel</Given>
+</Name>
+<BirthDate>2014-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:40:00.000</StartTime>
+<ControlCard>2419833</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>5.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54163</EntryId>
+<Person sex="M">
+<Id>9958</Id>
+<Name>
+<Family>Brodinger</Family>
+<Given>Thomas</Given>
+</Name>
+<BirthDate>2016-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:42:00.000</StartTime>
+<ControlCard>5359</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54163</EntryId>
+<Person sex="M">
+<Id>9711</Id>
+<Name>
+<Family>Pammer</Family>
+<Given>Alejandro</Given>
+</Name>
+<BirthDate>2013-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:44:00.000</StartTime>
+<ControlCard>8222808</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54163</EntryId>
+<Person sex="M">
+<Name>
+<Family>Putz</Family>
+<Given>Leopold</Given>
+</Name>
+<BirthDate>2013-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>9001</Id>
+<Name>vereinslos</Name>
+<ShortName>vereinslos</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:46:00.000</StartTime>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54163</EntryId>
+<Person sex="M">
+<Id>10557</Id>
+<Name>
+<Family>Rieder</Family>
+<Given>Marvin</Given>
+</Name>
+<BirthDate>2013-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:48:00.000</StartTime>
+<ControlCard>8611814</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54163</EntryId>
+<Person sex="M">
+<Id>10481</Id>
+<Name>
+<Family>Osl</Family>
+<Given>Daniel</Given>
+</Name>
+<BirthDate>2014-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>90</Id>
+<Name>OL Kufstein</Name>
+<ShortName>OL Kufstein</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:50:00.000</StartTime>
+<ControlCard>8610503</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54163</EntryId>
+<Person sex="M">
+<Id>10300</Id>
+<Name>
+<Family>Kaljikovic</Family>
+<Given>Armin</Given>
+</Name>
+<BirthDate>2013-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:52:00.000</StartTime>
+<ControlCard>8110327</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54163</EntryId>
+<Person sex="M">
+<Id>8379</Id>
+<Name>
+<Family>Frey</Family>
+<Given>Luis</Given>
+</Name>
+<BirthDate>2013-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>90</Id>
+<Name>OL Kufstein</Name>
+<ShortName>OL Kufstein</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:54:00.000</StartTime>
+<ControlCard>8201013</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:56:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:58:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T12:00:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T12:02:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T12:04:00.000</StartTime>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="M" maxAge="15">
+<Id>10</Id>
+<Name>Herren -15</Name>
+<ShortName>H15</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>5.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9003</Id>
+<Name>Kurz Anspr.</Name>
+<Length>1520</Length>
+<NumberOfControls>12</NumberOfControls>
+</Course>
+<PersonStart>
+<EntryId>54160</EntryId>
+<Person sex="M">
+<Id>9016</Id>
+<Name>
+<Family>Brawisch</Family>
+<Given>Ludwig</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:06:00.000</StartTime>
+<ControlCard>8080712</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54160</EntryId>
+<Person sex="M">
+<Id>9273</Id>
+<Name>
+<Family>Buchberger</Family>
+<Given>Lorenz</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:08:00.000</StartTime>
+<ControlCard>8111904</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54160</EntryId>
+<Person sex="M">
+<Id>9624</Id>
+<Name>
+<Family>Hütteneder</Family>
+<Given>Fabian</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+<ControlCard>5360</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54160</EntryId>
+<Person sex="M">
+<Name>
+<Family>Maier</Family>
+<Given>Moritz</Given>
+</Name>
+<BirthDate>2012-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:12:00.000</StartTime>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54160</EntryId>
+<Person sex="M">
+<Id>10384</Id>
+<Name>
+<Family>Mauschitz</Family>
+<Given>Florian</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:14:00.000</StartTime>
+<ControlCard>8251025</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="M" maxAge="18">
+<Id>11</Id>
+<Name>Herren -18</Name>
+<ShortName>H18</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9005</Id>
+<Name>Mittel Anspr.</Name>
+<Length>2330</Length>
+<NumberOfControls>18</NumberOfControls>
+</Course>
+<PersonStart>
+<EntryId>54161</EntryId>
+<Person sex="M">
+<Id>9925</Id>
+<Name>
+<Family>Ban</Family>
+<Given>Markus</Given>
+</Name>
+<BirthDate>2011-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:39:00.000</StartTime>
+<ControlCard>8111551</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:41:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:43:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:45:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:47:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:49:00.000</StartTime>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="M">
+<Id>12</Id>
+<Name>Herren 19-</Name>
+<ShortName>H19</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9006</Id>
+<Name>Lang</Name>
+<Length>2680</Length>
+<NumberOfControls>19</NumberOfControls>
+</Course>
+<PersonStart>
+<EntryId>54162</EntryId>
+<Person sex="M">
+<Id>50</Id>
+<Name>
+<Family>König</Family>
+<Given>Markus</Given>
+</Name>
+<BirthDate>1979-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:28:00.000</StartTime>
+<ControlCard>8228288</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54162</EntryId>
+<Person sex="M">
+<Id>10939</Id>
+<Id type="IOF">40866</Id>
+<Name>
+<Family>Bena</Family>
+<Given>Grégoire</Given>
+</Name>
+<BirthDate>1999-01-01</BirthDate>
+<Nationality code="CHE">CHE</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:30:00.000</StartTime>
+<ControlCard>8092499</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54162</EntryId>
+<Person sex="M">
+<Id>7612</Id>
+<Name>
+<Family>Ebster</Family>
+<Given>Peter jun.</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:32:00.000</StartTime>
+<ControlCard>8332222</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54162</EntryId>
+<Person sex="M">
+<Id>7611</Id>
+<Id type="IOF">34162</Id>
+<Name>
+<Family>Ebster</Family>
+<Given>Leon</Given>
+</Name>
+<BirthDate>2002-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:34:00.000</StartTime>
+<ControlCard>8068068</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54162</EntryId>
+<Person sex="M">
+<Id>10296</Id>
+<Name>
+<Family>König</Family>
+<Given>Felix</Given>
+</Name>
+<BirthDate>2008-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:36:00.000</StartTime>
+<ControlCard>8414142</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54162</EntryId>
+<Person sex="M">
+<Id>9710</Id>
+<Id type="IOF">9624</Id>
+<Name>
+<Family>Friedrichs</Family>
+<Given>Bjarne</Given>
+</Name>
+<BirthDate>1990-01-01</BirthDate>
+<Nationality code="DEU">DEU</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:38:00.000</StartTime>
+<ControlCard>8280690</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54162</EntryId>
+<Person sex="M">
+<Id>10286</Id>
+<Name>
+<Family>Walet</Family>
+<Given>Erwann Yannick</Given>
+</Name>
+<BirthDate>1996-01-01</BirthDate>
+<Nationality code="FRA">FRA</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:40:00.000</StartTime>
+<ControlCard>8526256</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="M" minAge="35">
+<Id>13</Id>
+<Name>Herren 35-</Name>
+<ShortName>H35</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9006</Id>
+<Name>Lang</Name>
+<Length>2680</Length>
+<NumberOfControls>19</NumberOfControls>
+</Course>
+<PersonStart>
+<EntryId>53290</EntryId>
+<Person sex="M">
+<Id>9927</Id>
+<Name>
+<Family>Wiemers</Family>
+<Given>Simon</Given>
+</Name>
+<BirthDate>1985-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:42:00.000</StartTime>
+<ControlCard>8333368</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53290</EntryId>
+<Person sex="M">
+<Id>9819</Id>
+<Name>
+<Family>Glasner</Family>
+<Given>Christoph</Given>
+</Name>
+<BirthDate>1986-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>30</Id>
+<Name>Naturfreunde Linz</Name>
+<ShortName>Naturfreunde Linz</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:44:00.000</StartTime>
+<ControlCard>8200085</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53290</EntryId>
+<Person sex="M">
+<Id>2765</Id>
+<Name>
+<Family>Buchberger Jun.</Family>
+<Given>Wolfgang</Given>
+</Name>
+<BirthDate>1980-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:46:00.000</StartTime>
+<ControlCard>8040380</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53290</EntryId>
+<Person sex="M">
+<Id>527</Id>
+<Name>
+<Family>Gittmaier</Family>
+<Given>Georg jun.</Given>
+</Name>
+<BirthDate>1988-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>28</Id>
+<Name>HSV Ried</Name>
+<ShortName>HSV Ried</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:48:00.000</StartTime>
+<ControlCard>8290488</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53290</EntryId>
+<Person sex="M">
+<Id>1707</Id>
+<Name>
+<Family>Helminger</Family>
+<Given>Franz</Given>
+</Name>
+<BirthDate>1973-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:50:00.000</StartTime>
+<ControlCard>8251125</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53290</EntryId>
+<Person sex="M">
+<Id>10704</Id>
+<Name>
+<Family>Rieder</Family>
+<Given>Stefan</Given>
+</Name>
+<BirthDate>1984-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:52:00.000</StartTime>
+<ControlCard>8657253</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53290</EntryId>
+<Person sex="M">
+<Id>42</Id>
+<Id type="IOF">AUT20</Id>
+<Name>
+<Family>Helminger</Family>
+<Given>Norbert</Given>
+</Name>
+<BirthDate>1975-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:54:00.000</StartTime>
+<ControlCard>8131131</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:56:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:58:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T12:00:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T12:02:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T12:04:00.000</StartTime>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="M" minAge="45">
+<Id>14</Id>
+<Name>Herren 45-</Name>
+<ShortName>H45</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9005</Id>
+<Name>Mittel Anspr.</Name>
+<Length>2330</Length>
+<NumberOfControls>18</NumberOfControls>
+</Course>
+<PersonStart>
+<EntryId>54164</EntryId>
+<Person sex="M">
+<Id>9930</Id>
+<Name>
+<Family>Ban</Family>
+<Given>Andreas</Given>
+</Name>
+<BirthDate>1981-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:13:00.000</StartTime>
+<ControlCard>8111227</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54164</EntryId>
+<Person sex="M">
+<Id>7741</Id>
+<Name>
+<Family>Bogensperger</Family>
+<Given>Martin</Given>
+</Name>
+<BirthDate>1972-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:15:00.000</StartTime>
+<ControlCard>8003005</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54164</EntryId>
+<Person sex="M">
+<Id>7774</Id>
+<Name>
+<Family>Ebster</Family>
+<Given>Peter</Given>
+</Name>
+<BirthDate>1968-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:17:00.000</StartTime>
+<ControlCard>8446677</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54164</EntryId>
+<Person sex="M">
+<Id>9712</Id>
+<Name>
+<Family>Pammer</Family>
+<Given>Wolfgang</Given>
+</Name>
+<BirthDate>1971-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:19:00.000</StartTime>
+<ControlCard>8444451</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54164</EntryId>
+<Person sex="M">
+<Id>7074</Id>
+<Name>
+<Family>Maier</Family>
+<Given>Raphael</Given>
+</Name>
+<BirthDate>1977-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:21:00.000</StartTime>
+<ControlCard>8060977</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54164</EntryId>
+<Person sex="M">
+<Id>10295</Id>
+<Name>
+<Family>König</Family>
+<Given>Christoph</Given>
+</Name>
+<BirthDate>1976-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:23:00.000</StartTime>
+<ControlCard>8408880</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54164</EntryId>
+<Person sex="M">
+<Name>
+<Family>Obernberger</Family>
+<Given>Michael</Given>
+</Name>
+<BirthDate>1977-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>30</Id>
+<Name>Naturfreunde Linz</Name>
+<ShortName>Naturfreunde Linz</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:25:00.000</StartTime>
+<ControlCard>8400684</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54164</EntryId>
+<Person sex="M">
+<Id>9714</Id>
+<Name>
+<Family>Schönberger</Family>
+<Given>Martin</Given>
+</Name>
+<BirthDate>1973-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:27:00.000</StartTime>
+<ControlCard>8454544</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54164</EntryId>
+<Person sex="M">
+<Id>8099</Id>
+<Name>
+<Family>Lechner</Family>
+<Given>Hannes</Given>
+</Name>
+<BirthDate>1972-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:29:00.000</StartTime>
+<ControlCard>8200040</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54164</EntryId>
+<Person sex="M">
+<Name>
+<Family>Putz</Family>
+<Given>Georg</Given>
+</Name>
+<BirthDate>1981-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>9001</Id>
+<Name>vereinslos</Name>
+<ShortName>vereinslos</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:31:00.000</StartTime>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="M" minAge="55">
+<Id>15</Id>
+<Name>Herren 55-</Name>
+<ShortName>H55</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9004</Id>
+<Name>Mittel Standard</Name>
+<Length>1740</Length>
+<NumberOfControls>16</NumberOfControls>
+</Course>
+<PersonStart>
+<EntryId>54165</EntryId>
+<Person sex="M">
+<Id>528</Id>
+<Name>
+<Family>Gittmaier</Family>
+<Given>Georg</Given>
+</Name>
+<BirthDate>1955-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>28</Id>
+<Name>HSV Ried</Name>
+<ShortName>HSV Ried</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:31:00.000</StartTime>
+<ControlCard>8005115</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54165</EntryId>
+<Person sex="M">
+<Id>2905</Id>
+<Name>
+<Family>Wechselberger</Family>
+<Given>Johannes</Given>
+</Name>
+<BirthDate>1956-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>90</Id>
+<Name>OL Kufstein</Name>
+<ShortName>OL Kufstein</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:33:00.000</StartTime>
+<ControlCard>8030156</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54165</EntryId>
+<Person sex="M">
+<Id>10507</Id>
+<Name>
+<Family>Schorn</Family>
+<Given>Markus</Given>
+</Name>
+<BirthDate>1969-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:35:00.000</StartTime>
+<ControlCard>8311517</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54165</EntryId>
+<Person sex="M">
+<Id>6836</Id>
+<Name>
+<Family>Berner</Family>
+<Given>Roland</Given>
+</Name>
+<BirthDate>1965-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>35</Id>
+<Name>OLG Tennengau</Name>
+<ShortName>OLG Tennengau</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:37:00.000</StartTime>
+<ControlCard>8646962</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54165</EntryId>
+<Person sex="M">
+<Id>552</Id>
+<Name>
+<Family>Zweimüller</Family>
+<Given>Wolfgang</Given>
+</Name>
+<BirthDate>1965-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>28</Id>
+<Name>HSV Ried</Name>
+<ShortName>HSV Ried</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:39:00.000</StartTime>
+<ControlCard>8111881</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54165</EntryId>
+<Person sex="M">
+<Name>
+<Family>Gruber</Family>
+<Given>Rudolf</Given>
+</Name>
+<BirthDate>1966-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>139</Id>
+<Name>HSV Hörsching Sektion OL</Name>
+<ShortName>HSV Hörsching Sektion OL</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:41:00.000</StartTime>
+<ControlCard>8040168</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54165</EntryId>
+<Person sex="M">
+<Id>28</Id>
+<Name>
+<Family>Elstner</Family>
+<Given>Florian</Given>
+</Name>
+<BirthDate>1963-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:43:00.000</StartTime>
+<ControlCard>8030563</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54165</EntryId>
+<Person sex="M">
+<Name>
+<Family>Graf</Family>
+<Given>Michael</Given>
+</Name>
+<BirthDate>1971-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>9001</Id>
+<Name>vereinslos</Name>
+<ShortName>vereinslos</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:45:00.000</StartTime>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:47:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:49:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:51:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:53:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:55:00.000</StartTime>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="M" minAge="65">
+<Id>16</Id>
+<Name>Herren 65-</Name>
+<ShortName>H65</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9003</Id>
+<Name>Kurz Anspr.</Name>
+<Length>1520</Length>
+<NumberOfControls>12</NumberOfControls>
+</Course>
+<PersonStart>
+<EntryId>54166</EntryId>
+<Person sex="M">
+<Id>8</Id>
+<Name>
+<Family>Böhm</Family>
+<Given>Eduard</Given>
+</Name>
+<BirthDate>1948-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:18:00.000</StartTime>
+<ControlCard>8130948</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54166</EntryId>
+<Person sex="M">
+<Id>2357</Id>
+<Name>
+<Family>Mages</Family>
+<Given>Franz</Given>
+</Name>
+<BirthDate>1955-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>35</Id>
+<Name>OLG Tennengau</Name>
+<ShortName>OLG Tennengau</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:20:00.000</StartTime>
+<ControlCard>8120255</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54166</EntryId>
+<Person sex="M">
+<Id>13</Id>
+<Name>
+<Family>Breitschädel</Family>
+<Given>Christian</Given>
+</Name>
+<BirthDate>1953-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:22:00.000</StartTime>
+<ControlCard>8111013</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54166</EntryId>
+<Person sex="M">
+<Id>1904</Id>
+<Name>
+<Family>Mayer</Family>
+<Given>Horst</Given>
+</Name>
+<BirthDate>1960-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>35</Id>
+<Name>OLG Tennengau</Name>
+<ShortName>OLG Tennengau</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:24:00.000</StartTime>
+<ControlCard>8021260</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54166</EntryId>
+<Person sex="M">
+<Id>574</Id>
+<Name>
+<Family>Tonka</Family>
+<Given>Leopold</Given>
+</Name>
+<BirthDate>1947-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>33</Id>
+<Name>HSV Wals</Name>
+<ShortName>HSV Wals</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:26:00.000</StartTime>
+<ControlCard>8020447</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="M">
+<Id>17</Id>
+<Name>Offen Kurz</Name>
+<ShortName>OK</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>8.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9002</Id>
+<Name>Kurz Standard</Name>
+<Length>1240</Length>
+<NumberOfControls>12</NumberOfControls>
+</Course>
+<PersonStart>
+<EntryId>54167</EntryId>
+<Person sex="M">
+<Id>10222</Id>
+<Name>
+<Family>Pilotto</Family>
+<Given>Bruno</Given>
+</Name>
+<BirthDate>1981-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:00:00.000</StartTime>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54167</EntryId>
+<Person sex="M">
+<Name>
+<Family>Schweiberer</Family>
+<Given>Luca</Given>
+</Name>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>9001</Id>
+<Name>vereinslos</Name>
+<ShortName>vereinslos</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:02:00.000</StartTime>
+<ControlCard>339219</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54167</EntryId>
+<Person sex="F">
+<Name>
+<Family>Lang</Family>
+<Given>Julia</Given>
+</Name>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>9001</Id>
+<Name>vereinslos</Name>
+<ShortName>vereinslos</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:04:00.000</StartTime>
+<ControlCard>5379</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54167</EntryId>
+<Person sex="F">
+<Name>
+<Family>Lang</Family>
+<Given>Theresa</Given>
+</Name>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>9001</Id>
+<Name>vereinslos</Name>
+<ShortName>vereinslos</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:06:00.000</StartTime>
+<ControlCard>5380</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54167</EntryId>
+<Person sex="F">
+<Name>
+<Family>Hufnagel</Family>
+<Given>Jule</Given>
+</Name>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>9001</Id>
+<Name>vereinslos</Name>
+<ShortName>vereinslos</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:08:00.000</StartTime>
+<ControlCard>5378</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54167</EntryId>
+<Person sex="F">
+<Name>
+<Family>Prügger</Family>
+<Given>Klara</Given>
+</Name>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>9001</Id>
+<Name>vereinslos</Name>
+<ShortName>vereinslos</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+<ControlCard>52836</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54167</EntryId>
+<Person sex="F">
+<Name>
+<Family>Gruber</Family>
+<Given>Claudia</Given>
+</Name>
+<BirthDate>1968-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>139</Id>
+<Name>HSV Hörsching Sektion OL</Name>
+<ShortName>HSV Hörsching Sektion OL</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:12:00.000</StartTime>
+<ControlCard>8066057</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54167</EntryId>
+<Person sex="F">
+<Name>
+<Family>Natschläger</Family>
+<Given>Carla</Given>
+</Name>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>9001</Id>
+<Name>vereinslos</Name>
+<ShortName>vereinslos</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:14:00.000</StartTime>
+<ControlCard>5402</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54167</EntryId>
+<Person sex="F">
+<Name>
+<Family>Reiter</Family>
+<Given>Franziska</Given>
+</Name>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>9001</Id>
+<Name>vereinslos</Name>
+<ShortName>vereinslos</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:16:00.000</StartTime>
+<ControlCard>339211</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54167</EntryId>
+<Person sex="M">
+<Name>
+<Family>Eimannsberger</Family>
+<Given>Linus</Given>
+</Name>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>9001</Id>
+<Name>vereinslos</Name>
+<ShortName>vereinslos</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:18:00.000</StartTime>
+<ControlCard>5315</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54167</EntryId>
+<Person sex="F">
+<Id>10630</Id>
+<Name>
+<Family>Schorn</Family>
+<Given>Angelika</Given>
+</Name>
+<BirthDate>1975-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:20:00.000</StartTime>
+<ControlCard>502096</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>16.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>54167</EntryId>
+<Person sex="F">
+<Name>
+<Family>Maiburger</Family>
+<Given>Laura</Given>
+</Name>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>9001</Id>
+<Name>vereinslos</Name>
+<ShortName>vereinslos</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:22:00.000</StartTime>
+<ControlCard>5400</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>8.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+</ClassStart>
+<ClassStart>
+<Class resultListMode="Default" sex="M">
+<Id>18</Id>
+<Name>Familie</Name>
+<ShortName>F</ShortName>
+<Fee>
+<Name>Default</Name>
+<Amount>5.00</Amount>
+</Fee>
+<Fee>
+<Name>Startfee 2</Name>
+<Amount>0.00</Amount>
+</Fee>
+</Class>
+<Course>
+<Id>9001</Id>
+<Name>Familien</Name>
+<Length>840</Length>
+<NumberOfControls>10</NumberOfControls>
+</Course>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53296</EntryId>
+<Person sex="M">
+<Id>10177</Id>
+<Name>
+<Family>Wiemers</Family>
+<Given>Kilian</Given>
+</Name>
+<BirthDate>2020-01-01</BirthDate>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+<ControlCard>6609</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53296</EntryId>
+<Person sex="F">
+<Id>10168</Id>
+<Name>
+<Family>Wiemers</Family>
+<Given>Hannah</Given>
+</Name>
+<BirthDate>2017-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+<ControlCard>8033334</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53296</EntryId>
+<Person sex="F">
+<Id>10558</Id>
+<Name>
+<Family>Rieder</Family>
+<Given>Nadja</Given>
+</Name>
+<BirthDate>2018-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+<ControlCard>8611429</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<Person sex="M">
+<Name>
+<Family>Vakant</Family>
+<Given></Given>
+</Name>
+</Person>
+<Organisation>
+<Id>0</Id>
+<Name>Vakant</Name>
+<ShortName>Vakant</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53296</EntryId>
+<Person sex="M">
+<Id>10629</Id>
+<Name>
+<Family>Rameder</Family>
+<Given>David</Given>
+</Name>
+<BirthDate>2016-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+<ControlCard>880888</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53296</EntryId>
+<Person sex="M">
+<Id>10172</Id>
+<Name>
+<Family>Grambichler</Family>
+<Given>Moritz</Given>
+</Name>
+<BirthDate>2016-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+<ControlCard>5325</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53296</EntryId>
+<Person sex="M">
+<Id>10198</Id>
+<Name>
+<Family>Grambichler</Family>
+<Given>Benjamin</Given>
+</Name>
+<BirthDate>2020-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53296</EntryId>
+<Person sex="F">
+<Id>10173</Id>
+<Name>
+<Family>Glasner</Family>
+<Given>Nora</Given>
+</Name>
+<BirthDate>2020-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>30</Id>
+<Name>Naturfreunde Linz</Name>
+<ShortName>Naturfreunde Linz</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+<ControlCard>5500</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53296</EntryId>
+<Person sex="M">
+<Id>9521</Id>
+<Name>
+<Family>Gittmaier</Family>
+<Given>Jakob</Given>
+</Name>
+<BirthDate>2017-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>28</Id>
+<Name>HSV Ried</Name>
+<ShortName>HSV Ried</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53296</EntryId>
+<Person sex="F">
+<Id>69</Id>
+<Name>
+<Family>Müller</Family>
+<Given>Brigitte</Given>
+</Name>
+<BirthDate>1948-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+<ControlCard>5399</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53296</EntryId>
+<Person sex="F">
+<Id>10434</Id>
+<Name>
+<Family>Lederbauer</Family>
+<Given>Flora</Given>
+</Name>
+<BirthDate>2023-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>28</Id>
+<Name>HSV Ried</Name>
+<ShortName>HSV Ried</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53296</EntryId>
+<Person sex="M">
+<Id>10949</Id>
+<Name>
+<Family>Lechner</Family>
+<Given>Dominik</Given>
+</Name>
+<BirthDate>2017-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+<ControlCard>2419834</ControlCard>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+<PersonStart>
+<EntryId>53296</EntryId>
+<Person sex="F">
+<Name>
+<Family>König</Family>
+<Given>Maja</Given>
+</Name>
+<BirthDate>2020-01-01</BirthDate>
+<Nationality code="AUT">AUT</Nationality>
+</Person>
+<Organisation>
+<Id>32</Id>
+<Name>ASKÖ Henndorf Orienteering</Name>
+<ShortName>ASKÖ Henndorf Orienteering</ShortName>
+</Organisation>
+<Start raceNumber="1">
+<StartTime>2026-11-07T11:10:00.000</StartTime>
+<AssignedFee>
+<Fee type="Normal">
+<Name>Actual</Name>
+<Amount>10.00</Amount>
+</Fee>
+</AssignedFee>
+</Start>
+</PersonStart>
+</ClassStart>
+</StartList>
